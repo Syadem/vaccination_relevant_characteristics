@@ -1,0 +1,8 @@
+---
+id: 875
+group_id: 0bb19636-a18a-44ec-9ed7-493e1834a86f
+label: CADASIL ou leucoencéphalopathie vasculaire familiale apparentée
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: fca6c1dc-e403-4e45-bc65-2385102ef1e7

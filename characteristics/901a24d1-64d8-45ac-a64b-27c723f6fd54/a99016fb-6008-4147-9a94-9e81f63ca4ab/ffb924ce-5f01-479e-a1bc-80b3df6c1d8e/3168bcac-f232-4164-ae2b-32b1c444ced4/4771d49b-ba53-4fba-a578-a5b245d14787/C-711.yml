@@ -1,0 +1,8 @@
+---
+id: 711
+group_id: 4771d49b-ba53-4fba-a578-a5b245d14787
+label: Mission d'un(e) militaire FAN embarqué
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 67880b9e-54f9-49c0-b419-aa47955b66d8

@@ -1,7 +1,0 @@
----
-id: 1095
-label: Autres maladies rénales chroniques
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 4201448c-9ae7-4481-9a03-dcb4ee416c15

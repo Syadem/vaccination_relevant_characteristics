@@ -1,0 +1,8 @@
+---
+id: 20
+group_id: f410ca33-37e2-448c-b24e-3303bfb40798
+label: Personne susceptible de recevoir des transfusions massives ou itératives
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: e09f7648-5706-4668-80ea-4e0d7217682d

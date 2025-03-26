@@ -1,8 +1,0 @@
----
-id: 892
-label: Maladie hémorragique constitutionnelle avec comorbidité identifiée (hépatite
-  C, HTA, diabète...)
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 5300c918-1938-4442-81c6-672d2dc6d6f7

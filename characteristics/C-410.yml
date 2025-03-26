@@ -1,7 +1,0 @@
----
-id: 410
-label: Trouble du rythme grave
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 555f6655-9f38-403e-84ce-eff24b924ba3

@@ -1,0 +1,8 @@
+---
+id: 909
+group_id: 8b2bc9a8-4b97-47d7-892b-71b57ea9cef4
+label: Polypathologie chronique
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: a9b7b153-53ce-4400-bbf1-b0dfef8de885

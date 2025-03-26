@@ -1,7 +1,0 @@
----
-id: 161
-label: Sérologie de la rougeole positive
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: db4722b5-a7e1-4a3c-9092-cddc22c6e515

@@ -1,7 +1,0 @@
----
-id: 99
-label: Personnel de traitement des eaux usées (dont stations d'épuration)
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 639a94f3-1175-457a-a78e-459f543b4827

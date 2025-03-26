@@ -1,7 +1,0 @@
----
-id: 56
-label: Médecin
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 1ebb674e-7de2-4510-b319-880b5f7f6d5e

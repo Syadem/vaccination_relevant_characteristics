@@ -1,0 +1,8 @@
+---
+id: 710
+group_id: 103a3be0-aae5-4c54-987c-b29dc3e89e59
+label: Mission d'un(e) militaire en France OM (DROM, COM, POM)
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: ad4326bc-dc15-4dbe-805a-fb6bda81e6f7

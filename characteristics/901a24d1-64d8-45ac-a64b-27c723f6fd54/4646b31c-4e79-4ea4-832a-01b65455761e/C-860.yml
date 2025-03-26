@@ -1,0 +1,8 @@
+---
+id: 860
+group_id: 4646b31c-4e79-4ea4-832a-01b65455761e
+label: Profession dans le domaine de l'alimentation
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 86dd1b81-0871-4bdc-891d-dfff9d0d4c82

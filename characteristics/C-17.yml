@@ -1,7 +1,0 @@
----
-id: 17
-label: Insuffisance rénale chronique dialysée
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: ed2aad5b-bca9-4469-bca0-d633617e1647

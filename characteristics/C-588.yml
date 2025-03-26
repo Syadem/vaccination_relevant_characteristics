@@ -1,8 +1,0 @@
----
-id: 588
-label: Militaire à l'incorporation avec départ en mission OM-OPEX-Embarquement possible
-  entre 1 et 5 mois de service
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 9b821328-5fea-4661-bdc2-9393619eb648

@@ -1,0 +1,8 @@
+---
+id: 552
+group_id: 29737e51-c865-4a9d-bbb7-d5310a5b621e
+label: Allaitement en cours
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 0e627205-1429-4b9a-a4f2-6b8c7f894bd9

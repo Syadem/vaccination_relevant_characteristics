@@ -1,7 +1,0 @@
----
-id: 145
-label: Antécédent de varicelle
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 7184452e-4e3d-4514-acc2-34505bb5652d

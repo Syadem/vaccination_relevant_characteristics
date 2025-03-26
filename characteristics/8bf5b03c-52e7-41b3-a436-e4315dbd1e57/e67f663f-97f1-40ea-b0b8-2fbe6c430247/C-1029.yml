@@ -1,0 +1,8 @@
+---
+id: 1029
+group_id: e67f663f-97f1-40ea-b0b8-2fbe6c430247
+label: Date du dernier antécédent de dengue
+type: date
+codes:
+- nomenclature: SYADEM
+  code: d2650fd3-86c1-46cc-a444-b0a0850054cf

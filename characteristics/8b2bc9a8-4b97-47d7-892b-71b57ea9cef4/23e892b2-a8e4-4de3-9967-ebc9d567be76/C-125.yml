@@ -1,0 +1,8 @@
+---
+id: 125
+group_id: 23e892b2-a8e4-4de3-9967-ebc9d567be76
+label: Infection chronique par le virus de l'hépatite C
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 49098323-0b0b-4bf8-9c73-21e754d64f46

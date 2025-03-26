@@ -1,8 +1,0 @@
----
-id: 840
-label: 'Allergie à la pénicilline : pas de contre-indication particulière aux vaccins
-  utilisés en France'
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: '088aa78d-979d-4fe4-b310-61512050f803'

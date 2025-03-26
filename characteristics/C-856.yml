@@ -1,7 +1,0 @@
----
-id: 856
-label: Personnel d’encadrement du personnel soignant
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: ec119664-84e5-473a-86dc-665e81e4627c

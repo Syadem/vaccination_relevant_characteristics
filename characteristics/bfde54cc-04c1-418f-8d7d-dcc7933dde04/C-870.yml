@@ -1,0 +1,8 @@
+---
+id: 870
+group_id: bfde54cc-04c1-418f-8d7d-dcc7933dde04
+label: Refus de vaccination contre la covid 19 recueilli par le professionnel de santé
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 5969458e-e5a0-489e-8786-ff6d3b09a075

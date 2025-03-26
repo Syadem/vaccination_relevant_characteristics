@@ -1,7 +1,0 @@
----
-id: 69
-label: Pharmacien
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 15c7031b-37c6-44c1-91ac-e2d7755cc2d2

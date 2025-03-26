@@ -1,7 +1,0 @@
----
-id: 911
-label: Antécédent de chirurgie cardiaque
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: d63f0815-862a-4dba-9467-969ff27e0f70

@@ -1,0 +1,8 @@
+---
+id: 968
+group_id: 61dafc1c-e09a-4641-a5f0-2c7d928b86ae
+label: Contre-indication à la vaccination contre la covid 19
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: ffab473e-91b2-403f-8d28-fb89a6033759

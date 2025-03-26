@@ -1,0 +1,8 @@
+---
+id: 577
+group_id: c9a968ff-e5c6-47b3-9c48-638a14b9538e
+label: Ac anti-HBc négatif
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 6ab25a85-92ad-408a-91fd-fd7b58631414

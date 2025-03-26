@@ -1,0 +1,8 @@
+---
+id: 232
+group_id: a318e724-0425-4afa-9032-92401aa82520
+label: Elève aide médico-psychologique
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 7113c9fc-5d88-46f8-8722-a15c91a17b94

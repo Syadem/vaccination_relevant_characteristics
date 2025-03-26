@@ -1,7 +1,0 @@
----
-id: 1011
-label: Contre-indication à la vaccination contre la coqueluche
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: bb940db5-f598-4d77-a4fc-e238841172d5

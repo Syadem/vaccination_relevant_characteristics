@@ -1,7 +1,0 @@
----
-id: 274
-label: Travaille dans un service de maladies infectieuses
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 2ec2daee-46e3-4bb4-a14c-8e7627c00f69

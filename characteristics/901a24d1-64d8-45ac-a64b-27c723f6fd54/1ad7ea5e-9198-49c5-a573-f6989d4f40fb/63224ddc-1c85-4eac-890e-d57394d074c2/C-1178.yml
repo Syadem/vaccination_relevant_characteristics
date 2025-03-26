@@ -1,0 +1,8 @@
+---
+id: 1178
+group_id: 63224ddc-1c85-4eac-890e-d57394d074c2
+label: Agent de sûreté
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: c92b9f5a-4fa3-4b25-894c-366a916ee1af

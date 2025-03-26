@@ -1,7 +1,0 @@
----
-id: 830
-label: Syndrome d'hyper IgM
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: d3b56302-c590-4ea0-b884-09f53837f4bc

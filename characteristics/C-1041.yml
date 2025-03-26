@@ -1,7 +1,0 @@
----
-id: 1041
-label: Date de la sérologie anti-VHA (IgG ou Ig totales)
-type: date
-codes:
-- nomenclature: SYADEM
-  code: b0a599fb-31af-447c-a29b-d1a077286a15

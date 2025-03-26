@@ -1,0 +1,9 @@
+---
+id: 79
+group_id: 0deae9ef-cf2d-47c9-96eb-18b895eacf25
+label: Exerce dans le public, dans un établissement ou organisme de prévention ou
+  de soins
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: c1a159fa-fb55-4ca2-b7c1-17e1d44b981d

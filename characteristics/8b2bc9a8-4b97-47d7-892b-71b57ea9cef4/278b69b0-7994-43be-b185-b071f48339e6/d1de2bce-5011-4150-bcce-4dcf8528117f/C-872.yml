@@ -1,0 +1,8 @@
+---
+id: 872
+group_id: d1de2bce-5011-4150-bcce-4dcf8528117f
+label: Fibrose pulmonaire idiopathique
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: e8f806fc-6741-45d1-8a68-4c6db6491bf8

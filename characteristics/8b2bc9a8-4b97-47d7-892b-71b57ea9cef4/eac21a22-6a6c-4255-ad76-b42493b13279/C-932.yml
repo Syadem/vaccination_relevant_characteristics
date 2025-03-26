@@ -1,0 +1,8 @@
+---
+id: 932
+group_id: eac21a22-6a6c-4255-ad76-b42493b13279
+label: Date d'une transplantation d'organe solide (rein, coeur, foie ou poumons)
+type: date
+codes:
+- nomenclature: SYADEM
+  code: cc4f8517-51f0-4add-bf67-4328a14d2d80

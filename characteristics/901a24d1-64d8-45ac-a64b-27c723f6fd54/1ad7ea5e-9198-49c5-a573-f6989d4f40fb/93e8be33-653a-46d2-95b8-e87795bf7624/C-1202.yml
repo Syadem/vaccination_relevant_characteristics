@@ -1,0 +1,8 @@
+---
+id: 1202
+group_id: 93e8be33-653a-46d2-95b8-e87795bf7624
+label: Personnel de la restauration à bord
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 724e557e-fa6e-4be3-9124-5532d2847b6f

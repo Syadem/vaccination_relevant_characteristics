@@ -1,0 +1,9 @@
+---
+id: 921
+group_id: 4b543cd1-8eff-4b2a-9b77-7d0080cd88b4
+label: Test RT-PCR covid (SARS-CoV-2) positif révélant une infection survenue dans
+  les 15 jours suivant la vaccination
+type: date
+codes:
+- nomenclature: SYADEM
+  code: 70cce945-59ca-404c-a30c-0ba9a67f0932

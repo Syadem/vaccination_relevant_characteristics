@@ -1,7 +1,0 @@
----
-id: 281
-label: Bronchopneumopathie chronique obstructive (BPCO)
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: b38cb265-8f67-494a-9678-2dc7130d7b1f

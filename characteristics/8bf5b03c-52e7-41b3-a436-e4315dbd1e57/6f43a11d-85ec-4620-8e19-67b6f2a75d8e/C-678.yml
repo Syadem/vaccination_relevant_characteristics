@@ -1,0 +1,8 @@
+---
+id: 678
+group_id: 6f43a11d-85ec-4620-8e19-67b6f2a75d8e
+label: Antécédent d'allergie lors d'une vaccination précédente contre la grippe
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 59256c1c-b859-4f08-bc6a-459e6c092527

@@ -1,0 +1,8 @@
+---
+id: 990
+group_id: cf5d8a3d-74ef-40ab-8d31-b5737499ba05
+label: Dosage postvaccinal des anticorps antitétaniques (UI/mL)
+type: float
+codes:
+- nomenclature: SYADEM
+  code: a17cf76b-f5cf-4906-a178-0a346a986c2d

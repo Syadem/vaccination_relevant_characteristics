@@ -1,0 +1,8 @@
+---
+id: 66
+group_id: 75b716d3-3ddf-49d5-a2c9-1b05851340f5
+label: Etudiant(e) ou en formation dans le domaine de la santé ou du médico-social
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 639a83a6-8e4d-4ae6-bf6a-6a5fd04fcdf3

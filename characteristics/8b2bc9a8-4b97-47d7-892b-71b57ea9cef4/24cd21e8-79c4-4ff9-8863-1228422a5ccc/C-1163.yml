@@ -1,0 +1,8 @@
+---
+id: 1163
+group_id: 24cd21e8-79c4-4ff9-8863-1228422a5ccc
+label: Spondylarthrite ankylosante
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 5db74f18-3cef-4ce5-b14e-49e2b1b36e12

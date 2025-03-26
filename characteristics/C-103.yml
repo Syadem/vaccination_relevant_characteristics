@@ -1,7 +1,0 @@
----
-id: 103
-label: Surveillant pénitentiaire
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 57d01c94-7580-4d97-8e77-cc0330c38422

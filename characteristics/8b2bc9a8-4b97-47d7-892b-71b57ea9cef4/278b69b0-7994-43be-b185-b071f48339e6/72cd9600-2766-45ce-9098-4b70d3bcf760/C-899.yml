@@ -1,0 +1,8 @@
+---
+id: 899
+group_id: 72cd9600-2766-45ce-9098-4b70d3bcf760
+label: APECED ou polyendocrinopathie auto-immune de type 1
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 5fa32831-10ec-4c58-afbb-670bb6903471

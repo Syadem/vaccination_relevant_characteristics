@@ -1,0 +1,8 @@
+---
+id: 472
+group_id: 24cd21e8-79c4-4ff9-8863-1228422a5ccc
+label: Autre maladie auto-immune
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 5c8ba0ae-3597-4b97-afe1-c4cc97c72fda

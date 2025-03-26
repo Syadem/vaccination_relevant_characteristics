@@ -1,7 +1,0 @@
----
-id: 1092
-label: Cicatrice d'une vaccination anti-variolique
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: eee6ae19-ff89-49a2-b1e0-baecfa18579f

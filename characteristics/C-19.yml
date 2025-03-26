@@ -1,7 +1,0 @@
----
-id: 19
-label: En attente de transplantation d'organe (rein, coeur, foie ou poumon)
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 7f2243ef-d42d-4aab-8156-759d331bcf63

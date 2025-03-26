@@ -1,0 +1,8 @@
+---
+id: 432
+group_id: 0b060b48-74e2-4e0a-8b55-4be21b38c1c1
+label: Ag HBs positif
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: f8646e22-e111-442a-bdb8-86c065ef1f91

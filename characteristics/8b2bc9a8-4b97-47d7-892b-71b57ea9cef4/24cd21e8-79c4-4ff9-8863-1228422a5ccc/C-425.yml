@@ -1,0 +1,8 @@
+---
+id: 425
+group_id: 24cd21e8-79c4-4ff9-8863-1228422a5ccc
+label: Vascularite systémique (forme grave)
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 6be00a2d-7e19-4b9a-bfb8-9962aed091b9

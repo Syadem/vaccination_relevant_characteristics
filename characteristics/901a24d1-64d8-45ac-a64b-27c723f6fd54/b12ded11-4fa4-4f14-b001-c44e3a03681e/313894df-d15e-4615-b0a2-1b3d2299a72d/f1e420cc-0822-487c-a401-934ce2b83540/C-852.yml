@@ -1,0 +1,8 @@
+---
+id: 852
+group_id: f1e420cc-0822-487c-a401-934ce2b83540
+label: Travaille chez un prestataire de service et distributeur de matériel médical
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: dcdcc19f-e3f5-4a0a-9a16-c2d8fadd44cd

@@ -1,7 +1,0 @@
----
-id: 366
-label: Travaille dans un établissement de formation de personnel sanitaire
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 94c3d3d0-0113-42c7-9eb2-e1dd2e60a17d

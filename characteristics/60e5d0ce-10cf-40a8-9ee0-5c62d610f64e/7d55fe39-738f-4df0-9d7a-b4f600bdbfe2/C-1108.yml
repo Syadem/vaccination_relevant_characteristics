@@ -1,0 +1,8 @@
+---
+id: 1108
+group_id: 7d55fe39-738f-4df0-9d7a-b4f600bdbfe2
+label: Séjour dans un établissement de thermalisme
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: ca0459d4-dcc1-40b7-a6ba-2b1a87084894

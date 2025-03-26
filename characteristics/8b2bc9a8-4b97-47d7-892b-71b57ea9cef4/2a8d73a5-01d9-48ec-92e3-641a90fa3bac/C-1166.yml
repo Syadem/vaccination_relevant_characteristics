@@ -1,0 +1,8 @@
+---
+id: 1166
+group_id: 2a8d73a5-01d9-48ec-92e3-641a90fa3bac
+label: Leucémie
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 014e8a9c-e9f9-467c-8bbf-1b78c1397fa5

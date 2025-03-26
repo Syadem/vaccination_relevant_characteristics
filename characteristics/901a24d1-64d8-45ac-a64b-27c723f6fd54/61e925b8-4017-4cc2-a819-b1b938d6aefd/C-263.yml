@@ -1,0 +1,9 @@
+---
+id: 263
+group_id: 61e925b8-4017-4cc2-a819-b1b938d6aefd
+label: Travaille dans un établissement ou service de la protection judiciaire de la
+  jeunesse
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 691e3b01-7e93-419c-bcd8-80d859457974

@@ -1,7 +1,0 @@
----
-id: 181
-label: Aide médico-psychologique
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 9e28e111-96fb-46bf-8680-fd2a2872e22e

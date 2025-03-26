@@ -1,7 +1,0 @@
----
-id: 60
-label: Chirurgien
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 07f05ad5-1356-4e9f-90f6-97d616694574

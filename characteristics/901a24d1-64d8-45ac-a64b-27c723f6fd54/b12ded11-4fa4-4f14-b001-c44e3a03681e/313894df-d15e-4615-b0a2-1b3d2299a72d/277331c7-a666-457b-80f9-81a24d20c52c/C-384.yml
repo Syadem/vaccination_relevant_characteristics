@@ -1,0 +1,9 @@
+---
+id: 384
+group_id: 277331c7-a666-457b-80f9-81a24d20c52c
+label: 'Ne travaille pas dans l''un des services suivants : maternité, pédiatrie,
+  néonatologie, maladies infectieuses, accueillant des immunodéprimés ou néphrologie'
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: fe2812cc-e387-4b20-9c99-8dbd070ebd4b

@@ -1,7 +1,0 @@
----
-id: 1111
-label: Séjour dans un établissements de soins médicaux résidentiels
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: e46b2866-4bb9-4a28-b0b2-6218d7df3dba

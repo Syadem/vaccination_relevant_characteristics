@@ -1,0 +1,8 @@
+---
+id: 1079
+group_id: d026565f-0cc5-4254-a5ae-34fa57c6ca7f
+label: Date du dernier test IGRA réalisé
+type: date
+codes:
+- nomenclature: SYADEM
+  code: 1e632ed3-d4fa-4075-93ea-04a9b3a49ef0

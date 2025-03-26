@@ -1,0 +1,9 @@
+---
+id: 1069
+group_id: e5c34f1f-732d-40c9-b2ba-5e723383e424
+label: Exposition en milieu extérieur (course à pied, camping, randonnée, travail
+  à l'extérieur)
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: b102b40f-a8c3-42ca-bc9e-ef4149d05e6c

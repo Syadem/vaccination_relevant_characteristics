@@ -1,0 +1,8 @@
+---
+id: 15
+group_id: 311ab498-8f39-40cb-8779-2a5319bae2d6
+label: Nouveau-né de mère porteuse de l'antigène HBs
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 7da31a6d-76f0-47f7-a136-ecb50e557abf

@@ -1,7 +1,0 @@
----
-id: 655
-label: Sérologie rubéole inconnue ou non faite
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 714a1d8f-dcd6-4c30-976f-b212f727b931

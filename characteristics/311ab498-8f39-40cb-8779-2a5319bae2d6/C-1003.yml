@@ -1,0 +1,8 @@
+---
+id: 1003
+group_id: 311ab498-8f39-40cb-8779-2a5319bae2d6
+label: Poids à la naissance (en grammes)
+type: integer
+codes:
+- nomenclature: SYADEM
+  code: e5094b65-3826-4fde-9943-5ad567575f98

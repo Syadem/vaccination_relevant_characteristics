@@ -1,0 +1,8 @@
+---
+id: 1193
+group_id: 93e8be33-653a-46d2-95b8-e87795bf7624
+label: Personnel travaillant dans les boutiques du navire
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: '0145618b-1466-46ce-b01e-135f6de444fc'

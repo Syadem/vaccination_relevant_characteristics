@@ -1,0 +1,8 @@
+---
+id: 1034
+group_id: 4c8efa86-ceab-4911-bbe4-550ffe9a435f
+label: Antécédent d'invagination intestinale
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 4c2ec243-e4d5-4c1d-81ac-44d836cece4c

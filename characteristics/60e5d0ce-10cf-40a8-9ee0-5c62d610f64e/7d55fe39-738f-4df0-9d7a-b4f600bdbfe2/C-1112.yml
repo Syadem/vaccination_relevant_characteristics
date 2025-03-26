@@ -1,0 +1,8 @@
+---
+id: 1112
+group_id: 7d55fe39-738f-4df0-9d7a-b4f600bdbfe2
+label: Séjour dans un établissement de soins palliatifs
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 7c0a887d-78f7-4a17-a4ca-77eaef343dd4

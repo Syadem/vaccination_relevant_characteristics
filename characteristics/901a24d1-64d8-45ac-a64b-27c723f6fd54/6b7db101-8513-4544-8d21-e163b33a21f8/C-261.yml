@@ -1,0 +1,8 @@
+---
+id: 261
+group_id: 6b7db101-8513-4544-8d21-e163b33a21f8
+label: Employé dans un service d'incendie et de secours (SDIS)
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 79dd917c-2f4a-4f18-b861-56bc85702ad8

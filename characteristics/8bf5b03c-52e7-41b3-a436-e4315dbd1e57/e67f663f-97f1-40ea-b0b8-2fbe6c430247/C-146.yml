@@ -1,0 +1,8 @@
+---
+id: 146
+group_id: e67f663f-97f1-40ea-b0b8-2fbe6c430247
+label: Antécédent de rougeole
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: bff8638a-cc5d-4c0d-994e-022eb17c7a25

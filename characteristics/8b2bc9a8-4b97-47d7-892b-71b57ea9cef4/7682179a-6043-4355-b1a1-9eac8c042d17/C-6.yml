@@ -1,0 +1,8 @@
+---
+id: 6
+group_id: 7682179a-6043-4355-b1a1-9eac8c042d17
+label: Syndrome néphrotique
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 959d6798-0f5d-4ee9-941b-ffaa1b9ba887

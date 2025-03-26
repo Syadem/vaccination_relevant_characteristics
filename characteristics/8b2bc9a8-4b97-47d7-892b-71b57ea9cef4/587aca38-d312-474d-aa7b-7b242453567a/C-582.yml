@@ -1,0 +1,8 @@
+---
+id: 582
+group_id: 587aca38-d312-474d-aa7b-7b242453567a
+label: Déficit immunitaire commun variable (DICV)
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 37da8cb2-4a6a-4bbf-ad51-57312be1dca9

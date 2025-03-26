@@ -1,7 +1,0 @@
----
-id: 1164
-label: Maladie de Hodgkin
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 49ba1833-92a2-46e3-9124-cf9d9015a0a2

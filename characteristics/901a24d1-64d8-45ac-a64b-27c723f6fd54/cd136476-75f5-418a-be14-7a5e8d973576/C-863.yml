@@ -1,0 +1,8 @@
+---
+id: 863
+group_id: cd136476-75f5-418a-be14-7a5e8d973576
+label: Autre profession dans le domaine de l'éducation
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: cfb0e6c1-b070-4406-9847-c70d4756d04f

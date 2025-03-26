@@ -1,0 +1,8 @@
+---
+id: 584
+group_id: 587aca38-d312-474d-aa7b-7b242453567a
+label: Déficit en sous-classes d'IgG
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 37ce40f2-ce7c-492c-8fb6-b67b87f5b4e8

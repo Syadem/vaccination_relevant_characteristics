@@ -1,0 +1,8 @@
+---
+id: 102
+group_id: 6b7db101-8513-4544-8d21-e163b33a21f8
+label: Policier
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 2b4460cb-25b0-43b7-92fb-c036f6e2ca1a

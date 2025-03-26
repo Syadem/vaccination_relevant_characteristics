@@ -1,0 +1,8 @@
+---
+id: 21
+group_id: 587aca38-d312-474d-aa7b-7b242453567a
+label: Déficit en complément
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 14f49a7e-4421-4134-9dcb-b83a62f33af9

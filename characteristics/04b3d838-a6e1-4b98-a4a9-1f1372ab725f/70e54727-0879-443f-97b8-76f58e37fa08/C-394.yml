@@ -1,0 +1,8 @@
+---
+id: 394
+group_id: 70e54727-0879-443f-97b8-76f58e37fa08
+label: Antécédent connu d'ictère
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: f7246854-6ac9-4ce4-9d96-53bbd99d421d

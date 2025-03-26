@@ -1,7 +1,0 @@
----
-id: 402
-label: Paraplégie ou tétraplégie
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: b016cbc1-4f97-43aa-9c7f-05f5c896efb2

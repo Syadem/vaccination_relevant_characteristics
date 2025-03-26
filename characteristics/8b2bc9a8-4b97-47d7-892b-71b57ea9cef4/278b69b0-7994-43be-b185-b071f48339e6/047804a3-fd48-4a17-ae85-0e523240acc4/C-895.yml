@@ -1,0 +1,8 @@
+---
+id: 895
+group_id: '047804a3-fd48-4a17-ae85-0e523240acc4'
+label: Néphropathie du purpura rhumatoïde sous traitement immunosuppresseur
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: faf93ea4-caeb-4101-9b21-de6e3fe714cf

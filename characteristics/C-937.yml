@@ -1,7 +1,0 @@
----
-id: 937
-label: Employé dans une structure d'hébergement médico-sociale
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: abd5b7ac-5f70-440c-8252-c53ed16eb926

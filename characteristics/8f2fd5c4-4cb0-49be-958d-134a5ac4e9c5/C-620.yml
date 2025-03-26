@@ -1,0 +1,8 @@
+---
+id: 620
+group_id: 8f2fd5c4-4cb0-49be-958d-134a5ac4e9c5
+label: Refus de vaccination contre la typhoïde
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 5e4a61d1-5501-46d0-9272-be7c5887bf5b

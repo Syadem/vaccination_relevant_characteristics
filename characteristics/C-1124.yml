@@ -1,7 +1,0 @@
----
-id: 1124
-label: Date de l'administration du vaccin anti-VRS à la mère pendant la grossesse
-type: date
-codes:
-- nomenclature: SYADEM
-  code: 6bc246f2-9863-4473-aaa1-89dc184315fd

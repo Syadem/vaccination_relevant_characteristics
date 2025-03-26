@@ -1,0 +1,8 @@
+---
+id: 676
+group_id: 70e54727-0879-443f-97b8-76f58e37fa08
+label: Traitement antiagrégant
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 3e2203aa-7239-416a-a3c4-11dd5802aad7

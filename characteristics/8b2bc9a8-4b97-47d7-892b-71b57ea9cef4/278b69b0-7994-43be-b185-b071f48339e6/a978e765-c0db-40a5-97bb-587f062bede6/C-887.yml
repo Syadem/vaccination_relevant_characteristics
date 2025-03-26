@@ -1,0 +1,8 @@
+---
+id: 887
+group_id: a978e765-c0db-40a5-97bb-587f062bede6
+label: Déficit en AIRE, en NFBK2 et en interféron
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 5f363485-b93b-486d-9b98-c9a6979baea4

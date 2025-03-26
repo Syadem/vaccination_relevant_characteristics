@@ -1,7 +1,0 @@
----
-id: 677
-label: Refus de vaccination contre les oreillons
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 7b84fc00-7009-482a-a593-3a7370b583e2

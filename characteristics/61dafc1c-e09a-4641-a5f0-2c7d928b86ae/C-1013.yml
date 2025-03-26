@@ -1,0 +1,8 @@
+---
+id: 1013
+group_id: 61dafc1c-e09a-4641-a5f0-2c7d928b86ae
+label: Contre-indication à la vaccination contre la fièvre jaune
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 7f4c8c5b-e2ca-42de-b952-b5234c98b14c

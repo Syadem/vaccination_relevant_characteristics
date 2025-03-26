@@ -1,7 +1,0 @@
----
-id: 173
-label: L'un des parents est originaire d'un pays de forte endémie tuberculeuse
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 213d6f2c-f69b-4a48-81aa-4dddd100fcea

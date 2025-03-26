@@ -1,0 +1,8 @@
+---
+id: 1025
+group_id: 8f2fd5c4-4cb0-49be-958d-134a5ac4e9c5
+label: Refus de vaccination contre les rotavirus
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: cbd4cc47-3e6a-4ffb-b1fe-f61bec051a3b

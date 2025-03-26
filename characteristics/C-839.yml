@@ -1,7 +1,0 @@
----
-id: 839
-label: Sérologie covid 19 positive avant la vaccination
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 68d20d1e-9628-4618-9e33-714185a13673

@@ -1,0 +1,8 @@
+---
+id: 604
+group_id: 42789e30-1d44-4b1f-b12e-fa9976fb3ce9
+label: Risque d'exposition à des agents biologiques
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 5b089eb5-0f00-429b-a2bd-06de1384cf83

@@ -1,0 +1,8 @@
+---
+id: 1061
+group_id: 70e54727-0879-443f-97b8-76f58e37fa08
+label: Examens complémentaires disponibles
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 27a7852d-9df1-4b65-b992-34bb36fd655d

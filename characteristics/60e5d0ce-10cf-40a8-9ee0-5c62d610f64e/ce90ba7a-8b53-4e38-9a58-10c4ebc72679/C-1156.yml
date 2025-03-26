@@ -1,0 +1,8 @@
+---
+id: 1156
+group_id: ce90ba7a-8b53-4e38-9a58-10c4ebc72679
+label: Tabagisme
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 4129e778-bdea-4a0c-93da-1b24d6e0589d

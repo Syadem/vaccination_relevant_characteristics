@@ -1,0 +1,8 @@
+---
+id: 579
+group_id: 85e9371a-b548-469d-ba39-46413afba1a1
+label: Biothérapie entrainant une immunodépression
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 73a0f806-48ac-47df-9a56-8c8db9eeb947

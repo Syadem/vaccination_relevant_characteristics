@@ -1,8 +1,0 @@
----
-id: 545
-label: La maman de ce bébé est considérée comme non immunisée contre la rougeole (pas
-  d'antécédent documenté de rougeole, non vaccinée ou vaccinée avec une seule dose)
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: da2fdb85-377e-4a64-b8b6-9b0cb4bba08a

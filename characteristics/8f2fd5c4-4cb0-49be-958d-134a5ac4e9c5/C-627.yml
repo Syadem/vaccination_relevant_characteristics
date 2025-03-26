@@ -1,0 +1,8 @@
+---
+id: 627
+group_id: 8f2fd5c4-4cb0-49be-958d-134a5ac4e9c5
+label: Refus de vaccination contre l'encéphalite à tiques
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 62f3a9e4-8769-469f-b54e-1d5cfd2ceca0

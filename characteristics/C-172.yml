@@ -1,7 +1,0 @@
----
-id: 172
-label: Naissance dans un pays où la tuberculose est fréquente
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: f9b065e7-73e8-4b8c-9f2a-eaec98f1cfbe

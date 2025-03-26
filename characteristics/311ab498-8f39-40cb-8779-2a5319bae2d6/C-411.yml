@@ -1,0 +1,8 @@
+---
+id: 411
+group_id: 311ab498-8f39-40cb-8779-2a5319bae2d6
+label: Nouveau-né de mère infectée par le VIH
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: bc3deaa1-8679-40d5-8ca0-ddb060717461

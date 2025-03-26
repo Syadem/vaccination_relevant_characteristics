@@ -1,7 +1,0 @@
----
-id: 1114
-label: Personnel administratif travaillant dans le secteur de la santé
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 57d8b3da-1cd0-4063-8858-a036796e745f

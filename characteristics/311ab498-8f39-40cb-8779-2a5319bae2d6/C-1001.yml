@@ -1,0 +1,8 @@
+---
+id: 1001
+group_id: 311ab498-8f39-40cb-8779-2a5319bae2d6
+label: Personne-contact à risque de mpox
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: ae6b4049-c300-4c93-a994-7b46ff47829b

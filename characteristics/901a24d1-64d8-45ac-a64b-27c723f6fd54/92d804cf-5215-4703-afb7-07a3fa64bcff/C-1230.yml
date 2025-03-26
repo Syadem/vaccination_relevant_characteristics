@@ -1,0 +1,8 @@
+---
+id: 1230
+group_id: 92d804cf-5215-4703-afb7-07a3fa64bcff
+label: 'Professionnel de la lutte antivectorielle (LAV) '
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: c2a894c4-cc70-4e09-b7a3-7559a4dbca43

@@ -1,7 +1,0 @@
----
-id: 578
-label: Chimiothérapie en cours pour tumeur solide (cancer)
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 8690e4f7-ff50-41b7-9833-175d9058525e

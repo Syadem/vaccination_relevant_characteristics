@@ -1,8 +1,0 @@
----
-id: 107
-label: Employé(e) au curage ou entretien de canaux, étangs, lacs, rivières, voies
-  navigables, berges
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 77b89672-4bb2-48ae-bb1b-cf6125356c96

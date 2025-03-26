@@ -1,0 +1,8 @@
+---
+id: 1172
+group_id: 53d2caf6-c7ad-4174-ab35-9602e466d647
+label: Contact étroit avec un patient atteint de diphtérie
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 771e53e9-de22-43ef-b33f-e1a5351199cd

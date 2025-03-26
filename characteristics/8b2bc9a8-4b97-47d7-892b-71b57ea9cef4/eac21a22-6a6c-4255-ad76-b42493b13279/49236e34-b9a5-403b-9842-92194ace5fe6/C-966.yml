@@ -1,0 +1,8 @@
+---
+id: 966
+group_id: 49236e34-b9a5-403b-9842-92194ace5fe6
+label: Date de greffe de cellules souches hématopoïétiques (greffe de moelle)
+type: date
+codes:
+- nomenclature: SYADEM
+  code: c89f2d94-0cdd-4bf2-bfa4-32a1417f7b26

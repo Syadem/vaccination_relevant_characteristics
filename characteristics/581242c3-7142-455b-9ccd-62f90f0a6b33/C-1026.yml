@@ -1,0 +1,9 @@
+---
+id: 1026
+group_id: 581242c3-7142-455b-9ccd-62f90f0a6b33
+label: Transit de plus de 12 heures dans l'aéroport d'un pays à risque de transmission
+  de la fièvre jaune
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: c06f40cc-11fe-4381-ac60-d6d550a97f5c

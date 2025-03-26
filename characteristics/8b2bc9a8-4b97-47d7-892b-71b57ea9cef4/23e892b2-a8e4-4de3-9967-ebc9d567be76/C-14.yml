@@ -1,0 +1,8 @@
+---
+id: 14
+group_id: 23e892b2-a8e4-4de3-9967-ebc9d567be76
+label: Infection chronique par le virus de l'hépatite B
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 87bd0d91-ef17-4e77-bf4c-7b1b301cbd6b

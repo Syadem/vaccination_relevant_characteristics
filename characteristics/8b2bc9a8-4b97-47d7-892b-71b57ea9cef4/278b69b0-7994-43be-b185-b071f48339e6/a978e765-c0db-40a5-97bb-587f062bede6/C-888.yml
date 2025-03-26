@@ -1,0 +1,8 @@
+---
+id: 888
+group_id: a978e765-c0db-40a5-97bb-587f062bede6
+label: Défaut de production ou de réponse à l'interferon alpha
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 9acaab3e-41b3-4b3b-9ca8-a2531228d2c3

@@ -1,7 +1,0 @@
----
-id: 1098
-label: Autres maladies mentales
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: adaece73-90a9-4592-ae74-a45a55f6b0ee

@@ -1,0 +1,9 @@
+---
+id: 882
+group_id: 2c831a03-f3e4-421a-9b38-f78ba6f7ff82
+label: 'Déficit du trafic intracellulaire chez les enfants (NBAS : neuroblastoma amplified
+  sequence)'
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 47c8593f-8716-4ac8-a391-b798fe80eb3a

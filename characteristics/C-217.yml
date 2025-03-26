@@ -1,7 +1,0 @@
----
-id: 217
-label: Elève ambulancier
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 27d8b1cb-0d1a-4497-a80d-e51d1e7abedf

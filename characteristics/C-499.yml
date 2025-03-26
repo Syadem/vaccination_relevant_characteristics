@@ -1,7 +1,0 @@
----
-id: 499
-label: Résultat du diagnostic biologique négatif
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 014372e8-81cc-4774-9653-7dcbf728fe9b

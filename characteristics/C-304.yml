@@ -1,7 +1,0 @@
----
-id: 304
-label: Asthme sévère sous traitement continu
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: e131514e-7cb3-4736-836d-6105d66748fe

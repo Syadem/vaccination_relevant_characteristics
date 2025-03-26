@@ -1,7 +1,0 @@
----
-id: 493
-label: Résultat de la surveillance vétérinaire négatif
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: e78f8199-8875-4e4b-9ab8-169b289bfcbf

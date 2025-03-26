@@ -1,0 +1,8 @@
+---
+id: 68
+group_id: 8845b1ea-a3b7-4198-94e1-5dd1ea061b4c
+label: Etudes de médecine
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: af1d6aaf-d9fb-4731-ac25-78dcbb994733

@@ -1,0 +1,8 @@
+---
+id: 8
+group_id: e34fc3a9-7c42-486a-8f04-27cacee1e2b7
+label: Thalassodrépanocytose
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 8149035f-1a4c-415c-bba0-6e8312251a6e

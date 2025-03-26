@@ -1,7 +1,0 @@
----
-id: 511
-label: Diagnostic biologique de rage impossible
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 21721419-2fc1-4485-af1b-a230186bef65

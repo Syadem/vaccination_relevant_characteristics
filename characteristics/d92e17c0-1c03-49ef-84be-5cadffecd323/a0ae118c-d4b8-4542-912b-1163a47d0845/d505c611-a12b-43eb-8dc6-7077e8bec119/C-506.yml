@@ -1,0 +1,8 @@
+---
+id: 506
+group_id: d505c611-a12b-43eb-8dc6-7077e8bec119
+label: Animal mort
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 0ee8edb4-fc5c-4d30-9c39-94775f8b074c

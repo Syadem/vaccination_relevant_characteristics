@@ -1,0 +1,8 @@
+---
+id: 1075
+group_id: 887085c1-601a-45c8-aa87-459771eb041a
+label: Séjour en saison des pluies
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 5f6c93f0-d752-4c0f-a2c9-99620a3c36a3

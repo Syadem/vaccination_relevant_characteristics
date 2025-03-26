@@ -1,0 +1,8 @@
+---
+id: 622
+group_id: 8f2fd5c4-4cb0-49be-958d-134a5ac4e9c5
+label: Refus de vaccination contre la grippe
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: da13b421-7904-4852-b3e7-79ba9c9989a6

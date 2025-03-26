@@ -1,0 +1,8 @@
+---
+id: 1085
+group_id: 31749072-09d2-452c-ac1e-17fe6d498500
+label: Voyage limité à la province du Xinjiang ou du Qinghai
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: a55bbd7c-ab7d-4770-88a5-64078bb2bb02

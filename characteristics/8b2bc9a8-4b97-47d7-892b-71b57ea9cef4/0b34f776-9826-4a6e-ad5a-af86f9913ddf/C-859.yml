@@ -1,0 +1,8 @@
+---
+id: 859
+group_id: 0b34f776-9826-4a6e-ad5a-af86f9913ddf
+label: Trisomie 21
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 69dc052b-3488-4723-bf2c-213eed3e32c3

@@ -1,0 +1,8 @@
+---
+id: 92
+group_id: 6b7db101-8513-4544-8d21-e163b33a21f8
+label: Sapeur pompier
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 7acbf898-1ffb-45e7-9051-c38aed180138

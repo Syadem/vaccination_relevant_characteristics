@@ -1,0 +1,8 @@
+---
+id: 1159
+group_id: 24cd21e8-79c4-4ff9-8863-1228422a5ccc
+label: Polyarthrite rhumatoïde
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 698b86bc-44e3-49d1-bba0-87285d85e709

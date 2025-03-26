@@ -1,7 +1,0 @@
----
-id: 479
-label: Thrombopénie
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: d414d9f3-1ad6-4e24-8673-c964a5179588

@@ -1,7 +1,0 @@
----
-id: 498
-label: Résultat du diagnostic biologique positif
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 89c8a5b0-f740-44c8-acbb-d523c7fa62a1

@@ -1,0 +1,9 @@
+---
+id: 608
+group_id: a1a47bf2-8b84-40a3-a08a-f2ffb416332d
+label: Employé(e) dans une entreprise de pompes funèbres en lien avec un établissement
+  de prévention ou de soins
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 01c40c04-125b-4a34-a913-f3daf9de601e

@@ -1,8 +1,0 @@
----
-id: 118
-label: Enfant ou adolescent accueilli dans un service ou institution pour l'enfance
-  et la jeunesse handicapée
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: ce901fe7-0c70-4266-b916-a39d9f9064cf

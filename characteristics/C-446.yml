@@ -1,7 +1,0 @@
----
-id: 446
-label: Autre profession dans le domaine médico-social
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 619ec484-7729-47ac-a44f-03af8ec93e1a

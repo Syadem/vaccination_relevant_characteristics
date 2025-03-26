@@ -1,7 +1,0 @@
----
-id: 617
-label: Refus de vaccination contre le méningocoque C
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 9796656e-0cf1-452b-85bc-26eca8880d16

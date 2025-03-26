@@ -1,7 +1,0 @@
----
-id: 541
-label: 'Traitement par anti-C5 : Soliris® (eculizumab) ou Ultomiris® (ravulizumab)'
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: a09644ce-adfc-4d48-8608-f3c6996087d0

@@ -1,0 +1,8 @@
+---
+id: 988
+group_id: d026565f-0cc5-4254-a5ae-34fa57c6ca7f
+label: IDR (mm)
+type: integer
+codes:
+- nomenclature: SYADEM
+  code: ba606ef4-9ebb-41b2-a81f-56a36bf8897e

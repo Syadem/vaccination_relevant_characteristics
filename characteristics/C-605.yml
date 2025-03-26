@@ -1,7 +1,0 @@
----
-id: 605
-label: Autre profession dans le domaine de la santé
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: dec23c9f-7949-4278-81d9-34c986255349

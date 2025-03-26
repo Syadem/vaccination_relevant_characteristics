@@ -1,0 +1,8 @@
+---
+id: 864
+group_id: 6e51170b-5b7a-4414-9703-dc5046779ae2
+label: Démence ou trouble psychiatrique
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 435a728a-59cd-420c-a166-e8896b50c581

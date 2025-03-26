@@ -1,0 +1,8 @@
+---
+id: 962
+group_id: 3d1da56e-01e8-4abd-98f8-ca1b469ed193
+label: Poids (kg)
+type: integer
+codes:
+- nomenclature: SYADEM
+  code: cd7b37e5-ca83-4d8c-8cef-cae4f3585b51

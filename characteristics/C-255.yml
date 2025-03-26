@@ -1,7 +1,0 @@
----
-id: 255
-label: Travaille dans un établissement sanitaire des prisons
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 43e45daa-77ca-42c6-878d-5af52760e961

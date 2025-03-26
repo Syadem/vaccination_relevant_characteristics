@@ -1,7 +1,0 @@
----
-id: 1036
-label: Pas de risque d'exposition à des agents biologiques
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 9ff71b51-9704-4cb0-9f51-3c3f88e046f6

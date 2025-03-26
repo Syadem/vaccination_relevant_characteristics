@@ -1,7 +1,0 @@
----
-id: 1102
-label: 'Grossesse : préférence pour une immunisation anti-VRS de l''enfant à sa naissance'
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 548aa0ba-e862-4fb1-bd50-3c1e86dba001

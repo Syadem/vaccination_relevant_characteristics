@@ -1,9 +1,0 @@
----
-id: 730
-label: 'Mission d''un(e) militaire dans un pays d''Europe autre que : Allemagne, Autriche,
-  Bulgarie, Croatie, Danemark, Estonie, Hongrie, Lettonie, Lituanie, Pologne, Tchéquie,
-  Slovaquie, Slovénie, Suède ou Finlande'
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: d285274d-38a2-4b65-ab25-3c7bf849ba3c

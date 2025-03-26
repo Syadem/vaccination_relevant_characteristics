@@ -1,7 +1,0 @@
----
-id: 124
-label: En détention dans un établissement pénitentiaire
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: c872c8cb-e83a-460c-859b-4404cb4bd76c

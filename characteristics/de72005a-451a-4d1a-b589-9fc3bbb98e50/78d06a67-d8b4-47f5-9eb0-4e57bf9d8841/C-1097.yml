@@ -1,0 +1,8 @@
+---
+id: 1097
+group_id: 78d06a67-d8b4-47f5-9eb0-4e57bf9d8841
+label: Traitement au long cours par acide acétylsalicylique
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: fb8a3e50-120f-4ec6-912b-330dfbd0d2a1

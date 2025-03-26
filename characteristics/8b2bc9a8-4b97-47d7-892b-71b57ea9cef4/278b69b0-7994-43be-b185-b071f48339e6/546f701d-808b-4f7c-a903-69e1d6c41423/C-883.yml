@@ -1,0 +1,8 @@
+---
+id: 883
+group_id: 546f701d-808b-4f7c-a903-69e1d6c41423
+label: Myopathie avec capacités vitales forcées inférieures à 70 %
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 11a700bd-b0ce-43a4-ba81-e3b6508968b3

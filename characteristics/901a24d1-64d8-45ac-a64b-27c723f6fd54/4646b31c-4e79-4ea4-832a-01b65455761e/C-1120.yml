@@ -1,0 +1,8 @@
+---
+id: 1120
+group_id: 4646b31c-4e79-4ea4-832a-01b65455761e
+label: Autres métiers de la fonction publique
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 2c06aedf-aaa5-4fc9-9c74-112a7dd28355

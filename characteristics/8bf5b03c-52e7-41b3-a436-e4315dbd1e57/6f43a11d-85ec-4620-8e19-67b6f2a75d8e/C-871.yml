@@ -1,0 +1,8 @@
+---
+id: 871
+group_id: 6f43a11d-85ec-4620-8e19-67b6f2a75d8e
+label: Personne ayant déjà eu une prescription de seringue auto-injectable d'adrénaline
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 87cfce30-6566-40b6-b578-0082d7ca6929

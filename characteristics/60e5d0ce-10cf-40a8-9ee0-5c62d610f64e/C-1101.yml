@@ -1,0 +1,8 @@
+---
+id: 1101
+group_id: 60e5d0ce-10cf-40a8-9ee0-5c62d610f64e
+label: Usagers de centre d’assistance sociale de longue durée
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 89fadbf2-2035-4b5b-820b-b9c1c9ebb8d0

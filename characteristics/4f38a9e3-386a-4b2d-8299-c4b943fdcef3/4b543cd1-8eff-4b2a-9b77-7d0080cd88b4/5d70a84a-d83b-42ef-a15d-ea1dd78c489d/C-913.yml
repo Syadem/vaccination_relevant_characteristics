@@ -1,0 +1,8 @@
+---
+id: 913
+group_id: 5d70a84a-d83b-42ef-a15d-ea1dd78c489d
+label: Test antigénique covid 19 positif
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 36c86865-ab92-4bb3-8848-a0eb0fb23722

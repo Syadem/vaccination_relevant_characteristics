@@ -1,7 +1,0 @@
----
-id: 1000
-label: Consommation excessive d’alcool
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 9c6e8901-672e-45c0-8059-3d1c98ddc63d

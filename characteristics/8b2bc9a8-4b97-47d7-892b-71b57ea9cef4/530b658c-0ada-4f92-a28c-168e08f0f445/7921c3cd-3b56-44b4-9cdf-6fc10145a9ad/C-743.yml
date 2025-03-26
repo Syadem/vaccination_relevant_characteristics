@@ -1,0 +1,8 @@
+---
+id: 743
+group_id: 7921c3cd-3b56-44b4-9cdf-6fc10145a9ad
+label: Hypertension artérielle compliquée
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 90f08e84-94d5-4111-8ed5-f10a297ef0cd

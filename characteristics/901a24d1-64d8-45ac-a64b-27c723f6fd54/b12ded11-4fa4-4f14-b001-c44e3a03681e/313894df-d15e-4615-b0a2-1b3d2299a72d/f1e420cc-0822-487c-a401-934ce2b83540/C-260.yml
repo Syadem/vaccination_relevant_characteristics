@@ -1,0 +1,8 @@
+---
+id: 260
+group_id: f1e420cc-0822-487c-a401-934ce2b83540
+label: Travaille dans un centre ou un service de médecine préventive scolaire
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 7bd2fcbe-5675-4d04-83c3-654275288a10

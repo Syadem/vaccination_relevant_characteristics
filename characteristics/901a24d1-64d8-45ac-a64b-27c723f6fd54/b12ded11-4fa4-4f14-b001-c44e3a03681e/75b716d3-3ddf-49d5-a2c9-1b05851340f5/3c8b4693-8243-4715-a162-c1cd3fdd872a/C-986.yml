@@ -1,0 +1,8 @@
+---
+id: 986
+group_id: 3c8b4693-8243-4715-a162-c1cd3fdd872a
+label: Elève préparateur(ice) en pharmacie, accueillant des patients
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 68d3bd03-cc4c-40ac-bd98-e54e74bece80

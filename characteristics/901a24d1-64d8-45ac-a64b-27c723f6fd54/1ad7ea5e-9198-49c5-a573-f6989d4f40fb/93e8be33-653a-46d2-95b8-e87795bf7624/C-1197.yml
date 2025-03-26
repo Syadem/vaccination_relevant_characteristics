@@ -1,0 +1,8 @@
+---
+id: 1197
+group_id: 93e8be33-653a-46d2-95b8-e87795bf7624
+label: Officier de santé publique
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: cd051dc7-a8a6-4134-852e-8e5dffcf2431

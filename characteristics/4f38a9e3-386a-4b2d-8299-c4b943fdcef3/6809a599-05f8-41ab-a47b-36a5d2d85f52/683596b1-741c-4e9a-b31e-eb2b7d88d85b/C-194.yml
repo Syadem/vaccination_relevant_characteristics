@@ -1,0 +1,8 @@
+---
+id: 194
+group_id: 683596b1-741c-4e9a-b31e-eb2b7d88d85b
+label: Ac anti-HBs entre 10 UI/L et 100 UI/L
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 42e4fffc-3c4a-40f2-8c93-716494939ff8

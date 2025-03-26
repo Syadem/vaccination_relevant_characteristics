@@ -1,7 +1,0 @@
----
-id: 936
-label: Employé dans un établissement de santé
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 9cb13e7a-b2bb-4ebd-94c1-4f78aab0a2c1

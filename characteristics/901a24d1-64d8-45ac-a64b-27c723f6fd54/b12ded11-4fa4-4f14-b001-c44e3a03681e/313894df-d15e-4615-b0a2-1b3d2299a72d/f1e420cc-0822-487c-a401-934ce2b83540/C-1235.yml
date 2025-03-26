@@ -1,0 +1,8 @@
+---
+id: 1235
+group_id: f1e420cc-0822-487c-a401-934ce2b83540
+label: Travaille dans un service de gastroentérologie
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 7d56af97-074c-4135-bfa7-49795b7be3b4

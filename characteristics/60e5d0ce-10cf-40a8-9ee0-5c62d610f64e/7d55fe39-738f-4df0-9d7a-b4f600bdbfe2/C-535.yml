@@ -1,0 +1,8 @@
+---
+id: 535
+group_id: 7d55fe39-738f-4df0-9d7a-b4f600bdbfe2
+label: Séjour dans une unité de soins de suite et de réadaptation
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 66d92709-7e4e-47f1-a448-bf2efca64f4c

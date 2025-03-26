@@ -1,8 +1,0 @@
----
-id: 88
-label: Travaille dans un établissement de garde d'enfants d’âge pré-scolaire (crèche,
-  halte garderie...)
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 105d000c-3879-4012-84b1-0ee944c08491

@@ -1,0 +1,8 @@
+---
+id: 1213
+group_id: 1b143367-d36f-453c-86fb-551a43a921c1
+label: Elève officier salle des machines
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 830af576-f7cd-4a41-9f91-efd54a2b494c

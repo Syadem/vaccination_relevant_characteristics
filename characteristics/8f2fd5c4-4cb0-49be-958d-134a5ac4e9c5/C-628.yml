@@ -1,0 +1,8 @@
+---
+id: 628
+group_id: 8f2fd5c4-4cb0-49be-958d-134a5ac4e9c5
+label: Refus de vaccination contre l'encéphalite japonaise
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 803c5ca9-b650-47f3-8048-095366c67ef3

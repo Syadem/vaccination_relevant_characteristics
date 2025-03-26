@@ -1,0 +1,8 @@
+---
+id: 1192
+group_id: 93e8be33-653a-46d2-95b8-e87795bf7624
+label: Personnel travaillant au bar du navire
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 67079635-dba2-473b-8288-a0b1012dc08b

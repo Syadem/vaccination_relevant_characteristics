@@ -1,0 +1,8 @@
+---
+id: 543
+group_id: f410ca33-37e2-448c-b24e-3303bfb40798
+label: Hémoglobinurie paroxystique nocturne
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: '0284e328-e1fd-4f81-8ff4-a5c4df8e96ab'

@@ -1,0 +1,8 @@
+---
+id: 46
+group_id: 000b0fd3-7586-4726-8226-94efb2ad9416
+label: Sérologie de la varicelle négative
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: fd566276-ea6f-4393-9c73-4d62c62371c0

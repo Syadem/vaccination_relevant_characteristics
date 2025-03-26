@@ -1,0 +1,8 @@
+---
+id: 873
+group_id: 501b5038-05f0-44d5-9f30-a2d6af836c69
+label: Fibrose pulmonaire
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 39a46a0e-47e6-4376-a864-2341421f7c54

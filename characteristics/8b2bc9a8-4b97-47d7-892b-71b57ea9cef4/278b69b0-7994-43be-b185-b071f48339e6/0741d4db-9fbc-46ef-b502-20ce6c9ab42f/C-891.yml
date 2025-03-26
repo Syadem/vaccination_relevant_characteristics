@@ -1,0 +1,9 @@
+---
+id: 891
+group_id: 0741d4db-9fbc-46ef-b502-20ce6c9ab42f
+label: Maladie hémorragique constitutionnelle avec traitement par un médicament en
+  essai clinique
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: f69e2e74-4e3c-4b6f-b005-a8efb33be18e

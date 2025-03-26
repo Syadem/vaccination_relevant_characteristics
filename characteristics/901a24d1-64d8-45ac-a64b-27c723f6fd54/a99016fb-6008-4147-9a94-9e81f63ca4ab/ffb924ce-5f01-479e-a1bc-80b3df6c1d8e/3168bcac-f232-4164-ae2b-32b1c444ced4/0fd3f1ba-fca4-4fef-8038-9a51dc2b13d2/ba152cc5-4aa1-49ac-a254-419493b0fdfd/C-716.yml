@@ -1,0 +1,9 @@
+---
+id: 716
+group_id: ba152cc5-4aa1-49ac-a254-419493b0fdfd
+label: 'Mission d''un(e) militaire en Allemagne : arrondissements SANS risque d''encéphalite
+  à tiques'
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: '09283eb4-488b-4275-9373-ced5cf6f5220'

@@ -1,7 +1,0 @@
----
-id: 1096
-label: Immunodéficience, quelle qu'en soit la cause (maladie ou traitement).
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 7fd8fe60-115a-421c-a5aa-cb9d8cd90e05

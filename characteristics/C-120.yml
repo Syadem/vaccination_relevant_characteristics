@@ -1,7 +1,0 @@
----
-id: 120
-label: Séjour dans une institution psychiatrique
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 3c2952cf-79eb-44d6-81ba-de64b0da8180

@@ -1,0 +1,8 @@
+---
+id: 1006
+group_id: f1e420cc-0822-487c-a401-934ce2b83540
+label: Travaille dans une structure d'hébergement pour personnes âgées
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 0ec8f594-b92b-401a-89f1-3852e654e795

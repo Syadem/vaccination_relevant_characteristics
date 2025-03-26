@@ -1,7 +1,0 @@
----
-id: 87
-label: Professionnel employé dans un service sanitaire de maintien à domicile
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: a96cb328-e73d-4c1a-a304-b7cfe9269de2

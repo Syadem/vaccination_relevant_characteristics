@@ -1,0 +1,8 @@
+---
+id: 1204
+group_id: 93e8be33-653a-46d2-95b8-e87795bf7624
+label: Personel travaillant dans les SPA
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 603172e0-6c6d-48a6-84f1-cde510f8e0d8

@@ -1,0 +1,8 @@
+---
+id: 1160
+group_id: 24cd21e8-79c4-4ff9-8863-1228422a5ccc
+label: Psoriasis
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 25995908-3c2f-4406-80cd-36771766d23e

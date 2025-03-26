@@ -1,7 +1,0 @@
----
-id: 193
-label: Absence d'Ac anti-HBs (inf. 10 UI/L)
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: ed7d364f-a419-4ae2-8a2e-b15f5e3e0cfc

@@ -1,0 +1,8 @@
+---
+id: 837
+group_id: 47e468d5-57fd-4943-b4dc-4f4049dec7bd
+label: Personne présentant des signes de covid 19 avec un test RT-PCR positif
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: cf4850a1-baba-4017-96bf-deeba05fc8b6

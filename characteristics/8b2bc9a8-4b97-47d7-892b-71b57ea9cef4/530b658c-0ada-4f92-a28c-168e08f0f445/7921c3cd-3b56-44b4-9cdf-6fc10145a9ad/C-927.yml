@@ -1,0 +1,8 @@
+---
+id: 927
+group_id: 7921c3cd-3b56-44b4-9cdf-6fc10145a9ad
+label: Myocardite ou péricardite
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 07a08ecc-e4a5-4108-9c2b-5b41e8603abd

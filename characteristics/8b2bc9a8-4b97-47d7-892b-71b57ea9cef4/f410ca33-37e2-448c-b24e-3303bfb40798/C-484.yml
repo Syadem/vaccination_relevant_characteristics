@@ -1,0 +1,8 @@
+---
+id: 484
+group_id: f410ca33-37e2-448c-b24e-3303bfb40798
+label: Anémie hémolytique auto-immune
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: a4a2020c-229c-420f-842b-5c31d899a236

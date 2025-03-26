@@ -1,7 +1,0 @@
----
-id: 660
-label: Volontaire stagiaire du service militaire volontaire (SMV)
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 8cf970ba-db9e-4b54-92c7-95f727f217b9

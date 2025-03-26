@@ -1,0 +1,8 @@
+---
+id: 114
+group_id: ce90ba7a-8b53-4e38-9a58-10c4ebc72679
+label: Toxicomanie par voie parentérale
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 46c086b6-8870-409f-8ed2-5fce1b98ecd0

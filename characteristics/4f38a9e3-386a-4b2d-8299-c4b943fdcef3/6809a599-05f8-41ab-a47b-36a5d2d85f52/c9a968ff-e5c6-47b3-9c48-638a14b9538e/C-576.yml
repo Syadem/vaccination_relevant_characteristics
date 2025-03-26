@@ -1,0 +1,8 @@
+---
+id: 576
+group_id: c9a968ff-e5c6-47b3-9c48-638a14b9538e
+label: Ac anti-HBc positif
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 0f0ce75b-1cd3-4190-818f-50bcfa12de9e

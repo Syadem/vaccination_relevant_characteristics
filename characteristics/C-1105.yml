@@ -1,8 +1,0 @@
----
-id: 1105
-label: Contacts familiaux étroits et durables avec des personnes atteintes de maladies
-  chroniques
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 5c9c0bf8-7271-4de9-b5ca-d9f58534ab58

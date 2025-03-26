@@ -1,7 +1,0 @@
----
-id: 831
-label: Refus de vaccination contre la dengue
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: f9c02efc-d3fe-4039-b134-619939f200ef

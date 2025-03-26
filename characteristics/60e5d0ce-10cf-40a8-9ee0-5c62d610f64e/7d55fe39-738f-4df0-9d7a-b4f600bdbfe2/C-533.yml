@@ -1,0 +1,9 @@
+---
+id: 533
+group_id: 7d55fe39-738f-4df0-9d7a-b4f600bdbfe2
+label: Séjour dans un établissement d'hébergement pour personnes âgées dépendantes
+  (EHPAD)
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 25cb846b-e11a-488b-8189-14eb669847e6

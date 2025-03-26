@@ -1,0 +1,8 @@
+---
+id: 1053
+group_id: e5727ef0-71ec-4f15-9e12-9bdbae381827
+label: Fracture de l’humérus
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: dad8a42d-53eb-4b97-a155-36a6f74c07ab

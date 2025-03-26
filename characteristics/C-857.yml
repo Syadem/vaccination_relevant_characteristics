@@ -1,7 +1,0 @@
----
-id: 857
-label: Personnel administratif, médico-technique ou technique
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: c2e72f7f-a200-461d-aba8-52b0f7956935

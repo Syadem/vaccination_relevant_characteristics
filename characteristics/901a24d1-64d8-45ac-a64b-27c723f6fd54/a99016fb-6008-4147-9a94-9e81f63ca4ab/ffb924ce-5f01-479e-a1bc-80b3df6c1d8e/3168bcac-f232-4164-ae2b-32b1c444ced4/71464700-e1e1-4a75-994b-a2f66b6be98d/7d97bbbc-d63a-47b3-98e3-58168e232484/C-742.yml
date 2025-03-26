@@ -1,0 +1,9 @@
+---
+id: 742
+group_id: 7d97bbbc-d63a-47b3-98e3-58168e232484
+label: Mission d'un(e) militaire dans un pays endémique pour la fièvre jaune autre
+  qu'un pays d'Afrique centrale ou de l'ouest et que la Guyane
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 250aa64c-27c0-4aa7-90e5-08dc4928d6da

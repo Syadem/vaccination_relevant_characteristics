@@ -1,7 +1,0 @@
----
-id: 222
-label: Elève infirmier
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: df5c3437-18f7-453d-b169-04126a4ffa49

@@ -1,0 +1,8 @@
+---
+id: 428
+group_id: f1e420cc-0822-487c-a401-934ce2b83540
+label: Travaille dans une pharmacie d'officine
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 49fa340c-8ae8-4191-9e3d-08da37167bc4

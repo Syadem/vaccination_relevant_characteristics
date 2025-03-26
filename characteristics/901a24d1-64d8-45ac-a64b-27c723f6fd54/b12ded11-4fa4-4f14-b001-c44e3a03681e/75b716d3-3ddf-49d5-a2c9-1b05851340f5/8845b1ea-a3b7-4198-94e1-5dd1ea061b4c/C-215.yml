@@ -1,0 +1,8 @@
+---
+id: 215
+group_id: 8845b1ea-a3b7-4198-94e1-5dd1ea061b4c
+label: Etudes de pharmacie
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: e704d8f0-1331-40c6-bd7c-e236f9f46dac

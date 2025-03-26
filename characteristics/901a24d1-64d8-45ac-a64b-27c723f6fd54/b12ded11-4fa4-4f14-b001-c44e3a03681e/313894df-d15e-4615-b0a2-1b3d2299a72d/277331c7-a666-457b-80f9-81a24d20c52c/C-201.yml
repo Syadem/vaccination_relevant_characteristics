@@ -1,0 +1,8 @@
+---
+id: 201
+group_id: 277331c7-a666-457b-80f9-81a24d20c52c
+label: Travaille dans un service de néonatologie
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 14e24140-f4ff-4cbb-a41e-65778d518db4

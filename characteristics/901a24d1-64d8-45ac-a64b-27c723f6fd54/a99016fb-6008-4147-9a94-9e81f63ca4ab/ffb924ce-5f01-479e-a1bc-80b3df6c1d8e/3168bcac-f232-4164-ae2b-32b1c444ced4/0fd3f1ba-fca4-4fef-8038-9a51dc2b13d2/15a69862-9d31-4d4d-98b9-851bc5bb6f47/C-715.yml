@@ -1,0 +1,8 @@
+---
+id: 715
+group_id: 15a69862-9d31-4d4d-98b9-851bc5bb6f47
+label: Fréquentation de zones rurales ou forestières
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 22a2f528-8b8e-4212-a5e1-7542137e2f16

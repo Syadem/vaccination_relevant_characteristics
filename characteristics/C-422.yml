@@ -1,7 +1,0 @@
----
-id: 422
-label: Secrétaire médical(e), accueillant des patients
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: f55cfce8-9d70-485d-bfee-02a9a0964ee0

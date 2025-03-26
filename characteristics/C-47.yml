@@ -1,7 +1,0 @@
----
-id: 47
-label: Personne immunodéprimée dans l'entourage
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 2427485e-907c-4241-83c8-939237010ca2

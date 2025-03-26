@@ -1,7 +1,0 @@
----
-id: 594
-label: Chimiothérapie en cours pour hémopathie maligne (leucémie)
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 7a87b404-fe2b-4e34-9ebd-da7f31c4cab0

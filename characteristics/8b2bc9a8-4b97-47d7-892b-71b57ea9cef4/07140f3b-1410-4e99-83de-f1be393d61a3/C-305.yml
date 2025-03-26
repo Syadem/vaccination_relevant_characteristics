@@ -1,0 +1,8 @@
+---
+id: 305
+group_id: 07140f3b-1410-4e99-83de-f1be393d61a3
+label: Diabète équilibré par un simple régime
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 74a61dc8-f817-42bb-8604-87da0711d03e

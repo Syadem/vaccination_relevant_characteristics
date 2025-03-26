@@ -1,0 +1,8 @@
+---
+id: 1171
+group_id: fd750b3c-e86f-437d-b43f-8823fb135064
+label: Sérologie chikungunya IgG positive
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: fafcf64d-48bc-4984-8869-917afcca160f

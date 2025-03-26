@@ -1,7 +1,0 @@
----
-id: 51
-label: Adulte susceptible de devenir parent dans les mois ou années à venir
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: a628789c-ca86-4190-870c-23f20478c19d

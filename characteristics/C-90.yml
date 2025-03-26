@@ -1,8 +1,0 @@
----
-id: 90
-label: Travaille dans un établissement ou un service social concourant à la protection
-  de l'enfance
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 6034116b-69e6-44b3-8c7d-8348a23a8015

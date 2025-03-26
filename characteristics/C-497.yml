@@ -1,7 +1,0 @@
----
-id: 497
-label: Résultat du diagnostic biologique en cours
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: e7ac2809-dc4a-422c-9d3c-450c480ddade

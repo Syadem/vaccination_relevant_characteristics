@@ -1,0 +1,8 @@
+---
+id: 61
+group_id: 21798e98-a975-4153-a693-b4b5d01c2ed2
+label: Chirurgien-dentiste
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 61e3c053-48b9-4a7f-be8f-dbf83c9b7d2e

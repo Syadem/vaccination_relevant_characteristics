@@ -1,0 +1,8 @@
+---
+id: 210
+group_id: 8845b1ea-a3b7-4198-94e1-5dd1ea061b4c
+label: Etudes de chirurgie dentaire
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 28e861b5-1861-4364-97df-11fbb0524d98

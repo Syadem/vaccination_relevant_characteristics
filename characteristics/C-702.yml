@@ -1,7 +1,0 @@
----
-id: 702
-label: Statut d'immunisation contre la rougeole de la maman non précisé
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: a99fa247-cf01-42f9-a6c3-bbfdbf364557

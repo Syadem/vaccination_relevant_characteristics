@@ -1,0 +1,8 @@
+---
+id: 24
+group_id: a16a1079-e068-4df3-9e45-6fd5ab3598fb
+label: Infection à VIH
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 7edf1340-06e2-4814-bd0c-8ca322d1cd60

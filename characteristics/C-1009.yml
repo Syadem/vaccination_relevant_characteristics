@@ -1,7 +1,0 @@
----
-id: 1009
-label: Séjour dans un établissement d'hébergement pour personnes âgées
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: fe5be3fb-96f9-4dd7-a609-c993ef6e25b2

@@ -1,0 +1,8 @@
+---
+id: 365
+group_id: 000b0fd3-7586-4726-8226-94efb2ad9416
+label: Sérologie varicelle inconnue ou non faite
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 6e28688c-06fd-43e1-9bf5-fd28bf11d7f0

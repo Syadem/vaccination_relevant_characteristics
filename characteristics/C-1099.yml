@@ -1,7 +1,0 @@
----
-id: 1099
-label: Professionnels de santé en contact avec des patients
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 14fed997-6389-4ea3-87b0-de3c605bf4eb

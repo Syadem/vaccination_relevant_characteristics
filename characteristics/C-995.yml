@@ -1,7 +1,0 @@
----
-id: 995
-label: Nombre de semaines de grossesse à la naissance pour un enfant prématuré
-type: integer
-codes:
-- nomenclature: SYADEM
-  code: 45c447bd-0e25-4f1f-a7eb-3c910fe01cbd

@@ -1,0 +1,8 @@
+---
+id: 938
+group_id: 85e9371a-b548-469d-ba39-46413afba1a1
+label: Inutilisé - Traitement par anticorps monoclonaux anti-SARS-CoV-2
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 1918b1af-4ab6-4707-bcd6-4e07de611700

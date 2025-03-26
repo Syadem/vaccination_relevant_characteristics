@@ -1,0 +1,9 @@
+---
+id: 496
+group_id: a0ae118c-d4b8-4542-912b-1163a47d0845
+label: Pas de contact direct avec la salive de l'animal (vêtements non déchirés, léchage
+  sur peau saine)
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 570de9f8-8bf9-4631-93e7-30475c4227f8

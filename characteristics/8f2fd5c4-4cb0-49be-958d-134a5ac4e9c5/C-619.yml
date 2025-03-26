@@ -1,0 +1,8 @@
+---
+id: 619
+group_id: 8f2fd5c4-4cb0-49be-958d-134a5ac4e9c5
+label: Refus de vaccination contre le méningocoque B
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: e05843e4-0261-43e4-963f-3a633d6051de

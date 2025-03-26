@@ -1,0 +1,8 @@
+---
+id: 1054
+group_id: e5727ef0-71ec-4f15-9e12-9bdbae381827
+label: Perte de taille de plus de 2 cm par rapport à une précédente fracture
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 2d17534e-c2b1-47d3-a3c1-bc15961543f7

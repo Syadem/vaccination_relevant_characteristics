@@ -1,7 +1,0 @@
----
-id: 494
-label: Résultat de la surveillance vétérinaire positif
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 3950afac-c94e-4872-bdae-7bda56087464

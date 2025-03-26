@@ -1,7 +1,0 @@
----
-id: 49
-label: Contact régulier avec des adultes originaires d'un pays de forte endémie tuberculeuse
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: a6f14fec-8caf-4b9b-bd81-f9558232f978

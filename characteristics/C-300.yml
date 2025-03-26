@@ -1,7 +1,0 @@
----
-id: 300
-label: Enfant né prématuré
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: f92b49a1-735b-439c-8627-514d4b93f68c

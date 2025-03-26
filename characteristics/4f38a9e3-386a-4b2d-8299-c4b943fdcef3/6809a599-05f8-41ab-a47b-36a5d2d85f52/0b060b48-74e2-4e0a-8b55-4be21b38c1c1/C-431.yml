@@ -1,0 +1,8 @@
+---
+id: 431
+group_id: 0b060b48-74e2-4e0a-8b55-4be21b38c1c1
+label: Ag HBs négatif
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 4944f314-e0bf-4087-a802-be09f387f854

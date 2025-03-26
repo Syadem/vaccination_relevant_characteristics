@@ -1,0 +1,8 @@
+---
+id: 920
+group_id: 707d3834-5a8c-4133-975c-862a99efeaba
+label: Sérologie covid 19 positive après la vaccination
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 5ce341d7-ae8e-4a42-b597-18d43aa25179

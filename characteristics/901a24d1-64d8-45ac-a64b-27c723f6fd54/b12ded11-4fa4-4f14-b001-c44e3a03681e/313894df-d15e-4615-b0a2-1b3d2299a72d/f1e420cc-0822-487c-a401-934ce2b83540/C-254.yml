@@ -1,0 +1,8 @@
+---
+id: 254
+group_id: f1e420cc-0822-487c-a401-934ce2b83540
+label: Travaille dans un établissement de soins dentaires
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 7d0a6294-30b5-4ad5-8593-5d6aae75adc9

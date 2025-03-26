@@ -1,7 +1,0 @@
----
-id: 1073
-label: Séjour dans une zone où l’irrigation par inondation est pratiquée (rizières)
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 78dab856-269e-4d7c-b8e9-13db6ff8256b

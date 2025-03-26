@@ -1,7 +1,0 @@
----
-id: 1032
-label: Date de l'accouchement
-type: date
-codes:
-- nomenclature: SYADEM
-  code: e98c5e7b-6dfe-439d-9373-5c7dcfc8873d

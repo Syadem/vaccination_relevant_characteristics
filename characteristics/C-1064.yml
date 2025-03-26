@@ -1,7 +1,0 @@
----
-id: 1064
-label: Résultat de la dernière sérologie antirabique (UI/mL)
-type: float
-codes:
-- nomenclature: SYADEM
-  code: 3a83e641-a928-49a3-ab0c-72679675f727

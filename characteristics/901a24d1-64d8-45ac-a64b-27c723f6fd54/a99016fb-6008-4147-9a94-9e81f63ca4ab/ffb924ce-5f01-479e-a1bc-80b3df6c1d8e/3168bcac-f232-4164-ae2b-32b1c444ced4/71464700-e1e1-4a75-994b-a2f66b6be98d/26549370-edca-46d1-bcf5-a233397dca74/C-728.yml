@@ -1,0 +1,9 @@
+---
+id: 728
+group_id: 26549370-edca-46d1-bcf5-a233397dca74
+label: 'Mission d''un militaire dans un pays autre que : pays endémique pour la fièvre
+  jaune, du Moyen-orient ou Djibouti, d''Europe, d''Asie ou d''Océanie'
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 7f885e41-b310-466a-94fa-674e1df4633b

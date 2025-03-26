@@ -1,7 +1,0 @@
----
-id: 1161
-label: Allergie à l’un des composants du vaccin
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: c359fe96-bafc-4737-996b-2186a19da8aa

@@ -1,0 +1,8 @@
+---
+id: 1051
+group_id: e5727ef0-71ec-4f15-9e12-9bdbae381827
+label: Fracture vertébrale
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: df73ce43-a0a0-4d45-b91d-4edcb838218a

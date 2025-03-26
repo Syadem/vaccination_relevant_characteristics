@@ -1,7 +1,0 @@
----
-id: 288
-label: Sérologie des oreillons positive
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: b50a81fb-eb32-4873-ac16-c8dcb3b2ceb6

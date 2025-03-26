@@ -1,0 +1,8 @@
+---
+id: 199
+group_id: 6e51170b-5b7a-4414-9703-dc5046779ae2
+label: Autre affection neurologique grave
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 6de55cc1-8325-4d36-b772-bedcbdb21af4

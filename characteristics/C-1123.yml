@@ -1,7 +1,0 @@
----
-id: 1123
-label: En attente d'intervention intervention chirurgicale
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 17a53c7e-2a13-4b85-9a63-0d27aa872783

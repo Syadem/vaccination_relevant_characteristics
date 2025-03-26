@@ -1,7 +1,0 @@
----
-id: 633
-label: Personne effectuant régulièrement du baby-sitting
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: ee42aca4-e27f-4cf3-b4ef-8aaa219b0318

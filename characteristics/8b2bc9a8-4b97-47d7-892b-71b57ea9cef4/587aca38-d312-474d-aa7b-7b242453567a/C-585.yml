@@ -1,0 +1,8 @@
+---
+id: 585
+group_id: 587aca38-d312-474d-aa7b-7b242453567a
+label: Déficit en IgA
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 56a0a778-4b7a-42f4-87df-a796c13c49a6

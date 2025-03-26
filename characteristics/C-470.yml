@@ -1,7 +1,0 @@
----
-id: 470
-label: Rhumatisme inflammatoire
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 3d40d4a9-e5d2-4332-aede-99961bc74aaf

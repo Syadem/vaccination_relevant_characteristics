@@ -1,7 +1,0 @@
----
-id: 1061
-label: Examens complémentaires disponibles
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 27a7852d-9df1-4b65-b992-34bb36fd655d

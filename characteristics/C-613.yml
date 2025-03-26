@@ -1,7 +1,0 @@
----
-id: 613
-label: Refus de vaccination contre la diphtérie-tétanos-poliomyélite et/ou coqueluche
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: dc534b1d-5391-4d69-b755-77013da4e8e8

@@ -1,7 +1,0 @@
----
-id: 925
-label: Syndrome inflammatoire multisystémique pédiatrique (PIMS) post covid 19
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 90139986-d199-44d2-9468-91571af544e4

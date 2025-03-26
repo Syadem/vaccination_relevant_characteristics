@@ -1,0 +1,8 @@
+---
+id: 34
+group_id: 61121b0b-16ad-44fd-962a-63be9e1ac69c
+label: Brèche ostéo-méningée
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 05f180f0-389c-4f81-a573-1c34fee4308f

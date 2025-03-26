@@ -1,8 +1,0 @@
----
-id: 151
-label: Employé(e) dans un laboratoire vétérinaire manipulant du matériel contaminé
-  ou suceptible de l'être par le virus rabique
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: d805c67f-3c75-4049-b4d2-1148a0d5aace

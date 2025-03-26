@@ -1,0 +1,8 @@
+---
+id: 259
+group_id: f1e420cc-0822-487c-a401-934ce2b83540
+label: Travaille dans un service de médecine du travail
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 2a72a7ff-931f-4363-8b6c-d6ac1e3bf3dd

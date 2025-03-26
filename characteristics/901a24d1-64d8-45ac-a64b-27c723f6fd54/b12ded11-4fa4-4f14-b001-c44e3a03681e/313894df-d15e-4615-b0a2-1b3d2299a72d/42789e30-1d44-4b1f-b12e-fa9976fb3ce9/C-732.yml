@@ -1,0 +1,8 @@
+---
+id: 732
+group_id: 42789e30-1d44-4b1f-b12e-fa9976fb3ce9
+label: Risque élevé d'exposition à la tuberculose (évalué par le médecin du travail)
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: e6a66145-965f-4553-8538-db7b2045b4bd

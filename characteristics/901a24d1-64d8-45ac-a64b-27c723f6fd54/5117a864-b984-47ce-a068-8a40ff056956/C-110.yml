@@ -1,0 +1,8 @@
+---
+id: 110
+group_id: 5117a864-b984-47ce-a068-8a40ff056956
+label: Plongeur professionnel
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: ed505c62-2886-486f-9d06-d095a4e26e9b

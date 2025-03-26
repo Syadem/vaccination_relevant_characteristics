@@ -1,0 +1,8 @@
+---
+id: 41
+group_id: 23e892b2-a8e4-4de3-9967-ebc9d567be76
+label: Hépatopathie chronique
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 66ce1156-a8ca-4b6e-ad61-adf07f3826f7

@@ -1,7 +1,0 @@
----
-id: 917
-label: Traitement immunosuppresseur fort
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: bd6dc293-addc-417b-90dc-f4b183fe42ee

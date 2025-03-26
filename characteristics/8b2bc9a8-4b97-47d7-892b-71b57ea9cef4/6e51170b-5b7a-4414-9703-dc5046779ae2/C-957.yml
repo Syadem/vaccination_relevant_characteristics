@@ -1,0 +1,8 @@
+---
+id: 957
+group_id: 6e51170b-5b7a-4414-9703-dc5046779ae2
+label: Déficit neuro-cognitif majeur
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 330dfef5-4742-454e-9261-f46f633eb525

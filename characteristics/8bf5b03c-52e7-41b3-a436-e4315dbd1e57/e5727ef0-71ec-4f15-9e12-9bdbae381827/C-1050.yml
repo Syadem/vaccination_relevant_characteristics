@@ -1,0 +1,8 @@
+---
+id: 1050
+group_id: e5727ef0-71ec-4f15-9e12-9bdbae381827
+label: Fracture du bassin
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: adf461d0-8858-42b9-bd35-5445e5dabd59

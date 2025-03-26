@@ -1,7 +1,0 @@
----
-id: 547
-label: Maladie des coronaires
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 5c480d7f-a214-4289-a99d-3e8958fbb967

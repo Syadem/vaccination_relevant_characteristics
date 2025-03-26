@@ -1,0 +1,8 @@
+---
+id: 737
+group_id: 0a6aa24d-7e23-442d-a247-ea21c6a559b9
+label: Sérologie de l'hépatite A négative
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 44384dfb-595f-4269-8ac1-31d6bc62f179

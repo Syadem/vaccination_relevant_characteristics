@@ -1,0 +1,8 @@
+---
+id: 50
+group_id: 7921c3cd-3b56-44b4-9cdf-6fc10145a9ad
+label: Insuffisance cardiaque modérée
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 69411529-7537-4d33-be3c-45462b6cf832

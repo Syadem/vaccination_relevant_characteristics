@@ -1,7 +1,0 @@
----
-id: 580
-label: Déficit des cellules phagocytaires (granulomatose septique)
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 4f936fd9-8652-45a0-bc61-192425246c06

@@ -1,0 +1,8 @@
+---
+id: 954
+group_id: 7921c3cd-3b56-44b4-9cdf-6fc10145a9ad
+label: Cardiomyopathie
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 399be1fe-f7c1-46ae-b8b9-6d070a01fad6

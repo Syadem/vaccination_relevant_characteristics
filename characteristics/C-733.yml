@@ -1,7 +1,0 @@
----
-id: 733
-label: Diabète non équilibré par le régime
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: f8cedc4a-283b-43f0-ae53-196bbcb5d19a

@@ -1,7 +1,0 @@
----
-id: 964
-label: Résultat de la dernière sérologie covid quantitative anti-S réalisée (BAU/mL)
-type: integer
-codes:
-- nomenclature: SYADEM
-  code: 43da2299-775e-407c-b997-791b164b937e

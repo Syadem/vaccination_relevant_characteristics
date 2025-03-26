@@ -1,0 +1,8 @@
+---
+id: 605
+group_id: 21798e98-a975-4153-a693-b4b5d01c2ed2
+label: Autre profession dans le domaine de la santé
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: dec23c9f-7949-4278-81d9-34c986255349

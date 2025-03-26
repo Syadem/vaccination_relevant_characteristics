@@ -1,7 +1,0 @@
----
-id: 853
-label: Agent de service hospitalier (ASH)
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 6105512a-f40b-41f8-ac26-c46686e21224

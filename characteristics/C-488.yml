@@ -1,7 +1,0 @@
----
-id: 488
-label: Surveillance vétérinaire impossible
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: a8b3a541-56e2-41dc-ad3b-4b926c080aa2

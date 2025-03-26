@@ -1,0 +1,8 @@
+---
+id: 1048
+group_id: e5727ef0-71ec-4f15-9e12-9bdbae381827
+label: Traumatisme de forte énergie
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 74c63e08-8207-4fb1-9e74-b13c9fe0075b

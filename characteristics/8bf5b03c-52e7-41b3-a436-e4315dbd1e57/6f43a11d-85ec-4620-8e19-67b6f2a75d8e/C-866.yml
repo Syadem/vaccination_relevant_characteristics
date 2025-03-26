@@ -1,0 +1,9 @@
+---
+id: 866
+group_id: 6f43a11d-85ec-4620-8e19-67b6f2a75d8e
+label: Antécédent de réaction anaphylactique grave à un vaccin, un médicament ou un
+  aliment
+type: boolean
+codes:
+- nomenclature: SYADEM
+  code: 20e7dd2e-4ea2-4bdd-b461-030af023c8cd
