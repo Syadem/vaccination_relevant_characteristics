@@ -3,7 +3,7 @@ require "yaml"
 def handle_groups(groups, groups_by_parent, conditions_by_id, path)
   groups.each do |group|
     dir_path   = "#{path}/#{group.id}"
-    group_data = { "id" => group.id, "label" => group.label, "parent_id" => group.parent_id.empty? ? nil : group.parent_id }
+    group_data = { "id" => group.id, "label" => group.label }
 
     FileUtils.mkdir_p(dir_path)
     File.write("#{dir_path}/group.yml", group_data.to_yaml)
