@@ -1,3 +1,5 @@
 ---
 id: cf5d8a3d-74ef-40ab-8d31-b5737499ba05
 label: Anticorps antitétaniques
+parent_ids:
+- 4f38a9e3-386a-4b2d-8299-c4b943fdcef3

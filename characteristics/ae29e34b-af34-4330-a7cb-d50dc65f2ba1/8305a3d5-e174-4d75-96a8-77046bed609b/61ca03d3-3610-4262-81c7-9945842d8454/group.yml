@@ -1,3 +1,6 @@
 ---
 id: 61ca03d3-3610-4262-81c7-9945842d8454
 label: Ostéodensitométrie
+parent_ids:
+- ae29e34b-af34-4330-a7cb-d50dc65f2ba1
+- 8305a3d5-e174-4d75-96a8-77046bed609b

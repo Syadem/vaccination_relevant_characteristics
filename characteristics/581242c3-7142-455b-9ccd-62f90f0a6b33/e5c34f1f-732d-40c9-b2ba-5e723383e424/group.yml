@@ -1,3 +1,5 @@
 ---
 id: e5c34f1f-732d-40c9-b2ba-5e723383e424
 label: Précisions concernant le voyage
+parent_ids:
+- 581242c3-7142-455b-9ccd-62f90f0a6b33

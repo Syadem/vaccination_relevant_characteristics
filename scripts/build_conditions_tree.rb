@@ -1,9 +1,11 @@
 require "yaml"
 
-def handle_groups(groups, groups_by_parent, conditions_by_id, path)
+BASE_PATH = "characteristics".freeze
+
+def handle_groups(groups, groups_by_parent, conditions_by_id, parent_ids)
   groups.each do |group|
-    dir_path   = "#{path}/#{group.id}"
-    group_data = { "id" => group.id, "label" => group.label }
+    dir_path   = [BASE_PATH, *parent_ids, group.id].join("/")
+    group_data = { "id" => group.id, "label" => group.label, "parent_ids" => parent_ids }
 
     FileUtils.mkdir_p(dir_path)
     File.write("#{dir_path}/group.yml", group_data.to_yaml)
@@ -24,17 +26,16 @@ def handle_groups(groups, groups_by_parent, conditions_by_id, path)
 
     children = groups_by_parent[group.id]
 
-    handle_groups(children, groups_by_parent, conditions_by_id, dir_path) if children
+    handle_groups(children, groups_by_parent, conditions_by_id, [*parent_ids, group.id]) if children
   end
 end
 
-medcon    = Medcon::Medcon.load(lang: "fr")
-base_path = "characteristics"
+medcon = Medcon::Medcon.load(lang: "fr")
 
-FileUtils.rm_rf(base_path)
+FileUtils.rm_rf(BASE_PATH)
 
 conditions_by_id = medcon.repositories.conditions.all.map { |c| [c.id, c] }.to_h
 groups_by_parent = medcon.repositories.condition_groups.all.group_by(&:parent_id)
 root_groups      = groups_by_parent[""]
 
-handle_groups(root_groups, groups_by_parent, conditions_by_id, base_path)
+handle_groups(root_groups, groups_by_parent, conditions_by_id, [])

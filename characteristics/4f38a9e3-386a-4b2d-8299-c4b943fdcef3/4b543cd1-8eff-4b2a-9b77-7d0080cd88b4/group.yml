@@ -1,3 +1,5 @@
 ---
 id: 4b543cd1-8eff-4b2a-9b77-7d0080cd88b4
 label: Covid 19
+parent_ids:
+- 4f38a9e3-386a-4b2d-8299-c4b943fdcef3

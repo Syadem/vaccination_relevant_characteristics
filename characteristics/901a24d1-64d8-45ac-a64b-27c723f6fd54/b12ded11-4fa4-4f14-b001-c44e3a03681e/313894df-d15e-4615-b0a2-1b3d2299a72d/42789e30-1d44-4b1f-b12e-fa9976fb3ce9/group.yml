@@ -1,3 +1,7 @@
 ---
 id: 42789e30-1d44-4b1f-b12e-fa9976fb3ce9
 label: Exposition à des agents biologiques ?
+parent_ids:
+- 901a24d1-64d8-45ac-a64b-27c723f6fd54
+- b12ded11-4fa4-4f14-b001-c44e3a03681e
+- 313894df-d15e-4615-b0a2-1b3d2299a72d

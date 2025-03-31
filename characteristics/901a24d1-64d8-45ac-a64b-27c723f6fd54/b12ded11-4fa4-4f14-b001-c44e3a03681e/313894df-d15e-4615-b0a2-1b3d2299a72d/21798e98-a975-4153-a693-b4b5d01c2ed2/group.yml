@@ -1,3 +1,7 @@
 ---
 id: 21798e98-a975-4153-a693-b4b5d01c2ed2
 label: Quel métier ?
+parent_ids:
+- 901a24d1-64d8-45ac-a64b-27c723f6fd54
+- b12ded11-4fa4-4f14-b001-c44e3a03681e
+- 313894df-d15e-4615-b0a2-1b3d2299a72d

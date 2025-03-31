@@ -1,3 +1,5 @@
 ---
 id: 5117a864-b984-47ce-a068-8a40ff056956
 label: Au contact des animaux, agriculture, eaux, forêts et pêche
+parent_ids:
+- 901a24d1-64d8-45ac-a64b-27c723f6fd54

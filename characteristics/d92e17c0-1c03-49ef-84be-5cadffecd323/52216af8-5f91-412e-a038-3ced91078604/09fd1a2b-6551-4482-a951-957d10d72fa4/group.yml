@@ -1,3 +1,6 @@
 ---
 id: '09fd1a2b-6551-4482-a951-957d10d72fa4'
 label: Immunisation de la maman contre la rougeole
+parent_ids:
+- d92e17c0-1c03-49ef-84be-5cadffecd323
+- 52216af8-5f91-412e-a038-3ced91078604

@@ -1,3 +1,7 @@
 ---
 id: 8738d92e-5b53-4d1f-887f-3198af1c9906
 label: Type d'animal
+parent_ids:
+- d92e17c0-1c03-49ef-84be-5cadffecd323
+- a0ae118c-d4b8-4542-912b-1163a47d0845
+- e28238de-1f67-4244-8b20-5f7723a4d19f

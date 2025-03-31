@@ -1,3 +1,6 @@
 ---
 id: 8c992bf0-f2fa-4320-94c9-d23b0e16dc45
 label: Suveillance vétérinaire
+parent_ids:
+- d92e17c0-1c03-49ef-84be-5cadffecd323
+- a0ae118c-d4b8-4542-912b-1163a47d0845

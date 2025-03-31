@@ -1,3 +1,5 @@
 ---
 id: 0b34f776-9826-4a6e-ad5a-af86f9913ddf
 label: Maladie génétique
+parent_ids:
+- 8b2bc9a8-4b97-47d7-892b-71b57ea9cef4
