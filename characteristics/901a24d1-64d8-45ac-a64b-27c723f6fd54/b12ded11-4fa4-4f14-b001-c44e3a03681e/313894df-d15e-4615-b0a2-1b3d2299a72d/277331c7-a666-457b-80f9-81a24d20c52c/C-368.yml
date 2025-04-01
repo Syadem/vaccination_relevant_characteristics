@@ -1,8 +1,0 @@
----
-id: 368
-group_id: 277331c7-a666-457b-80f9-81a24d20c52c
-label: Travaille dans un service de néphrologie
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 98346072-a261-4c9d-a4ec-4f47856776e3

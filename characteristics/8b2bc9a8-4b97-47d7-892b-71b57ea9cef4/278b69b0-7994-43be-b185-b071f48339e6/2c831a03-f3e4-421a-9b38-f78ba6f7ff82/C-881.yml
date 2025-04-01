@@ -1,8 +1,0 @@
----
-id: 881
-group_id: 2c831a03-f3e4-421a-9b38-f78ba6f7ff82
-label: Maladie rare du foie sous immunosuppresseur
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 56d86fe0-c72c-407f-ad3c-dc12ba927285

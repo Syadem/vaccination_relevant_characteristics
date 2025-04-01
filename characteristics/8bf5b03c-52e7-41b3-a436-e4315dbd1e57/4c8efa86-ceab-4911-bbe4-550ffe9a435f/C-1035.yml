@@ -1,9 +1,0 @@
----
-id: 1035
-group_id: 4c8efa86-ceab-4911-bbe4-550ffe9a435f
-label: Malformation congénitale de l’appareil gastro-intestinal pouvant prédisposer
-  à une invagination intestinale
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 3b399d68-7043-4e86-85b5-552bde97ab7e

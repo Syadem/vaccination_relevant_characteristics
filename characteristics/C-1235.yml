@@ -1,0 +1,12 @@
+---
+id: 1235
+label: Travaille dans un service de gastroentérologie
+type: boolean
+tags:
+- Profession
+- En rapport avec la santé ou le médico-social
+- Professionnel en activité
+- Quel lieu d'exercice ?
+codes:
+- nomenclature: SYADEM
+  code: 7d56af97-074c-4135-bfa7-49795b7be3b4

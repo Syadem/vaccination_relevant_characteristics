@@ -1,0 +1,11 @@
+---
+id: 263
+label: Travaille dans un établissement ou service de la protection judiciaire de la
+  jeunesse
+type: boolean
+tags:
+- Profession
+- Justice - Administration pénitentiaire
+codes:
+- nomenclature: SYADEM
+  code: 691e3b01-7e93-419c-bcd8-80d859457974

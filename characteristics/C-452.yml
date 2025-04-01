@@ -1,0 +1,12 @@
+---
+id: 452
+label: Travaille dans un laboratoire de biologie médicale hospitalier
+type: boolean
+tags:
+- Profession
+- En rapport avec la santé ou le médico-social
+- Professionnel en activité
+- Dans quel service ?
+codes:
+- nomenclature: SYADEM
+  code: 3c08104f-8f1e-446e-a305-b7487b42e733

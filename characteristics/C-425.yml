@@ -1,0 +1,10 @@
+---
+id: 425
+label: Vascularite systémique (forme grave)
+type: boolean
+tags:
+- Affection chronique
+- Maladie inflammatoire ou auto-immune
+codes:
+- nomenclature: SYADEM
+  code: 6be00a2d-7e19-4b9a-bfb8-9962aed091b9

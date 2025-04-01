@@ -1,8 +1,0 @@
----
-id: 1107
-group_id: 7d55fe39-738f-4df0-9d7a-b4f600bdbfe2
-label: Séjour dans un centre de traitement de la toxicomanie
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 70808c06-2165-4b47-997a-4ca3518281ac

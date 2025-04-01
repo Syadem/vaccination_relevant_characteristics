@@ -1,9 +1,0 @@
----
-id: 115
-group_id: 311ab498-8f39-40cb-8779-2a5319bae2d6
-label: Membre de la famille originaire d'un pays de haute endémicité pour l'hépatite
-  A et séjour possible dans ce pays
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 5c612f68-54f2-4e64-8a8a-0e4f17ff2f15

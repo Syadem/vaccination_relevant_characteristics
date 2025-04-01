@@ -1,8 +1,0 @@
----
-id: 1199
-group_id: 93e8be33-653a-46d2-95b8-e87795bf7624
-label: Personnel affecté au service de blanchisserie
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 52c6771e-12eb-41b2-b1cd-eca9bc0ef9fd

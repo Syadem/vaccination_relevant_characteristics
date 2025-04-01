@@ -1,0 +1,9 @@
+---
+id: 144
+label: Famille bénéficiaire de la CMU, de la CMUc ou de l'AME
+type: boolean
+tags:
+- Entourage
+codes:
+- nomenclature: SYADEM
+  code: 8ef44332-6e62-4b19-804d-f2e8c1faa935

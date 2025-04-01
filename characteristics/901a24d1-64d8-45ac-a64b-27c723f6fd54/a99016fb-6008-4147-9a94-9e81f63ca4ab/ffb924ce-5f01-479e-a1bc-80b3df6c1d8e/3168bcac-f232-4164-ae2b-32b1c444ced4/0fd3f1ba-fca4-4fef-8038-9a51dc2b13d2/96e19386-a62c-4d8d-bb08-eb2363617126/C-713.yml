@@ -1,9 +1,0 @@
----
-id: 713
-group_id: 96e19386-a62c-4d8d-bb08-eb2363617126
-label: 'Mission pendant la période à risque pour l''encéphalite à tiques : du 21 mars
-  (printemps) au 30 novembre'
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 18b23bb5-28c3-421f-8af8-15b3c6383bbc

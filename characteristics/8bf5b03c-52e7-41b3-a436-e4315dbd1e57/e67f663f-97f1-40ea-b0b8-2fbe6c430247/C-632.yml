@@ -1,8 +1,0 @@
----
-id: 632
-group_id: e67f663f-97f1-40ea-b0b8-2fbe6c430247
-label: Date du dernier antécédent de coqueluche
-type: date
-codes:
-- nomenclature: SYADEM
-  code: 3b779e76-ae66-4e18-bba4-7ed81f1befb3

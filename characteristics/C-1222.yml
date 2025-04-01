@@ -1,0 +1,11 @@
+---
+id: 1222
+label: Mécanicien de bord
+type: boolean
+tags:
+- Profession
+- Personnels travaillant sur un bateau de croisière
+- Salle des machines
+codes:
+- nomenclature: SYADEM
+  code: 73fd42c4-4457-4044-896d-61b54ebf80f8

@@ -1,9 +1,0 @@
----
-id: 869
-group_id: bfde54cc-04c1-418f-8d7d-dcc7933dde04
-label: Consentement à se faire vacciner contre la covid 19 recueilli par le professionnel
-  de santé
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: c7adc54a-f7d5-4836-a990-7677f504ab81

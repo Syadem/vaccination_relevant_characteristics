@@ -1,8 +1,0 @@
----
-id: 512
-group_id: b7eb158b-a64a-4b71-9b97-8f05e547b9c4
-label: Diagnostic biologique de rage positif
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: ddeedbd6-d613-40c9-aa7c-44e6285f8a8f

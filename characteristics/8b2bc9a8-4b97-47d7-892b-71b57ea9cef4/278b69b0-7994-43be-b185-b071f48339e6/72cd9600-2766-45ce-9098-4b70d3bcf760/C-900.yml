@@ -1,8 +1,0 @@
----
-id: 900
-group_id: 72cd9600-2766-45ce-9098-4b70d3bcf760
-label: Pathologie osseuse constitutionnelle avec complications
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: ef725e96-35ec-4c7e-9152-b8b7ba130eaf

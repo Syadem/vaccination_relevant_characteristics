@@ -1,8 +1,0 @@
----
-id: 994
-group_id: 42789e30-1d44-4b1f-b12e-fa9976fb3ce9
-label: Personnels en contact répété avec des patients tuberculeux
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 29e4d4d8-1467-4e0a-bd0f-9c6bbdbe1ede

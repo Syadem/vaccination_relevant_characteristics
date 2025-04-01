@@ -1,0 +1,12 @@
+---
+id: 221
+label: Elève ergothérapeute
+type: boolean
+tags:
+- Profession
+- En rapport avec la santé ou le médico-social
+- Etudiant ou en cours de formation
+- Profession paramédicale
+codes:
+- nomenclature: SYADEM
+  code: 58d34ca5-d64f-4b85-bf83-f59dddfaf975

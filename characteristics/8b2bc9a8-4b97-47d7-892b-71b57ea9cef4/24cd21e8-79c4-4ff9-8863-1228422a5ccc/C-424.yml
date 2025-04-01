@@ -1,8 +1,0 @@
----
-id: 424
-group_id: 24cd21e8-79c4-4ff9-8863-1228422a5ccc
-label: Lupus érythémateux aigu disséminé
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: '0708f3e8-5c3b-4f99-8994-8cb749448077'

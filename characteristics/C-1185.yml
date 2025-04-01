@@ -1,0 +1,11 @@
+---
+id: 1185
+label: Matelot breveté
+type: boolean
+tags:
+- Profession
+- Personnels travaillant sur un bateau de croisière
+- Pont
+codes:
+- nomenclature: SYADEM
+  code: ac1a8555-ae08-4f2f-b5c4-cafa09584af4

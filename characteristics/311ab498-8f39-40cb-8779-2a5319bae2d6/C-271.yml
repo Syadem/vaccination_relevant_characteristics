@@ -1,9 +1,0 @@
----
-id: 271
-group_id: 311ab498-8f39-40cb-8779-2a5319bae2d6
-label: Nourrisson de moins de 6 mois, prématuré ou souffrant d'une maladie chronique
-  vivant dans l'entourage de cette personne
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 6b7c227f-f162-4671-b682-c8644ec6263c

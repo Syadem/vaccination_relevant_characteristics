@@ -1,8 +1,0 @@
----
-id: 993
-group_id: cf5d8a3d-74ef-40ab-8d31-b5737499ba05
-label: 'Date du dosage postvaccinal des anticorps antitétaniques '
-type: date
-codes:
-- nomenclature: SYADEM
-  code: 47cdaf82-b6ce-4115-9c94-b60782e96b5f

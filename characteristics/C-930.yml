@@ -1,0 +1,11 @@
+---
+id: 930
+label: Effet indésirable d'intensité sévère ou grave attribué à la première dose de
+  vaccin anti covid
+type: boolean
+tags:
+- Antécédents
+- Autres antécédents
+codes:
+- nomenclature: SYADEM
+  code: 30bb4ed0-6611-43ff-afc4-0035d4af4a83

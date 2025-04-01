@@ -1,0 +1,10 @@
+---
+id: 1167
+label: Lymphome
+type: boolean
+tags:
+- Affection chronique
+- Cancer
+codes:
+- nomenclature: SYADEM
+  code: a0a357f7-8acc-4fb2-a755-7db9ddacc541

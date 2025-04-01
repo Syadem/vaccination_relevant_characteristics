@@ -1,0 +1,11 @@
+---
+id: 884
+label: Sclérose latérale amyotrophique (SLA)
+type: boolean
+tags:
+- Affection chronique
+- Maladie rare
+- FILSLAN
+codes:
+- nomenclature: SYADEM
+  code: b5be6045-5582-4303-bda0-2c410cbb8add

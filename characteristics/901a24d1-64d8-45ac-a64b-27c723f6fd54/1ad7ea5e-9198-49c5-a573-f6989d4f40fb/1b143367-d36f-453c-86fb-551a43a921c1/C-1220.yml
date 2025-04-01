@@ -1,8 +1,0 @@
----
-id: 1220
-group_id: 1b143367-d36f-453c-86fb-551a43a921c1
-label: Ajusteur-mécanicien frigoriste urgence
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: ea71c453-4cfc-4945-ab35-fb11d3d3b529

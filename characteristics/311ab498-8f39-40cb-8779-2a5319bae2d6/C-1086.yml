@@ -1,8 +1,0 @@
----
-id: 1086
-group_id: 311ab498-8f39-40cb-8779-2a5319bae2d6
-label: Mère vaccinée contre le VRS pendant la grossesse
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 97a61f8d-27b7-4be3-8e1f-028d8c4658c9

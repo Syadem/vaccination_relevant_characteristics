@@ -1,8 +1,0 @@
----
-id: 1040
-group_id: 0a6aa24d-7e23-442d-a247-ea21c6a559b9
-label: Ac Anti-VHA (IgG ou Ig totales en UI/L)
-type: integer
-codes:
-- nomenclature: SYADEM
-  code: 62afcb29-c976-4720-9a47-8bca663b069a

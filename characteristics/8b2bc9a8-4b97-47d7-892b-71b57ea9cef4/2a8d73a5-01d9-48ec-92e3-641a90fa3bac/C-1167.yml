@@ -1,8 +1,0 @@
----
-id: 1167
-group_id: 2a8d73a5-01d9-48ec-92e3-641a90fa3bac
-label: Lymphome
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: a0a357f7-8acc-4fb2-a755-7db9ddacc541

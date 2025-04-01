@@ -1,0 +1,11 @@
+---
+id: 2
+label: Cardiopathie congénitale cyanogène
+type: boolean
+tags:
+- Affection chronique
+- Cardio - Pneumo
+- Cardiologie
+codes:
+- nomenclature: SYADEM
+  code: fb2fc5ae-4863-476f-92da-dcc846fc3aa3

@@ -1,8 +1,0 @@
----
-id: 1087
-group_id: 29737e51-c865-4a9d-bbb7-d5310a5b621e
-label: Grossesse à risque
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 9b2c457b-d5a6-48b1-9081-f89083b4c7d8

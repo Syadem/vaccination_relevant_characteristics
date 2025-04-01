@@ -1,0 +1,11 @@
+---
+id: 1181
+label: Officer en second Navigation
+type: boolean
+tags:
+- Profession
+- Personnels travaillant sur un bateau de croisière
+- Pont
+codes:
+- nomenclature: SYADEM
+  code: fcc78b5a-bde3-4cd9-a059-ba7e975e1ef9

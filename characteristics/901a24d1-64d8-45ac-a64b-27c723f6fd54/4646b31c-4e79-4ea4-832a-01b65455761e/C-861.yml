@@ -1,8 +1,0 @@
----
-id: 861
-group_id: 4646b31c-4e79-4ea4-832a-01b65455761e
-label: Profession dans le domaine bancaire
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: b04719ce-50cf-4e16-8858-6900543e4711

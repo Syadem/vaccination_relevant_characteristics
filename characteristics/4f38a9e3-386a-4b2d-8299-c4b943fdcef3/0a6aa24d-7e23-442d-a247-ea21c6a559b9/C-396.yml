@@ -1,8 +1,0 @@
----
-id: 396
-group_id: 0a6aa24d-7e23-442d-a247-ea21c6a559b9
-label: Sérologie de l'hépatite A positive
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: d6445374-196d-4bce-a26c-cd9c7a07e849

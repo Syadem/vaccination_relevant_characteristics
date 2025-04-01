@@ -1,8 +1,0 @@
----
-id: 164
-group_id: 3f27205b-c40f-4f18-b5f1-d1342233e750
-label: Sérologie de la rubéole positive
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 76a5e768-e25f-4144-be12-c4abe667ddf0

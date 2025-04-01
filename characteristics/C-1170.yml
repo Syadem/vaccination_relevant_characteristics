@@ -1,0 +1,10 @@
+---
+id: 1170
+label: Logement en dortoir
+type: boolean
+tags:
+- Conditions de vie ou de résidence
+- Vie en collectivité, résidence, institution...
+codes:
+- nomenclature: SYADEM
+  code: 3dbccd60-647e-4a12-8ad4-021f5098fb53

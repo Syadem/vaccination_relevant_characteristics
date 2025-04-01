@@ -1,8 +1,0 @@
----
-id: 1222
-group_id: 1b143367-d36f-453c-86fb-551a43a921c1
-label: Mécanicien de bord
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 73fd42c4-4457-4044-896d-61b54ebf80f8

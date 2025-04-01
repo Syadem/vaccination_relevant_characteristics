@@ -1,8 +1,0 @@
----
-id: 884
-group_id: 7f2b1c94-51f0-482b-ab66-72d7b4a58756
-label: Sclérose latérale amyotrophique (SLA)
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: b5be6045-5582-4303-bda0-2c410cbb8add

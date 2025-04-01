@@ -1,0 +1,11 @@
+---
+id: 875
+label: CADASIL ou leucoencéphalopathie vasculaire familiale apparentée
+type: boolean
+tags:
+- Affection chronique
+- Maladie rare
+- BRAIN-TEAM
+codes:
+- nomenclature: SYADEM
+  code: fca6c1dc-e403-4e45-bc65-2385102ef1e7

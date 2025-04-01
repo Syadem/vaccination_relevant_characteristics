@@ -1,8 +1,0 @@
----
-id: 141
-group_id: 85e9371a-b548-469d-ba39-46413afba1a1
-label: Corticothérapie prolongée ou à forte dose
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: aa842945-c59e-49e9-bb9d-9a22d18d2430

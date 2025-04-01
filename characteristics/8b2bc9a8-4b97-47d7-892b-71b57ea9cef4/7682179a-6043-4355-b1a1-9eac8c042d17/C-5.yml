@@ -1,8 +1,0 @@
----
-id: 5
-group_id: 7682179a-6043-4355-b1a1-9eac8c042d17
-label: Néphropathie chronique grave
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 91145070-f6a1-495b-842f-870722aad700

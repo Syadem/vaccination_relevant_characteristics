@@ -1,9 +1,0 @@
----
-id: 635
-group_id: 311ab498-8f39-40cb-8779-2a5319bae2d6
-label: Patient présentant un déficit en complément ou traité par Soliris® (eculizumab)
-  ou Ultomiris® (ravulizumab) dans l'entourage
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 47e445ae-1983-4c69-8487-77cc77c149ae

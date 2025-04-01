@@ -1,8 +1,0 @@
----
-id: 1093
-group_id: 7d55fe39-738f-4df0-9d7a-b4f600bdbfe2
-label: Enfant scolarisé
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: e5968508-caaf-4f1c-bbc5-5b8fcfccbf15

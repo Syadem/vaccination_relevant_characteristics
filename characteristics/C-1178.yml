@@ -1,0 +1,11 @@
+---
+id: 1178
+label: Agent de sûreté
+type: boolean
+tags:
+- Profession
+- Personnels travaillant sur un bateau de croisière
+- Pont
+codes:
+- nomenclature: SYADEM
+  code: c92b9f5a-4fa3-4b25-894c-366a916ee1af

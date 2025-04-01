@@ -1,0 +1,11 @@
+---
+id: 661
+label: Volontaire stagiaire du service militaire adapté (SMA)
+type: boolean
+tags:
+- Profession
+- Militaire
+- A l'incorporation
+codes:
+- nomenclature: SYADEM
+  code: f2399b8a-7674-46db-b042-11b754b7f42e

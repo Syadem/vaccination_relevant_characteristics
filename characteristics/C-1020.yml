@@ -1,0 +1,9 @@
+---
+id: 1020
+label: Contre-indication à la vaccination contre le méningocoque C
+type: boolean
+tags:
+- Contre-indications
+codes:
+- nomenclature: SYADEM
+  code: f47a1ed4-cf05-48e0-b9dc-a145623e9d58

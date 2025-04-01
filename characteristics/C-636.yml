@@ -1,0 +1,10 @@
+---
+id: 636
+label: Réfugié(e) venant d'un pays où circule le virus de la poliomyélite
+type: boolean
+tags:
+- Conditions de vie ou de résidence
+- Autres
+codes:
+- nomenclature: SYADEM
+  code: 5dfe37f5-7066-42db-b983-de97f1c8a163

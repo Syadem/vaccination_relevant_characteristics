@@ -1,0 +1,11 @@
+---
+id: 873
+label: Fibrose pulmonaire
+type: boolean
+tags:
+- Affection chronique
+- Maladie rare
+- AnDDI-Rares
+codes:
+- nomenclature: SYADEM
+  code: 39a46a0e-47e6-4376-a864-2341421f7c54

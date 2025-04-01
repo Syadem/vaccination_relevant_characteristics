@@ -1,8 +1,0 @@
----
-id: 735
-group_id: 4c8efa86-ceab-4911-bbe4-550ffe9a435f
-label: Antécédent de dysfonctionnement du thymus
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 765211bb-1279-4660-8f71-7e0bc10093f2

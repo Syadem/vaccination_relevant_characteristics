@@ -1,0 +1,11 @@
+---
+id: 1192
+label: Personnel travaillant au bar du navire
+type: boolean
+tags:
+- Profession
+- Personnels travaillant sur un bateau de croisière
+- Divers
+codes:
+- nomenclature: SYADEM
+  code: 67079635-dba2-473b-8288-a0b1012dc08b

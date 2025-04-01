@@ -1,8 +1,0 @@
----
-id: 1234
-group_id: e67f663f-97f1-40ea-b0b8-2fbe6c430247
-label: Antécédent de chikungunya
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 1a8e331e-7b1a-4b90-bb0a-b1fb188623ce

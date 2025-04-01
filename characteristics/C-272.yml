@@ -1,0 +1,12 @@
+---
+id: 272
+label: Travaille dans un service accueillant des sujets immunodéprimés
+type: boolean
+tags:
+- Profession
+- En rapport avec la santé ou le médico-social
+- Professionnel en activité
+- Dans quel service ?
+codes:
+- nomenclature: SYADEM
+  code: 30d05505-04e1-46f1-a8ae-75a93fa08732

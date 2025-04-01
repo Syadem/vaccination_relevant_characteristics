@@ -1,0 +1,9 @@
+---
+id: 575
+label: Aucune des professions énumérées dans le questionnaire
+type: boolean
+tags:
+- Profession
+codes:
+- nomenclature: SYADEM
+  code: c09429b2-0afb-486f-8c85-6430075a5eab

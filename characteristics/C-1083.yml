@@ -1,0 +1,10 @@
+---
+id: 1083
+label: Antécédent de Zona
+type: boolean
+tags:
+- Antécédents
+- Maladies infectieuses
+codes:
+- nomenclature: SYADEM
+  code: 36e9964d-66ee-4bff-9c27-b47cc2ffdd34

@@ -1,0 +1,11 @@
+---
+id: 1214
+label: Électricien en chef
+type: boolean
+tags:
+- Profession
+- Personnels travaillant sur un bateau de croisière
+- Salle des machines
+codes:
+- nomenclature: SYADEM
+  code: db9883bc-ee40-4a7c-bc73-3c993f0e1b7d

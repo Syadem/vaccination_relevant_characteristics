@@ -1,0 +1,11 @@
+---
+id: 1224
+label: Chef mécanicien adjoint
+type: boolean
+tags:
+- Profession
+- Personnels travaillant sur un bateau de croisière
+- Salle des machines
+codes:
+- nomenclature: SYADEM
+  code: d6791865-2133-4c6b-a00f-9902937c3306

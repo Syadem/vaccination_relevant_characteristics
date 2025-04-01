@@ -1,0 +1,11 @@
+---
+id: 894
+label: Vascularite à ANCA sous traitement immunosuppresseur
+type: boolean
+tags:
+- Affection chronique
+- Maladie rare
+- ORKiD
+codes:
+- nomenclature: SYADEM
+  code: 4cd76120-e648-4793-b813-871d46c022dc

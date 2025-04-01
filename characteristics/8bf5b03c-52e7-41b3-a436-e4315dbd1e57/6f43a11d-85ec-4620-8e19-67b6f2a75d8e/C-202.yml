@@ -1,8 +1,0 @@
----
-id: 202
-group_id: 6f43a11d-85ec-4620-8e19-67b6f2a75d8e
-label: Allergie à l'oeuf
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 443bfcdf-ff9c-4aa7-b032-bf57aaf36fce

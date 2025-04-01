@@ -1,8 +1,0 @@
----
-id: 963
-group_id: 3d1da56e-01e8-4abd-98f8-ca1b469ed193
-label: Taille (cm)
-type: integer
-codes:
-- nomenclature: SYADEM
-  code: f5d80cbf-dfb9-4cbd-a0ef-b2eb39689006

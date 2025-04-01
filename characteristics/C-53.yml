@@ -1,0 +1,9 @@
+---
+id: 53
+label: Femme enceinte dans l'entourage
+type: boolean
+tags:
+- Entourage
+codes:
+- nomenclature: SYADEM
+  code: 72d35433-2bde-47a8-8daf-fe4fc5856b0e

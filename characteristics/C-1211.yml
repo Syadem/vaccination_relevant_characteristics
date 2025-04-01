@@ -1,0 +1,11 @@
+---
+id: 1211
+label: Magasinier adjoint du service machine
+type: boolean
+tags:
+- Profession
+- Personnels travaillant sur un bateau de croisière
+- Salle des machines
+codes:
+- nomenclature: SYADEM
+  code: e357f117-6d84-40df-b4f6-27f6a2da9076

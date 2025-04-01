@@ -1,9 +1,0 @@
----
-id: 889
-group_id: a978e765-c0db-40a5-97bb-587f062bede6
-label: 'SASH3 : forme exceptionnelle qui associe parfois une neutropénie à un déficit
-  lymphocytaire'
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 14a734d6-43dd-4c2f-9479-706687b3bbc4

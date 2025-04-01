@@ -1,9 +1,0 @@
----
-id: 609
-group_id: a1a47bf2-8b84-40a3-a08a-f2ffb416332d
-label: Employé(e) dans une entreprise de transport de corps avant mise en bière, en
-  lien avec un établissement de prévention ou de soins
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 540827c8-87f2-44cf-9a0d-3606d7132ad4

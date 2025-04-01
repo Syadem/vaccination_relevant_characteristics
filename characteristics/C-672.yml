@@ -1,0 +1,10 @@
+---
+id: 672
+label: Migrant(e) récemment arrivé en France
+type: boolean
+tags:
+- Conditions de vie ou de résidence
+- Autres
+codes:
+- nomenclature: SYADEM
+  code: 90dfdcc0-4da8-48cc-b80b-4e3fcfe1d8c0

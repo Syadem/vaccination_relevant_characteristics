@@ -1,8 +1,0 @@
----
-id: 158
-group_id: 000b0fd3-7586-4726-8226-94efb2ad9416
-label: Sérologie de la varicelle positive
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: cdefd727-abc0-4b74-946b-d6db82627d66

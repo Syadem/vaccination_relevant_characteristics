@@ -1,9 +1,0 @@
----
-id: 890
-group_id: 0741d4db-9fbc-46ef-b502-20ce6c9ab42f
-label: Complication immunitaire sous la forme d’anticorps dirigés contre leur principe
-  thérapeutique habituellement utilisé
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 63132acc-91e6-4b60-a2b4-617e3aac0021

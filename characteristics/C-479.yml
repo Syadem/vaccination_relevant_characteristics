@@ -1,0 +1,11 @@
+---
+id: 479
+label: Thrombopénie
+type: boolean
+tags:
+- Affection chronique
+- Hématologie - Hémostase
+- Trouble de l'hémostase ou de la coagulation
+codes:
+- nomenclature: SYADEM
+  code: d414d9f3-1ad6-4e24-8673-c964a5179588

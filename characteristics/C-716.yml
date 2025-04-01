@@ -1,0 +1,15 @@
+---
+id: 716
+label: 'Mission d''un(e) militaire en Allemagne : arrondissements SANS risque d''encéphalite
+  à tiques'
+type: boolean
+tags:
+- Profession
+- Militaire
+- Après l'incorporation
+- Mission OM-OPEX-Embarquement
+- Europe
+- Pays avec cas sporadiques d'encéphalite à tiques ou données peu documentées
+codes:
+- nomenclature: SYADEM
+  code: '09283eb4-488b-4275-9373-ced5cf6f5220'

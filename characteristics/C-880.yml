@@ -1,0 +1,11 @@
+---
+id: 880
+label: Maladie auto-immune systémique rare avec traitement immunosuppresseur
+type: boolean
+tags:
+- Affection chronique
+- Maladie rare
+- FAI2R
+codes:
+- nomenclature: SYADEM
+  code: efe94a32-58b9-477e-8e87-a5ba68cbd3fe

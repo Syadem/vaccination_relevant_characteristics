@@ -1,8 +1,0 @@
----
-id: 273
-group_id: 277331c7-a666-457b-80f9-81a24d20c52c
-label: Travaille dans une maternité
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: '0588713f-9e30-4b58-8da2-0710bcd799a4'

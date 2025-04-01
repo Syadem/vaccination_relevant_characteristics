@@ -1,0 +1,10 @@
+---
+id: 1231
+label: Personne immunodéprimée
+type: boolean
+tags:
+- Affection chronique
+- Déficit immunitaire
+codes:
+- nomenclature: SYADEM
+  code: 94e74a9b-297d-42d5-9bbc-5648e864d330

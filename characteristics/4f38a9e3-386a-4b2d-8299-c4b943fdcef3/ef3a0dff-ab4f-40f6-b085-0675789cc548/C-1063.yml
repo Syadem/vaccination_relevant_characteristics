@@ -1,8 +1,0 @@
----
-id: 1063
-group_id: ef3a0dff-ab4f-40f6-b085-0675789cc548
-label: Date de la dernière sérologie antirabique
-type: date
-codes:
-- nomenclature: SYADEM
-  code: 720de9c5-af60-4a8a-961b-4e4d0ded3413

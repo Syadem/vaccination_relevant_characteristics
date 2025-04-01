@@ -1,0 +1,9 @@
+---
+id: 1173
+label: Lésions cutanée pouvant exposer au risque tétanique
+type: boolean
+tags:
+- Divers
+codes:
+- nomenclature: SYADEM
+  code: 15c6acd0-c8bf-47b3-ae67-8ebbbba895d1

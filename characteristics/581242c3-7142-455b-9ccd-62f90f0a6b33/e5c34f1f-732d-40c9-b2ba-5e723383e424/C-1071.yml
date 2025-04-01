@@ -1,9 +1,0 @@
----
-id: 1071
-group_id: e5c34f1f-732d-40c9-b2ba-5e723383e424
-label: Activité dans le secteur de la santé, des secours ou auprès de réfugiés dans
-  le pays visité
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 0eb0577a-45f9-4a33-a709-9cd62883c44d

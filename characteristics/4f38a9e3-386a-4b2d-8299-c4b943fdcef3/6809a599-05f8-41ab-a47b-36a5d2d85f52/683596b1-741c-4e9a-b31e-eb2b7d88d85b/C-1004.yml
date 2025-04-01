@@ -1,8 +1,0 @@
----
-id: 1004
-group_id: 683596b1-741c-4e9a-b31e-eb2b7d88d85b
-label: Date de la sérologie Ac anti-HBs
-type: date
-codes:
-- nomenclature: SYADEM
-  code: ec392bd2-6eee-4072-806d-6b6d1c51e513

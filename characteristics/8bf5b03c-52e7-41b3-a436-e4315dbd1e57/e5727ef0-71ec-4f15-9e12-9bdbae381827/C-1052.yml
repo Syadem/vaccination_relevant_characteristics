@@ -1,8 +1,0 @@
----
-id: 1052
-group_id: e5727ef0-71ec-4f15-9e12-9bdbae381827
-label: Fracture du col du fémur
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: ec57e205-93bf-4987-b9ab-53226e1ebf5c

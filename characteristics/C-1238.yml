@@ -1,0 +1,10 @@
+---
+id: 1238
+label: Agriculteur
+type: boolean
+tags:
+- Profession
+- Au contact des animaux, agriculture, eaux, forêts et pêche
+codes:
+- nomenclature: SYADEM
+  code: b4aef972-22d9-4620-a492-465850de3e4f

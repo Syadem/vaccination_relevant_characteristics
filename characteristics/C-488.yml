@@ -1,0 +1,11 @@
+---
+id: 488
+label: Surveillance vétérinaire impossible
+type: boolean
+tags:
+- Situation d'urgence
+- Suspicion d'exposition a la rage
+- Suveillance vétérinaire
+codes:
+- nomenclature: SYADEM
+  code: a8b3a541-56e2-41dc-ad3b-4b926c080aa2

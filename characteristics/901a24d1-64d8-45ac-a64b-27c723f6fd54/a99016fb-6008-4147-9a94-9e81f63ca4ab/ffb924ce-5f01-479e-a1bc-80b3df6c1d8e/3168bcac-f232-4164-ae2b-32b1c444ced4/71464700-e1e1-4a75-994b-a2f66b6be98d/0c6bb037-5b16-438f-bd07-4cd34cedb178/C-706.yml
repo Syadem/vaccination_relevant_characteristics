@@ -1,9 +1,0 @@
----
-id: 706
-group_id: 0c6bb037-5b16-438f-bd07-4cd34cedb178
-label: Mission d'un(e) militaire avec risque de projection de Djibouti vers un pays
-  endémique pour la fièvre jaune
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 8e1d0237-2fd3-465d-acd0-95dd5f8fc534

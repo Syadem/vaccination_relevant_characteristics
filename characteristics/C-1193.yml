@@ -1,0 +1,11 @@
+---
+id: 1193
+label: Personnel travaillant dans les boutiques du navire
+type: boolean
+tags:
+- Profession
+- Personnels travaillant sur un bateau de croisière
+- Divers
+codes:
+- nomenclature: SYADEM
+  code: '0145618b-1466-46ce-b01e-135f6de444fc'

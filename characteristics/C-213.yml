@@ -1,0 +1,12 @@
+---
+id: 213
+label: Etudes de sage-femme
+type: boolean
+tags:
+- Profession
+- En rapport avec la santé ou le médico-social
+- Etudiant ou en cours de formation
+- Profession médicale ou pharmaceutique
+codes:
+- nomenclature: SYADEM
+  code: a59aa8a4-9603-4037-a564-57cf736de32a

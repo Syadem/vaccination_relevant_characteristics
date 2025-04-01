@@ -1,0 +1,11 @@
+---
+id: 1200
+label: Personnel médical de bord
+type: boolean
+tags:
+- Profession
+- Personnels travaillant sur un bateau de croisière
+- Divers
+codes:
+- nomenclature: SYADEM
+  code: ef05372f-cf14-44d8-83ff-93f05ae4f022

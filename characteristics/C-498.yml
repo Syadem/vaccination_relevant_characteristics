@@ -1,0 +1,12 @@
+---
+id: 498
+label: Résultat du diagnostic biologique positif
+type: boolean
+tags:
+- Situation d'urgence
+- Suspicion d'exposition a la rage
+- Contact direct avec un mammifére dans un pays d'enzootie rabique
+- Possible
+codes:
+- nomenclature: SYADEM
+  code: 89c8a5b0-f740-44c8-acbb-d523c7fa62a1

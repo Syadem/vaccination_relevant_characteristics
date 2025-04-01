@@ -1,8 +1,0 @@
----
-id: 901
-group_id: d1de2bce-5011-4150-bcce-4dcf8528117f
-label: Hypertension Artérielle Pulmonaire (HTAP)
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: c0ea8199-f65d-4c65-bfd1-bb08e862e34c

@@ -1,8 +1,0 @@
----
-id: 1056
-group_id: 659a41ee-15f4-47ce-921b-6f5e03523128
-label: 'Radio rachis : pas de fracture vertébrale'
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 5fcdd69c-e372-4368-8dc4-0c1a0921badd

@@ -1,8 +1,0 @@
----
-id: 880
-group_id: 80cc0e84-4963-4c1d-9e91-555b48e81855
-label: Maladie auto-immune systémique rare avec traitement immunosuppresseur
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: efe94a32-58b9-477e-8e87-a5ba68cbd3fe

@@ -1,8 +1,0 @@
----
-id: 495
-group_id: bfd8a30f-79be-495d-8294-f46c6ab2905d
-label: Résultat de la surveillance vétérinaire en cours
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 432e9b48-b51b-4c0b-9523-b43aa2e31ca7

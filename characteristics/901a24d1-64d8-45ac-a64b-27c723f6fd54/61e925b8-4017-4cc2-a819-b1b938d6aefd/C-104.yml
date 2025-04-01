@@ -1,8 +1,0 @@
----
-id: 104
-group_id: 61e925b8-4017-4cc2-a819-b1b938d6aefd
-label: Travaille dans un établissement pénitentiaire ou un service de probation
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: a11ed8c7-1be7-4cae-9ebf-2935406f7c4c

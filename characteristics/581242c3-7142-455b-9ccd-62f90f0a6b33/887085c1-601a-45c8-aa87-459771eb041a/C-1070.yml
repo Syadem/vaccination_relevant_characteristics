@@ -1,8 +1,0 @@
----
-id: 1070
-group_id: 887085c1-601a-45c8-aa87-459771eb041a
-label: Séjour en milieu rural ou en forêt
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 32b16fcf-309e-4587-a9d2-4777686f511b

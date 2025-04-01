@@ -1,8 +1,0 @@
----
-id: 1059
-group_id: a714368a-a41a-4212-ba97-41d83155a81c
-label: Bilan biologique ciblé sur l’ostéoporose normal
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: e044d0c9-2f84-484f-abc9-088cfd66a93a

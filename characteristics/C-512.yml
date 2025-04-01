@@ -1,0 +1,13 @@
+---
+id: 512
+label: Diagnostic biologique de rage positif
+type: boolean
+tags:
+- Situation d'urgence
+- Suspicion d'exposition a la rage
+- Contact avec un mammifère dans un pays indemne de rage
+- Diagnostic biologique
+- Possible
+codes:
+- nomenclature: SYADEM
+  code: ddeedbd6-d613-40c9-aa7c-44e6285f8a8f

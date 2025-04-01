@@ -1,0 +1,10 @@
+---
+id: 746
+label: Allergie aux aminosides (néomycine, kanamycine...)
+type: boolean
+tags:
+- Antécédents
+- Allergies
+codes:
+- nomenclature: SYADEM
+  code: 6bce50cb-ee35-4fe9-981a-a52911afeeb5

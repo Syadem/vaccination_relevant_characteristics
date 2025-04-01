@@ -1,0 +1,11 @@
+---
+id: 1213
+label: Elève officier salle des machines
+type: boolean
+tags:
+- Profession
+- Personnels travaillant sur un bateau de croisière
+- Salle des machines
+codes:
+- nomenclature: SYADEM
+  code: 830af576-f7cd-4a41-9f91-efd54a2b494c

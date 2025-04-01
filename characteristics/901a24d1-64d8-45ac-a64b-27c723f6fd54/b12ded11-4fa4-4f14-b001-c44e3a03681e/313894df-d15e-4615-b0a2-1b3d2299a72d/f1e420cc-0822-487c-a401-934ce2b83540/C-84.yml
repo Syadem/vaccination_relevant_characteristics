@@ -1,8 +1,0 @@
----
-id: 84
-group_id: f1e420cc-0822-487c-a401-934ce2b83540
-label: Travaille dans un établissement ou service pour l'enfance et la jeunesse handicapées
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: d7a8992c-d3b3-4da3-be75-3030ebd88853

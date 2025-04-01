@@ -1,0 +1,10 @@
+---
+id: 583
+label: Maladie de Bruton (agammaglobulinémie liée à l'X)
+type: boolean
+tags:
+- Affection chronique
+- Déficit immunitaire
+codes:
+- nomenclature: SYADEM
+  code: f50979ee-0c89-4b06-a202-b1273675d022

@@ -1,8 +1,0 @@
----
-id: 1080
-group_id: d026565f-0cc5-4254-a5ae-34fa57c6ca7f
-label: QUANTIFERON (résultat en UI/L)
-type: float
-codes:
-- nomenclature: SYADEM
-  code: 9b316793-06ed-462a-a5e9-baac63b8e4d7

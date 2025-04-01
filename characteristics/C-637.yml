@@ -1,0 +1,10 @@
+---
+id: 637
+label: Cicatrice vaccinale du BCG
+type: boolean
+tags:
+- Informations générales
+- Autres informations
+codes:
+- nomenclature: SYADEM
+  code: ad7d3400-7c63-4581-ba87-5688fba50fae

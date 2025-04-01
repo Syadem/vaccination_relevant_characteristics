@@ -1,8 +1,0 @@
----
-id: 147
-group_id: e67f663f-97f1-40ea-b0b8-2fbe6c430247
-label: Antécédent d'infection ourlienne (oreillons)
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: d93ea675-4023-4a42-86d1-8f357253d2a1

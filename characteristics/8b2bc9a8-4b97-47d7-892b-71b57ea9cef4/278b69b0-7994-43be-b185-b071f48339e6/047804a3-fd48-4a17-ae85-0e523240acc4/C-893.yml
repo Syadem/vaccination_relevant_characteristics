@@ -1,8 +1,0 @@
----
-id: 893
-group_id: '047804a3-fd48-4a17-ae85-0e523240acc4'
-label: SNI (SNLGM ou HSF) actif ou GEM active et/ou soumis à un traitement immunosuppresseur
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: a19e4ecf-a02b-4858-bb6e-b8e7610f385e

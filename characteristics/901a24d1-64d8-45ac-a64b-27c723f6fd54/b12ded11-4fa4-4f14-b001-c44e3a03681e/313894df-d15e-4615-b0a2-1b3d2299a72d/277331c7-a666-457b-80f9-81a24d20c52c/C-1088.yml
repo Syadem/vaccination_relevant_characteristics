@@ -1,8 +1,0 @@
----
-id: 1088
-group_id: 277331c7-a666-457b-80f9-81a24d20c52c
-label: Travaille dans un laboratoire manipulant le virus monkeypox
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 73de117f-22b8-474b-b746-1c53caa9a8ae

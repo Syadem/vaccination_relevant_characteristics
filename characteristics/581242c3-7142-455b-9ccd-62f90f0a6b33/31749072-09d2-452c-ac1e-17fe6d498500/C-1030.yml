@@ -1,9 +1,0 @@
----
-id: 1030
-group_id: 31749072-09d2-452c-ac1e-17fe6d498500
-label: Voyage se limitant à Beijing, Shanghai, Hong Kong, Kowloon, Macao ou d'autres
-  grandes villes
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: de3dd005-4f70-467c-8f2c-5c16447b872f

@@ -1,9 +1,0 @@
----
-id: 492
-group_id: ddda346c-1b62-4961-b480-066c401a00e2
-label: Contact direct en zone d'enzootie rabique avec un autre mammifère (chien, chat,
-  furet, rat, écureuil, cervidé, bovin, ovin, caprin, équidé, chiroptère, faune sauvage).
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 94072784-b828-4c44-8f0d-80837f73150c

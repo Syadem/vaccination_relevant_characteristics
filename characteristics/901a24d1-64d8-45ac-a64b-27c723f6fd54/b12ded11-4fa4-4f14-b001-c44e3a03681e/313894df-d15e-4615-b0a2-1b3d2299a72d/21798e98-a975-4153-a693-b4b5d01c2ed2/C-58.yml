@@ -1,8 +1,0 @@
----
-id: 58
-group_id: 21798e98-a975-4153-a693-b4b5d01c2ed2
-label: Sage-femme
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: fa2d85de-0160-48a6-9c39-c041dc35ef94

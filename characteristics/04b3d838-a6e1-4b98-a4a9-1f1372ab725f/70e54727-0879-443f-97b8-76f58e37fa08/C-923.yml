@@ -1,8 +1,0 @@
----
-id: 923
-group_id: 70e54727-0879-443f-97b8-76f58e37fa08
-label: Personne sans risque d'exposition à la rage
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 4dc3445e-79df-4cc6-9e43-60baddfb0807

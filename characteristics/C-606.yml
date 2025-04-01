@@ -1,0 +1,11 @@
+---
+id: 606
+label: Travaille dans une blanchisserie en lien avec un établissement de prévention
+  ou de soins
+type: boolean
+tags:
+- Profession
+- Restauration - Blanchisserie - Tatouage
+codes:
+- nomenclature: SYADEM
+  code: 7f2391b4-ef98-4a85-8e15-8825f00c9d85

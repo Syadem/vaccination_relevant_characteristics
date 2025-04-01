@@ -1,0 +1,12 @@
+---
+id: 844
+label: Aide à domicile
+type: boolean
+tags:
+- Profession
+- En rapport avec la santé ou le médico-social
+- Professionnel en activité
+- Quel métier ?
+codes:
+- nomenclature: SYADEM
+  code: ce84d14c-7e28-453c-aff9-66310c18e22b

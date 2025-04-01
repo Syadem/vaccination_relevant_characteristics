@@ -1,0 +1,10 @@
+---
+id: 924
+label: Leucémie lymphoïde chronique
+type: boolean
+tags:
+- Affection chronique
+- Cancer
+codes:
+- nomenclature: SYADEM
+  code: 677fe080-37c1-40aa-aba0-c24a56f1f288

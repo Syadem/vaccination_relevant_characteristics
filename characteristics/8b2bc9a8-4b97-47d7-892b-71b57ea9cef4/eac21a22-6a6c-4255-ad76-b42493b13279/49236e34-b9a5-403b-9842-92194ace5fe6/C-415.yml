@@ -1,9 +1,0 @@
----
-id: 415
-group_id: 49236e34-b9a5-403b-9842-92194ace5fe6
-label: En attente d'une transplantation de cellules souches hématopoïétiques (greffe
-  de moelle)
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: d8135e67-7180-4806-91e9-c31f26f8d81a

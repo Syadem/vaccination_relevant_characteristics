@@ -1,8 +1,0 @@
----
-id: 1081
-group_id: 29737e51-c865-4a9d-bbb7-d5310a5b621e
-label: Date de début de grossesse
-type: date
-codes:
-- nomenclature: SYADEM
-  code: a6437c27-0d73-44ad-a7bd-7a34d468c384

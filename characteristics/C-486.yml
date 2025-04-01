@@ -1,0 +1,11 @@
+---
+id: 486
+label: Animal mort
+type: boolean
+tags:
+- Situation d'urgence
+- Suspicion d'exposition a la rage
+- Statut de l'animal (vivant, mort, disparu)
+codes:
+- nomenclature: SYADEM
+  code: e13fbef7-44e7-4711-b946-ecff8482f72b

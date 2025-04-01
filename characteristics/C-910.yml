@@ -1,0 +1,10 @@
+---
+id: 910
+label: Allergie (autre qu'une anaphylaxie) à un vaccin précédemment administré
+type: boolean
+tags:
+- Antécédents
+- Allergies
+codes:
+- nomenclature: SYADEM
+  code: ebcb5c27-3631-45a8-954d-6ec1c68e7838

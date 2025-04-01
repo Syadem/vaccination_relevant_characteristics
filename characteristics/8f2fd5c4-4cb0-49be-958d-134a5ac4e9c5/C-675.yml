@@ -1,8 +1,0 @@
----
-id: 675
-group_id: 8f2fd5c4-4cb0-49be-958d-134a5ac4e9c5
-label: Refus de vaccination contre Haemophilus influenzae type b
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 93b9e435-c5bb-48c8-86dd-4eae71ac8fea

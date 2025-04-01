@@ -1,0 +1,10 @@
+---
+id: 1018
+label: Contre-indication à la vaccination contre la rougeole, les oreillons et la
+  rubéole (ROR)
+type: boolean
+tags:
+- Contre-indications
+codes:
+- nomenclature: SYADEM
+  code: 703b9edc-7ad3-4a7f-92be-e8db968a8107

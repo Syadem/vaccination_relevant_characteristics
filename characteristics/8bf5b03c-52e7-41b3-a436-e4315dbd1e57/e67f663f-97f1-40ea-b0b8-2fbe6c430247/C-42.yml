@@ -1,8 +1,0 @@
----
-id: 42
-group_id: e67f663f-97f1-40ea-b0b8-2fbe6c430247
-label: Antécédent d'infection pulmonaire ou invasive à pneumocoque
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: af34705f-a8ad-4c00-b3f7-2057807db19b

@@ -1,0 +1,10 @@
+---
+id: 1230
+label: 'Professionnel de la lutte antivectorielle (LAV) '
+type: boolean
+tags:
+- Profession
+- Assainissement - Environnement
+codes:
+- nomenclature: SYADEM
+  code: c2a894c4-cc70-4e09-b7a3-7559a4dbca43

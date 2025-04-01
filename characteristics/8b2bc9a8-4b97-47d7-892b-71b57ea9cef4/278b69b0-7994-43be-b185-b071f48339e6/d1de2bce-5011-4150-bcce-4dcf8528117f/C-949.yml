@@ -1,8 +1,0 @@
----
-id: 949
-group_id: d1de2bce-5011-4150-bcce-4dcf8528117f
-label: Pathologie restrictive extrapulmonaire sévère
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 99aeab68-ab64-451b-abac-35d36dd3c267

@@ -1,8 +1,0 @@
----
-id: 478
-group_id: 78d06a67-d8b4-47f5-9eb0-4e57bf9d8841
-label: Traitement anticoagulant
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 14090046-ae82-473d-8469-fb53dae19f49

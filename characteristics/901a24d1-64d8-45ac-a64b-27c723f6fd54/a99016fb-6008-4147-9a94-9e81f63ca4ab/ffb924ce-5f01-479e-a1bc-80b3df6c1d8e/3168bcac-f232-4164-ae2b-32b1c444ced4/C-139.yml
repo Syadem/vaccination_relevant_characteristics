@@ -1,8 +1,0 @@
----
-id: 139
-group_id: 3168bcac-f232-4164-ae2b-32b1c444ced4
-label: Militaire avec mise en condition pour une mission OM-OPEX-Embarquement
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 33aee9ac-dbb1-40f5-bd87-e73bd7b1bc42

@@ -1,8 +1,0 @@
----
-id: 862
-group_id: ea97fea5-9213-4a1c-9b74-a7b11c91522c
-label: Autre profession dans le domaine du transport
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: bbcdb2c0-f709-4d24-9cd3-3732e0e601ad

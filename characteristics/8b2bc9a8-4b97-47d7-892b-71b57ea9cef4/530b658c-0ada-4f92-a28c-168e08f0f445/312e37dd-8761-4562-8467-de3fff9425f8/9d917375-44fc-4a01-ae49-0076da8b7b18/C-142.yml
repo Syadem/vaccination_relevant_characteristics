@@ -1,8 +1,0 @@
----
-id: 142
-group_id: 9d917375-44fc-4a01-ae49-0076da8b7b18
-label: Autre maladie respiratoire chronique
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 8ef080ec-60f8-4eb0-8fae-463c2c2f3cd8

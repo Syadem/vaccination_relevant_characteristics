@@ -1,8 +1,0 @@
----
-id: 970
-group_id: 21798e98-a975-4153-a693-b4b5d01c2ed2
-label: Physicien médical
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: bbe12370-5cb7-4e73-83b5-9367a21525e3

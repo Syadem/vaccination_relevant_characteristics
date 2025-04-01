@@ -1,0 +1,9 @@
+---
+id: 621
+label: Refus de vaccination contre la fièvre jaune
+type: boolean
+tags:
+- Vaccinations non souhaitées
+codes:
+- nomenclature: SYADEM
+  code: c392da83-c503-49b2-976c-b0ff41b3cce3

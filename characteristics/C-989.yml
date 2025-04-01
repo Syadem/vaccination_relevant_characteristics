@@ -1,0 +1,11 @@
+---
+id: 989
+label: Ac anti-HBs (UI/L)
+type: integer
+tags:
+- Examens biologiques
+- Hépatite B
+- Anti-HBs
+codes:
+- nomenclature: SYADEM
+  code: ddb41e0b-541b-4672-b35e-81056e08a67a

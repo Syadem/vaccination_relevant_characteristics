@@ -1,8 +1,0 @@
----
-id: 2
-group_id: 7921c3cd-3b56-44b4-9cdf-6fc10145a9ad
-label: Cardiopathie congénitale cyanogène
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: fb2fc5ae-4863-476f-92da-dcc846fc3aa3

@@ -1,0 +1,11 @@
+---
+id: 1004
+label: Date de la sérologie Ac anti-HBs
+type: date
+tags:
+- Examens biologiques
+- Hépatite B
+- Anti-HBs
+codes:
+- nomenclature: SYADEM
+  code: ec392bd2-6eee-4072-806d-6b6d1c51e513

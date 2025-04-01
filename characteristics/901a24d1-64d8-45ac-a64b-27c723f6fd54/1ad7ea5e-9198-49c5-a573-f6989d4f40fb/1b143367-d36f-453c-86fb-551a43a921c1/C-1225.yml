@@ -1,8 +1,0 @@
----
-id: 1225
-group_id: 1b143367-d36f-453c-86fb-551a43a921c1
-label: Aide-mécanicien
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 57d944a5-5de8-4608-a49f-33a55a301aeb

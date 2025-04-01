@@ -1,0 +1,10 @@
+---
+id: 534
+label: Réside dans un établissement d'hébergement pour adultes handicapés
+type: boolean
+tags:
+- Conditions de vie ou de résidence
+- Vie en collectivité, résidence, institution...
+codes:
+- nomenclature: SYADEM
+  code: b3dcf489-300b-4f22-91ce-88c79a465409

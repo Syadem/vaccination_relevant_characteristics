@@ -1,8 +1,0 @@
----
-id: 97
-group_id: d32f2b0b-2044-4571-94f3-73138bff55d9
-label: Professionnel impliqué dans la préparation alimentaire en restauration collective
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: d0b03f89-4931-4669-9014-23c2ae7a26fb

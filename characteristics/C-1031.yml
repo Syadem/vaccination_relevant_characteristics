@@ -1,0 +1,10 @@
+---
+id: 1031
+label: Date de fin d’une chimiothérapie pour hémopathie maligne (leucémie)
+type: date
+tags:
+- Traitements
+- Traitement(s) ayant une influence sur l'immunité
+codes:
+- nomenclature: SYADEM
+  code: 2481d334-0210-4681-ac4f-b2caf83bf482

@@ -1,0 +1,9 @@
+---
+id: 174
+label: Antécédent familial de tuberculose (collatéraux ou ascendants directs)
+type: boolean
+tags:
+- Entourage
+codes:
+- nomenclature: SYADEM
+  code: 759bcb41-c1ae-4a18-afb6-cc0494c893bb

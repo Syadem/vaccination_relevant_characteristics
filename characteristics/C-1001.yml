@@ -1,0 +1,9 @@
+---
+id: 1001
+label: Personne-contact à risque de mpox
+type: boolean
+tags:
+- Entourage
+codes:
+- nomenclature: SYADEM
+  code: ae6b4049-c300-4c93-a994-7b46ff47829b

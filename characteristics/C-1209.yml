@@ -1,0 +1,11 @@
+---
+id: 1209
+label: " Ingénieur mécanicien de troisième classe"
+type: boolean
+tags:
+- Profession
+- Personnels travaillant sur un bateau de croisière
+- Salle des machines
+codes:
+- nomenclature: SYADEM
+  code: 799a1e7a-6239-441d-9bd6-71578f9c88c4

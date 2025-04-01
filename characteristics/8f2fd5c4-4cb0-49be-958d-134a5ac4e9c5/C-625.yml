@@ -1,8 +1,0 @@
----
-id: 625
-group_id: 8f2fd5c4-4cb0-49be-958d-134a5ac4e9c5
-label: Refus de vaccination contre la rage
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: ff30994b-cb4f-4311-b754-1f20a4580f5a

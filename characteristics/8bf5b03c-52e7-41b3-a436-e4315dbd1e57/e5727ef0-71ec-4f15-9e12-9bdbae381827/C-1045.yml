@@ -1,8 +1,0 @@
----
-id: 1045
-group_id: e5727ef0-71ec-4f15-9e12-9bdbae381827
-label: Antécédent de fracture du col fémoral chez 1 parent au 1er degré
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: d93a0528-c6e3-4486-9afa-30cc86545e77

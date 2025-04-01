@@ -1,8 +1,0 @@
----
-id: 148
-group_id: e67f663f-97f1-40ea-b0b8-2fbe6c430247
-label: Antécédent de rubéole
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: ba815176-b30f-4c7e-a84a-763305d45160

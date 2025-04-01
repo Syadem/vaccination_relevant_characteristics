@@ -1,8 +1,0 @@
----
-id: 249
-group_id: f1e420cc-0822-487c-a401-934ce2b83540
-label: Travaille dans un laboratoire de biologie médicale
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: d6214eb2-d432-4383-985b-78f7c26c06f9

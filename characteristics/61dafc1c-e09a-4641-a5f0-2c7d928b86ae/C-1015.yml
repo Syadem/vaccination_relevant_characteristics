@@ -1,8 +1,0 @@
----
-id: 1015
-group_id: 61dafc1c-e09a-4641-a5f0-2c7d928b86ae
-label: Contre-indication à la vaccination contre l'hépatite A
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: f45fe651-ddb8-4ccc-b44c-0f216e419bb0

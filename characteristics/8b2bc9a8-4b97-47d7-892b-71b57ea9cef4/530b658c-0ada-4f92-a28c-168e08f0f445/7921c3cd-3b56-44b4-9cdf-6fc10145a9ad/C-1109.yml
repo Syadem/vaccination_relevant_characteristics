@@ -1,8 +1,0 @@
----
-id: 1109
-group_id: 7921c3cd-3b56-44b4-9cdf-6fc10145a9ad
-label: Insuffisance cardiaque
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 40d35abf-5e17-421c-a274-3cd8fdf9618a

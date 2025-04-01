@@ -1,0 +1,11 @@
+---
+id: 1219
+label: Ajusteur-mécanicien frigoriste
+type: boolean
+tags:
+- Profession
+- Personnels travaillant sur un bateau de croisière
+- Salle des machines
+codes:
+- nomenclature: SYADEM
+  code: c4f5edcd-90fa-44ab-a89e-80ab5104c11b

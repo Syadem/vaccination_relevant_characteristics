@@ -1,8 +1,0 @@
----
-id: 499
-group_id: ead2bed0-c1c4-4f7d-b455-6534f158e746
-label: Résultat du diagnostic biologique négatif
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 014372e8-81cc-4774-9653-7dcbf728fe9b

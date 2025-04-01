@@ -1,8 +1,0 @@
----
-id: 198
-group_id: 6e51170b-5b7a-4414-9703-dc5046779ae2
-label: Myopathie ou autre affection neuromusculaire grave
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: e185b3db-fe0f-4a02-a1b3-5b21d7067e22

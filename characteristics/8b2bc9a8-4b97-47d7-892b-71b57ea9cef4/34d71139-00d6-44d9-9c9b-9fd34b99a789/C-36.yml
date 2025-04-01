@@ -1,8 +1,0 @@
----
-id: 36
-group_id: 34d71139-00d6-44d9-9c9b-9fd34b99a789
-label: Ablation ou non-fonctionnement de la rate
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: ccc0ec23-a3ca-45a1-a0cd-8a00dc344b08

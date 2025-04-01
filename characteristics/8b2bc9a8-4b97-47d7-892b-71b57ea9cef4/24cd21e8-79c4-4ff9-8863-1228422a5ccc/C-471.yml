@@ -1,8 +1,0 @@
----
-id: 471
-group_id: 24cd21e8-79c4-4ff9-8863-1228422a5ccc
-label: Maladie inflammatoire chronique intestinale
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: c69fe981-3218-4136-9776-8d636605596b

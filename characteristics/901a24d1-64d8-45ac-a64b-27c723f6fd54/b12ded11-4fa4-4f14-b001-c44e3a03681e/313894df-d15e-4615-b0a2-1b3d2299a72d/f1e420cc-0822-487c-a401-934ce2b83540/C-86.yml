@@ -1,9 +1,0 @@
----
-id: 86
-group_id: f1e420cc-0822-487c-a401-934ce2b83540
-label: Travaille dans un établissement d'hébergement pour personnes âgées dépendantes
-  (EHPAD)
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 7bd9096c-cd82-4080-9701-9c3329a43efa

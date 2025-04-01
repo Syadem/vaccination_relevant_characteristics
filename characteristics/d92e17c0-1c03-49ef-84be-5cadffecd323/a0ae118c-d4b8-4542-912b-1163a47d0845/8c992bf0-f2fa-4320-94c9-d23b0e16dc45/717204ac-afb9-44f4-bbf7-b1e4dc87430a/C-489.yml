@@ -1,8 +1,0 @@
----
-id: 489
-group_id: 717204ac-afb9-44f4-bbf7-b1e4dc87430a
-label: Diagnostic biologique impossible
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: fa154cf9-f03e-48bc-8c16-1fc460513b32

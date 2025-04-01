@@ -1,8 +1,0 @@
----
-id: 1094
-group_id: 8b2bc9a8-4b97-47d7-892b-71b57ea9cef4
-label: Autres maladies métaboliques chroniques
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: e02e0b01-6d79-416e-a15f-2b6a70f5a83f

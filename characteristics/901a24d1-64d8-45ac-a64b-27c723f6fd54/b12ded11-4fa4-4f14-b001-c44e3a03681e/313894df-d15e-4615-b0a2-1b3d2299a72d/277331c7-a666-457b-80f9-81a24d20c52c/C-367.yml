@@ -1,8 +1,0 @@
----
-id: 367
-group_id: 277331c7-a666-457b-80f9-81a24d20c52c
-label: Travaille dans un service de pédiatrie
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: ae1735cf-be04-4014-83ae-fa02ea8daa4e

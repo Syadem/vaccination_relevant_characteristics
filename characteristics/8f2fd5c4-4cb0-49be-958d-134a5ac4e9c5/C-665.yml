@@ -1,8 +1,0 @@
----
-id: 665
-group_id: 8f2fd5c4-4cb0-49be-958d-134a5ac4e9c5
-label: Refus de vaccination contre le zona
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 4a2bc750-58ce-4e93-aada-414b19295f94

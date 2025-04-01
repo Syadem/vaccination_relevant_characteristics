@@ -1,8 +1,0 @@
----
-id: 590
-group_id: 8f2fd5c4-4cb0-49be-958d-134a5ac4e9c5
-label: Refus de vaccination contre la coqueluche
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: ed673bca-1f2f-4361-9dd9-33ab903ef483

@@ -1,9 +1,0 @@
----
-id: 705
-group_id: 7d97bbbc-d63a-47b3-98e3-58168e232484
-label: Mission d'un(e) militaire en Afrique centrale ou de l'ouest (Burkina Faso,
-  Côte d'Ivoire, Mali, Mauritanie, Niger, RCA, Sénégal, Tchad...)
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: ec737aec-e21e-430e-a43d-02184dc73fbc

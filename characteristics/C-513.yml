@@ -1,0 +1,11 @@
+---
+id: 513
+label: Animal disparu
+type: boolean
+tags:
+- Situation d'urgence
+- Suspicion d'exposition a la rage
+- Statut de l'animal (vivant, mort, disparu)
+codes:
+- nomenclature: SYADEM
+  code: ea4b2fae-7eec-49ac-aadf-40a2f911e661

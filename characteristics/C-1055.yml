@@ -1,0 +1,10 @@
+---
+id: 1055
+label: Taille sur la carte d'identité (en cm)
+type: integer
+tags:
+- Informations générales
+- IMC
+codes:
+- nomenclature: SYADEM
+  code: a7d23286-475a-441b-bd00-ec8d83db01db

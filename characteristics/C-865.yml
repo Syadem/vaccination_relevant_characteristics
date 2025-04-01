@@ -1,0 +1,9 @@
+---
+id: 865
+label: Refus de vaccination contre la covid 19
+type: boolean
+tags:
+- Vaccinations non souhaitées
+codes:
+- nomenclature: SYADEM
+  code: defe9318-92c0-45da-8921-1269c5c32bb2

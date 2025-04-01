@@ -1,0 +1,9 @@
+---
+id: 1003
+label: Poids à la naissance (en grammes)
+type: integer
+tags:
+- Entourage
+codes:
+- nomenclature: SYADEM
+  code: e5094b65-3826-4fde-9943-5ad567575f98

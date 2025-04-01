@@ -1,0 +1,11 @@
+---
+id: 94
+label: Employé(e) dans une entreprise de pompes funèbres, sans lien avec un établissement
+  de prévention ou de soins
+type: boolean
+tags:
+- Profession
+- Services funéraires
+codes:
+- nomenclature: SYADEM
+  code: f7d073c4-3746-497b-aa26-33a8b598eece

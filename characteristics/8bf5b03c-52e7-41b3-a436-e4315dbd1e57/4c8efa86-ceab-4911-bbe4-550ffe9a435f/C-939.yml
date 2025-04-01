@@ -1,8 +1,0 @@
----
-id: 939
-group_id: 4c8efa86-ceab-4911-bbe4-550ffe9a435f
-label: Inutilisé - Myocardite ou péricardite associées à une infection par SARS-CoV-2
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: '0883c07c-bd7e-4677-aab4-d44a9cd380db'

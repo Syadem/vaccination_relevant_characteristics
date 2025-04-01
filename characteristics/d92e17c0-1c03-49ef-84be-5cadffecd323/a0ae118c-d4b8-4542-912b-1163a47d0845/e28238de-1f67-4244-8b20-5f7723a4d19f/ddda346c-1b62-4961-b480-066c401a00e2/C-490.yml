@@ -1,9 +1,0 @@
----
-id: 490
-group_id: ddda346c-1b62-4961-b480-066c401a00e2
-label: Contact direct en zone d'enzootie rabique avec un animal domestique (chien,
-  chat, furet) dont le propriétaire est connu.
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: c4ceeb37-00b4-4418-89d8-546f8cce6eeb

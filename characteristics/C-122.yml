@@ -1,0 +1,10 @@
+---
+id: 122
+label: Personne infectée par le virus de l'hépatite B ou porteur chronique de l'antigène
+  HBs dans l'entourage
+type: boolean
+tags:
+- Entourage
+codes:
+- nomenclature: SYADEM
+  code: ae5d2da6-a428-41e3-9295-5de431a30aff

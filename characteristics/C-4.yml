@@ -1,0 +1,11 @@
+---
+id: 4
+label: Valvulopathie grave
+type: boolean
+tags:
+- Affection chronique
+- Cardio - Pneumo
+- Cardiologie
+codes:
+- nomenclature: SYADEM
+  code: 6c269d85-40ba-4fc5-b35e-986e9b7e94fb

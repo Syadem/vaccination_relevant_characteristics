@@ -1,0 +1,10 @@
+---
+id: 1051
+label: Fracture vertébrale
+type: boolean
+tags:
+- Antécédents
+- Traumatologie
+codes:
+- nomenclature: SYADEM
+  code: df73ce43-a0a0-4d45-b91d-4edcb838218a

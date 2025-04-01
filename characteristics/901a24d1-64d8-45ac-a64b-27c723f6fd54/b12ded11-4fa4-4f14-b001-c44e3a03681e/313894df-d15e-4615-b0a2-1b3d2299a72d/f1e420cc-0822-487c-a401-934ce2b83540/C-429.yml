@@ -1,8 +1,0 @@
----
-id: 429
-group_id: f1e420cc-0822-487c-a401-934ce2b83540
-label: Travaille dans une pharmacie hospitalière
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 48401caf-c23a-49ac-a5f9-a391f1a11a92

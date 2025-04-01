@@ -1,8 +1,0 @@
----
-id: 71
-group_id: 21798e98-a975-4153-a693-b4b5d01c2ed2
-label: Aide-soignant(e)
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: e0f293c2-9687-4a77-a5de-00ed8efec644

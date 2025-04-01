@@ -1,8 +1,0 @@
----
-id: 218
-group_id: 3c8b4693-8243-4715-a162-c1cd3fdd872a
-label: Elève aide-soignant
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: ae2e84fa-3962-4177-be28-dde2fc5f426b

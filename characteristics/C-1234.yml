@@ -1,0 +1,10 @@
+---
+id: 1234
+label: Antécédent de chikungunya
+type: boolean
+tags:
+- Antécédents
+- Maladies infectieuses
+codes:
+- nomenclature: SYADEM
+  code: 1a8e331e-7b1a-4b90-bb0a-b1fb188623ce

@@ -1,8 +1,0 @@
----
-id: 912
-group_id: 9d917375-44fc-4a01-ae49-0076da8b7b18
-label: Apnée du sommeil
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 82ff54ac-a8c3-4044-b641-d29848e98e56

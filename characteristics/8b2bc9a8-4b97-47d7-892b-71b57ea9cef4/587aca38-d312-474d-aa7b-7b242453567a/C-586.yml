@@ -1,8 +1,0 @@
----
-id: 586
-group_id: 587aca38-d312-474d-aa7b-7b242453567a
-label: Déficit immunitaire combiné sévère
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 7cfcf81d-c275-4718-8e1c-263fc6ff1b28

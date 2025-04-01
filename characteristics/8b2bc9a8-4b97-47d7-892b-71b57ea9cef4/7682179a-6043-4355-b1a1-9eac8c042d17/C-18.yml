@@ -1,8 +1,0 @@
----
-id: 18
-group_id: 7682179a-6043-4355-b1a1-9eac8c042d17
-label: Insuffisance rénale chronique NON dialysée
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 570f3958-b505-4677-bf43-eea81fc1dae9

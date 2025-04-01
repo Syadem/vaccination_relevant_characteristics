@@ -1,8 +1,0 @@
----
-id: 933
-group_id: 0f409948-e78a-4ff6-970f-557ac888a38a
-label: Taux de CD4
-type: integer
-codes:
-- nomenclature: SYADEM
-  code: 3bde905d-e52b-41e4-acbf-6d3994630ae1

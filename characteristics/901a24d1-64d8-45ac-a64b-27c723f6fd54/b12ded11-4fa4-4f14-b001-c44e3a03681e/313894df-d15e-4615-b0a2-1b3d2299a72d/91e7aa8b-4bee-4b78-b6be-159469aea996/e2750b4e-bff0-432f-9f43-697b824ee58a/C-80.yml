@@ -1,9 +1,0 @@
----
-id: 80
-group_id: e2750b4e-bff0-432f-9f43-697b824ee58a
-label: Exerce en milieu libéral, en dehors d'un établissement ou organisme de prévention
-  ou de soins
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: fef8aa6a-1697-4485-916c-c2b10bb58160

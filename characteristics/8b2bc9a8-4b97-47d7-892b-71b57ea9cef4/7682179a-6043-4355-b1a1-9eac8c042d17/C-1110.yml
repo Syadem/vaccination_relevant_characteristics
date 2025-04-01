@@ -1,8 +1,0 @@
----
-id: 1110
-group_id: 7682179a-6043-4355-b1a1-9eac8c042d17
-label: Syndrome néphrotique récurrent
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: d1710e18-3f78-4054-8551-85226efac30f

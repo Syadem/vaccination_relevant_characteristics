@@ -1,8 +1,0 @@
----
-id: 62
-group_id: 21798e98-a975-4153-a693-b4b5d01c2ed2
-label: Infirmier(ère)
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 50c730cf-ca84-4e67-8821-7d31a3015e57

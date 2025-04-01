@@ -1,0 +1,11 @@
+---
+id: 1201
+label: Personnel du service expédition
+type: boolean
+tags:
+- Profession
+- Personnels travaillant sur un bateau de croisière
+- Divers
+codes:
+- nomenclature: SYADEM
+  code: 18fad4a4-004c-4e55-ac7f-39551cfe6f77

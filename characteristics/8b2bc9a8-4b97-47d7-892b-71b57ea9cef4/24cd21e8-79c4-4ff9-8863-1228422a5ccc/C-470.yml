@@ -1,8 +1,0 @@
----
-id: 470
-group_id: 24cd21e8-79c4-4ff9-8863-1228422a5ccc
-label: Rhumatisme inflammatoire
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 3d40d4a9-e5d2-4332-aede-99961bc74aaf

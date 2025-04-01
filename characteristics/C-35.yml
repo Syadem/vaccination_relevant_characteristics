@@ -1,0 +1,10 @@
+---
+id: 35
+label: Candidat à l'implantation ou porteur d'implant cochléaire
+type: boolean
+tags:
+- Affection chronique
+- ORL
+codes:
+- nomenclature: SYADEM
+  code: 01a724d9-04de-4127-9560-2f5acd781896

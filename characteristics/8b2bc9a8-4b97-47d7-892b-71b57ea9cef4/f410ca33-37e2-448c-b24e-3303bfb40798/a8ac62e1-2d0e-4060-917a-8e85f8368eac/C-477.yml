@@ -1,8 +1,0 @@
----
-id: 477
-group_id: a8ac62e1-2d0e-4060-917a-8e85f8368eac
-label: Purpura thrombopénique
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 6b256daf-ae4d-4a93-860b-0a1926692d17

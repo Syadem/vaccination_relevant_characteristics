@@ -1,8 +1,0 @@
----
-id: 1068
-group_id: 887085c1-601a-45c8-aa87-459771eb041a
-label: Séjour en zone rurale
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: e4fb6d35-7cb8-4225-9357-1fadd629e537

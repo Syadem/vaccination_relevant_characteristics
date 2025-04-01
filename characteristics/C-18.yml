@@ -1,0 +1,10 @@
+---
+id: 18
+label: Insuffisance rénale chronique NON dialysée
+type: boolean
+tags:
+- Affection chronique
+- Uro-néphrologie
+codes:
+- nomenclature: SYADEM
+  code: 570f3958-b505-4677-bf43-eea81fc1dae9

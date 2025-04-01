@@ -1,8 +1,0 @@
----
-id: 1157
-group_id: 6e51170b-5b7a-4414-9703-dc5046779ae2
-label: Maladie neuromusculaire chronique avec risque de fausse déglutition
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 9284f3f7-8d9a-4b2d-8c78-63265f12c435

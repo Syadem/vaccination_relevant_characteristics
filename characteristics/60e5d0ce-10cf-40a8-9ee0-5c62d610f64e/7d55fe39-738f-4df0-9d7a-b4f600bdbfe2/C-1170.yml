@@ -1,8 +1,0 @@
----
-id: 1170
-group_id: 7d55fe39-738f-4df0-9d7a-b4f600bdbfe2
-label: Logement en dortoir
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 3dbccd60-647e-4a12-8ad4-021f5098fb53

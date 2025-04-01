@@ -1,8 +1,0 @@
----
-id: 965
-group_id: 4b543cd1-8eff-4b2a-9b77-7d0080cd88b4
-label: Date de la dernière sérologie covid anti-S quantitative réalisée
-type: date
-codes:
-- nomenclature: SYADEM
-  code: 13d412c8-4675-4588-a09b-8b79b8cb86d2

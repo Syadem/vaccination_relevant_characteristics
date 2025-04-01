@@ -1,8 +1,0 @@
----
-id: 995
-group_id: 4c8efa86-ceab-4911-bbe4-550ffe9a435f
-label: Nombre de semaines d'aménorrhée à la naissance pour un enfant prématuré
-type: integer
-codes:
-- nomenclature: SYADEM
-  code: 45c447bd-0e25-4f1f-a7eb-3c910fe01cbd

@@ -1,0 +1,11 @@
+---
+id: 1039
+label: Pratique régulière du canoë-kayak, du rafting, du triathlon ou d'autres sports
+  de nature
+type: boolean
+tags:
+- Conditions de vie ou de résidence
+- Autres
+codes:
+- nomenclature: SYADEM
+  code: e4deb558-01b5-4869-a1df-c206806d8c60

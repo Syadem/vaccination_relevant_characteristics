@@ -1,0 +1,9 @@
+---
+id: 623
+label: Refus de vaccination contre la tuberculose (BCG)
+type: boolean
+tags:
+- Vaccinations non souhaitées
+codes:
+- nomenclature: SYADEM
+  code: fd44d2f6-b1f9-40ca-895e-fccc9179160c

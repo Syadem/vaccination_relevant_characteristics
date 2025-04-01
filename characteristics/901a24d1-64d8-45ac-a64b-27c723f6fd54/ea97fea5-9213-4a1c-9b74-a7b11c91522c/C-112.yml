@@ -1,8 +1,0 @@
----
-id: 112
-group_id: ea97fea5-9213-4a1c-9b74-a7b11c91522c
-label: Personnel navigant d'un bateau de croisière ou d'un avion
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 4202c66c-7899-492e-86e6-02689cf5726a

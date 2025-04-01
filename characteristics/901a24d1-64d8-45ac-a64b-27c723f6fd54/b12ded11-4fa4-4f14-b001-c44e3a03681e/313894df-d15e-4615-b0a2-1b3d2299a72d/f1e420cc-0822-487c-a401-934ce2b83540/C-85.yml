@@ -1,8 +1,0 @@
----
-id: 85
-group_id: f1e420cc-0822-487c-a401-934ce2b83540
-label: Travaille dans un établissement ou service d'hébergement pour adultes handicapés
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: c52c64fe-f652-48b7-8f05-6efaf95edaeb

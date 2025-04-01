@@ -1,8 +1,0 @@
----
-id: 1031
-group_id: 85e9371a-b548-469d-ba39-46413afba1a1
-label: Date de fin d’une chimiothérapie pour hémopathie maligne (leucémie)
-type: date
-codes:
-- nomenclature: SYADEM
-  code: 2481d334-0210-4681-ac4f-b2caf83bf482

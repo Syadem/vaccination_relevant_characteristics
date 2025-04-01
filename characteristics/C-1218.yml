@@ -1,0 +1,11 @@
+---
+id: 1218
+label: Magasinier du service machine
+type: boolean
+tags:
+- Profession
+- Personnels travaillant sur un bateau de croisière
+- Salle des machines
+codes:
+- nomenclature: SYADEM
+  code: b73bcad2-41f9-41ae-a53a-111faceae9ab

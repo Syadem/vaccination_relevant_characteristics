@@ -1,0 +1,11 @@
+---
+id: 1223
+label: " Ingénieur frigoriste"
+type: boolean
+tags:
+- Profession
+- Personnels travaillant sur un bateau de croisière
+- Salle des machines
+codes:
+- nomenclature: SYADEM
+  code: 8141461b-8adf-40fc-8dbb-ef2924624950

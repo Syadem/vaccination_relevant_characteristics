@@ -1,0 +1,12 @@
+---
+id: 688
+label: La maman de ce bébé est considérée comme immunisée contre la rougeole (antécédent
+  documenté de rougeole ou 2 doses d'un vaccin contre la rougeole)
+type: boolean
+tags:
+- Situation d'urgence
+- Contact avec un cas de rougeole
+- Immunisation de la maman contre la rougeole
+codes:
+- nomenclature: SYADEM
+  code: f4aaf882-9c79-40d0-b4aa-e2d60db1391f

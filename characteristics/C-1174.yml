@@ -1,0 +1,11 @@
+---
+id: 1174
+label: Commandant
+type: boolean
+tags:
+- Profession
+- Personnels travaillant sur un bateau de croisière
+- Pont
+codes:
+- nomenclature: SYADEM
+  code: d4fc6aec-65ed-4380-a105-9c0e3dfa2ace

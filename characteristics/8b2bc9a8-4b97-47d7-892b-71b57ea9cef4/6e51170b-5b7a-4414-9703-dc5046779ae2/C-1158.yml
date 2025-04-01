@@ -1,8 +1,0 @@
----
-id: 1158
-group_id: 6e51170b-5b7a-4414-9703-dc5046779ae2
-label: Trouble dépressif chronique
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: e3cdaaa9-d1d1-4fca-8106-aa529450693a

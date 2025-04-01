@@ -1,8 +1,0 @@
----
-id: 1211
-group_id: 1b143367-d36f-453c-86fb-551a43a921c1
-label: Magasinier adjoint du service machine
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: e357f117-6d84-40df-b4f6-27f6a2da9076

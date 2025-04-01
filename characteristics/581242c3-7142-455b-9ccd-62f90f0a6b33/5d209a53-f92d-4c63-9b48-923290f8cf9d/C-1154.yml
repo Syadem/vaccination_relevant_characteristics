@@ -1,8 +1,0 @@
----
-id: 1154
-group_id: 5d209a53-f92d-4c63-9b48-923290f8cf9d
-label: Voyage limité à Taipei et aux grandes villes
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 918eddcf-8477-41c9-a0e6-be335250d2ca

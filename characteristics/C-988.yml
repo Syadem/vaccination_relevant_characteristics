@@ -1,0 +1,10 @@
+---
+id: 988
+label: IDR (mm)
+type: integer
+tags:
+- Examens biologiques
+- Tuberculose
+codes:
+- nomenclature: SYADEM
+  code: ba606ef4-9ebb-41b2-a81f-56a36bf8897e

@@ -1,8 +1,0 @@
----
-id: 1236
-group_id: 60e5d0ce-10cf-40a8-9ee0-5c62d610f64e
-label: Réside ou étudie dans la métropole de Rennes
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 75e93928-886a-4cbb-8b9e-daf717aeb492

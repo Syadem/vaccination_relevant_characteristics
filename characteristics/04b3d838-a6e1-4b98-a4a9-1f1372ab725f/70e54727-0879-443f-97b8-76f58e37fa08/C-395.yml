@@ -1,9 +1,0 @@
----
-id: 395
-group_id: 70e54727-0879-443f-97b8-76f58e37fa08
-label: Séjour antérieur de plus d'un an dans un pays de forte endémicité pour l'hépatite
-  A
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 3e76320a-0b4d-4cb2-8095-764b19b08017

@@ -1,8 +1,0 @@
----
-id: 52
-group_id: 29737e51-c865-4a9d-bbb7-d5310a5b621e
-label: Grossesse - Date des dernières règles
-type: date
-codes:
-- nomenclature: SYADEM
-  code: f1d0ec22-d65c-4710-8771-4cea6f558dd0

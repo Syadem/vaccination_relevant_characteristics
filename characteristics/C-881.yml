@@ -1,0 +1,11 @@
+---
+id: 881
+label: Maladie rare du foie sous immunosuppresseur
+type: boolean
+tags:
+- Affection chronique
+- Maladie rare
+- FILFOIE
+codes:
+- nomenclature: SYADEM
+  code: 56d86fe0-c72c-407f-ad3c-dc12ba927285

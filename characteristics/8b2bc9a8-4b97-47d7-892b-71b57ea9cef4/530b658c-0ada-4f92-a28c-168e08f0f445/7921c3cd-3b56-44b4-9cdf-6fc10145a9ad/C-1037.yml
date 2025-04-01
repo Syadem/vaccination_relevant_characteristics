@@ -1,8 +1,0 @@
----
-id: 1037
-group_id: 7921c3cd-3b56-44b4-9cdf-6fc10145a9ad
-label: Autre maladie cardio-vasculaire grave
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 8ce8b2c0-4e64-4231-9108-49f6d92a26ac

@@ -1,0 +1,10 @@
+---
+id: 404
+label: Cancer ou hémopathie maligne
+type: boolean
+tags:
+- Affection chronique
+- Cancer
+codes:
+- nomenclature: SYADEM
+  code: 29c5c921-422c-4475-8d60-c47a40c832c3

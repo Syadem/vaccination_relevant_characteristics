@@ -1,8 +1,0 @@
----
-id: 105
-group_id: 5117a864-b984-47ce-a068-8a40ff056956
-label: Vétérinaire ou employé(e) dans un service vétérinaire
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 7aa2c858-f462-4ac1-a72c-f42655b791db

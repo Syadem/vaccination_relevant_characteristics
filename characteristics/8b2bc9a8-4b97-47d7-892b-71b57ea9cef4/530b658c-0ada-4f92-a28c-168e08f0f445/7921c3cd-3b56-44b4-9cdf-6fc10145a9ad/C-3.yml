@@ -1,8 +1,0 @@
----
-id: 3
-group_id: 7921c3cd-3b56-44b4-9cdf-6fc10145a9ad
-label: Insuffisance cardiaque grave
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 596bed2f-8297-4253-a671-e2e85c179672

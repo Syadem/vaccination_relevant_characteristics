@@ -1,0 +1,11 @@
+---
+id: 1207
+label: Ingénieur mécanicien adjoint
+type: boolean
+tags:
+- Profession
+- Personnels travaillant sur un bateau de croisière
+- Salle des machines
+codes:
+- nomenclature: SYADEM
+  code: 131ed6ce-6f50-47f1-9500-36e00c7534d8

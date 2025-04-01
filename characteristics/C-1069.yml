@@ -1,0 +1,11 @@
+---
+id: 1069
+label: Exposition en milieu extérieur (course à pied, camping, randonnée, travail
+  à l'extérieur)
+type: boolean
+tags:
+- VOYAGE
+- Précisions concernant le voyage
+codes:
+- nomenclature: SYADEM
+  code: b102b40f-a8c3-42ca-bc9e-ef4149d05e6c

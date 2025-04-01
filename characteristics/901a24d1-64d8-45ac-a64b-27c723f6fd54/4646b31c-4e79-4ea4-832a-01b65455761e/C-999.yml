@@ -1,8 +1,0 @@
----
-id: 999
-group_id: 4646b31c-4e79-4ea4-832a-01b65455761e
-label: Personne travaillant dans un lieu de consommation sexuelle
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: f03f22da-5a7f-4d1e-8a94-7c2901202e47

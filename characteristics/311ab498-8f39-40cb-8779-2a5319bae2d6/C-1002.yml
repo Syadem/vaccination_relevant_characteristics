@@ -1,8 +1,0 @@
----
-id: 1002
-group_id: 311ab498-8f39-40cb-8779-2a5319bae2d6
-label: Date du dernier contact avec une personne à risque de monkeypox
-type: date
-codes:
-- nomenclature: SYADEM
-  code: f235d2d9-3855-44c3-9d3e-25591d7918fb

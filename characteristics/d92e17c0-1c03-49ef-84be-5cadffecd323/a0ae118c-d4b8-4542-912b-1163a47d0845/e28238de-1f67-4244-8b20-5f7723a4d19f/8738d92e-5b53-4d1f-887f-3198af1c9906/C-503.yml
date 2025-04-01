@@ -1,8 +1,0 @@
----
-id: 503
-group_id: 8738d92e-5b53-4d1f-887f-3198af1c9906
-label: Contact direct dans un pays indemne de rage avec des chien, chat ou furet.
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 66fb8085-7f7a-4256-bdd3-d1ca6ce9b966

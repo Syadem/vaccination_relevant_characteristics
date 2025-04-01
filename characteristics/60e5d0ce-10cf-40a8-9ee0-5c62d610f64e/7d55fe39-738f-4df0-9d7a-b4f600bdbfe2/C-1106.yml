@@ -1,9 +1,0 @@
----
-id: 1106
-group_id: 7d55fe39-738f-4df0-9d7a-b4f600bdbfe2
-label: Séjour dans un établissements offrant des soins 24 heures sur 24 aux personnes
-  handicapées, aux malades chroniques ou aux personnes âgées
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 72ab512a-60dc-48cb-be5a-f995454c4498

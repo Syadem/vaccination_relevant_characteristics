@@ -1,0 +1,10 @@
+---
+id: 686
+label: Infection sexuellement transmissible (IST) en cours ou récente
+type: boolean
+tags:
+- Conditions de vie ou de résidence
+- Facteurs de risque concernant la sexualité
+codes:
+- nomenclature: SYADEM
+  code: 5518afa7-b874-423d-b04e-7674104033a3

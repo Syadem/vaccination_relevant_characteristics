@@ -1,8 +1,0 @@
----
-id: 928
-group_id: 85e9371a-b548-469d-ba39-46413afba1a1
-label: Traitement par anticorps monoclonaux anti-SARS-CoV-2
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: d8dea8e6-8625-42d6-9414-9856f02db2e2

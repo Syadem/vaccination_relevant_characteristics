@@ -1,0 +1,12 @@
+---
+id: 493
+label: Résultat de la surveillance vétérinaire négatif
+type: boolean
+tags:
+- Situation d'urgence
+- Suspicion d'exposition a la rage
+- Suveillance vétérinaire
+- Possible
+codes:
+- nomenclature: SYADEM
+  code: e78f8199-8875-4e4b-9ab8-169b289bfcbf

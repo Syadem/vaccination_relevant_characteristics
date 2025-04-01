@@ -1,8 +1,0 @@
----
-id: 39
-group_id: 9d917375-44fc-4a01-ae49-0076da8b7b18
-label: Insuffisance respiratoire chronique
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 28ccde87-db8b-4d63-9783-27a4bbc3e15a

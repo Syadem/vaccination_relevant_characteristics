@@ -1,0 +1,11 @@
+---
+id: 1187
+label: Aide-matelot
+type: boolean
+tags:
+- Profession
+- Personnels travaillant sur un bateau de croisière
+- Pont
+codes:
+- nomenclature: SYADEM
+  code: 2c8d06ce-124f-459a-b456-e9880eee76b8

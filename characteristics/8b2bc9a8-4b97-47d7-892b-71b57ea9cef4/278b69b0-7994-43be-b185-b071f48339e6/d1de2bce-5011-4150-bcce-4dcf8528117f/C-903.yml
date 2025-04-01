@@ -1,8 +1,0 @@
----
-id: 903
-group_id: d1de2bce-5011-4150-bcce-4dcf8528117f
-label: Hypertension Pulmonaire associée aux maladies respiratoires chroniques (HTP-MRC)
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: d901b280-82df-47ab-afd5-7badbd8df4c7

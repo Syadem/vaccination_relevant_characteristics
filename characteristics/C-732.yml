@@ -1,0 +1,12 @@
+---
+id: 732
+label: Risque élevé d'exposition à la tuberculose (évalué par le médecin du travail)
+type: boolean
+tags:
+- Profession
+- En rapport avec la santé ou le médico-social
+- Professionnel en activité
+- Exposition à des agents biologiques ?
+codes:
+- nomenclature: SYADEM
+  code: e6a66145-965f-4553-8538-db7b2045b4bd

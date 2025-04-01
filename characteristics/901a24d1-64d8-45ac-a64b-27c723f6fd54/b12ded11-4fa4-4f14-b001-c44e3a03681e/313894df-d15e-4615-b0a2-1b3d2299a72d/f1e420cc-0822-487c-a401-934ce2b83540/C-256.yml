@@ -1,8 +1,0 @@
----
-id: 256
-group_id: f1e420cc-0822-487c-a401-934ce2b83540
-label: Travaille dans un centre ou un poste de transfusion sanguine
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: cfe088ce-a89b-47b4-aa78-0a4ccb7f93e9

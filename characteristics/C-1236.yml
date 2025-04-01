@@ -1,0 +1,9 @@
+---
+id: 1236
+label: Réside ou étudie dans la métropole de Rennes
+type: boolean
+tags:
+- Conditions de vie ou de résidence
+codes:
+- nomenclature: SYADEM
+  code: 75e93928-886a-4cbb-8b9e-daf717aeb492

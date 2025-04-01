@@ -1,8 +1,0 @@
----
-id: 1233
-group_id: 85e9371a-b548-469d-ba39-46413afba1a1
-label: Personne recevant régulièrement des immunoglobulines humaines normales
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 8a48477e-f5ce-4526-a8c8-1fd2509e0c9c

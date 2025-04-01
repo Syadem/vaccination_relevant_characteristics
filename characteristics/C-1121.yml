@@ -1,0 +1,10 @@
+---
+id: 1121
+label: Contacts professionnels étroits avec un nourrisson âgé de moins de 6 mois
+type: boolean
+tags:
+- Profession
+- Autres professions
+codes:
+- nomenclature: SYADEM
+  code: 7eaf142c-2dbe-4014-b8df-05c493f3eb72

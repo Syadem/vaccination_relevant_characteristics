@@ -1,8 +1,0 @@
----
-id: 1072
-group_id: e5c34f1f-732d-40c9-b2ba-5e723383e424
-label: Professionnel devant intervenir auprès de malades atteints de choléra
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 8eb20cb6-a6ae-4148-8093-f9c7fab98c45

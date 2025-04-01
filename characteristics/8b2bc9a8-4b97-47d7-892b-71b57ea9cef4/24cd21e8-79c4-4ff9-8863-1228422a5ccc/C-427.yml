@@ -1,8 +1,0 @@
----
-id: 427
-group_id: 24cd21e8-79c4-4ff9-8863-1228422a5ccc
-label: Sclérose en plaques
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: fa067832-af49-47e4-86ff-fe86b6159715

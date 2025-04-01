@@ -1,0 +1,11 @@
+---
+id: 905
+label: Fibrose pulmonaire secondaire à une pneumoconiose
+type: boolean
+tags:
+- Affection chronique
+- Maladie rare
+- RESPIFIL
+codes:
+- nomenclature: SYADEM
+  code: fe29b570-281f-4a49-9582-9b863cea8bf2

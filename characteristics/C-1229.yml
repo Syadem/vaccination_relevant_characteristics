@@ -1,0 +1,10 @@
+---
+id: 1229
+label: Sous traitement prolongé par l'aspirine
+type: boolean
+tags:
+- Traitements
+- Autre(s) traitement(s)
+codes:
+- nomenclature: SYADEM
+  code: 8ce16288-1414-4bbc-9f69-d2904de6b1cf

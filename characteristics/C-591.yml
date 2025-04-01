@@ -1,0 +1,9 @@
+---
+id: 591
+label: Refus de vaccination contre la rougeole, les oreillons et la rubéole
+type: boolean
+tags:
+- Vaccinations non souhaitées
+codes:
+- nomenclature: SYADEM
+  code: b716cdea-0a08-451f-b5a9-cb5ce701e4ea

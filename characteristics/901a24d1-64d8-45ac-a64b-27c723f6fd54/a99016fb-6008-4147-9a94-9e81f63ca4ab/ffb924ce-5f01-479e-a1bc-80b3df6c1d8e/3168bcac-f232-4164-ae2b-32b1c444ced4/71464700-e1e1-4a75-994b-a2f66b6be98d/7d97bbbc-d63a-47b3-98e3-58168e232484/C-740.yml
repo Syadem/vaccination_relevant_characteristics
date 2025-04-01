@@ -1,8 +1,0 @@
----
-id: 740
-group_id: 7d97bbbc-d63a-47b3-98e3-58168e232484
-label: Mission d'un(e) militaire au Gabon
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: df22a296-f3f1-4eb6-979d-03cebbe4e6f8

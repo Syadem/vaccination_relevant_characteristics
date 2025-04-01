@@ -1,8 +1,0 @@
----
-id: 270
-group_id: f1e420cc-0822-487c-a401-934ce2b83540
-label: Travaille dans un service communal d'hygiène et de santé
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 227504c8-2345-4af2-ac89-039da68bbd19

@@ -1,9 +1,0 @@
----
-id: 886
-group_id: a0ba4781-8aaf-469a-93f8-e5c07d20985b
-label: Pancréatite auto-immune (sous immunosuppresseur ou non) de type 1 (maladie
-  à IgG4)
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: feda5afd-770f-4a9a-a7dd-093e4883e286

@@ -1,8 +1,0 @@
----
-id: 1043
-group_id: 1c304769-fc7c-487a-a0b9-6f3d34ff5731
-label: Agoniste de la LH-RH
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: f3a246dd-9c23-4117-a97d-9985858cfdf1

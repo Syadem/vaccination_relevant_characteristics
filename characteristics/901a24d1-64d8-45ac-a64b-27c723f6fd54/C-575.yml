@@ -1,8 +1,0 @@
----
-id: 575
-group_id: 901a24d1-64d8-45ac-a64b-27c723f6fd54
-label: Aucune des professions énumérées dans le questionnaire
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: c09429b2-0afb-486f-8c85-6430075a5eab

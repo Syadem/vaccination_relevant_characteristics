@@ -1,0 +1,9 @@
+---
+id: 1033
+label: Personne à risque élevé de covid grave dans l’entourage
+type: boolean
+tags:
+- Entourage
+codes:
+- nomenclature: SYADEM
+  code: e22f63bc-a5e0-4803-8f12-5e328417cd9d

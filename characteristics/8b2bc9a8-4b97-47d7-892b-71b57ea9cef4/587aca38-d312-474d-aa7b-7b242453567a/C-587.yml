@@ -1,8 +1,0 @@
----
-id: 587
-group_id: 587aca38-d312-474d-aa7b-7b242453567a
-label: Déficit immunitaire combiné partiel
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: 93102ad3-4797-4dea-883a-42695fb6ae72

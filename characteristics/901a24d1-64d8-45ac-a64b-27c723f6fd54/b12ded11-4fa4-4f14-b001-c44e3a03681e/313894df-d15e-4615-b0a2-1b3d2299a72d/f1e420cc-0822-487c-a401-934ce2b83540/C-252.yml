@@ -1,8 +1,0 @@
----
-id: 252
-group_id: f1e420cc-0822-487c-a401-934ce2b83540
-label: Travaille dans un dispensaire ou un centre de soins
-type: boolean
-codes:
-- nomenclature: SYADEM
-  code: b149fd33-89c5-4831-8d14-c575dd2ce726

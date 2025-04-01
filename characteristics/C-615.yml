@@ -1,0 +1,9 @@
+---
+id: 615
+label: Refus de vaccination contre l'hépatite A
+type: boolean
+tags:
+- Vaccinations non souhaitées
+codes:
+- nomenclature: SYADEM
+  code: d86a32a9-f9aa-452d-98f5-f263fdf80b7f

@@ -1,0 +1,11 @@
+---
+id: 1221
+label: Opérateur d’incinérateur
+type: boolean
+tags:
+- Profession
+- Personnels travaillant sur un bateau de croisière
+- Salle des machines
+codes:
+- nomenclature: SYADEM
+  code: f02ff2e4-1c94-4e43-ae43-7998e1a2a5e9
