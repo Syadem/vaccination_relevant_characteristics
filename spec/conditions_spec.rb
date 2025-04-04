@@ -36,6 +36,10 @@ describe 'The characteristics folder' do
             expect(data['codes']).to be_a(Array)
             expect(data['codes']).to all(have_key('nomenclature'))
             expect(data['codes']).to all(have_key('code'))
+
+            expect(data).to have_key('tags')
+            expect(data['tags']).to be_a(Array)
+            expect(data['tags']).to all(be_a(String))
           end
         end
       end
