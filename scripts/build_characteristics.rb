@@ -15,7 +15,7 @@ def handle_groups(groups, groups_by_parent_id, conditions_by_id, parents)
         "codes" => [{ "nomenclature" => "SYADEM", "code" => condition.id }]
       }
 
-      File.write("#{BASE_PATH}/C-#{condition.code}.yml", condition_data.to_yaml)
+      File.write("#{BASE_PATH}/C-#{condition.code}.yml", condition_data.to_yaml(line_width: -1))
     end
 
     children = groups_by_parent_id[group.id]
@@ -24,7 +24,7 @@ def handle_groups(groups, groups_by_parent_id, conditions_by_id, parents)
   end
 end
 
-medcon = Medcon::Medcon.load(lang: "fr")
+medcon = Medcon::Medcon.load(lang: "en")
 
 FileUtils.rm_rf(BASE_PATH)
 FileUtils.mkdir_p(BASE_PATH)
