@@ -1,10 +1,10 @@
 ---
 id: 938
-label: Unused - Treatment with anti-SARS-CoV-2 monoclonal antibodies
+label: Inutilisé - Traitement par anticorps monoclonaux anti-SARS-CoV-2
 type: boolean
 tags:
-- Treatments
-- Treatments affecting immunity
+- Traitements
+- Traitement(s) ayant une influence sur l'immunité
 codes:
 - nomenclature: SYADEM
   code: 1918b1af-4ab6-4707-bcd6-4e07de611700

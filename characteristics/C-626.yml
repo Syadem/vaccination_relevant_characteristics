@@ -1,9 +1,9 @@
 ---
 id: 626
-label: Refusal of HPV vaccination
+label: Refus de vaccination contre les papillomavirus
 type: boolean
 tags:
-- Vaccinations not desired
+- Vaccinations non souhaitées
 codes:
 - nomenclature: SYADEM
   code: 94a0f398-2f4b-4cb2-8a2c-910e6f94fadb

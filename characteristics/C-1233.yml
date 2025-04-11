@@ -1,10 +1,10 @@
 ---
 id: 1233
-label: Person regularly receiving normal human immunoglobulins
+label: Personne recevant régulièrement des immunoglobulines humaines normales
 type: boolean
 tags:
-- Treatments
-- Treatments affecting immunity
+- Traitements
+- Traitement(s) ayant une influence sur l'immunité
 codes:
 - nomenclature: SYADEM
   code: 8a48477e-f5ce-4526-a8c8-1fd2509e0c9c

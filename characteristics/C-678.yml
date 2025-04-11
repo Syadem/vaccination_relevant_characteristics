@@ -1,9 +1,9 @@
 ---
 id: 678
-label: History of allergy during a previous influenza vaccination
+label: Antécédent d'allergie lors d'une vaccination précédente contre la grippe
 type: boolean
 tags:
-- Medical history
+- Antécédents
 - Allergies
 codes:
 - nomenclature: SYADEM

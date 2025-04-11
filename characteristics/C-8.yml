@@ -1,11 +1,11 @@
 ---
 id: 8
-label: Sickle cell disease
+label: Thalassodrépanocytose
 type: boolean
 tags:
-- Chronic condition
-- Hematology - Hemostasis
-- Hemoglobin anomaly
+- Affection chronique
+- Hématologie - Hémostase
+- Anomalie de l'hémoglobine
 codes:
 - nomenclature: SYADEM
   code: 8149035f-1a4c-415c-bba0-6e8312251a6e

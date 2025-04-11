@@ -1,10 +1,10 @@
 ---
 id: 41
-label: Chronic liver disease
+label: Hépatopathie chronique
 type: boolean
 tags:
-- Chronic condition
-- Liver
+- Affection chronique
+- Foie
 codes:
 - nomenclature: SYADEM
   code: 66ce1156-a8ca-4b6e-ad61-adf07f3826f7

@@ -1,9 +1,10 @@
 ---
 id: 840
-label: 'Allergy to penicillin: no particular contraindication to vaccines used in France'
+label: 'Allergie à la pénicilline : pas de contre-indication particulière aux vaccins
+  utilisés en France'
 type: boolean
 tags:
-- Medical history
+- Antécédents
 - Allergies
 codes:
 - nomenclature: SYADEM

@@ -1,11 +1,11 @@
 ---
 id: 1057
-label: Spine T-score
+label: T-score rachis
 type: float
 tags:
-- Additional examinations
-- Medical imaging
-- Bone densitometry
+- Examens complémentaires
+- Imagerie médicale
+- Ostéodensitométrie
 codes:
 - nomenclature: SYADEM
   code: af730658-971a-40ac-87f0-936b52ec6460

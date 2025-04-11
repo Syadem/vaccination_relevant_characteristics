@@ -1,9 +1,9 @@
 ---
 id: 614
-label: Refusal to vaccinate against hepatitis B
+label: Refus de vaccination contre l'hépatite B
 type: boolean
 tags:
-- Vaccinations not desired
+- Vaccinations non souhaitées
 codes:
 - nomenclature: SYADEM
   code: 47d4d6cb-ed78-442b-b28a-4c500a3d31d3

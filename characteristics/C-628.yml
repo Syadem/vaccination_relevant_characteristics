@@ -1,9 +1,9 @@
 ---
 id: 628
-label: Refusal of vaccination against Japanese encephalitis
+label: Refus de vaccination contre l'encéphalite japonaise
 type: boolean
 tags:
-- Vaccinations not desired
+- Vaccinations non souhaitées
 codes:
 - nomenclature: SYADEM
   code: 803c5ca9-b650-47f3-8048-095366c67ef3

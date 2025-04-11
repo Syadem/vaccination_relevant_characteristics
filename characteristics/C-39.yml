@@ -1,12 +1,12 @@
 ---
 id: 39
-label: Chronic respiratory failure
+label: Insuffisance respiratoire chronique
 type: boolean
 tags:
-- Chronic condition
-- Cardiology-Pulmonology
-- Pulmonology
-- Others
+- Affection chronique
+- Cardio - Pneumo
+- Pneumologie
+- Autres
 codes:
 - nomenclature: SYADEM
   code: 28ccde87-db8b-4d63-9783-27a4bbc3e15a

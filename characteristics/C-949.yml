@@ -1,11 +1,11 @@
 ---
 id: 949
-label: Severe extrapulmonary restrictive pathology
+label: Pathologie restrictive extrapulmonaire sévère
 type: boolean
 tags:
-- Chronic condition
-- Rare disease
-- Respiratory
+- Affection chronique
+- Maladie rare
+- RESPIFIL
 codes:
 - nomenclature: SYADEM
   code: 99aeab68-ab64-451b-abac-35d36dd3c267

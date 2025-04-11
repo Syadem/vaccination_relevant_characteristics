@@ -1,11 +1,11 @@
 ---
 id: 1232
-label: Other bleeding disorder
+label: Autre trouble de la coagulation
 type: boolean
 tags:
-- Chronic condition
-- Hematology - Hemostasis
-- Coagulation disorder
+- Affection chronique
+- Hématologie - Hémostase
+- Trouble de l'hémostase ou de la coagulation
 codes:
 - nomenclature: SYADEM
   code: 2370316e-70d7-4bf2-9cbd-cd74d26e908e

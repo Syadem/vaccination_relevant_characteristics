@@ -1,6 +1,6 @@
 ---
 id: 47
-label: Immunocompromised person in the entourage
+label: Personne immunodéprimée dans l'entourage
 type: boolean
 tags:
 - Entourage

@@ -1,10 +1,10 @@
 ---
 id: 197
-label: Stay in a long-term care unit (USLD)
+label: Séjour dans une unité de soins de longue durée (USLD)
 type: boolean
 tags:
-- Living or housing conditions
-- Community living, residence, institution...
+- Conditions de vie ou de résidence
+- Vie en collectivité, résidence, institution...
 codes:
 - nomenclature: SYADEM
   code: 7bb1688c-a7e6-4f5d-b215-5a0e0ffaafd3

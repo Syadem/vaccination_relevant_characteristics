@@ -1,11 +1,11 @@
 ---
 id: 898
-label: Glomerulonephritis with C3 deposits under immunosuppressive treatment
+label: Glomérulonéphrite à dépôts de C3 sous traitement immunosuppresseur
 type: boolean
 tags:
-- Chronic condition
-- Rare disease
-- Renal
+- Affection chronique
+- Maladie rare
+- ORKiD
 codes:
 - nomenclature: SYADEM
   code: 9088dc9b-457e-4905-90aa-8704f0d54c90

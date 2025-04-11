@@ -1,10 +1,10 @@
 ---
 id: 147
-label: History of mumps infection
+label: Antécédent d'infection ourlienne (oreillons)
 type: boolean
 tags:
-- Medical history
-- Infectious diseases
+- Antécédents
+- Maladies infectieuses
 codes:
 - nomenclature: SYADEM
   code: d93ea675-4023-4a42-86d1-8f357253d2a1

@@ -1,10 +1,10 @@
 ---
 id: 439
-label: Anti-HBs unknown
+label: Ac anti-HBs inconnu
 type: boolean
 tags:
-- Laboratory tests
-- Hepatitis B
+- Examens biologiques
+- Hépatite B
 - Anti-HBs
 codes:
 - nomenclature: SYADEM

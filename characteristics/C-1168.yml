@@ -1,9 +1,9 @@
 ---
 id: 1168
-label: Multiple Myeloma
+label: Myélome multiple
 type: boolean
 tags:
-- Chronic condition
+- Affection chronique
 - Cancer
 codes:
 - nomenclature: SYADEM

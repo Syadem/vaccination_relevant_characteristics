@@ -1,11 +1,11 @@
 ---
 id: 1210
-label: Assistant Electrician
+label: Électricien adjoint
 type: boolean
 tags:
 - Profession
-- Staff working on a cruise ship
-- Engine
+- Personnels travaillant sur un bateau de croisière
+- Salle des machines
 codes:
 - nomenclature: SYADEM
   code: 7f76d211-991d-4d90-a0b1-308ff0d7c0a7

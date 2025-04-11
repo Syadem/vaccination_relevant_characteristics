@@ -1,9 +1,9 @@
 ---
 id: 618
-label: Refusal of Meningococcal ACWY Vaccination
+label: Refus de vaccination contre les méningocoques ACWY
 type: boolean
 tags:
-- Vaccinations not desired
+- Vaccinations non souhaitées
 codes:
 - nomenclature: SYADEM
   code: 4e4ae930-b14b-4c7e-8aea-8a6938b01643

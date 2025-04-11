@@ -1,10 +1,10 @@
 ---
 id: 121
-label: Multiple sexual partners
+label: Partenaires sexuels multiples
 type: boolean
 tags:
-- Living or housing conditions
-- Risk factors concerning sexuality
+- Conditions de vie ou de résidence
+- Facteurs de risque concernant la sexualité
 codes:
 - nomenclature: SYADEM
   code: 3711b6c8-ea9f-4dc4-9554-949cdadedece

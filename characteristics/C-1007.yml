@@ -1,12 +1,12 @@
 ---
 id: 1007
-label: Works in a home for the disabled
+label: Travaille dans une structure d’hébergement pour personnes handicapées
 type: boolean
 tags:
 - Profession
-- Related to health or the medico-social field
-- Active professional
-- What place of practice?
+- En rapport avec la santé ou le médico-social
+- Professionnel en activité
+- Quel lieu d'exercice ?
 codes:
 - nomenclature: SYADEM
   code: ddd147b1-916b-421b-bf24-c1c6f4d70908

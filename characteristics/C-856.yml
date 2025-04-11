@@ -1,12 +1,12 @@
 ---
 id: 856
-label: Supervisory staff for health care personnel
+label: Personnel d’encadrement du personnel soignant
 type: boolean
 tags:
 - Profession
-- Related to health or the medico-social field
-- Active professional
-- What profession?
+- En rapport avec la santé ou le médico-social
+- Professionnel en activité
+- Quel métier ?
 codes:
 - nomenclature: SYADEM
   code: ec119664-84e5-473a-86dc-665e81e4627c

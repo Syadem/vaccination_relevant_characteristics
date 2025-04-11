@@ -1,10 +1,11 @@
 ---
 id: 107
-label: Employed in the cleaning or maintenance of canals, ponds, lakes, rivers, waterways, banks
+label: Employé(e) au curage ou entretien de canaux, étangs, lacs, rivières, voies
+  navigables, berges
 type: boolean
 tags:
 - Profession
-- Working with animals, agriculture, water, forests, and fishing
+- Au contact des animaux, agriculture, eaux, forêts et pêche
 codes:
 - nomenclature: SYADEM
   code: 77b89672-4bb2-48ae-bb1b-cf6125356c96

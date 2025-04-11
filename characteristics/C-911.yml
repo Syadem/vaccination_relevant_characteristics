@@ -1,10 +1,10 @@
 ---
 id: 911
-label: History of cardiac surgery
+label: Antécédent de chirurgie cardiaque
 type: boolean
 tags:
-- General information
-- Other information
+- Informations générales
+- Autres informations
 codes:
 - nomenclature: SYADEM
   code: d63f0815-862a-4dba-9467-969ff27e0f70

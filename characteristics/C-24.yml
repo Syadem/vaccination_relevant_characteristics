@@ -1,10 +1,10 @@
 ---
 id: 24
-label: HIV infection
+label: Infection à VIH
 type: boolean
 tags:
-- Chronic condition
-- HIV infection
+- Affection chronique
+- Infection à VIH
 codes:
 - nomenclature: SYADEM
   code: 7edf1340-06e2-4814-bd0c-8ca322d1cd60

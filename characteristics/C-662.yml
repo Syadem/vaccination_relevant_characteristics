@@ -1,10 +1,10 @@
 ---
 id: 662
-label: Thanatopractor
+label: Thanatopracteur
 type: boolean
 tags:
 - Profession
-- Funeral services
+- Services funéraires
 codes:
 - nomenclature: SYADEM
   code: 2dfb491c-d3ee-46eb-b5b0-b4f79337305b

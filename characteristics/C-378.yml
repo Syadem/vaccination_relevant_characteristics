@@ -1,12 +1,12 @@
 ---
 id: 378
-label: Active health professional
+label: Autre professionnel de santé en activité
 type: boolean
 tags:
 - Profession
-- Related to health or the medico-social field
-- Active professional
-- Latest details
+- En rapport avec la santé ou le médico-social
+- Professionnel en activité
+- Dernières précisions
 codes:
 - nomenclature: SYADEM
   code: 65835bbe-0bc7-4edb-b9c5-3b825908af1d

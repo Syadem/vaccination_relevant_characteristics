@@ -1,10 +1,11 @@
 ---
 id: 1105
-label: People having close family contact with chronic ill people
+label: Contacts familiaux étroits et durables avec des personnes atteintes de maladies
+  chroniques
 type: boolean
 tags:
-- Living or housing conditions
-- Others
+- Conditions de vie ou de résidence
+- Autres
 codes:
 - nomenclature: SYADEM
   code: 5c9c0bf8-7271-4de9-b5ca-d9f58534ab58

@@ -1,10 +1,10 @@
 ---
 id: 427
-label: Multiple sclerosis
+label: Sclérose en plaques
 type: boolean
 tags:
-- Chronic condition
-- Inflammatory or autoimmune disease
+- Affection chronique
+- Maladie inflammatoire ou auto-immune
 codes:
 - nomenclature: SYADEM
   code: fa067832-af49-47e4-86ff-fe86b6159715

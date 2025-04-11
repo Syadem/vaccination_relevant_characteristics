@@ -1,10 +1,10 @@
 ---
 id: 685
-label: Exposure to sexually transmitted infections (STIs)
+label: Exposition aux infections sexuellement transmissibles (IST)
 type: boolean
 tags:
-- Living or housing conditions
-- Risk factors concerning sexuality
+- Conditions de vie ou de résidence
+- Facteurs de risque concernant la sexualité
 codes:
 - nomenclature: SYADEM
   code: e886a606-25a2-4c2a-9d51-a04a9cc3c623

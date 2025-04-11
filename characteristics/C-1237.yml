@@ -1,10 +1,10 @@
 ---
 id: 1237
-label: Resides in a medico-social care facility
+label: Réside dans une structure d’accueil médico-sociale
 type: boolean
 tags:
-- Living or housing conditions
-- Community living, residence, institution...
+- Conditions de vie ou de résidence
+- Vie en collectivité, résidence, institution...
 codes:
 - nomenclature: SYADEM
   code: 3441f8bc-2785-431b-a84d-a2ace53816e7

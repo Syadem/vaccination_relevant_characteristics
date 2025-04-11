@@ -1,12 +1,12 @@
 ---
 id: 127
-label: Mucoviscidosis
+label: Mucoviscidose
 type: boolean
 tags:
-- Chronic condition
-- Cardiology-Pulmonology
-- Pulmonology
-- Others
+- Affection chronique
+- Cardio - Pneumo
+- Pneumologie
+- Autres
 codes:
 - nomenclature: SYADEM
   code: c10dc95f-0440-43a3-a52d-f45c4e123bf8

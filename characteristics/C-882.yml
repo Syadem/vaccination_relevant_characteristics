@@ -1,10 +1,11 @@
 ---
 id: 882
-label: 'Intracellular trafficking deficiency in children (NBAS: neuroblastoma amplified sequence)'
+label: 'Déficit du trafic intracellulaire chez les enfants (NBAS : neuroblastoma amplified
+  sequence)'
 type: boolean
 tags:
-- Chronic condition
-- Rare disease
+- Affection chronique
+- Maladie rare
 - FILFOIE
 codes:
 - nomenclature: SYADEM

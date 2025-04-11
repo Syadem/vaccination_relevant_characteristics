@@ -1,11 +1,11 @@
 ---
 id: 1199
-label: Staff assigned to the laundry service
+label: Personnel affecté au service de blanchisserie
 type: boolean
 tags:
 - Profession
-- Staff working on a cruise ship
-- Miscellaneous
+- Personnels travaillant sur un bateau de croisière
+- Divers
 codes:
 - nomenclature: SYADEM
   code: 52c6771e-12eb-41b2-b1cd-eca9bc0ef9fd

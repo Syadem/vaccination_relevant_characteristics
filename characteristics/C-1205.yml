@@ -1,11 +1,11 @@
 ---
 id: 1205
-label: Supply department staff
+label: Personnel du service approvisionnement
 type: boolean
 tags:
 - Profession
-- Staff working on a cruise ship
-- Miscellaneous
+- Personnels travaillant sur un bateau de croisière
+- Divers
 codes:
 - nomenclature: SYADEM
   code: e331c9e3-483b-4ce2-b524-6c73c23ba8e8

@@ -1,10 +1,10 @@
 ---
 id: 860
-label: Profession in the food industry
+label: Profession dans le domaine de l'alimentation
 type: boolean
 tags:
 - Profession
-- Other professions
+- Autres professions
 codes:
 - nomenclature: SYADEM
   code: 86dd1b81-0871-4bdc-891d-dfff9d0d4c82

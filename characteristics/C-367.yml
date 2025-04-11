@@ -1,12 +1,12 @@
 ---
 id: 367
-label: Works in a pediatric ward
+label: Travaille dans un service de pédiatrie
 type: boolean
 tags:
 - Profession
-- Related to health or the medico-social field
-- Active professional
-- In which department?
+- En rapport avec la santé ou le médico-social
+- Professionnel en activité
+- Dans quel service ?
 codes:
 - nomenclature: SYADEM
   code: ae1735cf-be04-4014-83ae-fa02ea8daa4e

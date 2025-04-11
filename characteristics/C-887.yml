@@ -1,11 +1,11 @@
 ---
 id: 887
-label: AIRE, NFBK2 and interferon deficiency
+label: Déficit en AIRE, en NFBK2 et en interféron
 type: boolean
 tags:
-- Chronic condition
-- Rare disease
-- Immuno-hematology
+- Affection chronique
+- Maladie rare
+- MARIH
 codes:
 - nomenclature: SYADEM
   code: 5f363485-b93b-486d-9b98-c9a6979baea4

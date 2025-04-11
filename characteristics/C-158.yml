@@ -1,10 +1,10 @@
 ---
 id: 158
-label: Positive chickenpox serology
+label: Sérologie de la varicelle positive
 type: boolean
 tags:
-- Laboratory tests
-- Chickenpox
+- Examens biologiques
+- Varicelle
 codes:
 - nomenclature: SYADEM
   code: cdefd727-abc0-4b74-946b-d6db82627d66

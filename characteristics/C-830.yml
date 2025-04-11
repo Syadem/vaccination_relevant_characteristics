@@ -1,10 +1,10 @@
 ---
 id: 830
-label: Hyper IgM syndrome
+label: Syndrome d'hyper IgM
 type: boolean
 tags:
-- Chronic condition
-- Immune deficiency
+- Affection chronique
+- Déficit immunitaire
 codes:
 - nomenclature: SYADEM
   code: d3b56302-c590-4ea0-b884-09f53837f4bc

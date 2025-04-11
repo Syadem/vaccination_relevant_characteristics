@@ -1,10 +1,10 @@
 ---
 id: 583
-label: Bruton's disease (X-linked agammaglobulinemia)
+label: Maladie de Bruton (agammaglobulinémie liée à l'X)
 type: boolean
 tags:
-- Chronic condition
-- Immune deficiency
+- Affection chronique
+- Déficit immunitaire
 codes:
 - nomenclature: SYADEM
   code: f50979ee-0c89-4b06-a202-b1273675d022

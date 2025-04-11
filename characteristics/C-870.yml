@@ -1,9 +1,9 @@
 ---
 id: 870
-label: Refusal to vaccinate against covid 19 collected by the health professional
+label: Refus de vaccination contre la covid 19 recueilli par le professionnel de santé
 type: boolean
 tags:
-- Vaccination consent
+- Consentement vaccination Covid 19
 codes:
 - nomenclature: SYADEM
   code: 5969458e-e5a0-489e-8786-ff6d3b09a075

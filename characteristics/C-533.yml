@@ -1,10 +1,11 @@
 ---
 id: 533
-label: Staying in a home for the dependent elderly
+label: Séjour dans un établissement d'hébergement pour personnes âgées dépendantes
+  (EHPAD)
 type: boolean
 tags:
-- Living or housing conditions
-- Community living, residence, institution...
+- Conditions de vie ou de résidence
+- Vie en collectivité, résidence, institution...
 codes:
 - nomenclature: SYADEM
   code: 25cb846b-e11a-488b-8189-14eb669847e6

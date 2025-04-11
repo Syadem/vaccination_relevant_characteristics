@@ -1,10 +1,10 @@
 ---
 id: 923
-label: Person not at risk of exposure to rabies
+label: Personne sans risque d'exposition à la rage
 type: boolean
 tags:
-- General information
-- Other information
+- Informations générales
+- Autres informations
 codes:
 - nomenclature: SYADEM
   code: 4dc3445e-79df-4cc6-9e43-60baddfb0807

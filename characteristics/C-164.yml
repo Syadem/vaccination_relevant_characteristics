@@ -1,10 +1,10 @@
 ---
 id: 164
-label: Positive rubella serology
+label: Sérologie de la rubéole positive
 type: boolean
 tags:
-- Laboratory tests
-- Rubella
+- Examens biologiques
+- Rubéole
 codes:
 - nomenclature: SYADEM
   code: 76a5e768-e25f-4144-be12-c4abe667ddf0

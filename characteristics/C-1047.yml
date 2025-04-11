@@ -1,10 +1,10 @@
 ---
 id: 1047
-label: Low-energy trauma
+label: Traumatisme de faible énergie
 type: boolean
 tags:
-- Medical history
-- Traumatology
+- Antécédents
+- Traumatologie
 codes:
 - nomenclature: SYADEM
   code: 4ccb386b-f233-484f-a3de-7161f1b9baa6

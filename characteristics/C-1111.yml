@@ -1,10 +1,10 @@
 ---
 id: 1111
-label: Residential medical care facilities
+label: Séjour dans un établissements de soins médicaux résidentiels
 type: boolean
 tags:
-- Living or housing conditions
-- Community living, residence, institution...
+- Conditions de vie ou de résidence
+- Vie en collectivité, résidence, institution...
 codes:
 - nomenclature: SYADEM
   code: e46b2866-4bb9-4a28-b0b2-6218d7df3dba

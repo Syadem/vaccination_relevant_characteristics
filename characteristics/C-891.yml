@@ -1,11 +1,12 @@
 ---
 id: 891
-label: Constitutional bleeding disease with treatment by a drug in clinical trial
+label: Maladie hémorragique constitutionnelle avec traitement par un médicament en
+  essai clinique
 type: boolean
 tags:
-- Chronic condition
-- Rare disease
-- Haemorrhage
+- Affection chronique
+- Maladie rare
+- MHémo
 codes:
 - nomenclature: SYADEM
   code: f69e2e74-4e3c-4b6f-b005-a8efb33be18e

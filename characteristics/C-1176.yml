@@ -1,11 +1,11 @@
 ---
 id: 1176
-label: Chief Officer - Maintenance
+label: Premier Officier - Maintenance
 type: boolean
 tags:
 - Profession
-- Staff working on a cruise ship
-- Deck
+- Personnels travaillant sur un bateau de croisière
+- Pont
 codes:
 - nomenclature: SYADEM
   code: 5935982a-7eaf-4f64-8d29-b2ebc9f84ba0

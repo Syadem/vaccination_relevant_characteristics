@@ -1,11 +1,11 @@
 ---
 id: 1197
-label: Public health officer
+label: Officier de santé publique
 type: boolean
 tags:
 - Profession
-- Staff working on a cruise ship
-- Miscellaneous
+- Personnels travaillant sur un bateau de croisière
+- Divers
 codes:
 - nomenclature: SYADEM
   code: cd051dc7-a8a6-4134-852e-8e5dffcf2431

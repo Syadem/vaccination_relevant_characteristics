@@ -1,11 +1,12 @@
 ---
 id: 415
-label: Waiting for a hematopoietic stem cell transplant (marrow transplant)
+label: En attente d'une transplantation de cellules souches hématopoïétiques (greffe
+  de moelle)
 type: boolean
 tags:
-- Chronic condition
-- Transplantation
-- Bone marrow
+- Affection chronique
+- Greffe
+- Moelle
 codes:
 - nomenclature: SYADEM
   code: d8135e67-7180-4806-91e9-c31f26f8d81a

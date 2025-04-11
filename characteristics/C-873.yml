@@ -1,10 +1,10 @@
 ---
 id: 873
-label: Pulmonary fibrosis
+label: Fibrose pulmonaire
 type: boolean
 tags:
-- Chronic condition
-- Rare disease
+- Affection chronique
+- Maladie rare
 - AnDDI-Rares
 codes:
 - nomenclature: SYADEM

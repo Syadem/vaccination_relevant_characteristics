@@ -1,10 +1,10 @@
 ---
 id: 426
-label: Progressive generalized scleroderma
+label: Sclérodermie généralisée évolutive
 type: boolean
 tags:
-- Chronic condition
-- Inflammatory or autoimmune disease
+- Affection chronique
+- Maladie inflammatoire ou auto-immune
 codes:
 - nomenclature: SYADEM
   code: a5321b97-4e27-4135-a275-45039766af78

@@ -1,10 +1,10 @@
 ---
 id: 1067
-label: Close and prolonged contact with local people
+label: Contact étroit et prolongé avec la population locale
 type: boolean
 tags:
-- TRAVEL
-- Travel details
+- VOYAGE
+- Précisions concernant le voyage
 codes:
 - nomenclature: SYADEM
   code: 8b547c52-3552-45dc-a88d-dd9c5d921774

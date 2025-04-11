@@ -1,10 +1,10 @@
 ---
 id: 1038
-label: Regular swimming, diving or fishing in fresh water
+label: Pratique régulière de la baignade, de la plongée ou de la pêche en eau douce
 type: boolean
 tags:
-- Living or housing conditions
-- Others
+- Conditions de vie ou de résidence
+- Autres
 codes:
 - nomenclature: SYADEM
   code: 43e1c315-cc30-42ad-b482-8a1715ec6e32

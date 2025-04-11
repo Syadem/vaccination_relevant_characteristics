@@ -1,10 +1,10 @@
 ---
 id: 995
-label: Number of weeks of amenorrhoea at birth for a premature baby
+label: Nombre de semaines d'aménorrhée à la naissance pour un enfant prématuré
 type: integer
 tags:
-- Medical history
-- Other medical histor
+- Antécédents
+- Autres antécédents
 codes:
 - nomenclature: SYADEM
   code: 45c447bd-0e25-4f1f-a7eb-3c910fe01cbd

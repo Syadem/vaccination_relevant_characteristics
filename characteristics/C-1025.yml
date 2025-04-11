@@ -1,9 +1,9 @@
 ---
 id: 1025
-label: Refusal of rotavirus vaccination
+label: Refus de vaccination contre les rotavirus
 type: boolean
 tags:
-- Vaccinations not desired
+- Vaccinations non souhaitées
 codes:
 - nomenclature: SYADEM
   code: cbd4cc47-3e6a-4ffb-b1fe-f61bec051a3b

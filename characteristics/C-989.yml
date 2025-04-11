@@ -1,10 +1,10 @@
 ---
 id: 989
-label: Anti-HBs Ac (IU/L)
+label: Ac anti-HBs (UI/L)
 type: integer
 tags:
-- Laboratory tests
-- Hepatitis B
+- Examens biologiques
+- Hépatite B
 - Anti-HBs
 codes:
 - nomenclature: SYADEM

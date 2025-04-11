@@ -1,10 +1,10 @@
 ---
 id: 1051
-label: Spinal fracture
+label: Fracture vertébrale
 type: boolean
 tags:
-- Medical history
-- Traumatology
+- Antécédents
+- Traumatologie
 codes:
 - nomenclature: SYADEM
   code: df73ce43-a0a0-4d45-b91d-4edcb838218a

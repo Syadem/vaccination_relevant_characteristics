@@ -1,11 +1,11 @@
 ---
 id: 894
-label: ANCA vasculitis under immunosuppressive treatment
+label: Vascularite à ANCA sous traitement immunosuppresseur
 type: boolean
 tags:
-- Chronic condition
-- Rare disease
-- Renal
+- Affection chronique
+- Maladie rare
+- ORKiD
 codes:
 - nomenclature: SYADEM
   code: 4cd76120-e648-4793-b813-871d46c022dc

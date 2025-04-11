@@ -1,9 +1,9 @@
 ---
 id: 619
-label: Meningococcal B vaccine refusal
+label: Refus de vaccination contre le méningocoque B
 type: boolean
 tags:
-- Vaccinations not desired
+- Vaccinations non souhaitées
 codes:
 - nomenclature: SYADEM
   code: e05843e4-0261-43e4-963f-3a633d6051de

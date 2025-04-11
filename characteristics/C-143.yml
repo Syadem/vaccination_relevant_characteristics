@@ -1,10 +1,10 @@
 ---
 id: 143
-label: Low level of resources
+label: Bas niveau de ressources
 type: boolean
 tags:
-- Living or housing conditions
-- Others
+- Conditions de vie ou de résidence
+- Autres
 codes:
 - nomenclature: SYADEM
   code: 20838ff7-f067-4089-853c-15fd37576026

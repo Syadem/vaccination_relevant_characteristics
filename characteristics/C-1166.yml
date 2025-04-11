@@ -1,9 +1,9 @@
 ---
 id: 1166
-label: 'Leukemia '
+label: Leucémie
 type: boolean
 tags:
-- Chronic condition
+- Affection chronique
 - Cancer
 codes:
 - nomenclature: SYADEM

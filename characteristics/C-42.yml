@@ -1,10 +1,10 @@
 ---
 id: 42
-label: History of pulmonary or invasive pneumococcal infection
+label: Antécédent d'infection pulmonaire ou invasive à pneumocoque
 type: boolean
 tags:
-- Medical history
-- Infectious diseases
+- Antécédents
+- Maladies infectieuses
 codes:
 - nomenclature: SYADEM
   code: af34705f-a8ad-4c00-b3f7-2057807db19b

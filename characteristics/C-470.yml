@@ -1,10 +1,10 @@
 ---
 id: 470
-label: Inflammatory rheumatism
+label: Rhumatisme inflammatoire
 type: boolean
 tags:
-- Chronic condition
-- Inflammatory or autoimmune disease
+- Affection chronique
+- Maladie inflammatoire ou auto-immune
 codes:
 - nomenclature: SYADEM
   code: 3d40d4a9-e5d2-4332-aede-99961bc74aaf

@@ -1,11 +1,11 @@
 ---
 id: 927
-label: Myocarditis or pericarditis not related to SARS-CoV-2 infection, prior to vaccination and still active
+label: Myocardite ou péricardite
 type: boolean
 tags:
-- Chronic condition
-- Cardiology-Pulmonology
-- Cardiology
+- Affection chronique
+- Cardio - Pneumo
+- Cardiologie
 codes:
 - nomenclature: SYADEM
   code: 07a08ecc-e4a5-4108-9c2b-5b41e8603abd

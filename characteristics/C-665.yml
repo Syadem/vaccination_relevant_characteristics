@@ -1,9 +1,9 @@
 ---
 id: 665
-label: Refusal of shingles vaccination
+label: Refus de vaccination contre le zona
 type: boolean
 tags:
-- Vaccinations not desired
+- Vaccinations non souhaitées
 codes:
 - nomenclature: SYADEM
   code: 4a2bc750-58ce-4e93-aada-414b19295f94

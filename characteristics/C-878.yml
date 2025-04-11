@@ -1,10 +1,10 @@
 ---
 id: 878
-label: Cerebral arteriovenous malformation
+label: Malformation artério-veineuse cérébrale
 type: boolean
 tags:
-- Chronic condition
-- Rare disease
+- Affection chronique
+- Maladie rare
 - BRAIN-TEAM
 codes:
 - nomenclature: SYADEM

@@ -1,10 +1,10 @@
 ---
 id: 939
-label: Unused - Myocarditis or pericarditis associated with SARS-CoV-2 infection
+label: Inutilisé - Myocardite ou péricardite associées à une infection par SARS-CoV-2
 type: boolean
 tags:
-- Medical history
-- Other medical histor
+- Antécédents
+- Autres antécédents
 codes:
 - nomenclature: SYADEM
   code: '0883c07c-bd7e-4677-aab4-d44a9cd380db'

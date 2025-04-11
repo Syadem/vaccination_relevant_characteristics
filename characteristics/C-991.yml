@@ -1,11 +1,11 @@
 ---
 id: 991
-label: Date of antepenultimate COVID-19
+label: Date de l'avant-avant-dernier antécédent de covid 19
 type: date
 tags:
-- Medical history
-- Infectious diseases
-- COVID-19
+- Antécédents
+- Maladies infectieuses
+- Covid 19
 codes:
 - nomenclature: SYADEM
   code: 9b128b29-cec5-4679-92f1-87ebef525f56

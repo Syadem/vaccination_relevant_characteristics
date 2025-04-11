@@ -1,9 +1,9 @@
 ---
 id: 1167
-label: Lymphoma
+label: Lymphome
 type: boolean
 tags:
-- Chronic condition
+- Affection chronique
 - Cancer
 codes:
 - nomenclature: SYADEM

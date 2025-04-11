@@ -1,14 +1,14 @@
 ---
 id: 708
-label: Military mission in a country with endemic tick-borne encephalitis
+label: Mission d'un(e) militaire dans un pays avec encéphalite à tiques endémique
 type: boolean
 tags:
 - Profession
-- military
-- After enlistment
-- OM-OPEX-Embarkation Mission
+- Militaire
+- Après l'incorporation
+- Mission OM-OPEX-Embarquement
 - Europe
-- Countries with endemic tick-borne encephalitis
+- Pays avec encéphalite à tiques endémique
 codes:
 - nomenclature: SYADEM
   code: 9c5171d2-bfc4-468b-a6c3-0d17d52c33bc

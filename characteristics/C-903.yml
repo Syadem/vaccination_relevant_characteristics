@@ -1,11 +1,11 @@
 ---
 id: 903
-label: Pulmonary hypertension associated with chronic respiratory diseases (PH-CDR)
+label: Hypertension Pulmonaire associée aux maladies respiratoires chroniques (HTP-MRC)
 type: boolean
 tags:
-- Chronic condition
-- Rare disease
-- Respiratory
+- Affection chronique
+- Maladie rare
+- RESPIFIL
 codes:
 - nomenclature: SYADEM
   code: d901b280-82df-47ab-afd5-7badbd8df4c7

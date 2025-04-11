@@ -1,11 +1,11 @@
 ---
 id: 493
-label: Negative veterinary surveillance result
+label: Résultat de la surveillance vétérinaire négatif
 type: boolean
 tags:
-- Emergency situation
-- Suspected exposure to rabies
-- Veterinary surveillance
+- Situation d'urgence
+- Suspicion d'exposition a la rage
+- Suveillance vétérinaire
 - Possible
 codes:
 - nomenclature: SYADEM

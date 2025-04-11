@@ -1,10 +1,10 @@
 ---
 id: 859
-label: Trisomy 21
+label: Trisomie 21
 type: boolean
 tags:
-- Chronic condition
-- Genetic disease
+- Affection chronique
+- Maladie génétique
 codes:
 - nomenclature: SYADEM
   code: 69dc052b-3488-4723-bf2c-213eed3e32c3

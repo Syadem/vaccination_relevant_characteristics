@@ -1,10 +1,10 @@
 ---
 id: 288
-label: Positive mumps serology
+label: Sérologie des oreillons positive
 type: boolean
 tags:
-- Laboratory tests
-- Mumps
+- Examens biologiques
+- Oreillons
 codes:
 - nomenclature: SYADEM
   code: b50a81fb-eb32-4873-ac16-c8dcb3b2ceb6

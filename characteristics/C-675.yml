@@ -1,9 +1,9 @@
 ---
 id: 675
-label: Refusal of Haemophilus influenzae type b vaccination
+label: Refus de vaccination contre Haemophilus influenzae type b
 type: boolean
 tags:
-- Vaccinations not desired
+- Vaccinations non souhaitées
 codes:
 - nomenclature: SYADEM
   code: 93b9e435-c5bb-48c8-86dd-4eae71ac8fea

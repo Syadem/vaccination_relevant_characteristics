@@ -1,10 +1,10 @@
 ---
 id: 1165
-label: Other autoimmune disease
+label: Autre maladie auto-immune
 type: boolean
 tags:
-- Chronic condition
-- Inflammatory or autoimmune disease
+- Affection chronique
+- Maladie inflammatoire ou auto-immune
 codes:
 - nomenclature: SYADEM
   code: 6258ac61-4414-4796-aac3-362f43e03044

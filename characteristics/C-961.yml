@@ -1,11 +1,11 @@
 ---
 id: 961
-label: Hypertension, complicated or not
+label: Hypertension artérielle, compliquée ou non
 type: boolean
 tags:
-- Chronic condition
-- Cardiology-Pulmonology
-- Cardiology
+- Affection chronique
+- Cardio - Pneumo
+- Cardiologie
 codes:
 - nomenclature: SYADEM
   code: 85d3e4d9-4a6c-4234-8440-414722fe6e43

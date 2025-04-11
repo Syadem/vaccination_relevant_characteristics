@@ -1,12 +1,12 @@
 ---
 id: 729
-label: Reservist
+label: Réserviste
 type: boolean
 tags:
 - Profession
-- military
-- After enlistment
-- No OM-OPEX-Embarkation mission planned
+- Militaire
+- Après l'incorporation
+- Pas de mission OM-OPEX-Embarquement planifiée
 codes:
 - nomenclature: SYADEM
   code: 356e37ca-f269-4675-bf0b-b11d45898e01

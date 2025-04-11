@@ -1,11 +1,11 @@
 ---
 id: 1225
-label: Wiper
+label: Aide-mécanicien
 type: boolean
 tags:
 - Profession
-- Staff working on a cruise ship
-- Engine
+- Personnels travaillant sur un bateau de croisière
+- Salle des machines
 codes:
 - nomenclature: SYADEM
   code: 57d944a5-5de8-4608-a49f-33a55a301aeb

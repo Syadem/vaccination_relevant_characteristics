@@ -1,10 +1,10 @@
 ---
 id: 193
-label: Absence of anti-HBs antibodies (<10 IU/L)
+label: Absence d'Ac anti-HBs (inf. 10 UI/L)
 type: boolean
 tags:
-- Laboratory tests
-- Hepatitis B
+- Examens biologiques
+- Hépatite B
 - Anti-HBs
 codes:
 - nomenclature: SYADEM

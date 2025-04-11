@@ -1,11 +1,11 @@
 ---
 id: 495
-label: Result of the ongoing veterinary surveillance
+label: Résultat de la surveillance vétérinaire en cours
 type: boolean
 tags:
-- Emergency situation
-- Suspected exposure to rabies
-- Veterinary surveillance
+- Situation d'urgence
+- Suspicion d'exposition a la rage
+- Suveillance vétérinaire
 - Possible
 codes:
 - nomenclature: SYADEM

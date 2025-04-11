@@ -1,10 +1,10 @@
 ---
 id: 999
-label: Person working in a sexual consumption place
+label: Personne travaillant dans un lieu de consommation sexuelle
 type: boolean
 tags:
 - Profession
-- Other professions
+- Autres professions
 codes:
 - nomenclature: SYADEM
   code: f03f22da-5a7f-4d1e-8a94-7c2901202e47

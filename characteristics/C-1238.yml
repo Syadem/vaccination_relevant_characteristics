@@ -1,10 +1,10 @@
 ---
 id: 1238
-label: Farmer
+label: Agriculteur
 type: boolean
 tags:
 - Profession
-- Working with animals, agriculture, water, forests, and fishing
+- Au contact des animaux, agriculture, eaux, forêts et pêche
 codes:
 - nomenclature: SYADEM
   code: b4aef972-22d9-4620-a492-465850de3e4f

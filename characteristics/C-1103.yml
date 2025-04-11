@@ -1,10 +1,11 @@
 ---
 id: 1103
-label: Attend a childcare facility approved by the Office of Birth and Childhood (ONE)
+label: Fréquente un milieu d’accueil agréé par l’Office de la Naissance et de l’Enfance
+  (ONE)
 type: boolean
 tags:
-- Living or housing conditions
-- Community living, residence, institution...
+- Conditions de vie ou de résidence
+- Vie en collectivité, résidence, institution...
 codes:
 - nomenclature: SYADEM
   code: 7fae842f-5699-490d-a452-050e6da1904b

@@ -1,10 +1,10 @@
 ---
 id: 5
-label: Severe chronic kidney disease
+label: Néphropathie chronique grave
 type: boolean
 tags:
-- Chronic condition
-- Uro-nephrology
+- Affection chronique
+- Uro-néphrologie
 codes:
 - nomenclature: SYADEM
   code: 91145070-f6a1-495b-842f-870722aad700

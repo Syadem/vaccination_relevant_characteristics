@@ -1,12 +1,12 @@
 ---
 id: 177
-label: Occupational Therapist
+label: Ergothérapeute
 type: boolean
 tags:
 - Profession
-- Related to health or the medico-social field
-- Active professional
-- What profession?
+- En rapport avec la santé ou le médico-social
+- Professionnel en activité
+- Quel métier ?
 codes:
 - nomenclature: SYADEM
   code: 42dc5962-3f3a-4eb5-88f5-ffd465e39df1

@@ -1,11 +1,11 @@
 ---
 id: 600
-label: HBV DNA positive
+label: ADN VHB positif
 type: boolean
 tags:
-- Laboratory tests
-- Hepatitis B
-- HBV DNA
+- Examens biologiques
+- Hépatite B
+- ADN VHB
 codes:
 - nomenclature: SYADEM
   code: 2f3025ab-aad0-42e4-ad5c-9f0961c67953

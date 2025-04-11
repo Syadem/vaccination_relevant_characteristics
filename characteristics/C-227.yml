@@ -1,12 +1,12 @@
 ---
 id: 227
-label: Orthoptic student
+label: Elève orthoptiste
 type: boolean
 tags:
 - Profession
-- Related to health or the medico-social field
-- Student or in training
-- Paramedical profession
+- En rapport avec la santé ou le médico-social
+- Etudiant ou en cours de formation
+- Profession paramédicale
 codes:
 - nomenclature: SYADEM
   code: be76b5bf-f9c4-4a93-b252-8c3e5e5a5b6e

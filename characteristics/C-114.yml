@@ -1,10 +1,10 @@
 ---
 id: 114
-label: Parenteral drug abuse
+label: Toxicomanie par voie parentérale
 type: boolean
 tags:
-- Living or housing conditions
-- Alcohol, drugs...
+- Conditions de vie ou de résidence
+- Alcool, drogues...
 codes:
 - nomenclature: SYADEM
   code: 46c086b6-8870-409f-8ed2-5fce1b98ecd0

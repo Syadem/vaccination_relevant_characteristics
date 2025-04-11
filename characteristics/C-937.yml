@@ -1,12 +1,12 @@
 ---
 id: 937
-label: Employee in a medical-social housing structure
+label: Employé dans une structure d'hébergement médico-sociale
 type: boolean
 tags:
 - Profession
-- Related to health or the medico-social field
-- Active professional
-- What profession?
+- En rapport avec la santé ou le médico-social
+- Professionnel en activité
+- Quel métier ?
 codes:
 - nomenclature: SYADEM
   code: abd5b7ac-5f70-440c-8252-c53ed16eb926

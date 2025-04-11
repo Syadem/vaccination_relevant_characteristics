@@ -1,10 +1,10 @@
 ---
 id: 1080
-label: QUANTIFERON (result in IU/L)
+label: QUANTIFERON (résultat en UI/L)
 type: float
 tags:
-- Laboratory tests
-- Tuberculosis
+- Examens biologiques
+- Tuberculose
 codes:
 - nomenclature: SYADEM
   code: 9b316793-06ed-462a-a5e9-baac63b8e4d7

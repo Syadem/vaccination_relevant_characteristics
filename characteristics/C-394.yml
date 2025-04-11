@@ -1,10 +1,10 @@
 ---
 id: 394
-label: Known history of jaundice
+label: Antécédent connu d'ictère
 type: boolean
 tags:
-- General information
-- Other information
+- Informations générales
+- Autres informations
 codes:
 - nomenclature: SYADEM
   code: f7246854-6ac9-4ce4-9d96-53bbd99d421d

@@ -1,11 +1,11 @@
 ---
 id: 414
-label: Hematopoietic stem cell transplantation (marrow transplant)
+label: Transplantation de cellules souches hématopoïétiques (greffe de moelle)
 type: boolean
 tags:
-- Chronic condition
-- Transplantation
-- Bone marrow
+- Affection chronique
+- Greffe
+- Moelle
 codes:
 - nomenclature: SYADEM
   code: a59f816f-8ad9-4caf-91b4-a26eff153529

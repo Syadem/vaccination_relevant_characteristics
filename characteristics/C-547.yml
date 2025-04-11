@@ -1,11 +1,11 @@
 ---
 id: 547
-label: Coronary artery disease
+label: Maladie des coronaires
 type: boolean
 tags:
-- Chronic condition
-- Cardiology-Pulmonology
-- Cardiology
+- Affection chronique
+- Cardio - Pneumo
+- Cardiologie
 codes:
 - nomenclature: SYADEM
   code: 5c480d7f-a214-4289-a99d-3e8958fbb967

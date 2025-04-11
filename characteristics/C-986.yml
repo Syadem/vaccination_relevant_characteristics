@@ -1,12 +1,12 @@
 ---
 id: 986
-label: Student pharmacy assistant, receiving patients
+label: Elève préparateur(ice) en pharmacie, accueillant des patients
 type: boolean
 tags:
 - Profession
-- Related to health or the medico-social field
-- Student or in training
-- Paramedical profession
+- En rapport avec la santé ou le médico-social
+- Etudiant ou en cours de formation
+- Profession paramédicale
 codes:
 - nomenclature: SYADEM
   code: 68d3bd03-cc4c-40ac-bd98-e54e74bece80

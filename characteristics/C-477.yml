@@ -1,11 +1,11 @@
 ---
 id: 477
-label: Thrombocytopenic purpura
+label: Purpura thrombopénique
 type: boolean
 tags:
-- Chronic condition
-- Hematology - Hemostasis
-- Coagulation disorder
+- Affection chronique
+- Hématologie - Hémostase
+- Trouble de l'hémostase ou de la coagulation
 codes:
 - nomenclature: SYADEM
   code: 6b256daf-ae4d-4a93-860b-0a1926692d17

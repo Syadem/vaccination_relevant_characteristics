@@ -1,11 +1,11 @@
 ---
 id: 1193
-label: Staff working in the ship's shops
+label: Personnel travaillant dans les boutiques du navire
 type: boolean
 tags:
 - Profession
-- Staff working on a cruise ship
-- Miscellaneous
+- Personnels travaillant sur un bateau de croisière
+- Divers
 codes:
 - nomenclature: SYADEM
   code: '0145618b-1466-46ce-b01e-135f6de444fc'
