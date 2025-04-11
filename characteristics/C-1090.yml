@@ -1,10 +1,10 @@
 ---
 id: 1090
-label: Comportement sexuel impliquant un risque élevé d’exposition à une maladie transmissible
+label: Sexual behaviour involving a high risk of exposure to a transmissible disease
 type: boolean
 tags:
-- Conditions de vie ou de résidence
-- Facteurs de risque concernant la sexualité
+- Living or housing conditions
+- Risk factors concerning sexuality
 codes:
 - nomenclature: SYADEM
   code: 2407ac1c-2882-453b-bccf-c74ffb57a68e

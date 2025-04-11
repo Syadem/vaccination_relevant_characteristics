@@ -1,10 +1,10 @@
 ---
 id: 1040
-label: Ac Anti-VHA (IgG ou Ig totales en UI/L)
+label: Anti-HAV Ac (IgG or total Ig in IU/L)
 type: integer
 tags:
-- Examens biologiques
-- Hépatite A
+- Laboratory tests
+- Hepatitis A
 codes:
 - nomenclature: SYADEM
   code: 62afcb29-c976-4720-9a47-8bca663b069a

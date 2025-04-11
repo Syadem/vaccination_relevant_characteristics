@@ -3,8 +3,8 @@ id: 1129
 label: Bihar
 type: boolean
 tags:
-- VOYAGE
-- Etats de l'Inde
+- TRAVEL
+- States of India
 codes:
 - nomenclature: SYADEM
   code: 56af956e-86d1-4a90-9d57-421ee95abffb

@@ -1,6 +1,6 @@
 ---
 id: 1001
-label: Personne-contact à risque de mpox
+label: Contact person at risk of mpox
 type: boolean
 tags:
 - Entourage

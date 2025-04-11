@@ -1,10 +1,10 @@
 ---
 id: 110
-label: Plongeur professionnel
+label: Professional diver
 type: boolean
 tags:
 - Profession
-- Au contact des animaux, agriculture, eaux, forêts et pêche
+- Working with animals, agriculture, water, forests, and fishing
 codes:
 - nomenclature: SYADEM
   code: ed505c62-2886-486f-9d06-d095a4e26e9b

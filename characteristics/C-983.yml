@@ -1,12 +1,12 @@
 ---
 id: 983
-label: Elève prothésiste et orthésiste pour l'appareillage des personnes handicapées
+label: Student prosthetist and orthotist for the fitting of disabled persons
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Etudiant ou en cours de formation
-- Autres professions
+- Related to health or the medico-social field
+- Student or in training
+- Other professions
 codes:
 - nomenclature: SYADEM
   code: b7a5864b-3b37-40b3-a0c9-e68c94f99948

@@ -1,10 +1,10 @@
 ---
 id: 1097
-label: Traitement au long cours par acide acétylsalicylique
+label: Long-term treatment with acetylsalicylic acid
 type: boolean
 tags:
-- Traitements
-- Autre(s) traitement(s)
+- Treatments
+- Other treatments
 codes:
 - nomenclature: SYADEM
   code: fb8a3e50-120f-4ec6-912b-330dfbd0d2a1

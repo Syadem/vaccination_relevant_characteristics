@@ -1,10 +1,10 @@
 ---
 id: 154
-label: Garde-chasse
+label: Gamekeeper
 type: boolean
 tags:
 - Profession
-- Au contact des animaux, agriculture, eaux, forêts et pêche
+- Working with animals, agriculture, water, forests, and fishing
 codes:
 - nomenclature: SYADEM
   code: 922dae70-7b16-4d54-9cae-a6c1c380c927

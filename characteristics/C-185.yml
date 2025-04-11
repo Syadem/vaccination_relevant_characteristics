@@ -1,12 +1,12 @@
 ---
 id: 185
-label: Educateur(trice) de jeunes enfants
+label: Early Childhood Educator
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel métier ?
+- Related to health or the medico-social field
+- Active professional
+- What profession?
 codes:
 - nomenclature: SYADEM
   code: 40379c92-956b-4e22-a39f-6a457aca852f

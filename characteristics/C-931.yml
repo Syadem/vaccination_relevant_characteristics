@@ -1,10 +1,10 @@
 ---
 id: 931
-label: Mère ayant reçu de l’Infliximab pendant la grossesse ou l’allaitement
+label: Mother who received Infliximab during pregnancy or breastfeeding
 type: boolean
 tags:
-- Traitements
-- Autre(s) traitement(s)
+- Treatments
+- Other treatments
 codes:
 - nomenclature: SYADEM
   code: 7ddacb02-980e-4a77-8c05-a5575b246757

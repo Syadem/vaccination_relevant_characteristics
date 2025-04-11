@@ -1,10 +1,10 @@
 ---
 id: 141
-label: Corticothérapie prolongée ou à forte dose
+label: Prolonged or high-dose corticosteroid therapy
 type: boolean
 tags:
-- Traitements
-- Traitement(s) ayant une influence sur l'immunité
+- Treatments
+- Treatments affecting immunity
 codes:
 - nomenclature: SYADEM
   code: aa842945-c59e-49e9-bb9d-9a22d18d2430

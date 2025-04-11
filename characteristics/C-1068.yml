@@ -1,10 +1,10 @@
 ---
 id: 1068
-label: Séjour en zone rurale
+label: Staying in a rural area
 type: boolean
 tags:
-- VOYAGE
-- Conditions du séjour
+- TRAVEL
+- Conditions of stay
 codes:
 - nomenclature: SYADEM
   code: e4fb6d35-7cb8-4225-9357-1fadd629e537

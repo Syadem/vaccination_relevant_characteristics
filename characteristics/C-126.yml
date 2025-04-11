@@ -1,12 +1,12 @@
 ---
 id: 126
-label: Asthme (autre que sévère et sous traitement continu)
+label: Asthma (other than severe and under continuous treatment)
 type: boolean
 tags:
-- Affection chronique
-- Cardio - Pneumo
-- Pneumologie
-- Asthme
+- Chronic condition
+- Cardiology-Pulmonology
+- Pulmonology
+- Asthma
 codes:
 - nomenclature: SYADEM
   code: fba6d958-bd86-46e0-9668-47d7d7fc896c

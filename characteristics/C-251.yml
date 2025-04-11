@@ -1,12 +1,12 @@
 ---
 id: 251
-label: Travaille dans un hôpital ou un autre établissement relevant de la loi hospitalière
+label: Works in a hospital or other facility under the Hospital Act
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel lieu d'exercice ?
+- Related to health or the medico-social field
+- Active professional
+- What place of practice?
 codes:
 - nomenclature: SYADEM
   code: b356389f-5371-4444-91fd-df0b41ea7734

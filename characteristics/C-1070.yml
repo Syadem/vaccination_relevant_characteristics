@@ -1,10 +1,10 @@
 ---
 id: 1070
-label: Séjour en milieu rural ou en forêt
+label: A stay in a rural setting or in the forest
 type: boolean
 tags:
-- VOYAGE
-- Conditions du séjour
+- TRAVEL
+- Conditions of stay
 codes:
 - nomenclature: SYADEM
   code: 32b16fcf-309e-4587-a9d2-4777686f511b

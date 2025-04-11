@@ -1,9 +1,9 @@
 ---
 id: 1125
-label: Séjour exclusif en zone montagneuse
+label: Exclusive stay in a mountainous area
 type: boolean
 tags:
-- VOYAGE
+- TRAVEL
 codes:
 - nomenclature: SYADEM
   code: cdae794f-debe-4a58-907b-b5938f42bfbd

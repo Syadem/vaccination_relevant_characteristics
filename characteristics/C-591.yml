@@ -1,9 +1,9 @@
 ---
 id: 591
-label: Refus de vaccination contre la rougeole, les oreillons et la rubéole
+label: Refusal to vaccinate against measles, mumps and rubella
 type: boolean
 tags:
-- Vaccinations non souhaitées
+- Vaccinations not desired
 codes:
 - nomenclature: SYADEM
   code: b716cdea-0a08-451f-b5a9-cb5ce701e4ea

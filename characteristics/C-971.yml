@@ -1,12 +1,12 @@
 ---
 id: 971
-label: Opticien-lunetier
+label: Optician
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel métier ?
+- Related to health or the medico-social field
+- Active professional
+- What profession?
 codes:
 - nomenclature: SYADEM
   code: c789153a-406a-45ca-98b5-82d50d47f019

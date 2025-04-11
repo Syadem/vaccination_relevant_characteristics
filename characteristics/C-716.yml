@@ -1,15 +1,14 @@
 ---
 id: 716
-label: 'Mission d''un(e) militaire en Allemagne : arrondissements SANS risque d''encéphalite
-  à tiques'
+label: 'Military mission in Germany: districts WITHOUT risk of tick-borne encephalitis'
 type: boolean
 tags:
 - Profession
-- Militaire
-- Après l'incorporation
-- Mission OM-OPEX-Embarquement
+- military
+- After enlistment
+- OM-OPEX-Embarkation Mission
 - Europe
-- Pays avec cas sporadiques d'encéphalite à tiques ou données peu documentées
+- Countries with sporadic cases of tick-borne encephalitis or poorly documented data
 codes:
 - nomenclature: SYADEM
   code: '09283eb4-488b-4275-9373-ced5cf6f5220'

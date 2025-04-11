@@ -1,12 +1,12 @@
 ---
 id: 75
-label: Manipulateur(rice) en électroradiologie médicale
+label: Medical Electroradiology Manipulator
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel métier ?
+- Related to health or the medico-social field
+- Active professional
+- What profession?
 codes:
 - nomenclature: SYADEM
   code: ce90be06-183b-46d4-8152-292b55bfa635

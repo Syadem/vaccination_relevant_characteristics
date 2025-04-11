@@ -1,9 +1,9 @@
 ---
 id: 909
-label: Polypathologie chronique
+label: Chronic poly-pathology
 type: boolean
 tags:
-- Affection chronique
+- Chronic condition
 codes:
 - nomenclature: SYADEM
   code: a9b7b153-53ce-4400-bbf1-b0dfef8de885

@@ -1,10 +1,10 @@
 ---
 id: 1099
-label: Professionnel de santé en contact avec des patients
+label: Health professional in contact with patients
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
+- Related to health or the medico-social field
 codes:
 - nomenclature: SYADEM
   code: 14fed997-6389-4ea3-87b0-de3c605bf4eb

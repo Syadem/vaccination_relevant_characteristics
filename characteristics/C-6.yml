@@ -1,10 +1,10 @@
 ---
 id: 6
-label: Syndrome néphrotique
+label: Nephrotic syndrome
 type: boolean
 tags:
-- Affection chronique
-- Uro-néphrologie
+- Chronic condition
+- Uro-nephrology
 codes:
 - nomenclature: SYADEM
   code: 959d6798-0f5d-4ee9-941b-ffaa1b9ba887

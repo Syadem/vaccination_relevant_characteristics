@@ -1,11 +1,11 @@
 ---
 id: 498
-label: Résultat du diagnostic biologique positif
+label: Result of the positive biological diagnosis
 type: boolean
 tags:
-- Situation d'urgence
-- Suspicion d'exposition a la rage
-- Contact direct avec un mammifére dans un pays d'enzootie rabique
+- Emergency situation
+- Suspected exposure to rabies
+- Direct contact with a mammal in a country where rabies is endemic
 - Possible
 codes:
 - nomenclature: SYADEM

@@ -1,11 +1,11 @@
 ---
 id: 19
-label: En attente de transplantation d'organe (rein, coeur, foie ou poumon)
+label: Waiting for an organ transplant (kidney, heart, liver or lung)
 type: boolean
 tags:
-- Affection chronique
-- Greffe
-- Organe
+- Chronic condition
+- Transplantation
+- Organ
 codes:
 - nomenclature: SYADEM
   code: 7f2243ef-d42d-4aab-8156-759d331bcf63

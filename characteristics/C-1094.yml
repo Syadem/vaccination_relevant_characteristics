@@ -1,9 +1,9 @@
 ---
 id: 1094
-label: Autres maladies métaboliques chroniques
+label: Other chronic metabolic diseases
 type: boolean
 tags:
-- Affection chronique
+- Chronic condition
 codes:
 - nomenclature: SYADEM
   code: e02e0b01-6d79-416e-a15f-2b6a70f5a83f

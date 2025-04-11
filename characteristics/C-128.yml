@@ -1,12 +1,12 @@
 ---
 id: 128
-label: Dysplasie broncho-pulmonaire
+label: Bronchopulmonary dysplasia
 type: boolean
 tags:
-- Affection chronique
-- Cardio - Pneumo
-- Pneumologie
-- Autres
+- Chronic condition
+- Cardiology-Pulmonology
+- Pulmonology
+- Others
 codes:
 - nomenclature: SYADEM
   code: 70083215-7528-4baf-8978-23494bb0c245

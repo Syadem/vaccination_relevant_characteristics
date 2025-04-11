@@ -1,10 +1,10 @@
 ---
 id: 1074
-label: Séjour à proximité d’élevages de porcs
+label: Staying near pig farms
 type: boolean
 tags:
-- VOYAGE
-- Conditions du séjour
+- TRAVEL
+- Conditions of stay
 codes:
 - nomenclature: SYADEM
   code: 49682f5d-a3be-4b85-8787-eb5bdbcfd624

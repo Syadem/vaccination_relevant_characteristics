@@ -1,10 +1,10 @@
 ---
 id: 1093
-label: Enfant scolarisé
+label: School child
 type: boolean
 tags:
-- Conditions de vie ou de résidence
-- Vie en collectivité, résidence, institution...
+- Living or housing conditions
+- Community living, residence, institution...
 codes:
 - nomenclature: SYADEM
   code: e5968508-caaf-4f1c-bbc5-5b8fcfccbf15

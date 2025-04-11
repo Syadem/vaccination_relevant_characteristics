@@ -1,11 +1,11 @@
 ---
 id: 3
-label: Insuffisance cardiaque grave
+label: Severe heart failure
 type: boolean
 tags:
-- Affection chronique
-- Cardio - Pneumo
-- Cardiologie
+- Chronic condition
+- Cardiology-Pulmonology
+- Cardiology
 codes:
 - nomenclature: SYADEM
   code: 596bed2f-8297-4253-a671-e2e85c179672

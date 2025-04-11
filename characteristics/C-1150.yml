@@ -3,8 +3,8 @@ id: 1150
 label: Tripura
 type: boolean
 tags:
-- VOYAGE
-- Etats de l'Inde
+- TRAVEL
+- States of India
 codes:
 - nomenclature: SYADEM
   code: 77856cdf-0240-46c6-87e7-d7679975e9ec

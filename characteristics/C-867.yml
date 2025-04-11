@@ -1,11 +1,11 @@
 ---
 id: 867
-label: Antécédent prouvé de covid 19
+label: Proven history of covid 19
 type: boolean
 tags:
-- Antécédents
-- Maladies infectieuses
-- Covid 19
+- Medical history
+- Infectious diseases
+- COVID-19
 codes:
 - nomenclature: SYADEM
   code: edf09cbe-078f-4244-b56d-3a4f5c79e01d

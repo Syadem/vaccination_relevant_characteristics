@@ -1,10 +1,10 @@
 ---
 id: 1156
-label: Tabagisme
+label: Smoking
 type: boolean
 tags:
-- Conditions de vie ou de résidence
-- Alcool, drogues...
+- Living or housing conditions
+- Alcohol, drugs...
 codes:
 - nomenclature: SYADEM
   code: 4129e778-bdea-4a0c-93da-1b24d6e0589d

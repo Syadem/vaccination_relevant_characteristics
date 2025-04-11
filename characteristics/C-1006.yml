@@ -1,12 +1,12 @@
 ---
 id: 1006
-label: Travaille dans une structure d'hébergement pour personnes âgées
+label: Works in a home for the elderly
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel lieu d'exercice ?
+- Related to health or the medico-social field
+- Active professional
+- What place of practice?
 codes:
 - nomenclature: SYADEM
   code: 0ec8f594-b92b-401a-89f1-3852e654e795

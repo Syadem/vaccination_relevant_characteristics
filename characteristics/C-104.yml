@@ -1,10 +1,10 @@
 ---
 id: 104
-label: Travaille dans un établissement pénitentiaire ou un service de probation
+label: Works in a correctional facility or probation department
 type: boolean
 tags:
 - Profession
-- Justice - Administration pénitentiaire
+- Penitentiary Administration
 codes:
 - nomenclature: SYADEM
   code: a11ed8c7-1be7-4cae-9ebf-2935406f7c4c

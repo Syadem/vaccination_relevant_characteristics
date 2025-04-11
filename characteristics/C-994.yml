@@ -1,12 +1,12 @@
 ---
 id: 994
-label: Personnels en contact répété avec des patients tuberculeux
+label: Personnel in repeated contact with tuberculosis patients
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Exposition à des agents biologiques ?
+- Related to health or the medico-social field
+- Active professional
+- Exposure to biological agents?
 codes:
 - nomenclature: SYADEM
   code: 29e4d4d8-1467-4e0a-bd0f-9c6bbdbe1ede

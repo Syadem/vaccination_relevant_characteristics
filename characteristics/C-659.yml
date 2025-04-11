@@ -1,11 +1,11 @@
 ---
 id: 659
-label: Incorporation réserve opérationnelle en métropole ou outre-mer
+label: Incorporation into the operational reserve in France or overseas
 type: boolean
 tags:
 - Profession
-- Militaire
-- A l'incorporation
+- military
+- At the incorporation
 codes:
 - nomenclature: SYADEM
   code: 34a92eb3-b5c7-4f03-a7c0-bf44e6ea697c

@@ -1,10 +1,10 @@
 ---
 id: 1054
-label: Perte de taille de plus de 2 cm par rapport à une précédente fracture
+label: Loss of more than 2 cm in height compared to a previous fracture
 type: boolean
 tags:
-- Antécédents
-- Traumatologie
+- Medical history
+- Traumatology
 codes:
 - nomenclature: SYADEM
   code: 2d17534e-c2b1-47d3-a3c1-bc15961543f7

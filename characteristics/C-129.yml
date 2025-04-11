@@ -1,10 +1,10 @@
 ---
 id: 129
-label: Relations sexuelles avec des hommes
+label: Sexual relations with men
 type: boolean
 tags:
-- Conditions de vie ou de résidence
-- Facteurs de risque concernant la sexualité
+- Living or housing conditions
+- Risk factors concerning sexuality
 codes:
 - nomenclature: SYADEM
   code: f7e0b5f3-de97-4f83-b7ef-e7d7c79b4b4c

@@ -1,9 +1,9 @@
 ---
 id: 202
-label: Allergie à l'oeuf
+label: Egg allergy
 type: boolean
 tags:
-- Antécédents
+- Medical history
 - Allergies
 codes:
 - nomenclature: SYADEM

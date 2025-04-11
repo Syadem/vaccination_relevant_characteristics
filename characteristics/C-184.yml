@@ -1,12 +1,12 @@
 ---
 id: 184
-label: Conseiller(e) en économie sociale et familiale
+label: Social and family economy advisor
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel métier ?
+- Related to health or the medico-social field
+- Active professional
+- What profession?
 codes:
 - nomenclature: SYADEM
   code: ae62517b-6dfc-46ea-ab4f-d40eea4384b3

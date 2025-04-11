@@ -1,11 +1,11 @@
 ---
 id: 432
-label: Ag HBs positif
+label: HBsAg positive
 type: boolean
 tags:
-- Examens biologiques
-- Hépatite B
-- Ag HBs
+- Laboratory tests
+- Hepatitis B
+- HBs antigen
 codes:
 - nomenclature: SYADEM
   code: f8646e22-e111-442a-bdb8-86c065ef1f91

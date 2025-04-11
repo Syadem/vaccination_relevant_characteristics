@@ -1,10 +1,10 @@
 ---
 id: 863
-label: Autre profession dans le domaine de l'éducation
+label: Other profession in the field of education
 type: boolean
 tags:
 - Profession
-- Education nationale
+- Education
 codes:
 - nomenclature: SYADEM
   code: cfb0e6c1-b070-4406-9847-c70d4756d04f

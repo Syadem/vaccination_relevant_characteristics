@@ -1,13 +1,13 @@
 ---
 id: 711
-label: Mission d'un(e) militaire FAN embarqué
+label: Mission of an embarked FAN soldier
 type: boolean
 tags:
 - Profession
-- Militaire
-- Après l'incorporation
-- Mission OM-OPEX-Embarquement
-- FAN embarqué
+- military
+- After enlistment
+- OM-OPEX-Embarkation Mission
+- On-board FAN
 codes:
 - nomenclature: SYADEM
   code: 67880b9e-54f9-49c0-b419-aa47955b66d8

@@ -1,12 +1,12 @@
 ---
 id: 857
-label: Personnel administratif, médico-technique ou technique
+label: Administrative, medico-technical or technical staff
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel métier ?
+- Related to health or the medico-social field
+- Active professional
+- What profession?
 codes:
 - nomenclature: SYADEM
   code: c2e72f7f-a200-461d-aba8-52b0f7956935

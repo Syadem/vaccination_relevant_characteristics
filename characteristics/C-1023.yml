@@ -1,9 +1,9 @@
 ---
 id: 1023
-label: Contre-indication à la vaccination contre le méningocoque B
+label: Contraindication to vaccination against meningococcal B
 type: boolean
 tags:
-- Contre-indications
+- Contra-indications
 codes:
 - nomenclature: SYADEM
   code: 9be2d8ca-6405-4bc4-b4e9-e2b83104d48f

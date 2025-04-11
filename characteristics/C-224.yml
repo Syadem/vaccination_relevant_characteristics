@@ -1,12 +1,12 @@
 ---
 id: 224
-label: Elève manipulateur en électroradiologie médicale
+label: Student medical electroradiology manipulator
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Etudiant ou en cours de formation
-- Profession paramédicale
+- Related to health or the medico-social field
+- Student or in training
+- Paramedical profession
 codes:
 - nomenclature: SYADEM
   code: a357e3c7-2040-4537-9680-4f807a30b1af

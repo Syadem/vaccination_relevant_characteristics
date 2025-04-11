@@ -1,9 +1,9 @@
 ---
 id: 1173
-label: Lésions cutanée pouvant exposer au risque tétanique
+label: Skin lesions that may expose you to the risk of tetanus
 type: boolean
 tags:
-- Divers
+- Miscellaneous
 codes:
 - nomenclature: SYADEM
   code: 15c6acd0-c8bf-47b3-ae67-8ebbbba895d1

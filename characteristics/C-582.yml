@@ -1,10 +1,10 @@
 ---
 id: 582
-label: Déficit immunitaire commun variable (DICV)
+label: Common variable immune deficiency (CVID)
 type: boolean
 tags:
-- Affection chronique
-- Déficit immunitaire
+- Chronic condition
+- Immune deficiency
 codes:
 - nomenclature: SYADEM
   code: 37da8cb2-4a6a-4bbf-ad51-57312be1dca9

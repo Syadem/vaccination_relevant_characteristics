@@ -1,9 +1,9 @@
 ---
 id: 590
-label: Refus de vaccination contre la coqueluche
+label: Refusal of vaccination against pertussis
 type: boolean
 tags:
-- Vaccinations non souhaitées
+- Vaccinations not desired
 codes:
 - nomenclature: SYADEM
   code: ed673bca-1f2f-4361-9dd9-33ab903ef483

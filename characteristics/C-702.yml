@@ -1,11 +1,11 @@
 ---
 id: 702
-label: Statut d'immunisation contre la rougeole de la maman non précisé
+label: Measles immunization status of mother not specified
 type: boolean
 tags:
-- Situation d'urgence
-- Contact avec un cas de rougeole
-- Immunisation de la maman contre la rougeole
+- Emergency situation
+- Contact with a measles case
+- Immunization of the mother against measles
 codes:
 - nomenclature: SYADEM
   code: a99fa247-cf01-42f9-a6c3-bbfdbf364557

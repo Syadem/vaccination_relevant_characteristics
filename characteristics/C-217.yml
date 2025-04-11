@@ -1,12 +1,12 @@
 ---
 id: 217
-label: Elève ambulancier
+label: Student paramedic
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Etudiant ou en cours de formation
-- Profession paramédicale
+- Related to health or the medico-social field
+- Student or in training
+- Paramedical profession
 codes:
 - nomenclature: SYADEM
   code: 27d8b1cb-0d1a-4497-a80d-e51d1e7abedf

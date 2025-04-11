@@ -1,10 +1,10 @@
 ---
 id: 195
-label: Ac anti-HBs sup. 100 UI/L
+label: Anti-HBs antibodies >100 IU/L
 type: boolean
 tags:
-- Examens biologiques
-- Hépatite B
+- Laboratory tests
+- Hepatitis B
 - Anti-HBs
 codes:
 - nomenclature: SYADEM

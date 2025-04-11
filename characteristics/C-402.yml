@@ -1,10 +1,10 @@
 ---
 id: 402
-label: Paraplégie ou tétraplégie
+label: Paraplegia or tetraplegia
 type: boolean
 tags:
-- Affection chronique
-- Système nerveux et musculaire
+- Chronic condition
+- Nervous and muscular system
 codes:
 - nomenclature: SYADEM
   code: b016cbc1-4f97-43aa-9c7f-05f5c896efb2

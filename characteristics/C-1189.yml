@@ -1,11 +1,11 @@
 ---
 id: 1189
-label: Assistant charpentier naval
+label: Asst.Carpenter
 type: boolean
 tags:
 - Profession
-- Personnels travaillant sur un bateau de croisière
-- Pont
+- Staff working on a cruise ship
+- Deck
 codes:
 - nomenclature: SYADEM
   code: ddc58378-21a5-4fff-81d2-ed3b6a87a6a5

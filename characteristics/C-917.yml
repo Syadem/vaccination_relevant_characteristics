@@ -1,10 +1,10 @@
 ---
 id: 917
-label: Traitement immunosuppresseur fort
+label: Strong immunosuppressive treatment (covid)
 type: boolean
 tags:
-- Traitements
-- Traitement(s) ayant une influence sur l'immunité
+- Treatments
+- Treatments affecting immunity
 codes:
 - nomenclature: SYADEM
   code: bd6dc293-addc-417b-90dc-f4b183fe42ee

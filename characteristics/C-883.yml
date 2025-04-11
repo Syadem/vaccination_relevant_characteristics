@@ -1,11 +1,11 @@
 ---
 id: 883
-label: Myopathie avec capacités vitales forcées inférieures à 70 %
+label: Myopathy with forced vital capacities lower than 70
 type: boolean
 tags:
-- Affection chronique
-- Maladie rare
-- FILNEMUS
+- Chronic condition
+- Rare disease
+- Neuromuscular
 codes:
 - nomenclature: SYADEM
   code: 11a700bd-b0ce-43a4-ba81-e3b6508968b3

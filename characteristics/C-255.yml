@@ -1,12 +1,12 @@
 ---
 id: 255
-label: Travaille dans un établissement sanitaire des prisons
+label: Works in a prison health facility
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel lieu d'exercice ?
+- Related to health or the medico-social field
+- Active professional
+- What place of practice?
 codes:
 - nomenclature: SYADEM
   code: 43e45daa-77ca-42c6-878d-5af52760e961

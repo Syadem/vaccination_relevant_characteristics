@@ -1,10 +1,10 @@
 ---
 id: 581
-label: Neutropénie chronique sévère
+label: Severe chronic neutropenia
 type: boolean
 tags:
-- Affection chronique
-- Déficit immunitaire
+- Chronic condition
+- Immune deficiency
 codes:
 - nomenclature: SYADEM
   code: 8c94ab54-3560-43c2-b239-e60d82d23cd4

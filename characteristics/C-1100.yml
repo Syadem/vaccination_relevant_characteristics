@@ -1,11 +1,10 @@
 ---
 id: 1100
-label: Professionnel de centre d’assistance sociale de longue durée en contact avec
-  le public
+label: Professionals from long-term social care centres in contact with the public
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
+- Related to health or the medico-social field
 codes:
 - nomenclature: SYADEM
   code: 19491169-c117-4d91-a7b5-ebd571cdb17a

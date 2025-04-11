@@ -1,12 +1,12 @@
 ---
 id: 188
-label: Moniteur(trice)-éducateur(trice)
+label: Monitor-Educator
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel métier ?
+- Related to health or the medico-social field
+- Active professional
+- What profession?
 codes:
 - nomenclature: SYADEM
   code: f751c93f-b685-436d-8862-9649141a52f8

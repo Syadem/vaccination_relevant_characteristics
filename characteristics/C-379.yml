@@ -1,12 +1,12 @@
 ---
 id: 379
-label: Biologiste médical
+label: Medical Biologist
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel métier ?
+- Related to health or the medico-social field
+- Active professional
+- What profession?
 codes:
 - nomenclature: SYADEM
   code: 7ebc7046-bb89-4895-868f-868c5b0ea539

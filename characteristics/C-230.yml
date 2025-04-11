@@ -1,12 +1,12 @@
 ---
 id: 230
-label: Elève technicien en analyses biomédicales
+label: Biomedical analysis technician student
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Etudiant ou en cours de formation
-- Profession paramédicale
+- Related to health or the medico-social field
+- Student or in training
+- Paramedical profession
 codes:
 - nomenclature: SYADEM
   code: 0a7a153c-a3ca-4ac6-a1f3-c8b7d8c29233

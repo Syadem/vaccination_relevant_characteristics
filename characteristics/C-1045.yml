@@ -1,10 +1,10 @@
 ---
 id: 1045
-label: Antécédent de fracture du col fémoral chez 1 parent au 1er degré
+label: History of femoral neck fracture in 1 1st-degree relative
 type: boolean
 tags:
-- Antécédents
-- Traumatologie
+- Medical history
+- Traumatology
 codes:
 - nomenclature: SYADEM
   code: d93a0528-c6e3-4486-9afa-30cc86545e77

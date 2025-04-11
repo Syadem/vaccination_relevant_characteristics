@@ -1,12 +1,12 @@
 ---
 id: 84
-label: Travaille dans un établissement ou service pour l'enfance et la jeunesse handicapées
+label: Works in a facility or service for children and youth with disabilities
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel lieu d'exercice ?
+- Related to health or the medico-social field
+- Active professional
+- What place of practice?
 codes:
 - nomenclature: SYADEM
   code: d7a8992c-d3b3-4da3-be75-3030ebd88853

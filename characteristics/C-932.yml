@@ -1,10 +1,10 @@
 ---
 id: 932
-label: Date d'une transplantation d'organe solide (rein, coeur, foie ou poumons)
+label: Date of a solid organ transplant (kidney, heart, liver or lungs)
 type: date
 tags:
-- Affection chronique
-- Greffe
+- Chronic condition
+- Transplantation
 codes:
 - nomenclature: SYADEM
   code: cc4f8517-51f0-4add-bf67-4328a14d2d80

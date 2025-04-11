@@ -1,9 +1,9 @@
 ---
 id: 404
-label: Cancer ou hémopathie maligne
+label: Cancer or hematological malignancy
 type: boolean
 tags:
-- Affection chronique
+- Chronic condition
 - Cancer
 codes:
 - nomenclature: SYADEM

@@ -1,10 +1,10 @@
 ---
 id: 861
-label: Profession dans le domaine bancaire
+label: Profession in the banking field
 type: boolean
 tags:
 - Profession
-- Autres professions
+- Other professions
 codes:
 - nomenclature: SYADEM
   code: b04719ce-50cf-4e16-8858-6900543e4711

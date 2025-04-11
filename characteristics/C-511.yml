@@ -1,12 +1,12 @@
 ---
 id: 511
-label: Diagnostic biologique de rage impossible
+label: Biological diagnosis of rabies impossible
 type: boolean
 tags:
-- Situation d'urgence
-- Suspicion d'exposition a la rage
-- Contact avec un mammifère dans un pays indemne de rage
-- Diagnostic biologique
+- Emergency situation
+- Suspected exposure to rabies
+- Contact with a mammal in a rabies-free country
+- Biological diagnosis
 codes:
 - nomenclature: SYADEM
   code: 21721419-2fc1-4485-af1b-a230186bef65

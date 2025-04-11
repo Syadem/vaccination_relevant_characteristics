@@ -1,12 +1,12 @@
 ---
 id: 1005
-label: Professionnel de soins
+label: Care professional
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel métier ?
+- Related to health or the medico-social field
+- Active professional
+- What profession?
 codes:
 - nomenclature: SYADEM
   code: 05f5c83d-7475-42ae-80e5-e89b3db85d1a

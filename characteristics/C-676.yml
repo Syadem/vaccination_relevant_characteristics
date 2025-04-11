@@ -1,10 +1,10 @@
 ---
 id: 676
-label: Traitement antiagrégant
+label: Anti-aggregant treatment
 type: boolean
 tags:
-- Informations générales
-- Autres informations
+- General information
+- Other information
 codes:
 - nomenclature: SYADEM
   code: 3e2203aa-7239-416a-a3c4-11dd5802aad7

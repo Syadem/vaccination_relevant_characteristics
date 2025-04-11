@@ -1,10 +1,10 @@
 ---
 id: 1157
-label: Maladie neuromusculaire chronique avec risque de fausse déglutition
+label: Chronic neuromuscular diseases with risk of false swallowing
 type: boolean
 tags:
-- Affection chronique
-- Système nerveux et musculaire
+- Chronic condition
+- Nervous and muscular system
 codes:
 - nomenclature: SYADEM
   code: 9284f3f7-8d9a-4b2d-8c78-63265f12c435

@@ -1,9 +1,9 @@
 ---
 id: 677
-label: Refus de vaccination contre les oreillons
+label: Refusal of mumps vaccination
 type: boolean
 tags:
-- Vaccinations non souhaitées
+- Vaccinations not desired
 codes:
 - nomenclature: SYADEM
   code: 7b84fc00-7009-482a-a593-3a7370b583e2

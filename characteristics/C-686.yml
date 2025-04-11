@@ -1,10 +1,10 @@
 ---
 id: 686
-label: Infection sexuellement transmissible (IST) en cours ou récente
+label: Current or recent sexually transmitted infection (STI)
 type: boolean
 tags:
-- Conditions de vie ou de résidence
-- Facteurs de risque concernant la sexualité
+- Living or housing conditions
+- Risk factors concerning sexuality
 codes:
 - nomenclature: SYADEM
   code: 5518afa7-b874-423d-b04e-7674104033a3

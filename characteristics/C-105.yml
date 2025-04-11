@@ -1,10 +1,10 @@
 ---
 id: 105
-label: Vétérinaire ou employé(e) dans un service vétérinaire
+label: Veterinarian or employee in a veterinary service
 type: boolean
 tags:
 - Profession
-- Au contact des animaux, agriculture, eaux, forêts et pêche
+- Working with animals, agriculture, water, forests, and fishing
 codes:
 - nomenclature: SYADEM
   code: 7aa2c858-f462-4ac1-a72c-f42655b791db

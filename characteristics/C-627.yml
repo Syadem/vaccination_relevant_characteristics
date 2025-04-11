@@ -1,9 +1,9 @@
 ---
 id: 627
-label: Refus de vaccination contre l'encéphalite à tiques
+label: Refusal of tick-borne encephalitis vaccination
 type: boolean
 tags:
-- Vaccinations non souhaitées
+- Vaccinations not desired
 codes:
 - nomenclature: SYADEM
   code: 62f3a9e4-8769-469f-b54e-1d5cfd2ceca0

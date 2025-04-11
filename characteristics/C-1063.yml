@@ -1,10 +1,10 @@
 ---
 id: 1063
-label: Date de la dernière sérologie antirabique
+label: Date of last rabies serology
 type: date
 tags:
-- Examens biologiques
-- Rage
+- Laboratory tests
+- Rabies disease
 codes:
 - nomenclature: SYADEM
   code: 720de9c5-af60-4a8a-961b-4e4d0ded3413

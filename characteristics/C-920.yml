@@ -1,11 +1,11 @@
 ---
 id: 920
-label: Sérologie covid 19 positive après la vaccination
+label: Positive covid 19 serology after vaccination
 type: boolean
 tags:
-- Examens biologiques
-- Covid 19
-- Sérologie positive
+- Laboratory tests
+- COVID-19
+- Positive serology
 codes:
 - nomenclature: SYADEM
   code: 5ce341d7-ae8e-4a42-b597-18d43aa25179

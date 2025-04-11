@@ -1,13 +1,12 @@
 ---
 id: 257
-label: Travaille dans un établissement de conservation et de stockage de produits
-  humains autres que sanguins
+label: Works in a non-blood human product holding and storage facility
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel lieu d'exercice ?
+- Related to health or the medico-social field
+- Active professional
+- What place of practice?
 codes:
 - nomenclature: SYADEM
   code: a5679f33-cec3-4e5c-a284-1c0168dc5020

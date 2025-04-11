@@ -1,13 +1,12 @@
 ---
 id: 86
-label: Travaille dans un établissement d'hébergement pour personnes âgées dépendantes
-  (EHPAD)
+label: Works in an establishment for dependent elderly people (EHPAD)
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel lieu d'exercice ?
+- Related to health or the medico-social field
+- Active professional
+- What place of practice?
 codes:
 - nomenclature: SYADEM
   code: 7bd9096c-cd82-4080-9701-9c3329a43efa

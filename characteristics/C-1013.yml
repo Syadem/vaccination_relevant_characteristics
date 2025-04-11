@@ -1,9 +1,9 @@
 ---
 id: 1013
-label: Contre-indication à la vaccination contre la fièvre jaune
+label: Contraindication to yellow fever vaccination
 type: boolean
 tags:
-- Contre-indications
+- Contra-indications
 codes:
 - nomenclature: SYADEM
   code: 7f4c8c5b-e2ca-42de-b952-b5234c98b14c

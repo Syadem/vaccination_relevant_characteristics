@@ -3,9 +3,9 @@ id: 885
 label: Incontinentia pigmenti
 type: boolean
 tags:
-- Affection chronique
-- Maladie rare
-- FIMARAD
+- Chronic condition
+- Rare disease
+- Dermatologie
 codes:
 - nomenclature: SYADEM
   code: 7c8c45f2-ef8f-4f6d-ba57-e74fc8480217

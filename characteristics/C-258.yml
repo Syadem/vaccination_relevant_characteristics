@@ -1,12 +1,12 @@
 ---
 id: 258
-label: Travaille dans un établissement de formation des personnels sanitaires
+label: Works in a training facility for health personnel
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel lieu d'exercice ?
+- Related to health or the medico-social field
+- Active professional
+- What place of practice?
 codes:
 - nomenclature: SYADEM
   code: dead3739-6709-446d-89f1-a420860ecf8d

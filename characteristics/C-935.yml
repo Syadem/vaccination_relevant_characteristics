@@ -1,12 +1,12 @@
 ---
 id: 935
-label: Professionnel de santé
+label: Health professional
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel métier ?
+- Related to health or the medico-social field
+- Active professional
+- What profession?
 codes:
 - nomenclature: SYADEM
   code: 5c9e858c-d8c9-472c-9e8f-7302a0b3073a

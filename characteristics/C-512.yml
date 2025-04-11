@@ -1,12 +1,12 @@
 ---
 id: 512
-label: Diagnostic biologique de rage positif
+label: Positive biological diagnosis of rabies
 type: boolean
 tags:
-- Situation d'urgence
-- Suspicion d'exposition a la rage
-- Contact avec un mammifère dans un pays indemne de rage
-- Diagnostic biologique
+- Emergency situation
+- Suspected exposure to rabies
+- Contact with a mammal in a rabies-free country
+- Biological diagnosis
 - Possible
 codes:
 - nomenclature: SYADEM

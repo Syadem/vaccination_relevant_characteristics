@@ -1,10 +1,10 @@
 ---
 id: 1228
-label: Passager
+label: Passenger
 type: boolean
 tags:
 - Profession
-- Personnels travaillant sur un bateau de croisière
+- Staff working on a cruise ship
 codes:
 - nomenclature: SYADEM
   code: 01c41b9e-a72d-4e3f-912b-b5a4f4f75e45

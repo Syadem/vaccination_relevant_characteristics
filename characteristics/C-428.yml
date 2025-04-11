@@ -1,12 +1,12 @@
 ---
 id: 428
-label: Travaille dans une pharmacie d'officine
+label: Works in a retail pharmacy
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel lieu d'exercice ?
+- Related to health or the medico-social field
+- Active professional
+- What place of practice?
 codes:
 - nomenclature: SYADEM
   code: 49fa340c-8ae8-4191-9e3d-08da37167bc4

@@ -1,10 +1,10 @@
 ---
 id: 964
-label: Résultat de la dernière sérologie covid quantitative anti-S réalisée (BAU/mL)
+label: Result of the last anti-S quantitative covid serology performed (BAU/mL)
 type: integer
 tags:
-- Examens biologiques
-- Covid 19
+- Laboratory tests
+- COVID-19
 codes:
 - nomenclature: SYADEM
   code: 43da2299-775e-407c-b997-791b164b937e

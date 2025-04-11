@@ -1,9 +1,9 @@
 ---
 id: 624
-label: Refus de vaccination contre la varicelle
+label: Refusal to vaccinate against chickenpox
 type: boolean
 tags:
-- Vaccinations non souhaitées
+- Vaccinations not desired
 codes:
 - nomenclature: SYADEM
   code: c01f2bdc-584c-445f-af70-5542f2e0b989

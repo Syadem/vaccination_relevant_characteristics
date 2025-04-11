@@ -1,10 +1,10 @@
 ---
 id: 552
-label: Allaitement en cours
+label: Breastfeeding
 type: boolean
 tags:
-- Informations générales
-- Parentalité
+- General information
+- Parenthood
 codes:
 - nomenclature: SYADEM
   code: 0e627205-1429-4b9a-a4f2-6b8c7f894bd9

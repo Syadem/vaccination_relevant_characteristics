@@ -1,10 +1,10 @@
 ---
 id: 736
-label: Sérologie post-vaccinale de l'hépatite A positive
+label: Positive post-vaccination hepatitis A serology
 type: boolean
 tags:
-- Examens biologiques
-- Hépatite A
+- Laboratory tests
+- Hepatitis A
 codes:
 - nomenclature: SYADEM
   code: a8028370-28c8-44ee-9508-a0a410736fe5

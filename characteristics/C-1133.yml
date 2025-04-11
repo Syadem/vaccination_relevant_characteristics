@@ -3,8 +3,8 @@ id: 1133
 label: Haryana
 type: boolean
 tags:
-- VOYAGE
-- Etats de l'Inde
+- TRAVEL
+- States of India
 codes:
 - nomenclature: SYADEM
   code: a1b5abf0-027b-46bb-9386-a3f44207b64c

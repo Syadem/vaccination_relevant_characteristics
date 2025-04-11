@@ -1,10 +1,10 @@
 ---
 id: 1064
-label: Résultat de la dernière sérologie antirabique (UI/mL)
+label: Last rabies serology result (IU/mL)
 type: float
 tags:
-- Examens biologiques
-- Rage
+- Laboratory tests
+- Rabies disease
 codes:
 - nomenclature: SYADEM
   code: 3a83e641-a928-49a3-ab0c-72679675f727

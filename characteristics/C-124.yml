@@ -1,10 +1,10 @@
 ---
 id: 124
-label: En détention dans un établissement pénitentiaire
+label: In detention in a penal institution
 type: boolean
 tags:
-- Conditions de vie ou de résidence
-- Vie en collectivité, résidence, institution...
+- Living or housing conditions
+- Community living, residence, institution...
 codes:
 - nomenclature: SYADEM
   code: c872c8cb-e83a-460c-859b-4404cb4bd76c

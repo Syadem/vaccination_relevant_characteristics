@@ -1,12 +1,12 @@
 ---
 id: 89
-label: Assistant(e) maternel(le)
+label: Maternal assistant
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel métier ?
+- Related to health or the medico-social field
+- Active professional
+- What profession?
 codes:
 - nomenclature: SYADEM
   code: 9de6882b-37eb-4f91-8324-d4916ccfb3b5

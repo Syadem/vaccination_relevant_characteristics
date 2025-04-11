@@ -1,10 +1,10 @@
 ---
 id: 484
-label: Anémie hémolytique auto-immune
+label: Autoimmune hemolytic anemia
 type: boolean
 tags:
-- Affection chronique
-- Hématologie - Hémostase
+- Chronic condition
+- Hematology - Hemostasis
 codes:
 - nomenclature: SYADEM
   code: a4a2020c-229c-420f-842b-5c31d899a236

@@ -1,11 +1,11 @@
 ---
 id: 899
-label: APECED ou polyendocrinopathie auto-immune de type 1
+label: APECED or autoimmune polyendocrinopathy type 1
 type: boolean
 tags:
-- Affection chronique
-- Maladie rare
-- OSCAR
+- Chronic condition
+- Rare disease
+- Bones
 codes:
 - nomenclature: SYADEM
   code: 5fa32831-10ec-4c58-afbb-670bb6903471

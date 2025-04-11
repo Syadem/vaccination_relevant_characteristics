@@ -3,8 +3,8 @@ id: 1151
 label: Uttar Pradesh
 type: boolean
 tags:
-- VOYAGE
-- Etats de l'Inde
+- TRAVEL
+- States of India
 codes:
 - nomenclature: SYADEM
   code: c516a1c7-3485-43d9-945c-5b8611d4cb08

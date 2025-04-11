@@ -1,12 +1,12 @@
 ---
 id: 502
-label: Contact direct dans un pays indemne de rage avec des chiroptère ou des mustelidé
+label: Direct contact in a rabies-free country with chiropterans or mustelids
 type: boolean
 tags:
-- Situation d'urgence
-- Suspicion d'exposition a la rage
-- Contact direct avec un mammifére dans un pays d'enzootie rabique
-- Type d'animal
+- Emergency situation
+- Suspected exposure to rabies
+- Direct contact with a mammal in a country where rabies is endemic
+- Type of animal
 codes:
 - nomenclature: SYADEM
   code: 15bebfce-2909-4221-8d3f-e2928eb58772

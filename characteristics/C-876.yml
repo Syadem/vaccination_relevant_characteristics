@@ -1,10 +1,10 @@
 ---
 id: 876
-label: Thrombose veineuse cérébrale
+label: Cerebral venous thrombosis
 type: boolean
 tags:
-- Affection chronique
-- Maladie rare
+- Chronic condition
+- Rare disease
 - BRAIN-TEAM
 codes:
 - nomenclature: SYADEM

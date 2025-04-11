@@ -1,10 +1,10 @@
 ---
 id: 1102
-label: 'Grossesse : préférence pour une immunisation anti-VRS de l''enfant à sa naissance'
+label: 'Pregnancy: preference for RSV immunization of the child at birth'
 type: boolean
 tags:
-- Informations générales
-- Parentalité
+- General information
+- Parenthood
 codes:
 - nomenclature: SYADEM
   code: 548aa0ba-e862-4fb1-bd50-3c1e86dba001

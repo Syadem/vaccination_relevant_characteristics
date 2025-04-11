@@ -1,9 +1,9 @@
 ---
 id: 1019
-label: Contre-indication à la vaccination contre la varicelle
+label: Contraindication to chickenpox vaccination
 type: boolean
 tags:
-- Contre-indications
+- Contra-indications
 codes:
 - nomenclature: SYADEM
   code: bd773c9a-c784-4601-b235-95ef290c241e

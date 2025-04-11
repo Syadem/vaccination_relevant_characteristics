@@ -1,11 +1,11 @@
 ---
 id: 1037
-label: Autre maladie cardio-vasculaire grave
+label: Other serious cardiovascular disease
 type: boolean
 tags:
-- Affection chronique
-- Cardio - Pneumo
-- Cardiologie
+- Chronic condition
+- Cardiology-Pulmonology
+- Cardiology
 codes:
 - nomenclature: SYADEM
   code: 8ce8b2c0-4e64-4231-9108-49f6d92a26ac

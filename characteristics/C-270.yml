@@ -1,12 +1,12 @@
 ---
 id: 270
-label: Travaille dans un service communal d'hygiène et de santé
+label: Works in a municipal health department
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel lieu d'exercice ?
+- Related to health or the medico-social field
+- Active professional
+- What place of practice?
 codes:
 - nomenclature: SYADEM
   code: 227504c8-2345-4af2-ac89-039da68bbd19

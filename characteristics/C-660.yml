@@ -1,11 +1,11 @@
 ---
 id: 660
-label: Volontaire stagiaire du service militaire volontaire (SMV)
+label: Voluntary military service trainee (VMS)
 type: boolean
 tags:
 - Profession
-- Militaire
-- A l'incorporation
+- military
+- At the incorporation
 codes:
 - nomenclature: SYADEM
   code: 8cf970ba-db9e-4b54-92c7-95f727f217b9

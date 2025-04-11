@@ -1,10 +1,10 @@
 ---
 id: 733
-label: Diabète non équilibré par le régime
+label: Treated diabetes
 type: boolean
 tags:
-- Affection chronique
-- Diabète
+- Chronic condition
+- Diabetes
 codes:
 - nomenclature: SYADEM
   code: f8cedc4a-283b-43f0-ae53-196bbcb5d19a

@@ -1,12 +1,12 @@
 ---
 id: 256
-label: Travaille dans un centre ou un poste de transfusion sanguine
+label: Works in a blood transfusion center or station
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel lieu d'exercice ?
+- Related to health or the medico-social field
+- Active professional
+- What place of practice?
 codes:
 - nomenclature: SYADEM
   code: cfe088ce-a89b-47b4-aa78-0a4ccb7f93e9

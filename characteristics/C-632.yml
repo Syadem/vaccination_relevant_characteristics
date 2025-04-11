@@ -1,10 +1,10 @@
 ---
 id: 632
-label: Date du dernier antécédent de coqueluche
+label: Date of last history of pertussis
 type: date
 tags:
-- Antécédents
-- Maladies infectieuses
+- Medical history
+- Infectious diseases
 codes:
 - nomenclature: SYADEM
   code: 3b779e76-ae66-4e18-bba4-7ed81f1befb3

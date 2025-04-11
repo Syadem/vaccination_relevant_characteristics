@@ -1,10 +1,10 @@
 ---
 id: 992
-label: Date de fin d'une chimiothérapie pour tumeur solide (cancer)
+label: End date of chemotherapy for solid tumor (cancer)
 type: date
 tags:
-- Traitements
-- Traitement(s) ayant une influence sur l'immunité
+- Treatments
+- Treatments affecting immunity
 codes:
 - nomenclature: SYADEM
   code: 13d19d5d-3f47-4c33-87e9-950f5af53c8d

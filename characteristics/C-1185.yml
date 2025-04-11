@@ -1,11 +1,11 @@
 ---
 id: 1185
-label: Matelot breveté
+label: Able Seaman
 type: boolean
 tags:
 - Profession
-- Personnels travaillant sur un bateau de croisière
-- Pont
+- Staff working on a cruise ship
+- Deck
 codes:
 - nomenclature: SYADEM
   code: ac1a8555-ae08-4f2f-b5c4-cafa09584af4

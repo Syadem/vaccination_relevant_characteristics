@@ -1,9 +1,9 @@
 ---
 id: 1011
-label: Contre-indication à la vaccination contre la coqueluche
+label: Contraindication to vaccination against pertussis
 type: boolean
 tags:
-- Contre-indications
+- Contra-indications
 codes:
 - nomenclature: SYADEM
   code: bb940db5-f598-4d77-a4fc-e238841172d5

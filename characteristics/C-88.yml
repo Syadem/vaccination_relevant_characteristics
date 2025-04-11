@@ -1,13 +1,12 @@
 ---
 id: 88
-label: Travaille dans un établissement de garde d'enfants d’âge pré-scolaire (crèche,
-  halte garderie...)
+label: Works in a pre-school childcare facility (daycare, nursery school, etc.)
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel lieu d'exercice ?
+- Related to health or the medico-social field
+- Active professional
+- What place of practice?
 codes:
 - nomenclature: SYADEM
   code: 105d000c-3879-4012-84b1-0ee944c08491

@@ -1,11 +1,11 @@
 ---
 id: 7
-label: Drépanocytose majeure double hétérozygote
+label: Double heterozygous sickle cell disease
 type: boolean
 tags:
-- Affection chronique
-- Hématologie - Hémostase
-- Anomalie de l'hémoglobine
+- Chronic condition
+- Hematology - Hemostasis
+- Hemoglobin anomaly
 codes:
 - nomenclature: SYADEM
   code: d273d614-bf44-4071-a162-f529a474f245

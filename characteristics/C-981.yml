@@ -1,12 +1,12 @@
 ---
 id: 981
-label: Elève psychothérapeute
+label: Student psychotherapist
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Etudiant ou en cours de formation
-- Autres professions
+- Related to health or the medico-social field
+- Student or in training
+- Other professions
 codes:
 - nomenclature: SYADEM
   code: 075a8c14-ddea-42e0-9c19-c74ae9f71f5e

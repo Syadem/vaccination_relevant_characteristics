@@ -3,8 +3,8 @@ id: 1141
 label: Meghalaya
 type: boolean
 tags:
-- VOYAGE
-- Etats de l'Inde
+- TRAVEL
+- States of India
 codes:
 - nomenclature: SYADEM
   code: edda0ed8-aa78-4218-913b-b6e5a21d7410

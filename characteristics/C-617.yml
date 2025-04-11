@@ -1,9 +1,9 @@
 ---
 id: 617
-label: Refus de vaccination contre le méningocoque C
+label: Refusal of Meningococcal C Vaccination
 type: boolean
 tags:
-- Vaccinations non souhaitées
+- Vaccinations not desired
 codes:
 - nomenclature: SYADEM
   code: 9796656e-0cf1-452b-85bc-26eca8880d16

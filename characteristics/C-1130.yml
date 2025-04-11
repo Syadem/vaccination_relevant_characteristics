@@ -3,8 +3,8 @@ id: 1130
 label: Chhattisgarh
 type: boolean
 tags:
-- VOYAGE
-- Etats de l'Inde
+- TRAVEL
+- States of India
 codes:
 - nomenclature: SYADEM
   code: 3827ff2e-83e1-4a8b-838c-cf0ca51e9851

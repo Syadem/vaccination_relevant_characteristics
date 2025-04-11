@@ -1,10 +1,10 @@
 ---
 id: 929
-label: Professionnel exposé aux virus influenza porcins et aviaires
+label: Professional exposed to swine and avian influenza viruses
 type: boolean
 tags:
-- Antécédents
-- Autres antécédents
+- Medical history
+- Other medical histor
 codes:
 - nomenclature: SYADEM
   code: ab297bf7-3d4c-4505-ba9b-a71c5932312f

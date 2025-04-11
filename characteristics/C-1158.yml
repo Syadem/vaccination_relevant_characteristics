@@ -1,10 +1,10 @@
 ---
 id: 1158
-label: Trouble dépressif chronique
+label: Chronic depression disorder
 type: boolean
 tags:
-- Affection chronique
-- Système nerveux et musculaire
+- Chronic condition
+- Nervous and muscular system
 codes:
 - nomenclature: SYADEM
   code: e3cdaaa9-d1d1-4fca-8106-aa529450693a

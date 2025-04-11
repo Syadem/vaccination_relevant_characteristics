@@ -1,12 +1,12 @@
 ---
 id: 142
-label: Autre maladie respiratoire chronique
+label: Other chronic respiratory disease
 type: boolean
 tags:
-- Affection chronique
-- Cardio - Pneumo
-- Pneumologie
-- Autres
+- Chronic condition
+- Cardiology-Pulmonology
+- Pulmonology
+- Others
 codes:
 - nomenclature: SYADEM
   code: 8ef080ec-60f8-4eb0-8fae-463c2c2f3cd8

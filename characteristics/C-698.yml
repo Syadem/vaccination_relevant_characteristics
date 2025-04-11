@@ -1,12 +1,12 @@
 ---
 id: 698
-label: Auxiliaire sanitaire dans l'armée française
+label: Medical Auxiliary in the French Army
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel métier ?
+- Related to health or the medico-social field
+- Active professional
+- What profession?
 codes:
 - nomenclature: SYADEM
   code: 7e3bef3a-9879-4a2d-a992-0954a9ca7ce6

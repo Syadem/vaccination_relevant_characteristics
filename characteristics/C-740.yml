@@ -1,14 +1,14 @@
 ---
 id: 740
-label: Mission d'un(e) militaire au Gabon
+label: Military mission in Gabon
 type: boolean
 tags:
 - Profession
-- Militaire
-- Après l'incorporation
-- Mission OM-OPEX-Embarquement
-- Hors Europe
-- Zone endémique pour la fièvre jaune
+- military
+- After enlistment
+- OM-OPEX-Embarkation Mission
+- Outside Europe
+- Endemic area for yellow fever
 codes:
 - nomenclature: SYADEM
   code: df22a296-f3f1-4eb6-979d-03cebbe4e6f8

@@ -1,12 +1,12 @@
 ---
 id: 73
-label: Ambulancier (ère)
+label: Ambulance driver
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel métier ?
+- Related to health or the medico-social field
+- Active professional
+- What profession?
 codes:
 - nomenclature: SYADEM
   code: 898f349e-2538-4b37-9cc1-3afd7e283d69

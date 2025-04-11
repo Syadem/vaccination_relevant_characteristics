@@ -1,12 +1,12 @@
 ---
 id: 489
-label: Diagnostic biologique impossible
+label: Biological diagnosis impossible
 type: boolean
 tags:
-- Situation d'urgence
-- Suspicion d'exposition a la rage
-- Suveillance vétérinaire
-- Diagnostic biologique
+- Emergency situation
+- Suspected exposure to rabies
+- Veterinary surveillance
+- Biological diagnosis
 codes:
 - nomenclature: SYADEM
   code: fa154cf9-f03e-48bc-8c16-1fc460513b32

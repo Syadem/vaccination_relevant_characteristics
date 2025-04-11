@@ -1,10 +1,10 @@
 ---
 id: 1122
-label: Grossesse envigagée
+label: Woman considering pregnancy
 type: boolean
 tags:
-- Informations générales
-- Parentalité
+- General information
+- Parenthood
 codes:
 - nomenclature: SYADEM
   code: b7099681-c893-489f-9cde-92d379037a40

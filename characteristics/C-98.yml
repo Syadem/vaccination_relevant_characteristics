@@ -1,10 +1,10 @@
 ---
 id: 98
-label: Tatoueur
+label: Tattoo artist
 type: boolean
 tags:
 - Profession
-- Restauration - Blanchisserie - Tatouage
+- Catering - Laundry - Tattooing
 codes:
 - nomenclature: SYADEM
   code: 597a7bc3-5a99-45da-b18a-9ea417bf4ad2

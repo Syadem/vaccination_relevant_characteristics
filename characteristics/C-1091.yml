@@ -1,10 +1,10 @@
 ---
 id: 1091
-label: 'Immunoglobuline humaine normale : date dernière injection'
+label: 'Normal human immunoglobulin: date of last injection'
 type: date
 tags:
-- Traitements
-- Traitement(s) ayant une influence sur l'immunité
+- Treatments
+- Treatments affecting immunity
 codes:
 - nomenclature: SYADEM
   code: b2e466ce-b443-4d14-abef-1cc63613bdf2

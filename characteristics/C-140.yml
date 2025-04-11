@@ -1,12 +1,12 @@
 ---
 id: 140
-label: Militaire d'active
+label: Active military
 type: boolean
 tags:
 - Profession
-- Militaire
-- Après l'incorporation
-- Pas de mission OM-OPEX-Embarquement planifiée
+- military
+- After enlistment
+- No OM-OPEX-Embarkation mission planned
 codes:
 - nomenclature: SYADEM
   code: 3c62759a-8bb2-4a24-b6eb-0869a299b6e6

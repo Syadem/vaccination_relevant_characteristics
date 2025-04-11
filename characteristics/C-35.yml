@@ -1,10 +1,10 @@
 ---
 id: 35
-label: Candidat à l'implantation ou porteur d'implant cochléaire
+label: Candidate for implantation or holder of a cochlear implant
 type: boolean
 tags:
-- Affection chronique
-- ORL
+- Chronic condition
+- ENT
 codes:
 - nomenclature: SYADEM
   code: 01a724d9-04de-4127-9560-2f5acd781896

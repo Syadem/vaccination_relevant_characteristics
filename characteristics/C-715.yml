@@ -1,14 +1,14 @@
 ---
 id: 715
-label: Fréquentation de zones rurales ou forestières
+label: Visits to rural or forested areas
 type: boolean
 tags:
 - Profession
-- Militaire
-- Après l'incorporation
-- Mission OM-OPEX-Embarquement
+- military
+- After enlistment
+- OM-OPEX-Embarkation Mission
 - Europe
-- Conditions de la mission
+- Mission conditions
 codes:
 - nomenclature: SYADEM
   code: 22a2f528-8b8e-4212-a5e1-7542137e2f16

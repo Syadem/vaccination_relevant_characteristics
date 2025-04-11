@@ -1,10 +1,10 @@
 ---
 id: 737
-label: Sérologie de l'hépatite A négative
+label: Negative post-vaccination hepatitis A serology
 type: boolean
 tags:
-- Examens biologiques
-- Hépatite A
+- Laboratory tests
+- Hepatitis A
 codes:
 - nomenclature: SYADEM
   code: 44384dfb-595f-4269-8ac1-31d6bc62f179

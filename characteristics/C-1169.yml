@@ -1,9 +1,9 @@
 ---
 id: 1169
-label: Cancer métastatique
+label: Metastatic cancer
 type: boolean
 tags:
-- Affection chronique
+- Chronic condition
 - Cancer
 codes:
 - nomenclature: SYADEM

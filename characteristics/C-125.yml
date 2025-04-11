@@ -1,10 +1,10 @@
 ---
 id: 125
-label: Infection chronique par le virus de l'hépatite C
+label: Chronic hepatitis C virus infection
 type: boolean
 tags:
-- Affection chronique
-- Foie
+- Chronic condition
+- Liver
 codes:
 - nomenclature: SYADEM
   code: 49098323-0b0b-4bf8-9c73-21e754d64f46

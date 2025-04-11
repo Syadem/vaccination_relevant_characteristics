@@ -1,10 +1,10 @@
 ---
 id: 594
-label: Chimiothérapie en cours pour hémopathie maligne (leucémie)
+label: Ongoing chemotherapy for hematological malignancy (leukemia)
 type: boolean
 tags:
-- Traitements
-- Traitement(s) ayant une influence sur l'immunité
+- Treatments
+- Treatments affecting immunity
 codes:
 - nomenclature: SYADEM
   code: 7a87b404-fe2b-4e34-9ebd-da7f31c4cab0

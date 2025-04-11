@@ -1,9 +1,9 @@
 ---
 id: 1089
-label: Exposition au virus Mpox en zone endémique
+label: Exposure to Mpox virus in endemic area
 type: boolean
 tags:
-- VOYAGE
+- TRAVEL
 codes:
 - nomenclature: SYADEM
   code: 942a9f46-374b-4c13-8368-b53776c323da

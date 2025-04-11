@@ -1,11 +1,11 @@
 ---
 id: 1226
-label: Technicien de maintenance hôtelière
+label: Hotel Fitter
 type: boolean
 tags:
 - Profession
-- Personnels travaillant sur un bateau de croisière
-- Salle des machines
+- Staff working on a cruise ship
+- Engine
 codes:
 - nomenclature: SYADEM
   code: ba053e2d-bc36-4a48-b595-9a01f7430f6b

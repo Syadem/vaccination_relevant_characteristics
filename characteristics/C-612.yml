@@ -1,12 +1,12 @@
 ---
 id: 612
-label: Emphysème
+label: Emphysema
 type: boolean
 tags:
-- Affection chronique
-- Cardio - Pneumo
-- Pneumologie
-- Autres
+- Chronic condition
+- Cardiology-Pulmonology
+- Pulmonology
+- Others
 codes:
 - nomenclature: SYADEM
   code: 7209e7e4-6be7-41b3-a91e-98b9f0f71b86

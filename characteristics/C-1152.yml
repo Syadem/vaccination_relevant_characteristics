@@ -3,8 +3,8 @@ id: 1152
 label: Uttarakhand
 type: boolean
 tags:
-- VOYAGE
-- Etats de l'Inde
+- TRAVEL
+- States of India
 codes:
 - nomenclature: SYADEM
   code: bf7605cf-3621-4b90-9f0a-2333c73a1d95

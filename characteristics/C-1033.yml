@@ -1,6 +1,6 @@
 ---
 id: 1033
-label: Personne à risque élevé de covid grave dans l’entourage
+label: Person at high risk of severe covid in the entourage
 type: boolean
 tags:
 - Entourage

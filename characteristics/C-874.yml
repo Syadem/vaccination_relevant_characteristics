@@ -1,10 +1,10 @@
 ---
 id: 874
-label: Angiopathie de moyamoya
+label: moyamoya angiopathy
 type: boolean
 tags:
-- Affection chronique
-- Maladie rare
+- Chronic condition
+- Rare disease
 - BRAIN-TEAM
 codes:
 - nomenclature: SYADEM

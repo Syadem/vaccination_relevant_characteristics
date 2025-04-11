@@ -1,10 +1,10 @@
 ---
 id: 150
-label: Chiroptérologue
+label: Chiropodist
 type: boolean
 tags:
 - Profession
-- Au contact des animaux, agriculture, eaux, forêts et pêche
+- Working with animals, agriculture, water, forests, and fishing
 codes:
 - nomenclature: SYADEM
   code: 17ce5a17-bfe1-4da2-b133-1484d7460024

@@ -1,10 +1,10 @@
 ---
 id: 1112
-label: Séjour dans un établissement de soins palliatifs
+label: Hospices
 type: boolean
 tags:
-- Conditions de vie ou de résidence
-- Vie en collectivité, résidence, institution...
+- Living or housing conditions
+- Community living, residence, institution...
 codes:
 - nomenclature: SYADEM
   code: 7c0a887d-78f7-4a17-a4ca-77eaef343dd4

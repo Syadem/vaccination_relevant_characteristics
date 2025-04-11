@@ -1,9 +1,9 @@
 ---
 id: 831
-label: Refus de vaccination contre la dengue
+label: Refusal of dengue vaccination
 type: boolean
 tags:
-- Vaccinations non souhaitées
+- Vaccinations not desired
 codes:
 - nomenclature: SYADEM
   code: f9c02efc-d3fe-4039-b134-619939f200ef

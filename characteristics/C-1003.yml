@@ -1,6 +1,6 @@
 ---
 id: 1003
-label: Poids à la naissance (en grammes)
+label: Birth weight (in grams)
 type: integer
 tags:
 - Entourage

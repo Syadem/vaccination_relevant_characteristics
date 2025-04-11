@@ -3,8 +3,8 @@ id: 1147
 label: Sikkim
 type: boolean
 tags:
-- VOYAGE
-- Etats de l'Inde
+- TRAVEL
+- States of India
 codes:
 - nomenclature: SYADEM
   code: 17bf336c-102a-4e30-82a3-9b56fecb91d0

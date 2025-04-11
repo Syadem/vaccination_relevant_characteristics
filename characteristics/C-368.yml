@@ -1,12 +1,12 @@
 ---
 id: 368
-label: Travaille dans un service de néphrologie
+label: Works in a nephrology department
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Dans quel service ?
+- Related to health or the medico-social field
+- Active professional
+- In which department?
 codes:
 - nomenclature: SYADEM
   code: 98346072-a261-4c9d-a4ec-4f47856776e3

@@ -1,12 +1,12 @@
 ---
 id: 232
-label: Elève aide médico-psychologique
+label: Student medical-psychological assistant
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Etudiant ou en cours de formation
-- Profession à caractère social
+- Related to health or the medico-social field
+- Student or in training
+- Social care profession
 codes:
 - nomenclature: SYADEM
   code: 7113c9fc-5d88-46f8-8722-a15c91a17b94

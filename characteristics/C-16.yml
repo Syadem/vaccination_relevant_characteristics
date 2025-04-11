@@ -1,11 +1,11 @@
 ---
 id: 16
-label: Hémophilie
+label: Hemophilia
 type: boolean
 tags:
-- Affection chronique
-- Hématologie - Hémostase
-- Trouble de l'hémostase ou de la coagulation
+- Chronic condition
+- Hematology - Hemostasis
+- Coagulation disorder
 codes:
 - nomenclature: SYADEM
   code: 4d34b1d6-f3b8-4a53-a8c8-3cff10a4287d

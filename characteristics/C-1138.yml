@@ -3,8 +3,8 @@ id: 1138
 label: Madhya Pradesh
 type: boolean
 tags:
-- VOYAGE
-- Etats de l'Inde
+- TRAVEL
+- States of India
 codes:
 - nomenclature: SYADEM
   code: 1104636d-66ee-4ace-87de-733e0b0f3626

@@ -1,12 +1,12 @@
 ---
 id: 503
-label: Contact direct dans un pays indemne de rage avec des chien, chat ou furet.
+label: Direct contact in a rabies-free country with dogs, cats or ferrets.
 type: boolean
 tags:
-- Situation d'urgence
-- Suspicion d'exposition a la rage
-- Contact direct avec un mammifére dans un pays d'enzootie rabique
-- Type d'animal
+- Emergency situation
+- Suspected exposure to rabies
+- Direct contact with a mammal in a country where rabies is endemic
+- Type of animal
 codes:
 - nomenclature: SYADEM
   code: 66fb8085-7f7a-4256-bdd3-d1ca6ce9b966

@@ -1,10 +1,10 @@
 ---
 id: 586
-label: Déficit immunitaire combiné sévère
+label: Severe combined immune deficiency
 type: boolean
 tags:
-- Affection chronique
-- Déficit immunitaire
+- Chronic condition
+- Immune deficiency
 codes:
 - nomenclature: SYADEM
   code: 7cfcf81d-c275-4718-8e1c-263fc6ff1b28

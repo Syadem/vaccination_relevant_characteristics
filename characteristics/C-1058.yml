@@ -3,9 +3,9 @@ id: 1058
 label: T-score col
 type: float
 tags:
-- Examens complémentaires
-- Imagerie médicale
-- Ostéodensitométrie
+- Additional examinations
+- Medical imaging
+- Bone densitometry
 codes:
 - nomenclature: SYADEM
   code: 8ace3066-334a-4d00-b3ef-2b5fbca4a3a6

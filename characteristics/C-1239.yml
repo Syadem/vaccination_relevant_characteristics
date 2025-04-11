@@ -1,0 +1,10 @@
+---
+id: 1239
+label: Congenital spherocytosis
+type: boolean
+tags:
+- Chronic condition
+- Hematology - Hemostasis
+codes:
+- nomenclature: SYADEM
+  code: c81313a4-8b50-4247-990c-a6898359ce8b

@@ -1,11 +1,11 @@
 ---
 id: 1186
-label: Matelot de pont
+label: Ordinary Seaman
 type: boolean
 tags:
 - Profession
-- Personnels travaillant sur un bateau de croisière
-- Pont
+- Staff working on a cruise ship
+- Deck
 codes:
 - nomenclature: SYADEM
   code: fdb054d7-28be-4c4d-8c29-5ee9bc228552

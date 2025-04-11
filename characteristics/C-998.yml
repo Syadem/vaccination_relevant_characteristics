@@ -1,10 +1,10 @@
 ---
 id: 998
-label: Personne en situation de prostitution
+label: Person in a prostitution situation
 type: boolean
 tags:
-- Conditions de vie ou de résidence
-- Facteurs de risque concernant la sexualité
+- Living or housing conditions
+- Risk factors concerning sexuality
 codes:
 - nomenclature: SYADEM
   code: 5f391eab-396e-43ea-a583-4b8b42d8b431

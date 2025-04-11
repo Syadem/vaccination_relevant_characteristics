@@ -3,8 +3,8 @@ id: 1148
 label: Tamil Nadu
 type: boolean
 tags:
-- VOYAGE
-- Etats de l'Inde
+- TRAVEL
+- States of India
 codes:
 - nomenclature: SYADEM
   code: fcb2b59c-9f3d-4e0e-ba90-5f207aaaba63

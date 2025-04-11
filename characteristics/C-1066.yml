@@ -3,8 +3,8 @@ id: 1066
 label: Expatriation
 type: boolean
 tags:
-- VOYAGE
-- Conditions du séjour
+- TRAVEL
+- Conditions of stay
 codes:
 - nomenclature: SYADEM
   code: 07b202e6-e28e-4e64-9585-558fa3dae275

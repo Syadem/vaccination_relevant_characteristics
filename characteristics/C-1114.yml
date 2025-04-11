@@ -1,11 +1,11 @@
 ---
 id: 1114
-label: Personnel administratif travaillant dans le secteur de la santé
+label: Administrative staff working in healthcare segment
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
+- Related to health or the medico-social field
+- Active professional
 codes:
 - nomenclature: SYADEM
   code: 57d8b3da-1cd0-4063-8858-a036796e745f

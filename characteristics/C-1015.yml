@@ -1,9 +1,9 @@
 ---
 id: 1015
-label: Contre-indication à la vaccination contre l'hépatite A
+label: Contraindication to hepatitis A vaccination
 type: boolean
 tags:
-- Contre-indications
+- Contra-indications
 codes:
 - nomenclature: SYADEM
   code: f45fe651-ddb8-4ccc-b44c-0f216e419bb0

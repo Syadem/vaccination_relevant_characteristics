@@ -1,10 +1,10 @@
 ---
 id: 108
-label: Employé(e) à des activités liées à la pisciculture en eaux douces
+label: Employed in activities related to freshwater fish farming
 type: boolean
 tags:
 - Profession
-- Au contact des animaux, agriculture, eaux, forêts et pêche
+- Working with animals, agriculture, water, forests, and fishing
 codes:
 - nomenclature: SYADEM
   code: 15883f62-f623-4a36-9839-b6b12caa7624

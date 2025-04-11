@@ -1,11 +1,11 @@
 ---
 id: 1216
-label: Électricien
+label: Electrician
 type: boolean
 tags:
 - Profession
-- Personnels travaillant sur un bateau de croisière
-- Salle des machines
+- Staff working on a cruise ship
+- Engine
 codes:
 - nomenclature: SYADEM
   code: 3f6872b9-7b2b-46bd-bae3-40ff4671097a

@@ -1,9 +1,9 @@
 ---
 id: 924
-label: Leucémie lymphoïde chronique
+label: Chronic lymphocytic leukemia
 type: boolean
 tags:
-- Affection chronique
+- Chronic condition
 - Cancer
 codes:
 - nomenclature: SYADEM

@@ -1,10 +1,10 @@
 ---
 id: 1072
-label: Professionnel devant intervenir auprès de malades atteints de choléra
+label: Professionals working with patients suffering from cholera
 type: boolean
 tags:
-- VOYAGE
-- Précisions concernant le voyage
+- TRAVEL
+- Travel details
 codes:
 - nomenclature: SYADEM
   code: 8eb20cb6-a6ae-4148-8093-f9c7fab98c45

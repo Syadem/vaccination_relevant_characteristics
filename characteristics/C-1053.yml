@@ -1,10 +1,10 @@
 ---
 id: 1053
-label: Fracture de l’humérus
+label: Fracture of the humerus
 type: boolean
 tags:
-- Antécédents
-- Traumatologie
+- Medical history
+- Traumatology
 codes:
 - nomenclature: SYADEM
   code: dad8a42d-53eb-4b97-a155-36a6f74c07ab

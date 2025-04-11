@@ -1,10 +1,10 @@
 ---
 id: 1010
-label: Déficit immunitaire congénital, avec immunodépression forte
+label: Congenital immune deficiency, with strong immunosuppression
 type: boolean
 tags:
-- Affection chronique
-- Déficit immunitaire
+- Chronic condition
+- Immune deficiency
 codes:
 - nomenclature: SYADEM
   code: 588bcf19-5f45-4e62-b53d-492aa2b90ff9

@@ -1,11 +1,11 @@
 ---
 id: 897
-label: Glomérulonéphrite à dépôts mésangiaux IgA sous traitement immunosuppresseur
+label: Glomerulonephritis with IgA mesangial deposits under immunosuppressive treatment
 type: boolean
 tags:
-- Affection chronique
-- Maladie rare
-- ORKiD
+- Chronic condition
+- Rare disease
+- Renal
 codes:
 - nomenclature: SYADEM
   code: b0d98fbf-e1a7-4386-bf6f-dd1c0ae860e5

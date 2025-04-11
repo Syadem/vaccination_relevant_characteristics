@@ -1,11 +1,11 @@
 ---
 id: 1118
-label: Militaire
+label: Military
 type: boolean
 tags:
 - Profession
-- Militaire
-- Après l'incorporation
+- military
+- After enlistment
 codes:
 - nomenclature: SYADEM
   code: e87c5b02-bf0c-435c-90ed-c7c2f098864f

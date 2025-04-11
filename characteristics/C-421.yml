@@ -1,12 +1,12 @@
 ---
 id: 421
-label: Préparateur(ice) en pharmacie, accueillant des patients
+label: Pharmacy assistant, welcoming patients
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel métier ?
+- Related to health or the medico-social field
+- Active professional
+- What profession?
 codes:
 - nomenclature: SYADEM
   code: ee74e629-e12f-4e3b-835f-ce4946fd94b9

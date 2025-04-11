@@ -1,12 +1,12 @@
 ---
 id: 1235
-label: Travaille dans un service de gastroentérologie
+label: Work in an infectious diseases, gastroenterology or pediatrics department
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel lieu d'exercice ?
+- Related to health or the medico-social field
+- Active professional
+- What place of practice?
 codes:
 - nomenclature: SYADEM
   code: 7d56af97-074c-4135-bfa7-49795b7be3b4

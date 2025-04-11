@@ -1,11 +1,11 @@
 ---
 id: 1109
-label: Insuffisance cardiaque
+label: Cardiovascular insufficiency
 type: boolean
 tags:
-- Affection chronique
-- Cardio - Pneumo
-- Cardiologie
+- Chronic condition
+- Cardiology-Pulmonology
+- Cardiology
 codes:
 - nomenclature: SYADEM
   code: 40d35abf-5e17-421c-a274-3cd8fdf9618a

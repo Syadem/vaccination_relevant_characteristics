@@ -1,12 +1,12 @@
 ---
 id: 249
-label: Travaille dans un laboratoire de biologie médicale
+label: Works in a medical biology laboratory
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel lieu d'exercice ?
+- Related to health or the medico-social field
+- Active professional
+- What place of practice?
 codes:
 - nomenclature: SYADEM
   code: d6214eb2-d432-4383-985b-78f7c26c06f9

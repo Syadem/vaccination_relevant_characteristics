@@ -1,12 +1,12 @@
 ---
 id: 74
-label: Auxiliaire de puériculture
+label: Child care assistant
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel métier ?
+- Related to health or the medico-social field
+- Active professional
+- What profession?
 codes:
 - nomenclature: SYADEM
   code: 040414f5-9cbc-4b45-bc95-88bede4d0c83

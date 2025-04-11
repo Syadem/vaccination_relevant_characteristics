@@ -1,12 +1,12 @@
 ---
 id: 210
-label: Etudes de chirurgie dentaire
+label: Dental surgery studies
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Etudiant ou en cours de formation
-- Profession médicale ou pharmaceutique
+- Related to health or the medico-social field
+- Student or in training
+- Medical or pharmaceutical profession
 codes:
 - nomenclature: SYADEM
   code: 28e861b5-1861-4364-97df-11fbb0524d98

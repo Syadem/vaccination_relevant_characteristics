@@ -1,12 +1,12 @@
 ---
 id: 213
-label: Etudes de sage-femme
+label: Midwifery studies
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Etudiant ou en cours de formation
-- Profession médicale ou pharmaceutique
+- Related to health or the medico-social field
+- Student or in training
+- Medical or pharmaceutical profession
 codes:
 - nomenclature: SYADEM
   code: a59aa8a4-9603-4037-a564-57cf736de32a

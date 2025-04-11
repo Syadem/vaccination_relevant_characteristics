@@ -1,11 +1,11 @@
 ---
 id: 954
-label: Cardiomyopathie
+label: Cardiomyopathy
 type: boolean
 tags:
-- Affection chronique
-- Cardio - Pneumo
-- Cardiologie
+- Chronic condition
+- Cardiology-Pulmonology
+- Cardiology
 codes:
 - nomenclature: SYADEM
   code: 399be1fe-f7c1-46ae-b8b9-6d070a01fad6

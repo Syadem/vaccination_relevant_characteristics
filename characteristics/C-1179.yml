@@ -1,11 +1,11 @@
 ---
 id: 1179
-label: Officier en second
+label: 2nd Officer
 type: boolean
 tags:
 - Profession
-- Personnels travaillant sur un bateau de croisière
-- Pont
+- Staff working on a cruise ship
+- Deck
 codes:
 - nomenclature: SYADEM
   code: 05646d32-07ee-4a55-a75d-c75addc65d8c

@@ -1,9 +1,9 @@
 ---
 id: 1161
-label: Allergie lors d’une précédente administration de vaccin
+label: Allergy from a previous vaccine administration
 type: boolean
 tags:
-- Antécédents
+- Medical history
 - Allergies
 codes:
 - nomenclature: SYADEM

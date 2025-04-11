@@ -1,9 +1,9 @@
 ---
 id: 1024
-label: Contre-indication à la vaccination contre les papillomavirus
+label: Contraindication to HPV vaccination
 type: boolean
 tags:
-- Contre-indications
+- Contra-indications
 codes:
 - nomenclature: SYADEM
   code: cfd0fdeb-de28-4706-92ea-52efd7909243

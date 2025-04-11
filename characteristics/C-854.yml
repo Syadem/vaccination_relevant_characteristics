@@ -1,12 +1,12 @@
 ---
 id: 854
-label: Rééducateur
+label: Rehabilitator
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel métier ?
+- Related to health or the medico-social field
+- Active professional
+- What profession?
 codes:
 - nomenclature: SYADEM
   code: a86039e7-e75a-4f54-abf5-3aa21ebd4d41

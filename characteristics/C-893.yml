@@ -1,11 +1,11 @@
 ---
 id: 893
-label: SNI (SNLGM ou HSF) actif ou GEM active et/ou soumis à un traitement immunosuppresseur
+label: Active SNI (SNLGM or HSF) or active GEM and/or immunosuppressive therapy
 type: boolean
 tags:
-- Affection chronique
-- Maladie rare
-- ORKiD
+- Chronic condition
+- Rare disease
+- Renal
 codes:
 - nomenclature: SYADEM
   code: a19e4ecf-a02b-4858-bb6e-b8e7610f385e

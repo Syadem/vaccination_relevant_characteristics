@@ -1,11 +1,11 @@
 ---
 id: 838
-label: Personne avec symptômes prolongés de covid 19 (covid long)
+label: Person with prolonged symptoms of covid 19 (long covid)
 type: boolean
 tags:
-- Antécédents
-- Maladies infectieuses
-- Covid 19
+- Medical history
+- Infectious diseases
+- COVID-19
 codes:
 - nomenclature: SYADEM
   code: f6f1e5c5-bc1b-4ca8-9346-534c66ebfa58
