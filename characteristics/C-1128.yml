@@ -3,8 +3,8 @@ id: 1128
 label: Assam
 type: boolean
 tags:
-- VOYAGE
-- Etats de l'Inde
+- TRAVEL
+- States of India
 codes:
 - nomenclature: SYADEM
   code: a5400333-4977-43a8-8734-808816d3d90d

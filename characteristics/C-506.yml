@@ -1,11 +1,11 @@
 ---
 id: 506
-label: Animal mort
+label: Dead animal
 type: boolean
 tags:
-- Situation d'urgence
-- Suspicion d'exposition a la rage
-- Statut de l'animal (vivant, mort, disparu)
+- Emergency situation
+- Suspected exposure to rabies
+- Status of the animal (alive, dead, missing)
 codes:
 - nomenclature: SYADEM
   code: 0ee8edb4-fc5c-4d30-9c39-94775f8b074c

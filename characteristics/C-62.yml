@@ -1,12 +1,12 @@
 ---
 id: 62
-label: Infirmier(ère)
+label: Nurse
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel métier ?
+- Related to health or the medico-social field
+- Active professional
+- What profession?
 codes:
 - nomenclature: SYADEM
   code: 50c730cf-ca84-4e67-8821-7d31a3015e57

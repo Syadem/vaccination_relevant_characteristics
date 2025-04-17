@@ -1,9 +1,9 @@
 ---
 id: 1171
-label: Sérologie chikungunya IgG positive
+label: FREE
 type: boolean
 tags:
-- Examens biologiques
+- Laboratory tests
 - Chikungunya
 codes:
 - nomenclature: SYADEM

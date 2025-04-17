@@ -1,12 +1,12 @@
 ---
 id: 260
-label: Travaille dans un centre ou un service de médecine préventive scolaire
+label: Works in a school preventive medicine center or service
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel lieu d'exercice ?
+- Related to health or the medico-social field
+- Active professional
+- What place of practice?
 codes:
 - nomenclature: SYADEM
   code: 7bd2fcbe-5675-4d04-83c3-654275288a10

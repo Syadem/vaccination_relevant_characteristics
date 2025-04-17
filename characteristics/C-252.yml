@@ -1,12 +1,12 @@
 ---
 id: 252
-label: Travaille dans un dispensaire ou un centre de soins
+label: Works in a clinic or health center
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel lieu d'exercice ?
+- Related to health or the medico-social field
+- Active professional
+- What place of practice?
 codes:
 - nomenclature: SYADEM
   code: b149fd33-89c5-4831-8d14-c575dd2ce726

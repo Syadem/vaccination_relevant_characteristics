@@ -1,10 +1,10 @@
 ---
 id: 153
-label: Naturaliste ou taxidermiste
+label: Naturalist or taxidermist
 type: boolean
 tags:
 - Profession
-- Au contact des animaux, agriculture, eaux, forêts et pêche
+- Working with animals, agriculture, water, forests, and fishing
 codes:
 - nomenclature: SYADEM
   code: ec067577-65b4-4c3d-91eb-047012f37eb8

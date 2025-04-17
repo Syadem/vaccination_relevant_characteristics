@@ -1,10 +1,10 @@
 ---
 id: 36
-label: Ablation ou non-fonctionnement de la rate
+label: Spleen removal or non-functioning
 type: boolean
 tags:
-- Affection chronique
-- Asplénie
+- Chronic condition
+- Asplenia
 codes:
 - nomenclature: SYADEM
   code: ccc0ec23-a3ca-45a1-a0cd-8a00dc344b08

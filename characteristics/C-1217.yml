@@ -1,11 +1,11 @@
 ---
 id: 1217
-label: Ingénieur électronicien
+label: Electronic Engineer
 type: boolean
 tags:
 - Profession
-- Personnels travaillant sur un bateau de croisière
-- Salle des machines
+- Staff working on a cruise ship
+- Engine
 codes:
 - nomenclature: SYADEM
   code: 272d87bc-5240-4097-8f1a-abd366429447

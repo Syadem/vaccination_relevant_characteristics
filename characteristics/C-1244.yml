@@ -1,0 +1,9 @@
+---
+id: 1244
+label: Person undergoing immunosuppressive treatment or chemotherapy in the entourage
+type: boolean
+tags:
+- Entourage
+codes:
+- nomenclature: SYADEM
+  code: a13de06e-9826-48c8-b7ba-aed101215be2

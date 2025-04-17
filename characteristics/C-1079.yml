@@ -1,10 +1,10 @@
 ---
 id: 1079
-label: Date du dernier test IGRA réalisé
+label: Date of last IGRA test performed
 type: date
 tags:
-- Examens biologiques
-- Tuberculose
+- Laboratory tests
+- Tuberculosis
 codes:
 - nomenclature: SYADEM
   code: 1e632ed3-d4fa-4075-93ea-04a9b3a49ef0

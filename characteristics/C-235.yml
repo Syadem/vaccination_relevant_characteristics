@@ -1,12 +1,12 @@
 ---
 id: 235
-label: Elève conseiller(e) en économie sociale et familiale
+label: Student counselor in social and family economics
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Etudiant ou en cours de formation
-- Profession à caractère social
+- Related to health or the medico-social field
+- Student or in training
+- Social care profession
 codes:
 - nomenclature: SYADEM
   code: 6d937028-eee1-4097-ac4e-4af37f2454b0

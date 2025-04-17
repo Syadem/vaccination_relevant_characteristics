@@ -1,10 +1,10 @@
 ---
 id: 111
-label: Garde-pêche
+label: Fisheries Warden
 type: boolean
 tags:
 - Profession
-- Au contact des animaux, agriculture, eaux, forêts et pêche
+- Working with animals, agriculture, water, forests, and fishing
 codes:
 - nomenclature: SYADEM
   code: 99571c27-9de6-4b7e-bf6d-d5fb5f77cf7a

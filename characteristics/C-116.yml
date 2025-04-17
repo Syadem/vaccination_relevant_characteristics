@@ -1,10 +1,10 @@
 ---
 id: 116
-label: Enfant d'âge préscolaire vivant en collectivité
+label: Preschooler living in a community setting
 type: boolean
 tags:
-- Conditions de vie ou de résidence
-- Vie en collectivité, résidence, institution...
+- Living or housing conditions
+- Community living, residence, institution...
 codes:
 - nomenclature: SYADEM
   code: dd64754e-fed9-46f9-b3e7-2ca22cb351fd

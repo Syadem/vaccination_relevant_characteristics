@@ -1,10 +1,10 @@
 ---
 id: 577
-label: Ac anti-HBc négatif
+label: anti-HBc negative
 type: boolean
 tags:
-- Examens biologiques
-- Hépatite B
+- Laboratory tests
+- Hepatitis B
 - Anti-HBc
 codes:
 - nomenclature: SYADEM

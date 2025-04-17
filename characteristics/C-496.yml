@@ -1,11 +1,11 @@
 ---
 id: 496
-label: Pas de contact direct avec la salive de l'animal (vêtements non déchirés, léchage
-  sur peau saine)
+label: No direct contact with the animal's saliva (untorn clothing, licking on healthy
+  skin)
 type: boolean
 tags:
-- Situation d'urgence
-- Suspicion d'exposition a la rage
+- Emergency situation
+- Suspected exposure to rabies
 codes:
 - nomenclature: SYADEM
   code: 570de9f8-8bf9-4631-93e7-30475c4227f8

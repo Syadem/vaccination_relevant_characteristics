@@ -1,13 +1,12 @@
 ---
 id: 253
-label: Travaille dans un établissement de protection maternelle et infantile (P.M.I.)
-  et de planification familiale
+label: Works in a maternal and child protection (P.M.I.) and family planning establishment
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel lieu d'exercice ?
+- Related to health or the medico-social field
+- Active professional
+- What place of practice?
 codes:
 - nomenclature: SYADEM
   code: 7b3c9563-89dd-4687-ae1c-7772afb5e707

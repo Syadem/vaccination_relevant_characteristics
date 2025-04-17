@@ -1,11 +1,11 @@
 ---
 id: 884
-label: Sclérose latérale amyotrophique (SLA)
+label: Amyotrophic lateral sclerosis (ALS)
 type: boolean
 tags:
-- Affection chronique
-- Maladie rare
-- FILSLAN
+- Chronic condition
+- Rare disease
+- Motor neuron
 codes:
 - nomenclature: SYADEM
   code: b5be6045-5582-4303-bda0-2c410cbb8add

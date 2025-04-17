@@ -1,12 +1,12 @@
 ---
 id: 605
-label: Autre profession dans le domaine de la santé
+label: Other health care profession
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel métier ?
+- Related to health or the medico-social field
+- Active professional
+- What profession?
 codes:
 - nomenclature: SYADEM
   code: dec23c9f-7949-4278-81d9-34c986255349

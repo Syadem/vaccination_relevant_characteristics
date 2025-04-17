@@ -1,9 +1,9 @@
 ---
 id: 1022
-label: Contre-indication à la vaccination contre la grippe
+label: Contraindication to influenza vaccination
 type: boolean
 tags:
-- Contre-indications
+- Contra-indications
 codes:
 - nomenclature: SYADEM
   code: c9eae567-0930-412a-b9ae-208a1e69dd3b

@@ -1,7 +1,7 @@
 ---
 id: 122
-label: Personne infectée par le virus de l'hépatite B ou porteur chronique de l'antigène
-  HBs dans l'entourage
+label: Person infected with the hepatitis B virus or chronic carrier of the HBs antigen
+  in the entourage
 type: boolean
 tags:
 - Entourage

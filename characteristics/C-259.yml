@@ -1,12 +1,12 @@
 ---
 id: 259
-label: Travaille dans un service de médecine du travail
+label: Works in an occupational health department
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel lieu d'exercice ?
+- Related to health or the medico-social field
+- Active professional
+- What place of practice?
 codes:
 - nomenclature: SYADEM
   code: 2a72a7ff-931f-4363-8b6c-d6ac1e3bf3dd

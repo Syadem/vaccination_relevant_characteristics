@@ -3,8 +3,8 @@ id: 1136
 label: Karnataka
 type: boolean
 tags:
-- VOYAGE
-- Etats de l'Inde
+- TRAVEL
+- States of India
 codes:
 - nomenclature: SYADEM
   code: fdd1a6de-d64a-496f-a2b6-4ea09bd1c592

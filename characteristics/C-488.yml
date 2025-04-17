@@ -1,11 +1,11 @@
 ---
 id: 488
-label: Surveillance vétérinaire impossible
+label: Veterinary surveillance not possible
 type: boolean
 tags:
-- Situation d'urgence
-- Suspicion d'exposition a la rage
-- Suveillance vétérinaire
+- Emergency situation
+- Suspected exposure to rabies
+- Veterinary surveillance
 codes:
 - nomenclature: SYADEM
   code: a8b3a541-56e2-41dc-ad3b-4b926c080aa2

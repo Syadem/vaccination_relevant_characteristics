@@ -1,10 +1,10 @@
 ---
 id: 54
-label: Fumeur
+label: Smoker
 type: boolean
 tags:
-- Conditions de vie ou de résidence
-- Alcool, drogues...
+- Living or housing conditions
+- Alcohol, drugs...
 codes:
 - nomenclature: SYADEM
   code: 82ef80df-309e-4be8-8b00-336be2e0ab25

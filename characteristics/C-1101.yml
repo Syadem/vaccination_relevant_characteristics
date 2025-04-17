@@ -1,9 +1,9 @@
 ---
 id: 1101
-label: Usagers de centre d’assistance sociale de longue durée
+label: Long-term care centre users
 type: boolean
 tags:
-- Conditions de vie ou de résidence
+- Living or housing conditions
 codes:
 - nomenclature: SYADEM
   code: 89fadbf2-2035-4b5b-820b-b9c1c9ebb8d0

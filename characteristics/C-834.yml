@@ -1,10 +1,10 @@
 ---
 id: 834
-label: Drépanocytose traitée par hydroxyurée (Hydrea, Siklos)
+label: Sickle cell disease treated with hydroxyurea (Hydrea, Siklos)
 type: boolean
 tags:
-- Traitements
-- Traitement(s) ayant une influence sur l'immunité
+- Treatments
+- Treatments affecting immunity
 codes:
 - nomenclature: SYADEM
   code: 0dbb9a30-bf85-4054-8b86-743b6096c967

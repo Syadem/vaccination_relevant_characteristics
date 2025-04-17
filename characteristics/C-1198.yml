@@ -1,11 +1,11 @@
 ---
 id: 1198
-label: Personnel du service d'entretien
+label: Housekeeping staff
 type: boolean
 tags:
 - Profession
-- Personnels travaillant sur un bateau de croisière
-- Divers
+- Staff working on a cruise ship
+- Miscellaneous
 codes:
 - nomenclature: SYADEM
   code: f76593f5-054a-4b69-a9a3-85ca391fa3ac

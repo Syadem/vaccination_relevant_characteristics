@@ -1,13 +1,13 @@
 ---
 id: 492
-label: Contact direct en zone d'enzootie rabique avec un autre mammifère (chien, chat,
-  furet, rat, écureuil, cervidé, bovin, ovin, caprin, équidé, chiroptère, faune sauvage).
+label: Direct contact with another mammal (dog, cat, ferret, rat, squirrel, deer,
+  bovine, ovine, caprine, equine, chiropteran, wildlife) in a rabies enzootic area.
 type: boolean
 tags:
-- Situation d'urgence
-- Suspicion d'exposition a la rage
-- Contact direct avec un mammifére dans un pays d'enzootie rabique
-- Type d'animal
+- Emergency situation
+- Suspected exposure to rabies
+- Direct contact with a mammal in a country where rabies is endemic
+- Type of animal
 codes:
 - nomenclature: SYADEM
   code: 94072784-b828-4c44-8f0d-80837f73150c

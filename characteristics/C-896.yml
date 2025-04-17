@@ -1,11 +1,11 @@
 ---
 id: 896
-label: Autre vascularite sous traitement immunosuppresseur
+label: Other vasculitis under immunosuppressive treatment
 type: boolean
 tags:
-- Affection chronique
-- Maladie rare
-- ORKiD
+- Chronic condition
+- Rare disease
+- Renal
 codes:
 - nomenclature: SYADEM
   code: 32b5a01b-4787-49d6-8c42-72096c9498e0

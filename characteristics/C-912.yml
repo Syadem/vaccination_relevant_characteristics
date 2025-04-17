@@ -1,12 +1,12 @@
 ---
 id: 912
-label: Apnée du sommeil
+label: Sleep apnea
 type: boolean
 tags:
-- Affection chronique
-- Cardio - Pneumo
-- Pneumologie
-- Autres
+- Chronic condition
+- Cardiology-Pulmonology
+- Pulmonology
+- Others
 codes:
 - nomenclature: SYADEM
   code: 82ff54ac-a8c3-4044-b641-d29848e98e56

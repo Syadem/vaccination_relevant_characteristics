@@ -1,11 +1,11 @@
 ---
 id: 487
-label: Animal disparu
+label: Missing animal
 type: boolean
 tags:
-- Situation d'urgence
-- Suspicion d'exposition a la rage
-- Statut de l'animal (vivant, mort, disparu)
+- Emergency situation
+- Suspected exposure to rabies
+- Status of the animal (alive, dead, missing)
 codes:
 - nomenclature: SYADEM
   code: fe8f8b03-3fd4-4835-81b6-261e7093115c

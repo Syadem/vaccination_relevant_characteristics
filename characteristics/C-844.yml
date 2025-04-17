@@ -1,12 +1,12 @@
 ---
 id: 844
-label: Aide à domicile
+label: Home Help
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel métier ?
+- Related to health or the medico-social field
+- Active professional
+- What profession?
 codes:
 - nomenclature: SYADEM
   code: ce84d14c-7e28-453c-aff9-66310c18e22b

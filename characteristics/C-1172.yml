@@ -1,10 +1,10 @@
 ---
 id: 1172
-label: Contact étroit avec un patient atteint de diphtérie
+label: Close family contact with a diphtheria patient
 type: boolean
 tags:
-- Conditions de vie ou de résidence
-- Autres
+- Living or housing conditions
+- Others
 codes:
 - nomenclature: SYADEM
   code: 771e53e9-de22-43ef-b33f-e1a5351199cd

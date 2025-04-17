@@ -1,13 +1,12 @@
 ---
 id: 90
-label: Travaille dans un établissement ou un service social concourant à la protection
-  de l'enfance
+label: Works in a social institution or service contributing to child protection
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel lieu d'exercice ?
+- Related to health or the medico-social field
+- Active professional
+- What place of practice?
 codes:
 - nomenclature: SYADEM
   code: 6034116b-69e6-44b3-8c7d-8348a23a8015

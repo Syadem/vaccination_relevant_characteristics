@@ -1,10 +1,10 @@
 ---
 id: 148
-label: Antécédent de rubéole
+label: History of rubella
 type: boolean
 tags:
-- Antécédents
-- Maladies infectieuses
+- Medical history
+- Infectious diseases
 codes:
 - nomenclature: SYADEM
   code: ba815176-b30f-4c7e-a84a-763305d45160

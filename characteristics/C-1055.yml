@@ -1,10 +1,10 @@
 ---
 id: 1055
-label: Taille sur la carte d'identité (en cm)
+label: Height on identity card (in cm)
 type: integer
 tags:
-- Informations générales
-- IMC
+- General information
+- BMI
 codes:
 - nomenclature: SYADEM
   code: a7d23286-475a-441b-bd00-ec8d83db01db

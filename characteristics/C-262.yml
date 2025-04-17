@@ -1,11 +1,11 @@
 ---
 id: 262
-label: Employé(e) dans une entreprise de transport de corps avant mise en bière, sans
-  lien avec un établissement de prévention ou de soins
+label: Employee in a company transporting bodies before burial, without any link with
+  a prevention or care establishment
 type: boolean
 tags:
 - Profession
-- Services funéraires
+- Funeral services
 codes:
 - nomenclature: SYADEM
   code: cfd6b0d3-9974-48f2-803f-6d0f66da83fd

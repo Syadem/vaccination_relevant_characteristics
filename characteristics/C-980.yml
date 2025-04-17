@@ -1,12 +1,12 @@
 ---
 id: 980
-label: Elève opticien-lunetier
+label: Student optician
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Etudiant ou en cours de formation
-- Autres professions
+- Related to health or the medico-social field
+- Student or in training
+- Other professions
 codes:
 - nomenclature: SYADEM
   code: 3437d4a1-0fa9-4921-a7d2-e7abc29d6492

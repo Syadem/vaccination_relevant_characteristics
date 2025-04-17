@@ -1,11 +1,11 @@
 ---
 id: 895
-label: Néphropathie du purpura rhumatoïde sous traitement immunosuppresseur
+label: Rheumatoid purpura nephropathy under immunosuppressive therapy
 type: boolean
 tags:
-- Affection chronique
-- Maladie rare
-- ORKiD
+- Chronic condition
+- Rare disease
+- Renal
 codes:
 - nomenclature: SYADEM
   code: faf93ea4-caeb-4101-9b21-de6e3fe714cf

@@ -3,8 +3,8 @@ id: 1082
 label: Free
 type: boolean
 tags:
-- Affection chronique
-- Cardio - Pneumo
+- Chronic condition
+- Cardiology-Pulmonology
 codes:
 - nomenclature: SYADEM
   code: 2ea572fd-f018-41dd-bca9-c2f6bfae1180

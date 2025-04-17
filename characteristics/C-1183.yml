@@ -1,11 +1,11 @@
 ---
 id: 1183
-label: 3e officier
+label: 3rd Officer
 type: boolean
 tags:
 - Profession
-- Personnels travaillant sur un bateau de croisière
-- Pont
+- Staff working on a cruise ship
+- Deck
 codes:
 - nomenclature: SYADEM
   code: fbd0d69b-6a15-495d-91c9-f7e37f37dd16

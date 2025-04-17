@@ -1,10 +1,10 @@
 ---
 id: 1050
-label: Fracture du bassin
+label: Pelvic fracture
 type: boolean
 tags:
-- Antécédents
-- Traumatologie
+- Medical history
+- Traumatology
 codes:
 - nomenclature: SYADEM
   code: adf461d0-8858-42b9-bd35-5445e5dabd59

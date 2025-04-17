@@ -1,10 +1,10 @@
 ---
 id: 1085
-label: Voyage limité à la province du Xinjiang ou du Qinghai
+label: Mother who received Abrysvo during pregnancy
 type: boolean
 tags:
-- VOYAGE
-- Chine
+- TRAVEL
+- China
 codes:
 - nomenclature: SYADEM
   code: a55bbd7c-ab7d-4770-88a5-64078bb2bb02

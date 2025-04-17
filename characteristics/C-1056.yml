@@ -1,11 +1,11 @@
 ---
 id: 1056
-label: 'Radio rachis : pas de fracture vertébrale'
+label: 'Spinal X-ray: no vertebral fracture'
 type: boolean
 tags:
-- Examens complémentaires
-- Imagerie médicale
-- Radiologie
+- Additional examinations
+- Medical imaging
+- Radiology
 codes:
 - nomenclature: SYADEM
   code: 5fcdd69c-e372-4368-8dc4-0c1a0921badd

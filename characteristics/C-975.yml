@@ -1,12 +1,12 @@
 ---
 id: 975
-label: Psychothérapeute
+label: Psychotherapist
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel métier ?
+- Related to health or the medico-social field
+- Active professional
+- What profession?
 codes:
 - nomenclature: SYADEM
   code: a01ee0e2-bebb-4a43-aa6a-524f3fbf4e1c

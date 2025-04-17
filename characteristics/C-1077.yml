@@ -1,10 +1,10 @@
 ---
 id: 1077
-label: IGRA négatif
+label: IGRA negative
 type: boolean
 tags:
-- Examens biologiques
-- Tuberculose
+- Laboratory tests
+- Tuberculosis
 codes:
 - nomenclature: SYADEM
   code: 4e4a3dc7-c788-4cbc-a893-355e64be6672

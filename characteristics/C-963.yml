@@ -1,10 +1,10 @@
 ---
 id: 963
-label: Taille (cm)
+label: Height
 type: integer
 tags:
-- Informations générales
-- IMC
+- General information
+- BMI
 codes:
 - nomenclature: SYADEM
   code: f5d80cbf-dfb9-4cbd-a0ef-b2eb39689006

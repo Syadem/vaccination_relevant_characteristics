@@ -1,12 +1,12 @@
 ---
 id: 970
-label: Physicien médical
+label: Medical Physicist
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel métier ?
+- Related to health or the medico-social field
+- Active professional
+- What profession?
 codes:
 - nomenclature: SYADEM
   code: bbe12370-5cb7-4e73-83b5-9367a21525e3

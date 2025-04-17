@@ -1,9 +1,9 @@
 ---
 id: 950
-label: En provenance d'un pays à risque de transmission de la fièvre jaune
+label: Condition not used free
 type: boolean
 tags:
-- VOYAGE
+- TRAVEL
 codes:
 - nomenclature: SYADEM
   code: f9a4648b-269c-4ff7-851f-e28b4215aa48

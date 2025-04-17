@@ -3,8 +3,8 @@ id: 1137
 label: Kerala
 type: boolean
 tags:
-- VOYAGE
-- Etats de l'Inde
+- TRAVEL
+- States of India
 codes:
 - nomenclature: SYADEM
   code: 4df3b8e4-71cd-465d-b995-90ff19163e70

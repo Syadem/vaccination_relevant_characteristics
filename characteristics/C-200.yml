@@ -1,11 +1,11 @@
 ---
 id: 200
-label: Antécédent d'accident vasculaire cérébral
+label: History of stroke
 type: boolean
 tags:
-- Affection chronique
-- Cardio - Pneumo
-- Cardiologie
+- Chronic condition
+- Cardiology-Pulmonology
+- Cardiology
 codes:
 - nomenclature: SYADEM
   code: 73b78c99-c82b-432c-bb03-7b8d9b0d1f4a

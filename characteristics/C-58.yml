@@ -1,12 +1,12 @@
 ---
 id: 58
-label: Sage-femme
+label: Midwife
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel métier ?
+- Related to health or the medico-social field
+- Active professional
+- What profession?
 codes:
 - nomenclature: SYADEM
   code: fa2d85de-0160-48a6-9c39-c041dc35ef94

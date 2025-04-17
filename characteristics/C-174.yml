@@ -1,6 +1,6 @@
 ---
 id: 174
-label: Antécédent familial de tuberculose (collatéraux ou ascendants directs)
+label: Family history of tuberculosis (collateral or direct ascendants)
 type: boolean
 tags:
 - Entourage

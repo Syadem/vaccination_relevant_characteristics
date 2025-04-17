@@ -1,15 +1,15 @@
 ---
 id: 707
-label: 'Mission d''un(e) militaire en Allemagne : arrondissements AVEC risque d''encéphalite
-  à tiques selon le Robert Koch Institut'
+label: 'Military mission in Germany: districts with risk of tick-borne encephalitis
+  according to the Robert Koch Institute'
 type: boolean
 tags:
 - Profession
-- Militaire
-- Après l'incorporation
-- Mission OM-OPEX-Embarquement
+- military
+- After enlistment
+- OM-OPEX-Embarkation Mission
 - Europe
-- Pays avec encéphalite à tiques endémique
+- Countries with endemic tick-borne encephalitis
 codes:
 - nomenclature: SYADEM
   code: 895f874f-50f3-4e70-89cd-0e0828294fa6

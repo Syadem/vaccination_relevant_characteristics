@@ -1,11 +1,11 @@
 ---
 id: 1184
-label: Maître d’équipage - Bosco
+label: Bosun
 type: boolean
 tags:
 - Profession
-- Personnels travaillant sur un bateau de croisière
-- Pont
+- Staff working on a cruise ship
+- Deck
 codes:
 - nomenclature: SYADEM
   code: db7c728f-27ff-425c-b2bb-460b84c2a35f

@@ -1,13 +1,13 @@
 ---
 id: 504
-label: 'Contact direct dans un pays indemne de rage avec d''autres mammifères : Faune
-  sauvage, Cervidé, Bovin, Ovin, Caprin, Equidé ….'
+label: 'Direct contact in a rabies-free country with other mammals: Wildlife, Deer,
+  Cattle, Sheep, Goat, Equine ....'
 type: boolean
 tags:
-- Situation d'urgence
-- Suspicion d'exposition a la rage
-- Contact direct avec un mammifére dans un pays d'enzootie rabique
-- Type d'animal
+- Emergency situation
+- Suspected exposure to rabies
+- Direct contact with a mammal in a country where rabies is endemic
+- Type of animal
 codes:
 - nomenclature: SYADEM
   code: fdadd226-2cc8-4d37-80d8-ec20f3b8e90c

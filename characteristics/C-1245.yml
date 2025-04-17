@@ -1,0 +1,10 @@
+---
+id: 1245
+label: Stay in a nursing and care facility
+type: boolean
+tags:
+- Living or housing conditions
+- Community living, residence, institution...
+codes:
+- nomenclature: SYADEM
+  code: 8facdead-c686-4df9-9658-c4d62f945bbf

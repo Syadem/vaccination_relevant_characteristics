@@ -3,8 +3,8 @@ id: 1145
 label: Punjab
 type: boolean
 tags:
-- VOYAGE
-- Etats de l'Inde
+- TRAVEL
+- States of India
 codes:
 - nomenclature: SYADEM
   code: 35688779-71a2-43c1-88c8-816a18545d0d

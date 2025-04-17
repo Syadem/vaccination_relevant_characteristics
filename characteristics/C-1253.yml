@@ -1,0 +1,10 @@
+---
+id: 1253
+label: Radiotherapy in progress for solid tumor (cancer)
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+codes:
+- nomenclature: SYADEM
+  code: d431ca18-cbe3-46de-80a6-866cf1238f69

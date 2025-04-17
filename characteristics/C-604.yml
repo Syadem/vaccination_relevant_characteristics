@@ -1,12 +1,12 @@
 ---
 id: 604
-label: Risque d'exposition à des agents biologiques
+label: Risk of exposure to biological agents
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Exposition à des agents biologiques ?
+- Related to health or the medico-social field
+- Active professional
+- Exposure to biological agents?
 codes:
 - nomenclature: SYADEM
   code: 5b089eb5-0f00-429b-a2bd-06de1384cf83

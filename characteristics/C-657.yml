@@ -1,12 +1,12 @@
 ---
 id: 657
-label: Elève assistant(e) dentaire
+label: Dental assistant student
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Etudiant ou en cours de formation
-- Profession paramédicale
+- Related to health or the medico-social field
+- Student or in training
+- Paramedical profession
 codes:
 - nomenclature: SYADEM
   code: 5273328c-5302-4955-a113-0f790e1f60bb

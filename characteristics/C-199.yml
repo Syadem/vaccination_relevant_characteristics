@@ -1,10 +1,10 @@
 ---
 id: 199
-label: Autre affection neurologique grave
+label: Other serious neurological condition
 type: boolean
 tags:
-- Affection chronique
-- Système nerveux et musculaire
+- Chronic condition
+- Nervous and muscular system
 codes:
 - nomenclature: SYADEM
   code: 6de55cc1-8325-4d36-b772-bedcbdb21af4

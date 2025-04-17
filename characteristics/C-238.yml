@@ -1,12 +1,12 @@
 ---
 id: 238
-label: Elève technicien(ne) de l'intervention sociale et familiale
+label: Student social and family intervention technician
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Etudiant ou en cours de formation
-- Profession à caractère social
+- Related to health or the medico-social field
+- Student or in training
+- Social care profession
 codes:
 - nomenclature: SYADEM
   code: 6b8cd542-f800-4390-a79b-dcd4d37ef053

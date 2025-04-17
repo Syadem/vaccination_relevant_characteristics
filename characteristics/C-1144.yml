@@ -3,8 +3,8 @@ id: 1144
 label: Odisha
 type: boolean
 tags:
-- VOYAGE
-- Etats de l'Inde
+- TRAVEL
+- States of India
 codes:
 - nomenclature: SYADEM
   code: 3d7f14dc-e3fc-4a0d-b52d-077553adfd61

@@ -1,10 +1,10 @@
 ---
 id: 102
-label: Policier
+label: Police officer
 type: boolean
 tags:
 - Profession
-- Police, secours
+- Police, emergency services
 codes:
 - nomenclature: SYADEM
   code: 2b4460cb-25b0-43b7-92fb-c036f6e2ca1a

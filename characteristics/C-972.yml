@@ -1,12 +1,12 @@
 ---
 id: 972
-label: Prothésiste et orthésiste pour l'appareillage des personnes handicapées
+label: Prosthetist and orthotist for the fitting of disabled people
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel métier ?
+- Related to health or the medico-social field
+- Active professional
+- What profession?
 codes:
 - nomenclature: SYADEM
   code: 2cab399c-10fe-4234-9209-2ac8411b9a4f

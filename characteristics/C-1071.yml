@@ -1,11 +1,10 @@
 ---
 id: 1071
-label: Activité dans le secteur de la santé, des secours ou auprès de réfugiés dans
-  le pays visité
+label: Working in the health or relief sector or with refugees in the country visited
 type: boolean
 tags:
-- VOYAGE
-- Précisions concernant le voyage
+- TRAVEL
+- Travel details
 codes:
 - nomenclature: SYADEM
   code: 0eb0577a-45f9-4a33-a709-9cd62883c44d

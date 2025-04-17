@@ -1,12 +1,12 @@
 ---
 id: 892
-label: Maladie hémorragique constitutionnelle avec comorbidité identifiée (hépatite
-  C, HTA, diabète...)
+label: Constitutional bleeding disease with identified comorbidity (hepatitis C, hypertension,
+  diabetes, etc.)
 type: boolean
 tags:
-- Affection chronique
-- Maladie rare
-- MHémo
+- Chronic condition
+- Rare disease
+- Haemorrhage
 codes:
 - nomenclature: SYADEM
   code: 5300c918-1938-4442-81c6-672d2dc6d6f7

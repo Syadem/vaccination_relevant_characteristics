@@ -1,12 +1,12 @@
 ---
 id: 843
-label: Travaille dans une unité de soins de longue durée (USLD)
+label: Works in a long-term care unit (USLD)
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel lieu d'exercice ?
+- Related to health or the medico-social field
+- Active professional
+- What place of practice?
 codes:
 - nomenclature: SYADEM
   code: 7379ab14-e9f9-402d-8cf6-dec7596488da

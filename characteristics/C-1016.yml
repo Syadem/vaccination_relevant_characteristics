@@ -1,9 +1,9 @@
 ---
 id: 1016
-label: Contre-indication à la vaccination contre l'hépatite B
+label: Contraindication to hepatitis B vaccination
 type: boolean
 tags:
-- Contre-indications
+- Contra-indications
 codes:
 - nomenclature: SYADEM
   code: 4fc54218-6111-4c82-a9b6-b4613491482e

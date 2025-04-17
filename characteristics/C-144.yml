@@ -1,6 +1,6 @@
 ---
 id: 144
-label: Famille bénéficiaire de la CMU, de la CMUc ou de l'AME
+label: Family receiving CMU, CMUc or AME
 type: boolean
 tags:
 - Entourage

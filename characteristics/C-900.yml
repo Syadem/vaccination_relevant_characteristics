@@ -1,11 +1,11 @@
 ---
 id: 900
-label: Pathologie osseuse constitutionnelle avec complications
+label: Constitutional bone pathology with complications
 type: boolean
 tags:
-- Affection chronique
-- Maladie rare
-- OSCAR
+- Chronic condition
+- Rare disease
+- Bones
 codes:
 - nomenclature: SYADEM
   code: ef725e96-35ec-4c7e-9152-b8b7ba130eaf

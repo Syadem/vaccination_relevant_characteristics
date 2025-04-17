@@ -1,11 +1,11 @@
 ---
 id: 151
-label: Employé(e) dans un laboratoire vétérinaire manipulant du matériel contaminé
-  ou suceptible de l'être par le virus rabique
+label: Employee in a veterinary laboratory handling material contaminated or likely
+  to be contaminated with rabies virus
 type: boolean
 tags:
 - Profession
-- Au contact des animaux, agriculture, eaux, forêts et pêche
+- Working with animals, agriculture, water, forests, and fishing
 codes:
 - nomenclature: SYADEM
   code: d805c67f-3c75-4049-b4d2-1148a0d5aace

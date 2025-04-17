@@ -3,8 +3,8 @@ id: 1126
 label: Andhra Pradesh
 type: boolean
 tags:
-- VOYAGE
-- Etats de l'Inde
+- TRAVEL
+- States of India
 codes:
 - nomenclature: SYADEM
   code: dc9957ef-a645-4466-840a-f2bcb12aa967

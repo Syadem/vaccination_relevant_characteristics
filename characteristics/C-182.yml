@@ -1,12 +1,12 @@
 ---
 id: 182
-label: Animateur socio-éducatif
+label: Socio-educational animator
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel métier ?
+- Related to health or the medico-social field
+- Active professional
+- What profession?
 codes:
 - nomenclature: SYADEM
   code: d52875dd-f09b-4f06-bd7a-22596c1a31b2

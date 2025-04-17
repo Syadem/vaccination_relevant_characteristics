@@ -1,10 +1,10 @@
 ---
 id: 1087
-label: Grossesse à risque
+label: Pregnancy at risk
 type: boolean
 tags:
-- Informations générales
-- Parentalité
+- General information
+- Parenthood
 codes:
 - nomenclature: SYADEM
   code: 9b2c457b-d5a6-48b1-9081-f89083b4c7d8

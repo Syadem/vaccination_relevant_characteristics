@@ -3,8 +3,8 @@ id: 1140
 label: Manipur
 type: boolean
 tags:
-- VOYAGE
-- Etats de l'Inde
+- TRAVEL
+- States of India
 codes:
 - nomenclature: SYADEM
   code: 3b26f988-c4db-4ec1-bc02-3dda5ab24f2a

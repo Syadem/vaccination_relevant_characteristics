@@ -1,10 +1,10 @@
 ---
 id: 587
-label: Déficit immunitaire combiné partiel
+label: Partial combined immunodeficiency
 type: boolean
 tags:
-- Affection chronique
-- Déficit immunitaire
+- Chronic condition
+- Immune deficiency
 codes:
 - nomenclature: SYADEM
   code: 93102ad3-4797-4dea-883a-42695fb6ae72

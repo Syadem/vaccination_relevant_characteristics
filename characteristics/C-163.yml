@@ -1,10 +1,10 @@
 ---
 id: 163
-label: Sérologie de la rubéole négative
+label: Negative rubella serology
 type: boolean
 tags:
-- Examens biologiques
-- Rubéole
+- Laboratory tests
+- Rubella
 codes:
 - nomenclature: SYADEM
   code: 82f56600-9578-4347-8106-7ae6c094cffa

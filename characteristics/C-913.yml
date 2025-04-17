@@ -1,11 +1,11 @@
 ---
 id: 913
-label: Test antigénique covid 19 positif
+label: Positive covid 19 antigenic test
 type: boolean
 tags:
-- Examens biologiques
-- Covid 19
-- Test antigénique positif
+- Laboratory tests
+- COVID-19
+- Positive antigen test
 codes:
 - nomenclature: SYADEM
   code: 36c86865-ab92-4bb3-8848-a0eb0fb23722

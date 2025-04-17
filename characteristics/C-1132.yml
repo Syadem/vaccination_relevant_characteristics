@@ -3,8 +3,8 @@ id: 1132
 label: Gujarat
 type: boolean
 tags:
-- VOYAGE
-- Etats de l'Inde
+- TRAVEL
+- States of India
 codes:
 - nomenclature: SYADEM
   code: 03fa9c3a-63b7-424c-85aa-a85d855a43b4

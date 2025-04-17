@@ -1,10 +1,10 @@
 ---
 id: 584
-label: Déficit en sous-classes d'IgG
+label: IgG subclass deficiency
 type: boolean
 tags:
-- Affection chronique
-- Déficit immunitaire
+- Chronic condition
+- Immune deficiency
 codes:
 - nomenclature: SYADEM
   code: 37ce40f2-ce7c-492c-8fb6-b67b87f5b4e8

@@ -1,10 +1,10 @@
 ---
 id: 48
-label: Logement surpeuplé
+label: Overcrowded housing
 type: boolean
 tags:
-- Conditions de vie ou de résidence
-- Autres
+- Living or housing conditions
+- Others
 codes:
 - nomenclature: SYADEM
   code: f7c2df78-5dfe-4d42-b2b0-42f75c5ba9ad

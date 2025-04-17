@@ -1,15 +1,15 @@
 ---
 id: 728
-label: 'Mission d''un militaire dans un pays autre que : pays endémique pour la fièvre
-  jaune, du Moyen-orient ou Djibouti, d''Europe, d''Asie ou d''Océanie'
+label: 'Military mission in a country other than: yellow fever endemic country, Middle
+  East or Djibouti, Europe, Asia or Oceania'
 type: boolean
 tags:
 - Profession
-- Militaire
-- Après l'incorporation
-- Mission OM-OPEX-Embarquement
-- Hors Europe
-- Autres pays
+- military
+- After enlistment
+- OM-OPEX-Embarkation Mission
+- Outside Europe
+- Other countries
 codes:
 - nomenclature: SYADEM
   code: 7f885e41-b310-466a-94fa-674e1df4633b

@@ -1,10 +1,10 @@
 ---
 id: 993
-label: 'Date du dosage postvaccinal des anticorps antitétaniques '
+label: Date of tetanus antibody test
 type: date
 tags:
-- Examens biologiques
-- Anticorps antitétaniques
+- Laboratory tests
+- Tetanus antibodies
 codes:
 - nomenclature: SYADEM
   code: 47cdaf82-b6ce-4115-9c94-b60782e96b5f

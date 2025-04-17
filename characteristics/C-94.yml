@@ -1,11 +1,10 @@
 ---
 id: 94
-label: Employé(e) dans une entreprise de pompes funèbres, sans lien avec un établissement
-  de prévention ou de soins
+label: Employee in an undertaker's business, not linked to a prevention or care establishment
 type: boolean
 tags:
 - Profession
-- Services funéraires
+- Funeral services
 codes:
 - nomenclature: SYADEM
   code: f7d073c4-3746-497b-aa26-33a8b598eece

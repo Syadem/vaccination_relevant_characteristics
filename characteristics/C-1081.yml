@@ -1,10 +1,10 @@
 ---
 id: 1081
-label: Date de début de grossesse
+label: Pregnancy start date
 type: date
 tags:
-- Informations générales
-- Parentalité
+- General information
+- Parenthood
 codes:
 - nomenclature: SYADEM
   code: a6437c27-0d73-44ad-a7bd-7a34d468c384

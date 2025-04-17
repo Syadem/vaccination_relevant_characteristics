@@ -1,10 +1,10 @@
 ---
 id: 839
-label: Sérologie covid 19 positive avant la vaccination
+label: Positive covid 19 serology before vaccination
 type: boolean
 tags:
-- Examens biologiques
-- Covid 19
+- Laboratory tests
+- COVID-19
 codes:
 - nomenclature: SYADEM
   code: 68d20d1e-9628-4618-9e33-714185a13673

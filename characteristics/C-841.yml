@@ -1,12 +1,12 @@
 ---
 id: 841
-label: Elève brancardier
+label: Student stretcher bearer
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Etudiant ou en cours de formation
-- Profession paramédicale
+- Related to health or the medico-social field
+- Student or in training
+- Paramedical profession
 codes:
 - nomenclature: SYADEM
   code: e7080a59-876a-4be8-8f60-7f524f99a14c

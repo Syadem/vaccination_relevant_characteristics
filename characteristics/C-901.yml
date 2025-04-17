@@ -1,11 +1,11 @@
 ---
 id: 901
-label: Hypertension Artérielle Pulmonaire (HTAP)
+label: Pulmonary Arterial Hypertension (PAH)
 type: boolean
 tags:
-- Affection chronique
-- Maladie rare
-- RESPIFIL
+- Chronic condition
+- Rare disease
+- Respiratory
 codes:
 - nomenclature: SYADEM
   code: c0ea8199-f65d-4c65-bfd1-bb08e862e34c

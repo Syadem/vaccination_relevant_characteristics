@@ -1,10 +1,10 @@
 ---
 id: 1065
-label: Pèlerinage à La Mecque (Hadj ou Omra)
+label: Pilgrimage to Mecca (Hajj or Umrah)
 type: boolean
 tags:
-- VOYAGE
-- Précisions concernant le voyage
+- TRAVEL
+- Travel details
 codes:
 - nomenclature: SYADEM
   code: 5313f392-c743-4ca5-a942-9639c1f6cd2b

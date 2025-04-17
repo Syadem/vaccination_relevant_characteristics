@@ -1,9 +1,9 @@
 ---
 id: 1154
-label: Voyage limité à Taipei et aux grandes villes
+label: Travel limited to Taipei and major cities
 type: boolean
 tags:
-- VOYAGE
+- TRAVEL
 - Taïwan
 codes:
 - nomenclature: SYADEM

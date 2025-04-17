@@ -3,8 +3,8 @@ id: 1153
 label: West Bengal
 type: boolean
 tags:
-- VOYAGE
-- Etats de l'Inde
+- TRAVEL
+- States of India
 codes:
 - nomenclature: SYADEM
   code: bd1bfde9-403c-4753-8bc7-7bf36f87f8e7

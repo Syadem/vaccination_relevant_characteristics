@@ -1,12 +1,12 @@
 ---
 id: 853
-label: Agent de service hospitalier (ASH)
+label: Hospital Service Officer (ASH)
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel métier ?
+- Related to health or the medico-social field
+- Active professional
+- What profession?
 codes:
 - nomenclature: SYADEM
   code: 6105512a-f40b-41f8-ac26-c46686e21224

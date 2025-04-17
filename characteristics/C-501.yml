@@ -1,12 +1,12 @@
 ---
 id: 501
-label: Contact direct dans un pays indemne de rage avec tous type de rongeurs ou lagomorphes
+label: Direct contact in a rabies-free country with any type of rodents or lagomorphs
 type: boolean
 tags:
-- Situation d'urgence
-- Suspicion d'exposition a la rage
-- Contact direct avec un mammifére dans un pays d'enzootie rabique
-- Type d'animal
+- Emergency situation
+- Suspected exposure to rabies
+- Direct contact with a mammal in a country where rabies is endemic
+- Type of animal
 codes:
 - nomenclature: SYADEM
   code: 454fffae-4a78-4722-ade9-ba9e15709190

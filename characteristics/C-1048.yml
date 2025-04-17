@@ -1,10 +1,10 @@
 ---
 id: 1048
-label: Traumatisme de forte énergie
+label: High-energy trau
 type: boolean
 tags:
-- Antécédents
-- Traumatologie
+- Medical history
+- Traumatology
 codes:
 - nomenclature: SYADEM
   code: 74c63e08-8207-4fb1-9e74-b13c9fe0075b

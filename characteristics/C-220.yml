@@ -1,12 +1,12 @@
 ---
 id: 220
-label: Elève auxiliaire de puériculture
+label: Student childcare assistant
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Etudiant ou en cours de formation
-- Profession paramédicale
+- Related to health or the medico-social field
+- Student or in training
+- Paramedical profession
 codes:
 - nomenclature: SYADEM
   code: c5d727ca-a9ea-43e4-906e-f237eafdf0eb

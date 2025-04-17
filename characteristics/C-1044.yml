@@ -3,8 +3,8 @@ id: 1044
 label: Anti-aromatase
 type: boolean
 tags:
-- Antécédents
-- Facteurs de risque d’ostéoporose
+- Medical history
+- Risk factors for osteoporosis
 codes:
 - nomenclature: SYADEM
   code: 4c7be84a-a048-4175-9bf3-e7e03f055c10

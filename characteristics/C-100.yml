@@ -1,10 +1,10 @@
 ---
 id: 100
-label: Égoutier
+label: Drainer
 type: boolean
 tags:
 - Profession
-- Assainissement - Environnement
+- Sanitation - Environment
 codes:
 - nomenclature: SYADEM
   code: 2433b469-6bda-4c29-a59f-8155bff6abc2

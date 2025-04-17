@@ -1,11 +1,11 @@
 ---
 id: 1204
-label: Personel travaillant dans les SPA
+label: Staff working in SPAs
 type: boolean
 tags:
 - Profession
-- Personnels travaillant sur un bateau de croisière
-- Divers
+- Staff working on a cruise ship
+- Miscellaneous
 codes:
 - nomenclature: SYADEM
   code: 603172e0-6c6d-48a6-84f1-cde510f8e0d8

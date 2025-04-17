@@ -1,11 +1,11 @@
 ---
 id: 940
-label: Inutilisé - Myocardite ou péricardite d’étiologie non liée à une infection
-  par SARS-CoV-2, survenues antérieurement à la vaccination et toujours évolutives.
+label: Unused - Myocarditis or pericarditis of etiology not related to SARS-CoV-2
+  infection, occurring prior to vaccination and still evolving.
 type: boolean
 tags:
-- Antécédents
-- Autres antécédents
+- Medical history
+- Other medical histor
 codes:
 - nomenclature: SYADEM
   code: a0867881-b37d-464e-aec1-af112d1510fb

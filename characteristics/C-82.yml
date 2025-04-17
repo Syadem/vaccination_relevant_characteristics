@@ -1,12 +1,12 @@
 ---
 id: 82
-label: Travaille dans une entreprise de transport sanitaire
+label: Works in a medical transport company
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel lieu d'exercice ?
+- Related to health or the medico-social field
+- Active professional
+- What place of practice?
 codes:
 - nomenclature: SYADEM
   code: 90d91d66-777d-44de-a43e-965e127b1057

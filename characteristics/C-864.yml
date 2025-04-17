@@ -1,10 +1,10 @@
 ---
 id: 864
-label: Démence ou trouble psychiatrique
+label: Dementia or psychiatric disorder
 type: boolean
 tags:
-- Affection chronique
-- Système nerveux et musculaire
+- Chronic condition
+- Nervous and muscular system
 codes:
 - nomenclature: SYADEM
   code: 435a728a-59cd-420c-a166-e8896b50c581

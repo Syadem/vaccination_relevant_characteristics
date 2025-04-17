@@ -1,10 +1,10 @@
 ---
 id: 990
-label: Dosage postvaccinal des anticorps antitétaniques (UI/mL)
+label: Tetanus antibody test (IU/L)
 type: float
 tags:
-- Examens biologiques
-- Anticorps antitétaniques
+- Laboratory tests
+- Tetanus antibodies
 codes:
 - nomenclature: SYADEM
   code: a17cf76b-f5cf-4906-a178-0a346a986c2d

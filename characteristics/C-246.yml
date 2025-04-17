@@ -1,12 +1,12 @@
 ---
 id: 246
-label: Elève assistant(e) maternel(le) ou familial(e)
+label: Pupil assistant or family assistant
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Etudiant ou en cours de formation
-- Profession à caractère social
+- Related to health or the medico-social field
+- Student or in training
+- Social care profession
 codes:
 - nomenclature: SYADEM
   code: 50e6d1d8-d84f-45c8-be20-5957a46bbe3d

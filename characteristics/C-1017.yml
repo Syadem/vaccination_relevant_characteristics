@@ -1,9 +1,9 @@
 ---
 id: 1017
-label: Contre-indication à la vaccination contre les infections à pneumocoque
+label: Contraindication to vaccination against pneumococcal disease
 type: boolean
 tags:
-- Contre-indications
+- Contra-indications
 codes:
 - nomenclature: SYADEM
   code: 406da59d-bde0-4974-abea-8cef2d53e79e

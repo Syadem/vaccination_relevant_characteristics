@@ -1,11 +1,11 @@
 ---
 id: 1206
-label: Ingénieur en chef
+label: Chief Engineer
 type: boolean
 tags:
 - Profession
-- Personnels travaillant sur un bateau de croisière
-- Salle des machines
+- Staff working on a cruise ship
+- Engine
 codes:
 - nomenclature: SYADEM
   code: 41f8d696-7538-4c07-b152-462e5d2b8f9e

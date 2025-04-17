@@ -1,10 +1,10 @@
 ---
 id: 829
-label: Test RT-PCR covid (SARS-CoV-2) positif
+label: RT-PCR covid test (SARS-CoV-2) positive
 type: boolean
 tags:
-- Examens biologiques
-- Covid 19
+- Laboratory tests
+- COVID-19
 codes:
 - nomenclature: SYADEM
   code: eb07f9cd-c0cd-442b-a38d-5d357bf2068e

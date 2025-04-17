@@ -1,12 +1,12 @@
 ---
 id: 273
-label: Travaille dans une maternité
+label: Works in a maternity hospital
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Dans quel service ?
+- Related to health or the medico-social field
+- Active professional
+- In which department?
 codes:
 - nomenclature: SYADEM
   code: '0588713f-9e30-4b58-8da2-0710bcd799a4'

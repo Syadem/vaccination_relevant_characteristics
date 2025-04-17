@@ -1,10 +1,10 @@
 ---
 id: 1052
-label: Fracture du col du fémur
+label: Fracture of the neck of the femur
 type: boolean
 tags:
-- Antécédents
-- Traumatologie
+- Medical history
+- Traumatology
 codes:
 - nomenclature: SYADEM
   code: ec57e205-93bf-4987-b9ab-53226e1ebf5c

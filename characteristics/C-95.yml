@@ -1,10 +1,10 @@
 ---
 id: 95
-label: Professionnel de l'éducation nationale au contact des enfants
+label: National education professional in contact with children
 type: boolean
 tags:
 - Profession
-- Education nationale
+- Education
 codes:
 - nomenclature: SYADEM
   code: 80cb0fc6-f8bc-4303-a75d-a0c18fe90c88

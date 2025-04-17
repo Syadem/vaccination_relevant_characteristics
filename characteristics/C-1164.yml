@@ -1,9 +1,9 @@
 ---
 id: 1164
-label: Maladie de Hodgkin
+label: Hodgkin's disease
 type: boolean
 tags:
-- Affection chronique
+- Chronic condition
 - Cancer
 codes:
 - nomenclature: SYADEM

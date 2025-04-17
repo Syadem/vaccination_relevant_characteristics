@@ -1,9 +1,9 @@
 ---
 id: 871
-label: Personne ayant déjà eu une prescription de seringue auto-injectable d'adrénaline
+label: Person who has ever been prescribed an auto-injectable syringe of adrenaline
 type: boolean
 tags:
-- Antécédents
+- Medical history
 - Allergies
 codes:
 - nomenclature: SYADEM

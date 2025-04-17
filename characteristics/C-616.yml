@@ -1,9 +1,9 @@
 ---
 id: 616
-label: Refus de vaccination contre le pneumocoque
+label: Refusal of pneumococcal vaccination
 type: boolean
 tags:
-- Vaccinations non souhaitées
+- Vaccinations not desired
 codes:
 - nomenclature: SYADEM
   code: d755bc8d-0b98-4046-90c2-c41a745bd39a

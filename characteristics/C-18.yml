@@ -1,10 +1,10 @@
 ---
 id: 18
-label: Insuffisance rénale chronique NON dialysée
+label: Chronic renal failure NOT on dialysis
 type: boolean
 tags:
-- Affection chronique
-- Uro-néphrologie
+- Chronic condition
+- Uro-nephrology
 codes:
 - nomenclature: SYADEM
   code: 570f3958-b505-4677-bf43-eea81fc1dae9

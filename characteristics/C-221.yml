@@ -1,12 +1,12 @@
 ---
 id: 221
-label: Elève ergothérapeute
+label: Occupational therapy student
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Etudiant ou en cours de formation
-- Profession paramédicale
+- Related to health or the medico-social field
+- Student or in training
+- Paramedical profession
 codes:
 - nomenclature: SYADEM
   code: 58d34ca5-d64f-4b85-bf83-f59dddfaf975

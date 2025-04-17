@@ -1,10 +1,10 @@
 ---
 id: 1120
-label: Autres métiers de la fonction publique
+label: Other public sector jobs
 type: boolean
 tags:
 - Profession
-- Autres professions
+- Other professions
 codes:
 - nomenclature: SYADEM
   code: 2c06aedf-aaa5-4fc9-9c74-112a7dd28355

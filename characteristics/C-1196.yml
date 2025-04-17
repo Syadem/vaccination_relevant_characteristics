@@ -1,11 +1,11 @@
 ---
 id: 1196
-label: Personnel affecté à la gestion hôtelière
+label: Hotel management staff
 type: boolean
 tags:
 - Profession
-- Personnels travaillant sur un bateau de croisière
-- Divers
+- Staff working on a cruise ship
+- Miscellaneous
 codes:
 - nomenclature: SYADEM
   code: 34f1036b-8a11-4400-b795-969e977cb697

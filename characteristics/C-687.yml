@@ -1,10 +1,10 @@
 ---
 id: 687
-label: Toxicomanie par voie intranasale
+label: Intranasal drug abuse
 type: boolean
 tags:
-- Conditions de vie ou de résidence
-- Alcool, drogues...
+- Living or housing conditions
+- Alcohol, drugs...
 codes:
 - nomenclature: SYADEM
   code: 07b0666f-0b1b-4e10-ab64-6fbf0b33c3f7

@@ -1,13 +1,13 @@
 ---
 id: 490
-label: Contact direct en zone d'enzootie rabique avec un animal domestique (chien,
-  chat, furet) dont le propriétaire est connu.
+label: Direct contact with a domestic animal (dog, cat, ferret) whose owner is known
+  in a rabies enzootic zone.
 type: boolean
 tags:
-- Situation d'urgence
-- Suspicion d'exposition a la rage
-- Contact direct avec un mammifére dans un pays d'enzootie rabique
-- Type d'animal
+- Emergency situation
+- Suspected exposure to rabies
+- Direct contact with a mammal in a country where rabies is endemic
+- Type of animal
 codes:
 - nomenclature: SYADEM
   code: c4ceeb37-00b4-4418-89d8-546f8cce6eeb

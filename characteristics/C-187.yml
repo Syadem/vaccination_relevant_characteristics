@@ -1,12 +1,12 @@
 ---
 id: 187
-label: Technicien(ne) de l'intervention sociale et familiale
+label: Technician of social and family intervention
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel métier ?
+- Related to health or the medico-social field
+- Active professional
+- What profession?
 codes:
 - nomenclature: SYADEM
   code: 7863c7ed-0959-4139-aa70-03d4a43f72b8

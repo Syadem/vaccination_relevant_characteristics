@@ -1,10 +1,10 @@
 ---
 id: 145
-label: Antécédent de varicelle
+label: History of chickenpox
 type: boolean
 tags:
-- Antécédents
-- Maladies infectieuses
+- Medical history
+- Infectious diseases
 codes:
 - nomenclature: SYADEM
   code: 7184452e-4e3d-4514-acc2-34505bb5652d

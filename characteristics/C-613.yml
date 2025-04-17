@@ -1,9 +1,9 @@
 ---
 id: 613
-label: Refus de vaccination contre la diphtérie-tétanos-poliomyélite et/ou coqueluche
+label: Refusal of vaccination against diphtheria-tetanus-polio and/or pertussis
 type: boolean
 tags:
-- Vaccinations non souhaitées
+- Vaccinations not desired
 codes:
 - nomenclature: SYADEM
   code: dc534b1d-5391-4d69-b755-77013da4e8e8

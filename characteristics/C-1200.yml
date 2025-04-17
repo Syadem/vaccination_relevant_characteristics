@@ -1,11 +1,11 @@
 ---
 id: 1200
-label: Personnel médical de bord
+label: Medical staff on board
 type: boolean
 tags:
 - Profession
-- Personnels travaillant sur un bateau de croisière
-- Divers
+- Staff working on a cruise ship
+- Miscellaneous
 codes:
 - nomenclature: SYADEM
   code: ef05372f-cf14-44d8-83ff-93f05ae4f022

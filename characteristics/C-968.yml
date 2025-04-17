@@ -1,9 +1,9 @@
 ---
 id: 968
-label: Contre-indication à la vaccination contre la covid 19
+label: Contraindication to vaccination against covid 19
 type: boolean
 tags:
-- Contre-indications
+- Contra-indications
 codes:
 - nomenclature: SYADEM
   code: ffab473e-91b2-403f-8d28-fb89a6033759

@@ -1,10 +1,10 @@
 ---
 id: 541
-label: 'Traitement par anti-C5 : Soliris® (eculizumab) ou Ultomiris® (ravulizumab)'
+label: 'Anti-C5 treatment: Soliris® (Eculizumab) or Ultomiris® (ravulizumab)'
 type: boolean
 tags:
-- Traitements
-- Traitement(s) ayant une influence sur l'immunité
+- Treatments
+- Treatments affecting immunity
 codes:
 - nomenclature: SYADEM
   code: a09644ce-adfc-4d48-8608-f3c6996087d0

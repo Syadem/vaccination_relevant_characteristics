@@ -1,10 +1,10 @@
 ---
 id: 958
-label: " Diabète"
+label: Diabetes
 type: boolean
 tags:
-- Affection chronique
-- Diabète
+- Chronic condition
+- Diabetes
 codes:
 - nomenclature: SYADEM
   code: 2934c287-e36b-4adf-a5f6-e2f30dc8ed4a

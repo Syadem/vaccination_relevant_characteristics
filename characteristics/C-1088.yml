@@ -1,12 +1,12 @@
 ---
 id: 1088
-label: Travaille dans un laboratoire manipulant le virus monkeypox
+label: Works in a laboratory handling the monkeypox virus
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Dans quel service ?
+- Related to health or the medico-social field
+- Active professional
+- In which department?
 codes:
 - nomenclature: SYADEM
   code: 73de117f-22b8-474b-b746-1c53caa9a8ae

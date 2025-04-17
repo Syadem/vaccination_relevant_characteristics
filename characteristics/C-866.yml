@@ -1,10 +1,9 @@
 ---
 id: 866
-label: Antécédent de réaction anaphylactique grave à un vaccin, un médicament ou un
-  aliment
+label: History of severe anaphylactic reaction to a vaccine, drug or food
 type: boolean
 tags:
-- Antécédents
+- Medical history
 - Allergies
 codes:
 - nomenclature: SYADEM

@@ -1,11 +1,11 @@
 ---
 id: 1175
-label: Commandant en second
+label: Staff Captain
 type: boolean
 tags:
 - Profession
-- Personnels travaillant sur un bateau de croisière
-- Pont
+- Staff working on a cruise ship
+- Deck
 codes:
 - nomenclature: SYADEM
   code: 05cb5ee3-0ed1-4a74-b016-5a876dc5d19c

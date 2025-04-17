@@ -1,10 +1,10 @@
 ---
 id: 1034
-label: Antécédent d'invagination intestinale
+label: History of intestinal intussusception
 type: boolean
 tags:
-- Antécédents
-- Autres antécédents
+- Medical history
+- Other medical histor
 codes:
 - nomenclature: SYADEM
   code: 4c2ec243-e4d5-4c1d-81ac-44d836cece4c

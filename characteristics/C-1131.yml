@@ -3,8 +3,8 @@ id: 1131
 label: Goa
 type: boolean
 tags:
-- VOYAGE
-- Etats de l'Inde
+- TRAVEL
+- States of India
 codes:
 - nomenclature: SYADEM
   code: b027617e-50a9-4754-abee-913b0117f789

@@ -1,11 +1,11 @@
 ---
 id: 837
-label: Personne présentant des signes de covid 19 avec un test RT-PCR positif
+label: Person with signs of covid 19 with a positive RT-PCR test
 type: boolean
 tags:
-- Antécédents
-- Maladies infectieuses
-- Covid 19
+- Medical history
+- Infectious diseases
+- COVID-19
 codes:
 - nomenclature: SYADEM
   code: cf4850a1-baba-4017-96bf-deeba05fc8b6

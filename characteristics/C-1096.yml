@@ -1,10 +1,10 @@
 ---
 id: 1096
-label: Immunodéficience, quelle qu'en soit la cause (maladie ou traitement).
+label: Immunodeficiency, whatever the cause (disease or treatment).
 type: boolean
 tags:
-- Affection chronique
-- Déficit immunitaire
+- Chronic condition
+- Immune deficiency
 codes:
 - nomenclature: SYADEM
   code: 7fd8fe60-115a-421c-a5aa-cb9d8cd90e05

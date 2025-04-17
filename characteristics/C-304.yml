@@ -1,12 +1,12 @@
 ---
 id: 304
-label: Asthme sévère sous traitement continu
+label: Severe asthma under continuous treatment
 type: boolean
 tags:
-- Affection chronique
-- Cardio - Pneumo
-- Pneumologie
-- Asthme
+- Chronic condition
+- Cardiology-Pulmonology
+- Pulmonology
+- Asthma
 codes:
 - nomenclature: SYADEM
   code: e131514e-7cb3-4736-836d-6105d66748fe

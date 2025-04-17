@@ -1,9 +1,9 @@
 ---
 id: 1014
-label: Contre-indication à la vaccination contre Haemophilus influenzae type b
+label: Contraindication to vaccination against Haemophilus influenzae type b
 type: boolean
 tags:
-- Contre-indications
+- Contra-indications
 codes:
 - nomenclature: SYADEM
   code: ba819872-8728-4cde-a566-b0c851b00a91

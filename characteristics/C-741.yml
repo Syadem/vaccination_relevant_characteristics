@@ -1,14 +1,14 @@
 ---
 id: 741
-label: Mission d'un(e) militaire en Guyane
+label: Military mission in Guyana
 type: boolean
 tags:
 - Profession
-- Militaire
-- Après l'incorporation
-- Mission OM-OPEX-Embarquement
-- Hors Europe
-- Zone endémique pour la fièvre jaune
+- military
+- After enlistment
+- OM-OPEX-Embarkation Mission
+- Outside Europe
+- Endemic area for yellow fever
 codes:
 - nomenclature: SYADEM
   code: 1d9ca8b1-5927-41c8-b3bc-7cbd0e9613c0

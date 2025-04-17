@@ -1,10 +1,10 @@
 ---
 id: 580
-label: Déficit des cellules phagocytaires (granulomatose septique)
+label: Phagocytic cell deficiency (septic granulomatosis)
 type: boolean
 tags:
-- Affection chronique
-- Déficit immunitaire
+- Chronic condition
+- Immune deficiency
 codes:
 - nomenclature: SYADEM
   code: 4f936fd9-8652-45a0-bc61-192425246c06

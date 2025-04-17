@@ -3,8 +3,8 @@ id: 1160
 label: Psoriasis
 type: boolean
 tags:
-- Affection chronique
-- Maladie inflammatoire ou auto-immune
+- Chronic condition
+- Inflammatory or autoimmune disease
 codes:
 - nomenclature: SYADEM
   code: 25995908-3c2f-4406-80cd-36771766d23e

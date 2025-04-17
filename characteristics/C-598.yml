@@ -1,10 +1,10 @@
 ---
 id: 598
-label: Participation envisagée à un rassemblement gay
+label: Considered participation in a gay rally
 type: boolean
 tags:
-- Conditions de vie ou de résidence
-- Facteurs de risque concernant la sexualité
+- Living or housing conditions
+- Risk factors concerning sexuality
 codes:
 - nomenclature: SYADEM
   code: ea659347-ae98-43dd-86eb-ce1c8504770b

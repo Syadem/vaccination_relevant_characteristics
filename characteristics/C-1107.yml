@@ -1,10 +1,10 @@
 ---
 id: 1107
-label: Séjour dans un centre de traitement de la toxicomanie
+label: " Stay in an addiction treatment center"
 type: boolean
 tags:
-- Conditions de vie ou de résidence
-- Vie en collectivité, résidence, institution...
+- Living or housing conditions
+- Community living, residence, institution...
 codes:
 - nomenclature: SYADEM
   code: 70808c06-2165-4b47-997a-4ca3518281ac

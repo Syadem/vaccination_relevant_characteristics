@@ -1,12 +1,12 @@
 ---
 id: 984
-label: Conseiller en génétique
+label: Genetic Counselor
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel métier ?
+- Related to health or the medico-social field
+- Active professional
+- What profession?
 codes:
 - nomenclature: SYADEM
   code: dbb539b8-22e3-4c31-913a-e1b994d5b87c

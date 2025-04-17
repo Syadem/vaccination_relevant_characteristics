@@ -1,7 +1,7 @@
 ---
 id: 635
-label: Patient présentant un déficit en complément ou traité par Soliris® (eculizumab)
-  ou Ultomiris® (ravulizumab) dans l'entourage
+label: Patient with a complement deficiency or treated with Soliris® (eculizumab)
+  or Ultomiris® (ravulizumab) in the family
 type: boolean
 tags:
 - Entourage

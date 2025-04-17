@@ -1,10 +1,10 @@
 ---
 id: 1026
-label: Transit de plus de 12 heures dans l'aéroport d'un pays à risque de transmission
-  de la fièvre jaune
+label: Transit of more than 12 hours through the airport of a country at risk of yellow
+  fever transmission
 type: boolean
 tags:
-- VOYAGE
+- TRAVEL
 codes:
 - nomenclature: SYADEM
   code: c06f40cc-11fe-4381-ac60-d6d550a97f5c

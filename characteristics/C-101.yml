@@ -1,10 +1,10 @@
 ---
 id: 101
-label: Éboueur
+label: Garbage collector
 type: boolean
 tags:
 - Profession
-- Assainissement - Environnement
+- Sanitation - Environment
 codes:
 - nomenclature: SYADEM
   code: 7d41aa71-5758-46bf-92ba-95402743030b

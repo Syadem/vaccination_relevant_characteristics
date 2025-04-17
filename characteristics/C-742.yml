@@ -1,15 +1,15 @@
 ---
 id: 742
-label: Mission d'un(e) militaire dans un pays endémique pour la fièvre jaune autre
-  qu'un pays d'Afrique centrale ou de l'ouest et que la Guyane
+label: Mission of a military member in a country endemic for yellow fever other than
+  a country in Central or West Africa and Guyana
 type: boolean
 tags:
 - Profession
-- Militaire
-- Après l'incorporation
-- Mission OM-OPEX-Embarquement
-- Hors Europe
-- Zone endémique pour la fièvre jaune
+- military
+- After enlistment
+- OM-OPEX-Embarkation Mission
+- Outside Europe
+- Endemic area for yellow fever
 codes:
 - nomenclature: SYADEM
   code: 250aa64c-27c0-4aa7-90e5-08dc4928d6da

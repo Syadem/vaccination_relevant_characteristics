@@ -1,11 +1,11 @@
 ---
 id: 921
-label: Test RT-PCR covid (SARS-CoV-2) positif révélant une infection survenue dans
-  les 15 jours suivant la vaccination
+label: Positive covid RT-PCR test (SARS-CoV-2) showing infection within 15 days of
+  vaccination
 type: date
 tags:
-- Examens biologiques
-- Covid 19
+- Laboratory tests
+- COVID-19
 codes:
 - nomenclature: SYADEM
   code: 70cce945-59ca-404c-a30c-0ba9a67f0932

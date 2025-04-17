@@ -1,15 +1,14 @@
 ---
 id: 720
-label: Mission d'un(e) militaire aux Emirats Arabes Unis, au Liban, en Irak ou en
-  Syrie
+label: Military mission in the United Arab Emirates, Lebanon, Iraq or Syria
 type: boolean
 tags:
 - Profession
-- Militaire
-- Après l'incorporation
-- Mission OM-OPEX-Embarquement
-- Hors Europe
-- Moyen Orient
+- military
+- After enlistment
+- OM-OPEX-Embarkation Mission
+- Outside Europe
+- Middle East
 codes:
 - nomenclature: SYADEM
   code: c1a0db91-3adc-4b18-82a4-ffb1b1275493

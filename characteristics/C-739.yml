@@ -1,14 +1,14 @@
 ---
 id: 739
-label: Mission d'un(e) militaire avec risque faible de projection de Djibouti vers
-  une zone endémique pour la fièvre jaune
+label: Military mission with low risk of projection from Djibouti to a yellow fever
+  endemic area
 type: boolean
 tags:
 - Profession
-- Militaire
-- Après l'incorporation
-- Mission OM-OPEX-Embarquement
-- Hors Europe
+- military
+- After enlistment
+- OM-OPEX-Embarkation Mission
+- Outside Europe
 - Djibouti
 codes:
 - nomenclature: SYADEM

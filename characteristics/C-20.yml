@@ -1,10 +1,10 @@
 ---
 id: 20
-label: Personne susceptible de recevoir des transfusions massives ou itératives
+label: Person likely to receive massive or iterative transfusions
 type: boolean
 tags:
-- Affection chronique
-- Hématologie - Hémostase
+- Chronic condition
+- Hematology - Hemostasis
 codes:
 - nomenclature: SYADEM
   code: e09f7648-5706-4668-80ea-4e0d7217682d

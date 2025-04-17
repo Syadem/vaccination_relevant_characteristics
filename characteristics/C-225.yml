@@ -1,12 +1,12 @@
 ---
 id: 225
-label: Elève masseur-kinésithérapeute
+label: Student masseur-physiotherapist
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Etudiant ou en cours de formation
-- Profession paramédicale
+- Related to health or the medico-social field
+- Student or in training
+- Paramedical profession
 codes:
 - nomenclature: SYADEM
   code: 20c18124-14b4-45a7-b7a0-bf1565bf220c

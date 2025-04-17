@@ -1,10 +1,10 @@
 ---
 id: 198
-label: Myopathie ou autre affection neuromusculaire grave
+label: Myopathy or other severe neuromuscular disorder
 type: boolean
 tags:
-- Affection chronique
-- Système nerveux et musculaire
+- Chronic condition
+- Nervous and muscular system
 codes:
 - nomenclature: SYADEM
   code: e185b3db-fe0f-4a02-a1b3-5b21d7067e22

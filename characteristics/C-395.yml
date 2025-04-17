@@ -1,11 +1,11 @@
 ---
 id: 395
-label: Séjour antérieur de plus d'un an dans un pays de forte endémicité pour l'hépatite
+label: Previous stay of more than one year in a country with high endemicity for hepatitis
   A
 type: boolean
 tags:
-- Informations générales
-- Autres informations
+- General information
+- Other information
 codes:
 - nomenclature: SYADEM
   code: 3e76320a-0b4d-4cb2-8095-764b19b08017

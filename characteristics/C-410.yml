@@ -1,11 +1,11 @@
 ---
 id: 410
-label: Trouble du rythme grave
+label: Severe rhythm disorder
 type: boolean
 tags:
-- Affection chronique
-- Cardio - Pneumo
-- Cardiologie
+- Chronic condition
+- Cardiology-Pulmonology
+- Cardiology
 codes:
 - nomenclature: SYADEM
   code: 555f6655-9f38-403e-84ce-eff24b924ba3

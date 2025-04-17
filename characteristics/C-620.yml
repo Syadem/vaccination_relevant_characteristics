@@ -1,9 +1,9 @@
 ---
 id: 620
-label: Refus de vaccination contre la typhoïde
+label: Refusal to vaccinate against typhoid
 type: boolean
 tags:
-- Vaccinations non souhaitées
+- Vaccinations not desired
 codes:
 - nomenclature: SYADEM
   code: 5e4a61d1-5501-46d0-9272-be7c5887bf5b

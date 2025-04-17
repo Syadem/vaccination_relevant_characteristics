@@ -1,12 +1,12 @@
 ---
 id: 658
-label: Assistant(e) dentaire
+label: Dental Assistant
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel métier ?
+- Related to health or the medico-social field
+- Active professional
+- What profession?
 codes:
 - nomenclature: SYADEM
   code: af724767-f6bc-462c-8fcc-154af5244fb9

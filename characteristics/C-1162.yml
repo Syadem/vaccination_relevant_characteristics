@@ -1,10 +1,10 @@
 ---
 id: 1162
-label: Arthrite psoriasique
+label: Psoriatic arthritis
 type: boolean
 tags:
-- Affection chronique
-- Maladie inflammatoire ou auto-immune
+- Chronic condition
+- Inflammatory or autoimmune disease
 codes:
 - nomenclature: SYADEM
   code: 25185dbb-2531-43a5-aab7-5beb0a78d4d5

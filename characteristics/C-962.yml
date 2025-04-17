@@ -1,10 +1,10 @@
 ---
 id: 962
-label: Poids (kg)
+label: Weight
 type: integer
 tags:
-- Informations générales
-- IMC
+- General information
+- BMI
 codes:
 - nomenclature: SYADEM
   code: cd7b37e5-ca83-4d8c-8cef-cae4f3585b51

@@ -1,10 +1,10 @@
 ---
 id: 543
-label: Hémoglobinurie paroxystique nocturne
+label: Paroxysmal nocturnal hemoglobinuria
 type: boolean
 tags:
-- Affection chronique
-- Hématologie - Hémostase
+- Chronic condition
+- Hematology - Hemostasis
 codes:
 - nomenclature: SYADEM
   code: '0284e328-e1fd-4f81-8ff4-a5c4df8e96ab'

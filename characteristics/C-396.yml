@@ -1,10 +1,10 @@
 ---
 id: 396
-label: Sérologie de l'hépatite A positive
+label: Positive pre-vaccination hepatitis A serology
 type: boolean
 tags:
-- Examens biologiques
-- Hépatite A
+- Laboratory tests
+- Hepatitis A
 codes:
 - nomenclature: SYADEM
   code: d6445374-196d-4bce-a26c-cd9c7a07e849

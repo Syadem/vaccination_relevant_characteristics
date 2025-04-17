@@ -1,10 +1,10 @@
 ---
 id: 123
-label: Partenaire sexuel d'un sujet infecté par le virus de l'hépatite B
+label: Sexual partner of a person infected with the hepatitis B virus
 type: boolean
 tags:
-- Conditions de vie ou de résidence
-- Facteurs de risque concernant la sexualité
+- Living or housing conditions
+- Risk factors concerning sexuality
 codes:
 - nomenclature: SYADEM
   code: d02bfdd8-85e2-4ace-82bc-0b9b622a8f2a

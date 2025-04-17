@@ -1,15 +1,15 @@
 ---
 id: 717
-label: Mission d'un(e) militaire en Asie de l'Est, du Sud-Est, dans le sous-continent
-  indien, en Papouasie-Nouvelle Guinée ou dans l'extrême Nord de l'Australie
+label: Military mission in East Asia, South-East Asia, the Indian subcontinent, Papua
+  New Guinea or the far north of Australia
 type: boolean
 tags:
 - Profession
-- Militaire
-- Après l'incorporation
-- Mission OM-OPEX-Embarquement
-- Hors Europe
-- Asie et Océanie
+- military
+- After enlistment
+- OM-OPEX-Embarkation Mission
+- Outside Europe
+- Asia and Oceania
 codes:
 - nomenclature: SYADEM
   code: 5b70bcac-6091-4b1d-b1e2-98119670a28e

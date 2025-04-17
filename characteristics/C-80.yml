@@ -1,14 +1,14 @@
 ---
 id: 80
-label: Exerce en milieu libéral, en dehors d'un établissement ou organisme de prévention
-  ou de soins
+label: Works in a private practice setting, outside of a prevention or care facility
+  or organization
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Mode d'exercice professionnel
-- En milieu libéral
+- Related to health or the medico-social field
+- Active professional
+- Mode of professional practice
+- In private practice
 codes:
 - nomenclature: SYADEM
   code: fef8aa6a-1697-4485-916c-c2b10bb58160

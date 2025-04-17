@@ -1,9 +1,9 @@
 ---
 id: 1028
-label: Projet de voyage dans une région à risque d’encéphalite à tiques
+label: Travel plan to a region at risk of tick-borne encephalitis
 type: boolean
 tags:
-- VOYAGE
+- TRAVEL
 codes:
 - nomenclature: SYADEM
   code: 7256532a-0d25-4403-a8dd-8a0d5a6f39e2

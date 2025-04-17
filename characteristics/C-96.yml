@@ -1,10 +1,10 @@
 ---
 id: 96
-label: Travaille dans une blanchisserie
+label: Works in a laundry
 type: boolean
 tags:
 - Profession
-- Restauration - Blanchisserie - Tatouage
+- Catering - Laundry - Tattooing
 codes:
 - nomenclature: SYADEM
   code: 382df12e-0ff0-4100-92de-a99a75d7b69b

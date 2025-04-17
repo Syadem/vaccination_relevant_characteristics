@@ -1,12 +1,12 @@
 ---
 id: 139
-label: Militaire avec mise en condition pour une mission OM-OPEX-Embarquement
+label: Military with conditioning for a mission OM-OPEX-Embarkation
 type: boolean
 tags:
 - Profession
-- Militaire
-- Après l'incorporation
-- Mission OM-OPEX-Embarquement
+- military
+- After enlistment
+- OM-OPEX-Embarkation Mission
 codes:
 - nomenclature: SYADEM
   code: 33aee9ac-dbb1-40f5-bd87-e73bd7b1bc42

@@ -1,11 +1,10 @@
 ---
 id: 1030
-label: Voyage se limitant à Beijing, Shanghai, Hong Kong, Kowloon, Macao ou d'autres
-  grandes villes
+label: Adventurous living conditions
 type: boolean
 tags:
-- VOYAGE
-- Chine
+- TRAVEL
+- China
 codes:
 - nomenclature: SYADEM
   code: de3dd005-4f70-467c-8f2c-5c16447b872f

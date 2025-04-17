@@ -1,11 +1,11 @@
 ---
 id: 966
-label: Date de greffe de cellules souches hématopoïétiques (greffe de moelle)
+label: Date of hematopoietic stem cell transplant (marrow transplant)
 type: date
 tags:
-- Affection chronique
-- Greffe
-- Moelle
+- Chronic condition
+- Transplantation
+- Bone marrow
 codes:
 - nomenclature: SYADEM
   code: c89f2d94-0cdd-4bf2-bfa4-32a1417f7b26

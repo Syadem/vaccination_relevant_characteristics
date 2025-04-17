@@ -1,10 +1,10 @@
 ---
 id: 835
-label: En attente d'instauration d'un traitement ayant une influence sur l'immunité
+label: Pending initiation of therapy that affects immunity
 type: boolean
 tags:
-- Traitements
-- En attente d'instauration d'un traitement ayant une influence sur l'immunité
+- Treatments
+- Waiting for treatment to be initiated that affects immunity
 codes:
 - nomenclature: SYADEM
   code: 1f687a2e-128e-4227-8cd0-38aad15c5dc7

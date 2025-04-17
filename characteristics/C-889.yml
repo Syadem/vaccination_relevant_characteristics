@@ -1,12 +1,12 @@
 ---
 id: 889
-label: 'SASH3 : forme exceptionnelle qui associe parfois une neutropénie à un déficit
-  lymphocytaire'
+label: 'SASH3: exceptional form which sometimes associates neutropenia with a lymphocyte
+  deficit'
 type: boolean
 tags:
-- Affection chronique
-- Maladie rare
-- MARIH
+- Chronic condition
+- Rare disease
+- Immuno-hematology
 codes:
 - nomenclature: SYADEM
   code: 14a734d6-43dd-4c2f-9479-706687b3bbc4

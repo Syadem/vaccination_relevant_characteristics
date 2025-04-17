@@ -3,8 +3,8 @@ id: 1135
 label: Jharkhand
 type: boolean
 tags:
-- VOYAGE
-- Etats de l'Inde
+- TRAVEL
+- States of India
 codes:
 - nomenclature: SYADEM
   code: 4b00a61e-254c-49c8-9f1e-e49592bd1e45

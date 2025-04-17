@@ -1,10 +1,10 @@
 ---
 id: 928
-label: Traitement par anticorps monoclonaux anti-SARS-CoV-2
+label: Treatment with anti-SARS-CoV-2 monoclonal antibodies
 type: boolean
 tags:
-- Traitements
-- Traitement(s) ayant une influence sur l'immunité
+- Treatments
+- Treatments affecting immunity
 codes:
 - nomenclature: SYADEM
   code: d8dea8e6-8625-42d6-9414-9856f02db2e2

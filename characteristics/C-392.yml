@@ -1,10 +1,10 @@
 ---
 id: 392
-label: Entourage proche d'une personne atteinte d'hépatite A
+label: Close contacts of a person with hepatitis A
 type: boolean
 tags:
-- Situation d'urgence
-- Contact avec un cas d'hépatite A
+- Emergency situation
+- Contact with a case of hepatitis A
 codes:
 - nomenclature: SYADEM
   code: bb659388-bbbd-48e9-968d-768f3dea8f34

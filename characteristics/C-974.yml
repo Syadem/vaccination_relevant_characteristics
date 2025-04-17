@@ -1,12 +1,12 @@
 ---
 id: 974
-label: Chiropracteur
+label: Chiropractor
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel métier ?
+- Related to health or the medico-social field
+- Active professional
+- What profession?
 codes:
 - nomenclature: SYADEM
   code: 4675ee4a-33fe-427d-96ad-7e9fe0be87f1

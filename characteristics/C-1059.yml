@@ -1,10 +1,10 @@
 ---
 id: 1059
-label: Bilan biologique ciblé sur l’ostéoporose normal
+label: Biological tests targeted at normal osteoporosis
 type: boolean
 tags:
-- Examens biologiques
-- Bilan biologique d'ostéoporose
+- Laboratory tests
+- Biological assessment of osteoporosis
 codes:
 - nomenclature: SYADEM
   code: e044d0c9-2f84-484f-abc9-088cfd66a93a

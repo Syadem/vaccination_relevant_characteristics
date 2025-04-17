@@ -1,13 +1,13 @@
 ---
 id: 491
-label: Contact direct en zone d'enzootie rabique avec un petit rongeur (rat, écureuil
-  exclus) ou un lagomorphe.
+label: Direct contact in a rabies enzootic area with a small rodent (excluding rats
+  and squirrels) or a lagomorph.
 type: boolean
 tags:
-- Situation d'urgence
-- Suspicion d'exposition a la rage
-- Contact direct avec un mammifére dans un pays d'enzootie rabique
-- Type d'animal
+- Emergency situation
+- Suspected exposure to rabies
+- Direct contact with a mammal in a country where rabies is endemic
+- Type of animal
 codes:
 - nomenclature: SYADEM
   code: 55651ca8-c059-4ff4-8e41-abfa87d3f5ce

@@ -1,10 +1,10 @@
 ---
 id: 1049
-label: Autre fracture (poignet, métacarpe, métatarse...)
+label: Other fracture (wrist, metacarpal, metatarsal, etc.)
 type: boolean
 tags:
-- Antécédents
-- Traumatologie
+- Medical history
+- Traumatology
 codes:
 - nomenclature: SYADEM
   code: 76071686-5f94-4a4b-b62f-8ee05fd9de5b

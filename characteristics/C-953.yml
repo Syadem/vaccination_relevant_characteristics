@@ -1,11 +1,11 @@
 ---
 id: 953
-label: Coronaropathie instable
+label: Unstable coronary artery disease
 type: boolean
 tags:
-- Affection chronique
-- Cardio - Pneumo
-- Cardiologie
+- Chronic condition
+- Cardiology-Pulmonology
+- Cardiology
 codes:
 - nomenclature: SYADEM
   code: c6ea2501-14ed-44d4-821b-cee6b0dd4adc

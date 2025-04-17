@@ -1,15 +1,14 @@
 ---
 id: 709
-label: Mission d'un(e) militaire en Bulgarie, Danemark (sauf si Ile de Bornholm) et
-  Norvège
+label: Military mission in Bulgaria, Denmark (except if Bornholm Island) and Norway
 type: boolean
 tags:
 - Profession
-- Militaire
-- Après l'incorporation
-- Mission OM-OPEX-Embarquement
+- military
+- After enlistment
+- OM-OPEX-Embarkation Mission
 - Europe
-- Pays avec cas sporadiques d'encéphalite à tiques ou données peu documentées
+- Countries with sporadic cases of tick-borne encephalitis or poorly documented data
 codes:
 - nomenclature: SYADEM
   code: a4284267-848b-4e28-9243-f552efd85099

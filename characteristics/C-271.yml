@@ -1,7 +1,7 @@
 ---
 id: 271
-label: Nourrisson de moins de 6 mois, prématuré ou souffrant d'une maladie chronique
-  vivant dans l'entourage de cette personne
+label: Infant under 6 months of age, premature or chronically ill living in the person's
+  environment
 type: boolean
 tags:
 - Entourage

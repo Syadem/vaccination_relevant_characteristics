@@ -1,13 +1,13 @@
 ---
 id: 710
-label: Mission d'un(e) militaire en France OM (DROM, COM, POM)
+label: Military mission in France OM (DROM, COM, POM)
 type: boolean
 tags:
 - Profession
-- Militaire
-- Après l'incorporation
-- Mission OM-OPEX-Embarquement
-- France OM sauf Guyane
+- military
+- After enlistment
+- OM-OPEX-Embarkation Mission
+- France OM except French Guyana
 codes:
 - nomenclature: SYADEM
   code: ad4326bc-dc15-4dbe-805a-fb6bda81e6f7

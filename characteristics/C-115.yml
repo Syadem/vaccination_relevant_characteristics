@@ -1,7 +1,7 @@
 ---
 id: 115
-label: Membre de la famille originaire d'un pays de haute endémicité pour l'hépatite
-  A et séjour possible dans ce pays
+label: Family member from a country with high endemicity for hepatitis A and possible
+  stay in that country
 type: boolean
 tags:
 - Entourage

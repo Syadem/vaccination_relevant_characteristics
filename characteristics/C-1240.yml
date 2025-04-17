@@ -1,0 +1,10 @@
+---
+id: 1240
+label: Haemoglobinopathies
+type: boolean
+tags:
+- Chronic condition
+- Hematology - Hemostasis
+codes:
+- nomenclature: SYADEM
+  code: 22bbbe17-a2a6-4059-b112-1c6ce81ff3d4

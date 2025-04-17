@@ -1,10 +1,10 @@
 ---
 id: 597
-label: Fréquentation de lieux de convivialité ou de rencontre gays
+label: Attendance at gay-friendly or gay-friendly venues
 type: boolean
 tags:
-- Conditions de vie ou de résidence
-- Facteurs de risque concernant la sexualité
+- Living or housing conditions
+- Risk factors concerning sexuality
 codes:
 - nomenclature: SYADEM
   code: c9867b12-a929-4910-adb7-b71a3abede8b

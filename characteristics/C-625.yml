@@ -1,9 +1,9 @@
 ---
 id: 625
-label: Refus de vaccination contre la rage
+label: Refusal of rabies vaccination
 type: boolean
 tags:
-- Vaccinations non souhaitées
+- Vaccinations not desired
 codes:
 - nomenclature: SYADEM
   code: ff30994b-cb4f-4311-b754-1f20a4580f5a

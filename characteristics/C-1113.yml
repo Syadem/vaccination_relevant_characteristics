@@ -1,11 +1,12 @@
 ---
 id: 1113
-label: Étudiants dans le domaine de la santé
+label: Students of medical schools and universities providing education in medical
+  fields
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Etudiant ou en cours de formation
+- Related to health or the medico-social field
+- Student or in training
 codes:
 - nomenclature: SYADEM
   code: 14a76a39-1fa5-48ed-a220-9aff55ac5923

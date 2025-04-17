@@ -1,10 +1,10 @@
 ---
 id: 51
-label: Adulte susceptible de devenir parent dans les mois ou années à venir
+label: Adult likely to become a parent in the coming months or years
 type: boolean
 tags:
-- Informations générales
-- Parentalité
+- General information
+- Parenthood
 codes:
 - nomenclature: SYADEM
   code: a628789c-ca86-4190-870c-23f20478c19d

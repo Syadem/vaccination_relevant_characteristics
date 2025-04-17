@@ -1,12 +1,12 @@
 ---
 id: 890
-label: Complication immunitaire sous la forme d’anticorps dirigés contre leur principe
-  thérapeutique habituellement utilisé
+label: Immune complication in the form of antibodies directed against their usual
+  therapeutic principle
 type: boolean
 tags:
-- Affection chronique
-- Maladie rare
-- MHémo
+- Chronic condition
+- Rare disease
+- Haemorrhage
 codes:
 - nomenclature: SYADEM
   code: 63132acc-91e6-4b60-a2b4-617e3aac0021

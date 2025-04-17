@@ -1,11 +1,11 @@
 ---
 id: 1106
-label: Séjour dans un établissements offrant des soins 24 heures sur 24 aux personnes
-  handicapées, aux malades chroniques ou aux personnes âgées
+label: Facilities providing round-the-clock care to the disabled people, chronically
+  ill or the elderly
 type: boolean
 tags:
-- Conditions de vie ou de résidence
-- Vie en collectivité, résidence, institution...
+- Living or housing conditions
+- Community living, residence, institution...
 codes:
 - nomenclature: SYADEM
   code: 72ab512a-60dc-48cb-be5a-f995454c4498

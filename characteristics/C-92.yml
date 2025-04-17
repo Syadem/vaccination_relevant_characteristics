@@ -1,10 +1,10 @@
 ---
 id: 92
-label: Sapeur pompier
+label: Fireman
 type: boolean
 tags:
 - Profession
-- Police, secours
+- Police, emergency services
 codes:
 - nomenclature: SYADEM
   code: 7acbf898-1ffb-45e7-9051-c38aed180138

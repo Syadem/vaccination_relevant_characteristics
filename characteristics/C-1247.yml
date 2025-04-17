@@ -1,0 +1,10 @@
+---
+id: 1247
+label: Resides in a family foster home
+type: boolean
+tags:
+- Living or housing conditions
+- Community living, residence, institution...
+codes:
+- nomenclature: SYADEM
+  code: e1d6c642-7e39-4a48-a296-757bae24f28c

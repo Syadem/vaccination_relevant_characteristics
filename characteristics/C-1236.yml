@@ -1,9 +1,9 @@
 ---
 id: 1236
-label: Réside ou étudie dans la métropole de Rennes
+label: Resides or studies in the Rennes metropolitan area
 type: boolean
 tags:
-- Conditions de vie ou de résidence
+- Living or housing conditions
 codes:
 - nomenclature: SYADEM
   code: 75e93928-886a-4cbb-8b9e-daf717aeb492

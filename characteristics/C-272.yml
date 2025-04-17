@@ -1,12 +1,12 @@
 ---
 id: 272
-label: Travaille dans un service accueillant des sujets immunodéprimés
+label: Works in an immunocompromised ward
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Dans quel service ?
+- Related to health or the medico-social field
+- Active professional
+- In which department?
 codes:
 - nomenclature: SYADEM
   code: 30d05505-04e1-46f1-a8ae-75a93fa08732

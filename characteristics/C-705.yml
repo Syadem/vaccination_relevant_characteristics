@@ -1,15 +1,15 @@
 ---
 id: 705
-label: Mission d'un(e) militaire en Afrique centrale ou de l'ouest (Burkina Faso,
-  Côte d'Ivoire, Mali, Mauritanie, Niger, RCA, Sénégal, Tchad...)
+label: Military mission in Central or West Africa (Burkina Faso, Ivory Coast, Mali,
+  Mauritania, Niger, CAR, Senegal, Chad...)
 type: boolean
 tags:
 - Profession
-- Militaire
-- Après l'incorporation
-- Mission OM-OPEX-Embarquement
-- Hors Europe
-- Zone endémique pour la fièvre jaune
+- military
+- After enlistment
+- OM-OPEX-Embarkation Mission
+- Outside Europe
+- Endemic area for yellow fever
 codes:
 - nomenclature: SYADEM
   code: ec737aec-e21e-430e-a43d-02184dc73fbc

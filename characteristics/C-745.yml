@@ -1,11 +1,11 @@
 ---
 id: 745
-label: Contact récent avec un cas de covid 19
+label: Recent contact with a case of covid 19
 type: boolean
 tags:
-- Antécédents
-- Maladies infectieuses
-- Covid 19
+- Medical history
+- Infectious diseases
+- COVID-19
 codes:
 - nomenclature: SYADEM
   code: 608fa4e5-9b47-418f-a6f3-efb9d37cf6c5

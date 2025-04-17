@@ -1,10 +1,10 @@
 ---
 id: 535
-label: Séjour dans une unité de soins de suite et de réadaptation
+label: Stay in a follow-up care and rehabilitation unit
 type: boolean
 tags:
-- Conditions de vie ou de résidence
-- Vie en collectivité, résidence, institution...
+- Living or housing conditions
+- Community living, residence, institution...
 codes:
 - nomenclature: SYADEM
   code: 66d92709-7e4e-47f1-a448-bf2efca64f4c

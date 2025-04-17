@@ -1,11 +1,11 @@
 ---
 id: 602
-label: ADN VHB inconnu
+label: HBV DNA unknown
 type: boolean
 tags:
-- Examens biologiques
-- Hépatite B
-- ADN VHB
+- Laboratory tests
+- Hepatitis B
+- HBV DNA
 codes:
 - nomenclature: SYADEM
   code: 262b91d7-1ee0-4399-8731-c94518c855e3

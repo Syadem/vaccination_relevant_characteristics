@@ -1,10 +1,10 @@
 ---
 id: 1098
-label: Autres maladies mentales
+label: Other mental illnesses
 type: boolean
 tags:
-- Affection chronique
-- Système nerveux et musculaire
+- Chronic condition
+- Nervous and muscular system
 codes:
 - nomenclature: SYADEM
   code: adaece73-90a9-4592-ae74-a45a55f6b0ee

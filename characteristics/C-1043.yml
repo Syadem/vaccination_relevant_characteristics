@@ -1,10 +1,10 @@
 ---
 id: 1043
-label: Agoniste de la LH-RH
+label: LH-RH agonist
 type: boolean
 tags:
-- Antécédents
-- Facteurs de risque d’ostéoporose
+- Medical history
+- Risk factors for osteoporosis
 codes:
 - nomenclature: SYADEM
   code: f3a246dd-9c23-4117-a97d-9985858cfdf1

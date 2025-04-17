@@ -1,10 +1,10 @@
 ---
 id: 1012
-label: Contre-indication à la vaccination contre la diphtérie, le tétanos et la poliomyélite
+label: Contraindication to vaccination against diphtheria, tetanus and poliomyelitis
   (DTP)
 type: boolean
 tags:
-- Contre-indications
+- Contra-indications
 codes:
 - nomenclature: SYADEM
   code: ee76150e-faae-4b6a-b08b-9e859e28042d

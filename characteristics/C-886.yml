@@ -1,12 +1,11 @@
 ---
 id: 886
-label: Pancréatite auto-immune (sous immunosuppresseur ou non) de type 1 (maladie
-  à IgG4)
+label: Autoimmune pancreatitis (with or without immunosuppressant) type 1 (IgG4 disease)
 type: boolean
 tags:
-- Affection chronique
-- Maladie rare
-- FIMATHO
+- Chronic condition
+- Rare disease
+- Rare abdomino-thoracic diseases
 codes:
 - nomenclature: SYADEM
   code: feda5afd-770f-4a9a-a7dd-093e4883e286

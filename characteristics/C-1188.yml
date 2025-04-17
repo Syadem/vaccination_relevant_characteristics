@@ -1,11 +1,11 @@
 ---
 id: 1188
-label: Charpentier naval
+label: Carpenter
 type: boolean
 tags:
 - Profession
-- Personnels travaillant sur un bateau de croisière
-- Pont
+- Staff working on a cruise ship
+- Deck
 codes:
 - nomenclature: SYADEM
   code: f4892569-bb6d-41e1-862a-584304d89448

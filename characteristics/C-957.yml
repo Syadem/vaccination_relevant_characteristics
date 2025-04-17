@@ -1,10 +1,10 @@
 ---
 id: 957
-label: Déficit neuro-cognitif majeur
+label: Major neuro-cognitive deficit
 type: boolean
 tags:
-- Affection chronique
-- Système nerveux et musculaire
+- Chronic condition
+- Nervous and muscular system
 codes:
 - nomenclature: SYADEM
   code: 330dfef5-4742-454e-9261-f46f633eb525

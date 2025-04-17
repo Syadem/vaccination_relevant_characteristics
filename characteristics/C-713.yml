@@ -1,15 +1,15 @@
 ---
 id: 713
-label: 'Mission pendant la période à risque pour l''encéphalite à tiques : du 21 mars
-  (printemps) au 30 novembre'
+label: 'Mission during the risk period for tick-borne encephalitis: March 21 (spring)
+  to November 30'
 type: boolean
 tags:
 - Profession
-- Militaire
-- Après l'incorporation
-- Mission OM-OPEX-Embarquement
+- military
+- After enlistment
+- OM-OPEX-Embarkation Mission
 - Europe
-- Période de la mission
+- Mission period
 codes:
 - nomenclature: SYADEM
   code: 18b23bb5-28c3-421f-8af8-15b3c6383bbc

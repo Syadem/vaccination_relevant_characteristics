@@ -1,12 +1,12 @@
 ---
 id: 588
-label: Militaire à l'incorporation avec départ en mission OM-OPEX-Embarquement possible
-  entre 1 et 5 mois de service
+label: Military at incorporation with departure on OM-OPEX mission - Possible embarkation
+  between 1 and 5 months of service
 type: boolean
 tags:
 - Profession
-- Militaire
-- A l'incorporation
+- military
+- At the incorporation
 codes:
 - nomenclature: SYADEM
   code: 9b821328-5fea-4661-bdc2-9393619eb648

@@ -1,10 +1,9 @@
 ---
 id: 869
-label: Consentement à se faire vacciner contre la covid 19 recueilli par le professionnel
-  de santé
+label: Consent to be vaccinated against covid 19 collected by the health professional
 type: boolean
 tags:
-- Consentement vaccination Covid 19
+- Vaccination consent
 codes:
 - nomenclature: SYADEM
   code: c7adc54a-f7d5-4836-a990-7677f504ab81

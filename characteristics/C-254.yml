@@ -1,12 +1,12 @@
 ---
 id: 254
-label: Travaille dans un établissement de soins dentaires
+label: Works in a dental care facility
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel lieu d'exercice ?
+- Related to health or the medico-social field
+- Active professional
+- What place of practice?
 codes:
 - nomenclature: SYADEM
   code: 7d0a6294-30b5-4ad5-8593-5d6aae75adc9

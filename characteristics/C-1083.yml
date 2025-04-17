@@ -1,10 +1,10 @@
 ---
 id: 1083
-label: Antécédent de Zona
+label: History of shingles
 type: boolean
 tags:
-- Antécédents
-- Maladies infectieuses
+- Medical history
+- Infectious diseases
 codes:
 - nomenclature: SYADEM
   code: 36e9964d-66ee-4bff-9c27-b47cc2ffdd34

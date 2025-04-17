@@ -1,11 +1,11 @@
 ---
 id: 888
-label: Défaut de production ou de réponse à l'interferon alpha
+label: Defect in production or response to interferon alpha
 type: boolean
 tags:
-- Affection chronique
-- Maladie rare
-- MARIH
+- Chronic condition
+- Rare disease
+- Immuno-hematology
 codes:
 - nomenclature: SYADEM
   code: 9acaab3e-41b3-4b3b-9ca8-a2531228d2c3

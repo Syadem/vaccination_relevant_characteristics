@@ -1,9 +1,9 @@
 ---
 id: 622
-label: Refus de vaccination contre la grippe
+label: Refusal of flu vaccination
 type: boolean
 tags:
-- Vaccinations non souhaitées
+- Vaccinations not desired
 codes:
 - nomenclature: SYADEM
   code: da13b421-7904-4852-b3e7-79ba9c9989a6

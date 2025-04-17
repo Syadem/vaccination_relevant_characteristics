@@ -1,12 +1,12 @@
 ---
 id: 233
-label: Elève animateur(trice) socio-éducatif
+label: Student socio-educational animator
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Etudiant ou en cours de formation
-- Profession à caractère social
+- Related to health or the medico-social field
+- Student or in training
+- Social care profession
 codes:
 - nomenclature: SYADEM
   code: 58798f47-cc59-44c0-b4c5-87cce0f9f056

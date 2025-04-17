@@ -1,12 +1,12 @@
 ---
 id: 977
-label: Elève psychologue
+label: Student psychologist
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Etudiant ou en cours de formation
-- Autres professions
+- Related to health or the medico-social field
+- Student or in training
+- Other professions
 codes:
 - nomenclature: SYADEM
   code: 8e0a058a-5060-4cd6-a278-1313d5f60ff2

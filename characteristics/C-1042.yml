@@ -1,10 +1,10 @@
 ---
 id: 1042
-label: Femme ménaupausée
+label: Menopausal woman
 type: boolean
 tags:
-- Antécédents
-- Facteurs de risque d’ostéoporose
+- Medical history
+- Risk factors for osteoporosis
 codes:
 - nomenclature: SYADEM
   code: 7f0a8685-e0e0-4058-9daa-8dbaaa3b561f

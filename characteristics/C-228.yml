@@ -1,12 +1,12 @@
 ---
 id: 228
-label: Elève pédicure-podologue
+label: Pedicure-podologue student
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Etudiant ou en cours de formation
-- Profession paramédicale
+- Related to health or the medico-social field
+- Student or in training
+- Paramedical profession
 codes:
 - nomenclature: SYADEM
   code: a4979ab7-d8d4-456d-9799-bd944c9502eb

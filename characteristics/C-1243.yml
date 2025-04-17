@@ -1,0 +1,10 @@
+---
+id: 1243
+label: Other cancer involving the bone marrow or lymphatic system
+type: boolean
+tags:
+- Chronic condition
+- Cancer
+codes:
+- nomenclature: SYADEM
+  code: b4927b44-2798-406a-a3e4-d870d20a8c78

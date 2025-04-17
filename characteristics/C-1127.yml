@@ -3,8 +3,8 @@ id: 1127
 label: Arunachal Pradesh
 type: boolean
 tags:
-- VOYAGE
-- Etats de l'Inde
+- TRAVEL
+- States of India
 codes:
 - nomenclature: SYADEM
   code: 1e5acbbe-3353-4bd3-b034-b35b29054c6c

@@ -1,10 +1,10 @@
 ---
 id: 879
-label: Cavernome cérébral héréditaire
+label: Hereditary cerebral cavernoma
 type: boolean
 tags:
-- Affection chronique
-- Maladie rare
+- Chronic condition
+- Rare disease
 - BRAIN-TEAM
 codes:
 - nomenclature: SYADEM

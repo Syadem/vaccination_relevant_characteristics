@@ -1,12 +1,12 @@
 ---
 id: 71
-label: Aide-soignant(e)
+label: Caregiver
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel métier ?
+- Related to health or the medico-social field
+- Active professional
+- What profession?
 codes:
 - nomenclature: SYADEM
   code: e0f293c2-9687-4a77-a5de-00ed8efec644

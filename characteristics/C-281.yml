@@ -1,12 +1,12 @@
 ---
 id: 281
-label: Bronchopneumopathie chronique obstructive (BPCO)
+label: Chronic obstructive pulmonary disease (COPD)
 type: boolean
 tags:
-- Affection chronique
-- Cardio - Pneumo
-- Pneumologie
-- Autres
+- Chronic condition
+- Cardiology-Pulmonology
+- Pulmonology
+- Others
 codes:
 - nomenclature: SYADEM
   code: b38cb265-8f67-494a-9678-2dc7130d7b1f

@@ -1,13 +1,13 @@
 ---
 id: 679
-label: Travaille dans un laboratoire médical ou de recherche manipulant du matériel
-  contaminé ou suceptible de l'être par le virus rabique
+label: Works in a medical or research laboratory handling material contaminated or
+  likely to be contaminated with rabies virus
 type: boolean
 tags:
 - Profession
-- En rapport avec la santé ou le médico-social
-- Professionnel en activité
-- Quel lieu d'exercice ?
+- Related to health or the medico-social field
+- Active professional
+- What place of practice?
 codes:
 - nomenclature: SYADEM
   code: f9f83b34-adf9-4cdf-a2b8-d2184f2f027d

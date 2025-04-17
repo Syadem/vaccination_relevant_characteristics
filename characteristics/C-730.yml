@@ -1,16 +1,16 @@
 ---
 id: 730
-label: 'Mission d''un(e) militaire dans un pays d''Europe autre que : Allemagne, Autriche,
-  Bulgarie, Croatie, Danemark, Estonie, Hongrie, Lettonie, Lituanie, Pologne, Tchéquie,
-  Slovaquie, Slovénie, Suède ou Finlande'
+label: 'Military mission in a European country other than: Austria, Bulgaria, Croatia,
+  Czech Republic, Denmark, Estonia, Germany, Hungary, Latvia, Lithuania, Poland, Slovakia,
+  Slovenia, Sweden or Finland'
 type: boolean
 tags:
 - Profession
-- Militaire
-- Après l'incorporation
-- Mission OM-OPEX-Embarquement
+- military
+- After enlistment
+- OM-OPEX-Embarkation Mission
 - Europe
-- Pays avec cas sporadiques d'encéphalite à tiques ou données peu documentées
+- Countries with sporadic cases of tick-borne encephalitis or poorly documented data
 codes:
 - nomenclature: SYADEM
   code: d285274d-38a2-4b65-ab25-3c7bf849ba3c

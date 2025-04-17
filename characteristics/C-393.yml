@@ -1,11 +1,11 @@
 ---
 id: 393
-label: Partage des conditions d'hygiène précaire avec un patient atteint d'hépatite
-  A confirmée
+label: Sharing precarious hygiene conditions with a patient with confirmed hepatitis
+  A
 type: boolean
 tags:
-- Situation d'urgence
-- Contact avec un cas d'hépatite A
+- Emergency situation
+- Contact with a case of hepatitis A
 codes:
 - nomenclature: SYADEM
   code: f70edb02-5125-4851-b25b-4771330251a4

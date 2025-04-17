@@ -1,10 +1,10 @@
 ---
 id: 305
-label: Diabète équilibré par un simple régime
+label: Diabetes controlled by diet
 type: boolean
 tags:
-- Affection chronique
-- Diabète
+- Chronic condition
+- Diabetes
 codes:
 - nomenclature: SYADEM
   code: 74a61dc8-f817-42bb-8604-87da0711d03e

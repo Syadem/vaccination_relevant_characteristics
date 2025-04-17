@@ -1,11 +1,11 @@
 ---
 id: 50
-label: Insuffisance cardiaque modérée
+label: Moderate heart failure
 type: boolean
 tags:
-- Affection chronique
-- Cardio - Pneumo
-- Cardiologie
+- Chronic condition
+- Cardiology-Pulmonology
+- Cardiology
 codes:
 - nomenclature: SYADEM
   code: 69411529-7537-4d33-be3c-45462b6cf832

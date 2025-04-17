@@ -1,11 +1,10 @@
 ---
 id: 1069
-label: Exposition en milieu extérieur (course à pied, camping, randonnée, travail
-  à l'extérieur)
+label: Outdoor exposure (running, camping, hiking, working outdoors)
 type: boolean
 tags:
-- VOYAGE
-- Précisions concernant le voyage
+- TRAVEL
+- Travel details
 codes:
 - nomenclature: SYADEM
   code: b102b40f-a8c3-42ca-bc9e-ef4149d05e6c

@@ -1,10 +1,10 @@
 ---
 id: 579
-label: Biothérapie entrainant une immunodépression
+label: Biotherapy leading to immunosuppression
 type: boolean
 tags:
-- Traitements
-- Traitement(s) ayant une influence sur l'immunité
+- Treatments
+- Treatments affecting immunity
 codes:
 - nomenclature: SYADEM
   code: 73a0f806-48ac-47df-9a56-8c8db9eeb947

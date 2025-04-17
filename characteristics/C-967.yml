@@ -1,10 +1,10 @@
 ---
 id: 967
-label: Historique vaccinal Diphtérie-Tétanos-Poliomyélite (DTP) inconnu ou incomplet
+label: Diphtheria-Tetanus-Polio (DTPolio) vaccination history unknown or incomplete
 type: boolean
 tags:
-- Divers
-- Carnet perdu
+- Miscellaneous
+- Lost vaccination card
 codes:
 - nomenclature: SYADEM
   code: 32b05796-5460-497d-85c9-4a109711421d

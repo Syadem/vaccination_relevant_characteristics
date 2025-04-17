@@ -1,10 +1,10 @@
 ---
 id: 576
-label: Ac anti-HBc positif
+label: anti-HBc positive
 type: boolean
 tags:
-- Examens biologiques
-- Hépatite B
+- Laboratory tests
+- Hepatitis B
 - Anti-HBc
 codes:
 - nomenclature: SYADEM

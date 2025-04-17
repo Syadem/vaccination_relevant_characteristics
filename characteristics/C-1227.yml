@@ -1,10 +1,10 @@
 ---
 id: 1227
-label: Membre d’équipage
+label: Ship Crew
 type: boolean
 tags:
 - Profession
-- Personnels travaillant sur un bateau de croisière
+- Staff working on a cruise ship
 codes:
 - nomenclature: SYADEM
   code: 191c4765-f7f3-4d7c-9e8e-56e0556a186a
