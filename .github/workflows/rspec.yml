@@ -11,8 +11,10 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 3.4.1
-          # runs 'bundle install' and caches installed gems automatically
-          bundler-cache: true
+      - name: Install gems (without development)
+        run: |
+          bundle config set --local without development
+          bundle install --jobs 4
       - name: Run tests
         run: |
           bundle exec rspec

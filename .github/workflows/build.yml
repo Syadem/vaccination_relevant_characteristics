@@ -25,7 +25,8 @@ jobs:
           ruby-version: 3.4.1
       - name: Build
         run: |
-          bundle install
+          bundle config set --local without development
+          bundle install --jobs 4
           mkdir -p ./build
           bundle exec ruby build.rb -s dictionary -f html > build/index.html
           bundle exec ruby build.rb -s dictionary -f json > build/characteristics.json
