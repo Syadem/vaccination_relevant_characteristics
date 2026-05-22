@@ -1,7 +1,6 @@
 ---
 id: 122
-label: Person infected with the hepatitis B virus or chronic carrier of the HBs antigen
-  in the entourage
+label: Person infected with the hepatitis B virus or chronic carrier of the HBs antigen in the entourage
 type: boolean
 tags:
 - Entourage

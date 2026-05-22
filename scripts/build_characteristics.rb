@@ -1,4 +1,7 @@
+require "bundler/setup"
 require "yaml"
+require "fileutils"
+require "medcon"
 
 BASE_PATH = "characteristics".freeze
 

@@ -1,0 +1,10 @@
+---
+id: 1284
+label: Date of last hepatitis C serology
+type: boolean
+tags:
+- Laboratory tests
+- Hepatitis C
+codes:
+- nomenclature: SYADEM
+  code: 51b0f070-e58f-440c-8300-269233f1a867

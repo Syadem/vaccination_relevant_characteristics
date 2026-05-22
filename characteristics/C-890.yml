@@ -1,7 +1,6 @@
 ---
 id: 890
-label: Immune complication in the form of antibodies directed against their usual
-  therapeutic principle
+label: Immune complication in the form of antibodies directed against their usual therapeutic principle
 type: boolean
 tags:
 - Chronic condition

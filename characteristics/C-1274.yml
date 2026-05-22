@@ -1,0 +1,10 @@
+---
+id: 1274
+label: Valproic acid treatment
+type: boolean
+tags:
+- Treatments
+- Other treatments
+codes:
+- nomenclature: SYADEM
+  code: '089d8ba8-fbe0-4c71-834f-2cf4b47a02c4'

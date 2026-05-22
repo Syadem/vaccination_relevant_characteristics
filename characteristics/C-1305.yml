@@ -1,0 +1,11 @@
+---
+id: 1305
+label: Mycophenolate mofetil
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Antimetabolites
+codes:
+- nomenclature: SYADEM
+  code: be326920-528c-4f1d-bfcf-e7eda556c16c

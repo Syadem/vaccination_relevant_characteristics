@@ -1,0 +1,10 @@
+---
+id: 1273
+label: Severe liver failure
+type: boolean
+tags:
+- Chronic condition
+- Liver
+codes:
+- nomenclature: SYADEM
+  code: 7f76fe5a-1229-45fb-8e49-7e8bcd673784

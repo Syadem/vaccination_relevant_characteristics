@@ -1,0 +1,11 @@
+---
+id: 1306
+label: Melphalan
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Alkylating agents
+codes:
+- nomenclature: SYADEM
+  code: ab2689e2-ad8b-4f62-9448-429321833c57

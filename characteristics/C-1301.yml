@@ -1,0 +1,11 @@
+---
+id: 1301
+label: Prednisone or equivalent
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Corticosteroids
+codes:
+- nomenclature: SYADEM
+  code: e2a10e9a-395b-4979-917f-c7dd24123fd4

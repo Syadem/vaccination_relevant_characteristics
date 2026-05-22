@@ -1,10 +1,9 @@
 ---
 id: 1228
-label: Passenger
+label: Non-vulnerable passenger
 type: boolean
 tags:
-- Profession
-- Staff working on a cruise ship
+- TRAVEL
 codes:
 - nomenclature: SYADEM
   code: 01c41b9e-a72d-4e3f-912b-b5a4f4f75e45

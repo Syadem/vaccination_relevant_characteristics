@@ -1,0 +1,9 @@
+---
+id: 1269
+label: Exchange transfusion
+type: boolean
+tags:
+- Treatments
+codes:
+- nomenclature: SYADEM
+  code: cd87b2d2-ffe2-4353-8273-cd2e26b52658

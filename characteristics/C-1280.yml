@@ -1,0 +1,10 @@
+---
+id: 1280
+label: Cervical adenocarcinoma in situ
+type: boolean
+tags:
+- Chronic condition
+- Cancer
+codes:
+- nomenclature: SYADEM
+  code: 38aa0597-760c-4dba-a0bc-ae360f9c990d

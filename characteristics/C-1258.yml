@@ -1,0 +1,10 @@
+---
+id: 1258
+label: " History of immunosuppressive treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+codes:
+- nomenclature: SYADEM
+  code: 1027b189-4d1b-4b7f-aae9-733aa05b52ae

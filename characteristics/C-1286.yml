@@ -1,0 +1,10 @@
+---
+id: 1286
+label: Anti-HCV antibodies negative
+type: boolean
+tags:
+- Laboratory tests
+- Hepatitis C
+codes:
+- nomenclature: SYADEM
+  code: dc232cc1-0403-4ba6-b67a-801a450b2377

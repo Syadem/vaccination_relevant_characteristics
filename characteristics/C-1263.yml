@@ -1,0 +1,10 @@
+---
+id: 1263
+label: Housed in barracks
+type: boolean
+tags:
+- Living or housing conditions
+- Community living, residence, institution...
+codes:
+- nomenclature: SYADEM
+  code: b81dc8d9-5a16-4df5-ac15-c9b1b119a36f

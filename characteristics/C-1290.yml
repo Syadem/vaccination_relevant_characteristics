@@ -1,0 +1,12 @@
+---
+id: 1290
+label: Contact with a domestic animal living in an endemic area
+type: boolean
+tags:
+- Emergency situation
+- Suspected exposure to rabies
+- Domestic animal (dog, cat, ferret)
+- Endemic area
+codes:
+- nomenclature: SYADEM
+  code: a2a5d9c7-e19c-49e3-bca1-825ca56761a1

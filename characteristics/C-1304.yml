@@ -1,0 +1,11 @@
+---
+id: 1304
+label: Azathioprine
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Antimetabolites
+codes:
+- nomenclature: SYADEM
+  code: c6b020ec-3cc3-43c8-b9b9-d4c4e22774a0

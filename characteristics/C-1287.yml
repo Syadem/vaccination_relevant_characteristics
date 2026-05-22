@@ -1,0 +1,10 @@
+---
+id: 1287
+label: Equivocal anti-HCV antibodies
+type: boolean
+tags:
+- Laboratory tests
+- Hepatitis C
+codes:
+- nomenclature: SYADEM
+  code: 7df1dede-42d8-457c-b327-84c5abf01454

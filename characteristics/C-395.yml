@@ -1,7 +1,6 @@
 ---
 id: 395
-label: Previous stay of more than one year in a country with high endemicity for hepatitis
-  A
+label: Previous stay of more than one year in a country with high endemicity for hepatitis A
 type: boolean
 tags:
 - General information

@@ -1,0 +1,11 @@
+---
+id: 1292
+label: Contact with a wild terrestrial mammal living in an endemic area, regardless of the animal's behavior, or living in a non-endemic area, with suspicious signs
+type: boolean
+tags:
+- Emergency situation
+- Suspected exposure to rabies
+- Wild land mammals (fox, raccoon...)
+codes:
+- nomenclature: SYADEM
+  code: dd6eb069-5edd-48be-a426-09282f41a79e

@@ -1,0 +1,10 @@
+---
+id: 1282
+label: Migrant from a country with moderate or high endemicity for hepatitis B
+type: boolean
+tags:
+- Living or housing conditions
+- Others
+codes:
+- nomenclature: SYADEM
+  code: 69915f08-9488-4e01-88c3-bd64c543ebc8

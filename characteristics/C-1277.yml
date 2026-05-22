@@ -1,0 +1,10 @@
+---
+id: 1277
+label: Date of last CD4 test
+type: date
+tags:
+- Laboratory tests
+- HIV
+codes:
+- nomenclature: SYADEM
+  code: 66d11f37-2e9b-4ed6-a05d-533ad8f42d26

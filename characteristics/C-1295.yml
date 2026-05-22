@@ -1,0 +1,11 @@
+---
+id: 1295
+label: Contact with a dead animal, regardless of its origin or vaccination status
+type: boolean
+tags:
+- Emergency situation
+- Suspected exposure to rabies
+- Dead animal
+codes:
+- nomenclature: SYADEM
+  code: df0b7653-e7ce-4a5f-8e51-1afcafc22798

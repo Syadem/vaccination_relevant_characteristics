@@ -1,0 +1,13 @@
+---
+id: 1289
+label: Contact with a domestic animal living in a non-endemic area, with suspicious signs (animal with abnormal, aggressive behavior)
+type: boolean
+tags:
+- Emergency situation
+- Suspected exposure to rabies
+- Domestic animal (dog, cat, ferret)
+- Non-endemic zone
+- With suspicious signs
+codes:
+- nomenclature: SYADEM
+  code: 91e9ae27-161b-4f8a-9599-12188cb7bac4

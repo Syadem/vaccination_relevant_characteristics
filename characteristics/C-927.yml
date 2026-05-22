@@ -1,7 +1,6 @@
 ---
 id: 927
-label: Myocarditis or pericarditis not related to SARS-CoV-2 infection, prior to vaccination
-  and still active
+label: Myocarditis or pericarditis not related to SARS-CoV-2 infection, prior to vaccination and still active
 type: boolean
 tags:
 - Chronic condition

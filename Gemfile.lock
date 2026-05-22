@@ -1,7 +1,17 @@
+GIT
+  remote: https://oauth2:glpat-9ca9Ofh7inuMWguh1SWK-286MQp1OjN0CA.01.0y1don338@gitlab.mesvaccins.net/syadem/medcon.git
+  revision: d87c7e6bf402e57455ccfe74a6051da69a03010d
+  glob: ruby/medcon.gemspec
+  specs:
+    medcon (0.2.1)
+      google-protobuf (~> 3.25, >= 3.25.3)
+
 GEM
   remote: https://rubygems.org/
   specs:
     diff-lcs (1.5.1)
+    google-protobuf (3.25.8)
+    ostruct (0.6.3)
     redcarpet (3.6.0)
     rspec (3.13.0)
       rspec-core (~> 3.13.0)
@@ -23,6 +33,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  medcon!
+  ostruct
   redcarpet
   rspec (~> 3.4)
   siphash (~> 0.0.1)

@@ -1,0 +1,11 @@
+---
+id: 1303
+label: Methotrexate
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Antimetabolites
+codes:
+- nomenclature: SYADEM
+  code: b06d08c1-d87c-4895-b2ea-77f89d3bf03e

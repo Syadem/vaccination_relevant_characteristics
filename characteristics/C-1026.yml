@@ -1,7 +1,6 @@
 ---
 id: 1026
-label: Transit of more than 12 hours through the airport of a country at risk of yellow
-  fever transmission
+label: Transit of more than 12 hours through the airport of a country at risk of yellow fever transmission
 type: boolean
 tags:
 - TRAVEL

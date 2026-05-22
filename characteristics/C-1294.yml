@@ -1,0 +1,11 @@
+---
+id: 1294
+label: Contact with a bat, regardless of its origin, even in the absence of visible lesions
+type: boolean
+tags:
+- Emergency situation
+- Suspected exposure to rabies
+- Bat
+codes:
+- nomenclature: SYADEM
+  code: b61e39b7-67a0-4bcb-a7c5-199049047f21

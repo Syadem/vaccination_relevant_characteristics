@@ -1,0 +1,9 @@
+---
+id: 1267
+label: Vulnerable passenger
+type: boolean
+tags:
+- TRAVEL
+codes:
+- nomenclature: SYADEM
+  code: ca50beae-5b65-4120-9c1b-a0b5b7442812

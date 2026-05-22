@@ -1,11 +1,13 @@
 ---
 id: 513
-label: Missing animal
+label: Contact with a domestic animal living in a non-endemic area, without suspicious signs, without a vaccination certificate, and the animal is available
 type: boolean
 tags:
 - Emergency situation
 - Suspected exposure to rabies
-- Status of the animal (alive, dead, missing)
+- Domestic animal (dog, cat, ferret)
+- Non-endemic zone
+- Without any suspicious signs
 codes:
 - nomenclature: SYADEM
   code: ea4b2fae-7eec-49ac-aadf-40a2f911e661

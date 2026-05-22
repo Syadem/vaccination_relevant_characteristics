@@ -1,0 +1,13 @@
+---
+id: 1288
+label: Contact with a domestic animal living in a non-endemic area, without suspicious signs, without a vaccination certificate, and the animal is unavailable.
+type: boolean
+tags:
+- Emergency situation
+- Suspected exposure to rabies
+- Domestic animal (dog, cat, ferret)
+- Non-endemic zone
+- Without any suspicious signs
+codes:
+- nomenclature: SYADEM
+  code: f3b0ae08-23b7-47ae-afb7-5d490b584978

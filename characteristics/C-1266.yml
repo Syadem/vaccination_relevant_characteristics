@@ -1,0 +1,10 @@
+---
+id: 1266
+label: Professionals exposed to the risk of contact with blood
+type: boolean
+tags:
+- Profession
+- Other professions
+codes:
+- nomenclature: SYADEM
+  code: e68c0fbf-d58a-4215-99e2-37da3c72c188

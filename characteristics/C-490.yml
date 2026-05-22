@@ -1,7 +1,6 @@
 ---
 id: 490
-label: Direct contact with a domestic animal (dog, cat, ferret) whose owner is known
-  in a rabies enzootic zone.
+label: Direct contact with a domestic animal (dog, cat, ferret) whose owner is known in a rabies enzootic zone.
 type: boolean
 tags:
 - Emergency situation

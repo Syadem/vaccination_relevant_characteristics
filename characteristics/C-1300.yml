@@ -1,0 +1,9 @@
+---
+id: 1300
+label: No treatment
+type: boolean
+tags:
+- Treatments
+codes:
+- nomenclature: SYADEM
+  code: 42036c81-04da-49a9-85b0-b2615b260e5a

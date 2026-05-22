@@ -1,0 +1,10 @@
+---
+id: 1281
+label: High-grade cervical dysplasia
+type: boolean
+tags:
+- Chronic condition
+- Cancer
+codes:
+- nomenclature: SYADEM
+  code: 96c14b1f-5b79-4e51-a385-4b41ed1a0735

@@ -1,6 +1,6 @@
 ---
 id: 950
-label: Condition not used free
+label: Coming from a country at risk of yellow fever transmission
 type: boolean
 tags:
 - TRAVEL

@@ -1,0 +1,11 @@
+---
+id: 1307
+label: Busulfan
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Alkylating agents
+codes:
+- nomenclature: SYADEM
+  code: 0fd6a370-787e-4762-bb3b-b1ff9427ec5e

@@ -1,6 +1,6 @@
 ---
 id: 164
-label: Positive rubella serology
+label: Positive rubella serology (IgG)
 type: boolean
 tags:
 - Laboratory tests

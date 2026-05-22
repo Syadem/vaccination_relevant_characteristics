@@ -1,0 +1,11 @@
+---
+id: 1270
+label: Cardiopulmonary bypass
+type: boolean
+tags:
+- Chronic condition
+- Cardiology-Pulmonology
+- Cardiology
+codes:
+- nomenclature: SYADEM
+  code: 87f11066-7703-45bd-980e-602a1c8eb1e0

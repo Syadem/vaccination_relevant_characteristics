@@ -1,0 +1,10 @@
+---
+id: 1296
+label: Date of last exposure to rabies (mandatory)
+type: date
+tags:
+- Emergency situation
+- Suspected exposure to rabies
+codes:
+- nomenclature: SYADEM
+  code: 182f6469-e36e-4872-a0bf-74cc1e8e3de3

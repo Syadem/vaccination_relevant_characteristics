@@ -1,0 +1,11 @@
+---
+id: 1302
+label: Mitoxantrone
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Anthracycline
+codes:
+- nomenclature: SYADEM
+  code: a78ba9d8-c80e-4430-90c1-9519d0047c33

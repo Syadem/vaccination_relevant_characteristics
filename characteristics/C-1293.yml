@@ -1,0 +1,11 @@
+---
+id: 1293
+label: Contact with a monkey living in an endemic area
+type: boolean
+tags:
+- Emergency situation
+- Suspected exposure to rabies
+- Monkey
+codes:
+- nomenclature: SYADEM
+  code: 2c6c1c16-1aea-4035-a905-d4ec3f34ef8a
