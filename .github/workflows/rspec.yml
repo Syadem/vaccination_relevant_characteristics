@@ -3,8 +3,6 @@ on: [push]
 jobs:
   run-rspec-tests:
     runs-on: ubuntu-latest
-    env:
-      BUNDLE_WITHOUT: development
     steps:
       - uses: actions/checkout@v2
       - name: Set up Ruby
