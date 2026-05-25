@@ -1,6 +1,7 @@
 ---
 id: 605
 label: Other health care profession
+description: Check this box if you did not find your occupation in the list above but are in a health-related occupation.
 type: boolean
 tags:
 - Profession

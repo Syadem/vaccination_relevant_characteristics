@@ -1,6 +1,7 @@
 ---
 id: 69
 label: Pharmacist
+description: The pharmacist is a drug specialist. He or she is responsible for dispensing drugs prescribed by a physician in a hospital or city pharmacy, checking for interactions or any other factors that may affect the safety or effectiveness of the treatment. The pharmacist has other roles, for example in the area of prevention. They are now authorized to vaccinate adults against the flu.
 type: boolean
 tags:
 - Profession

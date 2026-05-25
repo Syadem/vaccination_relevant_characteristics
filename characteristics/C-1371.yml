@@ -1,0 +1,12 @@
+---
+id: 1371
+label: Dabrafenib
+description: "Check this box if you are taking this medication.\r\nTrade name: Tafinlar®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 12 months after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Protein kinase inhibitors
+codes:
+- nomenclature: SYADEM
+  code: 1e658235-d034-4443-bf26-47ae63364399

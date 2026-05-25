@@ -1,6 +1,7 @@
 ---
 id: 708
 label: Military mission in a country with endemic tick-borne encephalitis
+description: Austria, Croatia, Estonia, Denmark (Bornholm Island), Finland, Hungary, Latvia, Lithuania, Poland, Czech Republic, Western Russia, Slovakia, Slovenia, Sweden, Switzerland.
 type: boolean
 tags:
 - Profession

@@ -1,0 +1,12 @@
+---
+id: 1377
+label: Nilotinib
+description: "Check this box if you are currently taking this medication.\r\nTrade name: Tasigna®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 12 months after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Protein kinase inhibitors
+codes:
+- nomenclature: SYADEM
+  code: f153e6a6-f881-41b4-b5fd-24e44a0dbc77

@@ -1,6 +1,7 @@
 ---
 id: 867
 label: Proven history of covid 19
+description: Biological evidence is required (RT-PCR or antigenic test). A positive serology test indicates previous contact with the virus if performed before or at the same time as vaccination. Also complete the section on biological tests and talk to your doctor.
 type: boolean
 tags:
 - Medical history

@@ -1,6 +1,7 @@
 ---
 id: 707
 label: 'Military mission in Germany: districts with risk of tick-borne encephalitis according to the Robert Koch Institute'
+description: Information for tick-borne encephalitis vaccine recommendations - The risk of tick-borne encephalitis by district can be found on the Robert Koch Institute website.https://www.mesvaccins.net/textes/20200220_TBE_Allemagne.png
 type: boolean
 tags:
 - Profession

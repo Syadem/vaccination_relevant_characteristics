@@ -1,0 +1,12 @@
+---
+id: 1322
+label: Golimumab
+description: "Check this box if you are taking this medication.\r\nTrade name: Simponi®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 12 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- anti-TNF therapy
+codes:
+- nomenclature: SYADEM
+  code: 0516f3fc-b4f2-46fa-8c15-76008109131b

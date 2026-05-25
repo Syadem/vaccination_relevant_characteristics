@@ -1,6 +1,7 @@
 ---
 id: 1040
 label: Anti-HAV Ac (IgG or total Ig in IU/L)
+description: This serology consists of detecting the presence of total antibodies (IgG and IgM) against the hepatitis A virus (HAV). A positive serology performed before vaccination (pre-vaccination serology) indicates the previous occurrence of hepatitis A. Hepatitis A can occur in children without clinical signs. People who have had hepatitis A are definitely protected against this disease and vaccination against hepatitis A is not necessary. Hepatitis A serology, performed after vaccination, can be used to verify the efficacy of vaccination, particularly in immunocompromised individuals. The threshold of positivity is 20 IU/L.
 type: integer
 tags:
 - Laboratory tests

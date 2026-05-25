@@ -1,6 +1,7 @@
 ---
 id: 2
 label: Cyanogenic congenital heart disease
+description: Condition to be selected if this heart disease is cyanogenic, that is, with cyanosis, due to a mixture of blue non-oxygenated blood with red oxygenated blood, if it is responsible for pulmonary arterial hypertension or if it is accompanied by heart failure.Heart disease are malformations of the heart present at birth and due to a developmental defect that occurred during embryonic life.Risk of covid 19 if unstable heart failure.When in doubt, consult your doctor for further information.
 type: boolean
 tags:
 - Chronic condition

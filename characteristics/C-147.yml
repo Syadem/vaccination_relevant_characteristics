@@ -1,6 +1,7 @@
 ---
 id: 147
 label: History of mumps infection
+description: Biological evidence is required. If in doubt, do not check this box and seek advice from your doctor.
 type: boolean
 tags:
 - Medical history

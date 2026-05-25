@@ -1,6 +1,7 @@
 ---
 id: 1228
 label: Non-vulnerable passenger
+description: Healthy passenger, with no specific risk factors identified.
 type: boolean
 tags:
 - TRAVEL

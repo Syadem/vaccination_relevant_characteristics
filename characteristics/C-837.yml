@@ -1,6 +1,7 @@
 ---
 id: 837
 label: Person with signs of covid 19 with a positive RT-PCR test
+description: 'Covid 19 can manifest itself by the sudden appearance of one or more of the following signs: infectious signs (fever or feeling of fever, chills), cough or respiratory discomfort, unexplained fatigue, unexplained aches and pains, headaches outside of a known migraine, loss or reduction of sense of smell and taste.In people over 80 years of age, other signs are suggestive: decline in general condition, repeated falls, onset or worsening of cognitive problems, confusion, diarrhea, worsening of a chronic disease.The diagnosis of covid 19 in the acute period is based on the detection of the genetic material of the virus in a nasopharyngeal or nasopharyngeal sample taken with a swab (RT-PCR test).'
 type: boolean
 tags:
 - Medical history

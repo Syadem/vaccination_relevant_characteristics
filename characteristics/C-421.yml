@@ -1,6 +1,7 @@
 ---
 id: 421
 label: Pharmacy assistant, welcoming patients
+description: This professional is familiar with drugs and their use. Under the responsibility of the pharmacist, the drug preparer prepares medical prescriptions while respecting the doses and hygiene standards. He/she also manages the stock of drugs in a pharmacy or hospital.
 type: boolean
 tags:
 - Profession

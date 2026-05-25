@@ -1,6 +1,7 @@
 ---
 id: 15
 label: Newborn of a mother with HBsAg
+description: HBs antigen is a component of the hepatitis B virus. Carrying the HBs antigen means that you are living with the hepatitis B virus. Carrying the HBs antigen can go unnoticed and not cause any signs of hepatitis B. However, it can lead to infection in newborns.
 type: boolean
 tags:
 - Entourage

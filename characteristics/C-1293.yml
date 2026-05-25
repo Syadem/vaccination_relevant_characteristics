@@ -1,6 +1,7 @@
 ---
 id: 1293
 label: Contact with a monkey living in an endemic area
+description: Low risk.
 type: boolean
 tags:
 - Emergency situation

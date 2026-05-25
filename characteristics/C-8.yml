@@ -1,6 +1,7 @@
 ---
 id: 8
 label: Sickle cell disease
+description: It is the association of two hemoglobin abnormalities in the heterozygous state, namely sickle cell disease and thalassemia. These two associated anomalies lead to a hematological disease that is most often symptomatic.
 type: boolean
 tags:
 - Chronic condition

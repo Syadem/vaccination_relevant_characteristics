@@ -1,6 +1,7 @@
 ---
 id: 111
 label: Fisheries Warden
+description: Specific freshwater activities
 type: boolean
 tags:
 - Profession

@@ -1,6 +1,7 @@
 ---
 id: 1086
 label: Child born to a mother vaccinated against RSV during pregnancy
+description: For the child to be protected, the mother must have received the RSV vaccine ABRYSVO between 32 and 36 weeks of pregnancy.
 type: boolean
 tags:
 - Entourage

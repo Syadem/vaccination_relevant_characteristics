@@ -1,6 +1,7 @@
 ---
 id: 203
 label: Audio-prosthetist
+description: A medical technician, the audioprosthesist is a specialist in hearing correction. On prescription from an ENT doctor (ear, nose and throat specialist), he/she proceeds to the fitting of hearing deficiencies.
 type: boolean
 tags:
 - Profession

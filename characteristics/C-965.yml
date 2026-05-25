@@ -1,6 +1,7 @@
 ---
 id: 965
 label: Date of last quantitative covid anti-S serology performed
+description: Date of last quantitative covid anti-S serology performed
 type: date
 tags:
 - Laboratory tests

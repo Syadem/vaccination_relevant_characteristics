@@ -1,6 +1,7 @@
 ---
 id: 1029
 label: Date of last dengue infection
+description: "A history of dengue is defined by the existence of documented evidence of a prior infection with a dengue virus, i.e., biologically confirmed in a laboratory (RT-PCR, NS1 antigenemia, IgM/IgG serology) OR clinically diagnosed during a dengue epidemic and recorded in a medical document (e.g., health record).  \r\nIf a history of dengue is reported after 6 months, provide an approximate date."
 type: date
 tags:
 - Medical history

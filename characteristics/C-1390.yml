@@ -1,0 +1,12 @@
+---
+id: 1390
+label: Aldesleukine
+description: "Check this box if you are taking this medication.\r\nTrade name: Proleukin®.\r\nThis product is likely to have a low immunosuppressive effect.\r\nAdministration of a live attenuated vaccine should be delayed for 4 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Interleukin-2 analogues
+codes:
+- nomenclature: SYADEM
+  code: 0406fd9a-878a-4e88-b744-a482c22bae6d

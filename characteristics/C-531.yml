@@ -1,6 +1,7 @@
 ---
 id: 531
 label: Dog handler in a country where rabies is endemic
+description: Currently working or preparing for a mission in a rabies-endemic country.
 type: boolean
 tags:
 - Profession

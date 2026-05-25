@@ -1,6 +1,7 @@
 ---
 id: 1081
 label: Pregnancy start date
+description: The pregnancy start date is tied to the moment of fertilization. Typically, a pregnancy begins about 15 days following the last menstrual period. The information about pregnancy is crucial because it influences medical recommendations, such as certain vaccinations that are advised for pregnant women (like those for flu and whooping cough), while others are discouraged (especially those involving live vaccines).
 type: date
 tags:
 - General information

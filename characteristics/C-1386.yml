@@ -1,0 +1,12 @@
+---
+id: 1386
+label: Dimethylfumarate
+description: "Check this box if you are taking this medication.\r\nTrade name: Tecfidera®, Skilarence®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 12 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- ther unspecified molecules
+codes:
+- nomenclature: SYADEM
+  code: 8e6ec13a-1ba7-47d2-a326-8327fc614738

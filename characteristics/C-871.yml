@@ -1,6 +1,7 @@
 ---
 id: 871
 label: Person who has ever been prescribed an auto-injectable syringe of adrenaline
+description: The self-injecting syringe is indicated for the emergency treatment of severe allergic reactions (anaphylactic shock).
 type: boolean
 tags:
 - Medical history

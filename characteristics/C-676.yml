@@ -1,6 +1,7 @@
 ---
 id: 676
 label: Anti-aggregant treatment
+description: Anti-platelet therapy may cause bleeding during the injection of the vaccine. Medical advice is necessary.
 type: boolean
 tags:
 - General information

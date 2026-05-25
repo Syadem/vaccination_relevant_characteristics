@@ -1,6 +1,7 @@
 ---
 id: 470
 label: Inflammatory rheumatism
+description: One million people are affected in France. Examples:Rheumatoid arthritisPsoriatic arthritisAnkylosing spondylitisJuvenile arthritis
 type: boolean
 tags:
 - Chronic condition

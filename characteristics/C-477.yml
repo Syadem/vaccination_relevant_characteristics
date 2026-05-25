@@ -1,6 +1,7 @@
 ---
 id: 477
 label: Thrombocytopenic purpura
+description: Thrombocytopenic purpura corresponds to a decrease in platelets leading to small superficial bleeding on the skin called purpura. The decrease in platelets is demonstrated on a blood test. The significant drop in platelets can in some cases lead to bleeding (nosebleed, oral bleeding, hematoma...)
 type: boolean
 tags:
 - Chronic condition

@@ -1,6 +1,7 @@
 ---
 id: 732
 label: High risk of exposure to tuberculosis (assessed by the occupational physician)
+description: Personnel likely to be highly exposed, such as professionals in repeated contact with tuberculosis patients, especially those at risk of multi-resistant tuberculosis, or laboratory personnel working on mycobacteria (cultures, animal models, etc.).
 type: boolean
 tags:
 - Profession

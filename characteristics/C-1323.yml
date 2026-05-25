@@ -1,0 +1,12 @@
+---
+id: 1323
+label: Infliximab
+description: "Check this box if you are currently taking this medication.\r\nTrade names: Remicade®, Remsima®, Inflectra®, Flixabi®, Zessly®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine should be delayed for 12 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- anti-TNF therapy
+codes:
+- nomenclature: SYADEM
+  code: d7fd0690-d039-42a1-b207-1f129e0ba2c1

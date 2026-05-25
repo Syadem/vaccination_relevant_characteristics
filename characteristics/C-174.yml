@@ -1,6 +1,7 @@
 ---
 id: 174
 label: Family history of tuberculosis (collateral or direct ascendants)
+description: Collateral or direct ascendants (parent or grandparent, brother or sister)
 type: boolean
 tags:
 - Entourage

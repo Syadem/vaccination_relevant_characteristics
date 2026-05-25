@@ -1,6 +1,7 @@
 ---
 id: 1102
 label: 'Pregnancy: preference for RSV immunization of the child at birth'
+description: 'To prevent bronchiolitis (RSV infection) in infants, there are two options: vaccination of the mother during pregnancy or administration of anti-RSV antibodies to the newborn.'
 type: boolean
 tags:
 - General information

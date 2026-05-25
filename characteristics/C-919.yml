@@ -1,6 +1,7 @@
 ---
 id: 919
 label: Date of last COVID-19
+description: Biological evidence is required (RT-PCR or antigenic test). Positive serology indicates previous contact with the virus.
 type: date
 tags:
 - Medical history

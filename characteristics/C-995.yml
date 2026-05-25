@@ -1,6 +1,7 @@
 ---
 id: 995
 label: Number of weeks of amenorrhoea at birth for a premature baby
+description: The duration of a normal pregnancy is 40 weeks. Most premature babies are born between the 32nd and 37th week of pregnancy, but some can be born as early as the 22nd week.
 type: integer
 tags:
 - Medical history

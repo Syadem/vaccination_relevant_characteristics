@@ -1,0 +1,12 @@
+---
+id: 1355
+label: Basiliximab
+description: "Check this box if you are taking this medication.\r\nTrade name: Simulect®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 12 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Monoclonal antibodies – Anti-CD25
+codes:
+- nomenclature: SYADEM
+  code: 33f5ffa5-9202-44d2-9088-241baf8776ab

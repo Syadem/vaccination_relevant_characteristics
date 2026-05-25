@@ -1,0 +1,12 @@
+---
+id: 1342
+label: Deucravacitinib
+description: "Check this box if you are taking this medication.\r\nTrade name: Sotyktu®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 16 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Janus kinase inhibitors
+codes:
+- nomenclature: SYADEM
+  code: f2a7f003-556f-4659-98da-5713bd2d120e

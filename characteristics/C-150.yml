@@ -1,6 +1,7 @@
 ---
 id: 150
 label: Chiropodist
+description: Bat specialist.
 type: boolean
 tags:
 - Profession

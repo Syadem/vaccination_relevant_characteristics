@@ -1,0 +1,12 @@
+---
+id: 1319
+label: Adalimumab
+description: "Check this box if you are taking this medication.\r\nTrade names: Humira®, Amgevita®, Hyrimoz®, Idacio®, Imraldi®, Hulio®, Yuflyma®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 12 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- anti-TNF therapy
+codes:
+- nomenclature: SYADEM
+  code: fa86bd05-c504-46c5-8d2f-a7dec059d736

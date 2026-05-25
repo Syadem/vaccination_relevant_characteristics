@@ -1,6 +1,7 @@
 ---
 id: 635
 label: Patient with a complement deficiency or treated with Soliris® (eculizumab) or Ultomiris® (ravulizumab) in the family
+description: Check this box if a person living or staying in the same household has a complement deficiency (terminal fraction or properdin) or is being treated with Soliris® (eculizumab) is an anti-C5 therapy that inhibits the action of complement. Complement is a group of proteins (C5 being one of them) with anti-bacterial properties, which play an important role in inflammation and immunity. Soliris® is indicated for the treatment of paroxysmal nocturnal hemoglobinuria or atypical hemolytic uremic syndrome (atypical HUS). The fragility of these patients with a complement deficiency (congenital deficiency or deficiency linked to treatment with Soliris®) for certain infections explains why vaccine recommendations apply to their entourage.
 type: boolean
 tags:
 - Entourage

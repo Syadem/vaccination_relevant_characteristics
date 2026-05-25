@@ -1,6 +1,7 @@
 ---
 id: 1032
 label: Date of delivery
+description: Indicate the date of the last delivery, if applicable.
 type: date
 tags:
 - General information

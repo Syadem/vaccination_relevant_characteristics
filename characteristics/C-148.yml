@@ -1,6 +1,7 @@
 ---
 id: 148
 label: History of rubella
+description: Biological evidence is required. If you don't check this box, it means you either haven't had rubella or you're not sure if you have. In the latter case, consider asking your doctor.
 type: boolean
 tags:
 - Medical history

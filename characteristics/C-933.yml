@@ -1,6 +1,7 @@
 ---
 id: 933
 label: CD4 rate
+description: The result of the CD4 lymphocyte dosage is expressed as the number of cells per mm³ for adults and children aged 5 years and over.
 type: integer
 tags:
 - Laboratory tests

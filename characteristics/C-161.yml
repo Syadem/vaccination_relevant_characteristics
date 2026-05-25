@@ -1,6 +1,7 @@
 ---
 id: 161
 label: Positive measles serology
+description: If in doubt, ask your doctor.
 type: boolean
 tags:
 - Laboratory tests

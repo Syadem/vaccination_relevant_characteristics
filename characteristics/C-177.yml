@@ -1,6 +1,7 @@
 ---
 id: 177
 label: Occupational Therapist
+description: The occupational therapist maintains, restores and facilitates the human activities of people with disabilities or suffering from illness or injury.
 type: boolean
 tags:
 - Profession

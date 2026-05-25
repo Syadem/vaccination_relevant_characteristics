@@ -1,6 +1,7 @@
 ---
 id: 410
 label: Severe rhythm disorder
+description: To be selected if it is a serious rhythm disorder, justifying long-term treatment.
 type: boolean
 tags:
 - Chronic condition

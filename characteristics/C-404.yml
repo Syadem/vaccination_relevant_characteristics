@@ -1,6 +1,7 @@
 ---
 id: 404
 label: Cancer or hematological malignancy
+description: Any type of cancer or leukemia within the last 3 years and active, which may lead to immunosuppression.
 type: boolean
 tags:
 - Chronic condition

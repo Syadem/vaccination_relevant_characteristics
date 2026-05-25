@@ -1,6 +1,7 @@
 ---
 id: 122
 label: Person infected with the hepatitis B virus or chronic carrier of the HBs antigen in the entourage
+description: These are people infected with the hepatitis B virus (or HBV) or carriers of HBs antigen (a biological marker that indicates chronic HBV infection). The persons concerned are those living in the same household.
 type: boolean
 tags:
 - Entourage

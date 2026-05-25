@@ -1,6 +1,7 @@
 ---
 id: 578
 label: Ongoing chemotherapy for solid tumor (cancer)
+description: Chemotherapy for solid tumor (colon, breast, lung, etc.). If chemotherapy has been completed, please fill in the cancer chemotherapy completion date.
 type: boolean
 tags:
 - Treatments

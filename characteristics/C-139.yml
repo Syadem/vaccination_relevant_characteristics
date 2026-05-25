@@ -1,6 +1,7 @@
 ---
 id: 139
 label: Military with conditioning for a mission OM-OPEX-Embarkation
+description: 'OM: overseas OPEX: external operation Whatever the status: active military, reservist ...  '
 type: boolean
 tags:
 - Profession

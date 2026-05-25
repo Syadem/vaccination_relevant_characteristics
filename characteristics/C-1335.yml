@@ -1,0 +1,12 @@
+---
+id: 1335
+label: Risankizumab
+description: "Check this box if you are currently taking this medication.\r\nTrade name: Skyrizi®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine should be delayed for 13 to 21 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Interleukin-23 inhibitors
+codes:
+- nomenclature: SYADEM
+  code: e9e151c9-ef87-46e0-8887-4f6ed12c0799

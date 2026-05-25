@@ -1,6 +1,7 @@
 ---
 id: 881
 label: Rare liver disease under immunosuppressive therapy
+description: Especially autoimmune hepatitis (with or without transplant). You must also check “Strong immunosuppressive treatment”.
 type: boolean
 tags:
 - Chronic condition

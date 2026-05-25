@@ -1,0 +1,12 @@
+---
+id: 1353
+label: Ipilimumab
+description: "Check this box if you are currently taking this medication.\r\nTrade name: Yervoy®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 12 months after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Monoclonal antibody – Anti-CD52
+codes:
+- nomenclature: SYADEM
+  code: 4e7cec25-c8aa-4fdb-819b-259c24d3fac8

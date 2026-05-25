@@ -1,0 +1,12 @@
+---
+id: 1366
+label: Leflunomide
+description: "Check this box if you are currently taking this medication.\r\nTrade name: Arava®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine should be delayed for 6 months after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Dihydroorotate dehydrogenase inhibitors
+codes:
+- nomenclature: SYADEM
+  code: 32ffca90-0833-49bf-b815-c7bf7d371c60

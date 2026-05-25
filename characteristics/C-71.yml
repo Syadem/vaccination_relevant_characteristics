@@ -1,6 +1,7 @@
 ---
 id: 71
 label: Caregiver
+description: 'As part of a care team, the nursing assistant assists the nurse in daily care activities. He/she contributes to the well-being of the patients, by accompanying them in all the gestures of daily life and by helping to maintain their autonomy. In collaboration with the nurse and under his/her responsibility, the orderly carries out the hygiene and comfort care of the patient: toilet, meals, bed making, reception, installation and transfer of patients. The profession of nursing assistant is practiced in hospitals as well as in clinics.'
 type: boolean
 tags:
 - Profession

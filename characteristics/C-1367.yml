@@ -1,0 +1,12 @@
+---
+id: 1367
+label: Cladribine
+description: "Check this box if you are taking this medication.\r\nTrade name: Mavenclad®, Leustatin®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine should be delayed for 6 months after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Antimetabolites
+codes:
+- nomenclature: SYADEM
+  code: 3648cecb-8263-4a31-9a13-4bf37daeb556

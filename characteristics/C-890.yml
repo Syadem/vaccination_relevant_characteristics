@@ -1,6 +1,7 @@
 ---
 id: 890
 label: Immune complication in the form of antibodies directed against their usual therapeutic principle
+description: For example, hemophilia with anti-factor VIII or anti-factor IX antibodies).
 type: boolean
 tags:
 - Chronic condition

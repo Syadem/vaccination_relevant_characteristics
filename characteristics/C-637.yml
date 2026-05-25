@@ -1,6 +1,7 @@
 ---
 id: 637
 label: BCG vaccine scar
+description: This scar is usually located behind the deltoid muscle, the usual site of the intradermal injection of BCG. It shows that this vaccine, which allows the development of an immune response against the Koch's bacillus (the bacillus responsible for tuberculosis), has been administered. Consult your doctor for more information.
 type: boolean
 tags:
 - General information

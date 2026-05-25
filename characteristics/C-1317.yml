@@ -1,0 +1,12 @@
+---
+id: 1317
+label: Tacrolimus
+description: "Check this box if you are taking this medication.\r\nTrade names: Prograf®, Advagraf®, Envarsus®, Modigraf®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 12 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Anticalcineurines
+codes:
+- nomenclature: SYADEM
+  code: a09f617d-8ad1-434a-b360-959b6a1b0947

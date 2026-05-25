@@ -1,6 +1,7 @@
 ---
 id: 1001
 label: Contact person at risk of mpox
+description: "There are two risk situations:\r\n- Any person who has had unprotected direct physical contact with the injured skin or biological fluids of a symptomatic probable or confirmed case, under any circumstances including sexual intercourse, medical or paramedical care, or sharing of toiletries, or contact with textiles (clothing, linens, bedding) or dirty dishes used by the symptomatic probable or confirmed case.\r\n- Any person who has had unprotected contact within 2 meters for 3 hours (accumulated over 24 hours) with a probable or confirmed symptomatic case (e.g. close or intimate friend, usual sexual partner even in the absence of sexual intercourse, persons sharing the same living space without intimate relationship, neighbor for long term transportation, persons sharing the same office, health care or hygiene act, same school class, university TD room, sports club for contact sports, sports halls...)."
 type: boolean
 tags:
 - Entourage

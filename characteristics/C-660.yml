@@ -1,6 +1,7 @@
 ---
 id: 660
 label: Voluntary military service trainee (VMS)
+description: The SMV is a military socio-professional integration program for young people in France aged 18 to 25 who are having difficulty with school and/or social life. For one year, these volunteers will live in a boarding school, under military status. The military supervision will help them acquire life skills that will subsequently facilitate the acquisition of professional know-how. Ultimately, the goal is to promote their employability in a job in demand and in their region.
 type: boolean
 tags:
 - Profession

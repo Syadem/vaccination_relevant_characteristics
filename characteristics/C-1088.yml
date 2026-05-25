@@ -1,6 +1,7 @@
 ---
 id: 1088
 label: Works in a laboratory handling the monkeypox virus
+description: People at increased risk of exposure to MPXV through work involving the handling of cultures or concentrated quantities of MPXV virus.
 type: boolean
 tags:
 - Profession

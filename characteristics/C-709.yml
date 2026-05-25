@@ -1,6 +1,7 @@
 ---
 id: 709
 label: Military mission in Bulgaria, Denmark (except if Bornholm Island) and Norway
+description: Albania, Armenia, Belgium, Belarus, Bosnia, Bulgaria, Croatia, Denmark (except if Bornholm Island), France, Hungary, Italy, Kazakhstan, Macedonia, Moldova, Montenegro, Norway, Netherlands, Romania, Serbia, Ukraine.
 type: boolean
 tags:
 - Profession

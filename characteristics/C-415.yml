@@ -1,6 +1,7 @@
 ---
 id: 415
 label: Waiting for a hematopoietic stem cell transplant (marrow transplant)
+description: Refers to patients who are to receive a hematopoietic stem cell (HSC) transplant, commonly known as a marrow transplant.
 type: boolean
 tags:
 - Chronic condition

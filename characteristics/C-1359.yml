@@ -1,0 +1,12 @@
+---
+id: 1359
+label: Ozanimod
+description: "Check this box if you are taking this medication.\r\nTrade name: Zeposia®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 12 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- S1PR agonists (sphingosine-1-phosphate receptor modulators)
+codes:
+- nomenclature: SYADEM
+  code: 467f80f0-82eb-4747-a0a9-b6995a807685

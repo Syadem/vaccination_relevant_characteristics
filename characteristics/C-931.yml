@@ -1,6 +1,7 @@
 ---
 id: 931
 label: Mother who received Infliximab during pregnancy or breastfeeding
+description: 'Infliximab is marketed under the following names: REMICADE, FLIXABI, INFLECTRA, REMSIMA and ZESSLY.'
 type: boolean
 tags:
 - Treatments

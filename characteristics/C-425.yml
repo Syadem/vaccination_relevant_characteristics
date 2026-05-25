@@ -1,6 +1,7 @@
 ---
 id: 425
 label: Systemic vasculitis (severe form)
+description: Vasculitides are inflammatory diseases of the vascular wall.
 type: boolean
 tags:
 - Chronic condition

@@ -1,0 +1,12 @@
+---
+id: 1343
+label: Upadacitinib
+description: "Check this box if you are taking this medication.\r\nTrade name: Rinvoq®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 16 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Janus kinase inhibitors
+codes:
+- nomenclature: SYADEM
+  code: d26bc3b5-d342-4ca0-aace-fc766804e900

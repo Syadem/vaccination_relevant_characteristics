@@ -1,6 +1,7 @@
 ---
 id: 478
 label: Anticoagulant treatment
+description: Anticoagulant treatment is used to thin the blood in certain venous pathologies (deep vein thrombosis, pulmonary embolism) or cardiac pathologies (arrhythmia in particular). The main molecules used are fluidione (Previscan) and coumadin (Sintron).
 type: boolean
 tags:
 - Treatments

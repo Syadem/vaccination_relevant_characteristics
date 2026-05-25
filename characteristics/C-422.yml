@@ -1,6 +1,7 @@
 ---
 id: 422
 label: Medical secretary, patient receptionist
+description: The medical secretary assists the doctor and is the first point of contact for the patient, on the telephone when he or she wishes to make an appointment, or when he or she is received in the doctor's office or hospital department. She puts people at ease and answers their questions.
 type: boolean
 tags:
 - Profession

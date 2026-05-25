@@ -1,6 +1,7 @@
 ---
 id: 582
 label: Common variable immune deficiency (CVID)
+description: Common variable immunodeficiency (CVID) is a heterogeneous group of diseases characterized by hypogammaglobulinemia of unknown cause with deficient production of specific antibodies after immunization, causing recurrent bacterial infections, usually by encapsulated bacteria. Its prevalence is estimated at 1:25,000 in the population of European origin and it affects both men and women.
 type: boolean
 tags:
 - Chronic condition

@@ -1,0 +1,12 @@
+---
+id: 1373
+label: Erlotinib
+description: "Check this box if you are taking this medication.\r\nTrade name: Tarceva®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 12 months after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Protein kinase inhibitors
+codes:
+- nomenclature: SYADEM
+  code: 5dfb4d6a-cc30-4139-bd60-a3ea7bb5f22a

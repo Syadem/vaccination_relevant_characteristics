@@ -1,6 +1,7 @@
 ---
 id: 1282
 label: Migrant from a country with moderate or high endemicity for hepatitis B
+description: Migrant from a country with moderate or high endemicity for hepatitis B
 type: boolean
 tags:
 - Living or housing conditions

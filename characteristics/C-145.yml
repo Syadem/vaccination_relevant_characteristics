@@ -1,6 +1,7 @@
 ---
 id: 145
 label: History of chickenpox
+description: If in doubt, do not check this box.
 type: boolean
 tags:
 - Medical history

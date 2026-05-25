@@ -1,6 +1,7 @@
 ---
 id: 110
 label: Professional diver
+description: Specific freshwater activities
 type: boolean
 tags:
 - Profession

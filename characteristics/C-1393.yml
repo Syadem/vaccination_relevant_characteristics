@@ -1,0 +1,12 @@
+---
+id: 1393
+label: Dinutuximab
+description: "Check this box if you are currently taking this medication.\r\nTrade name: Qarziba®, Unituxin®.\r\nThis product is likely to have a low immunosuppressive effect.\r\nAdministration of a live attenuated vaccine should be delayed for 12 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Anti-GD2
+codes:
+- nomenclature: SYADEM
+  code: 8a088ead-237f-429e-aa00-c36a8bccf1d1

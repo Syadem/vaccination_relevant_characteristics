@@ -1,0 +1,12 @@
+---
+id: 1338
+label: Baricitinib
+description: "Check this box if you are taking this medication.\r\nTrade name: Olumiant®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 16 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Janus kinase inhibitors
+codes:
+- nomenclature: SYADEM
+  code: a4b13e41-2bcb-4751-854b-fe5e27c6fb1e

@@ -1,6 +1,7 @@
 ---
 id: 956
 label: Cirrhosis
+description: Especially in stage B or C of the Child-Pugh classification.
 type: boolean
 tags:
 - Chronic condition

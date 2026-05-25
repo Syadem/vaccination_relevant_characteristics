@@ -1,6 +1,7 @@
 ---
 id: 612
 label: Emphysema
+description: Emphysema is a chronic lung disease characterized by dilatation of the pulmonary alveoli (small air sacs at the end of the terminal bronchioles, where gas exchanges with the bloodstream take place) and by a destruction of the partitions separating the alveoli.
 type: boolean
 tags:
 - Chronic condition

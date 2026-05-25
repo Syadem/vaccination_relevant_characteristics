@@ -1,6 +1,7 @@
 ---
 id: 608
 label: Employee in an undertaker's business in connection with a prevention or care establishment
+description: Article 1 of http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000020375184 the decree of March 15, 1991 fixes the list of the establishments or public or private organizations of prevention or care in which any person exposed to risks of contamination must be immunized against the hepatitis B, the diphtheria, the tetanus and the poliomyelitis when it exerts a professional activity.the undertakers are assimilated to the establishments and organizations mentioned in article 1, insofar as they take part in the activity of the latter.
 type: boolean
 tags:
 - Profession

@@ -1,6 +1,7 @@
 ---
 id: 834
 label: Sickle cell disease treated with hydroxyurea (Hydrea, Siklos)
+description: Low-dose hydroxyurea is regularly prescribed to people with sickle cell disease to prevent recurrent painful vaso-occlusive crises in children over two years of age and in adults with symptomatic sickle cell disease. Two drugs are prescribed in this context, Hydrea and Siklos. There is no clinical evidence of immunosuppression induced by low-dose hydroxyurea in sickle cell disease patients, and the available data suggest that live vaccines could probably be administered to subjects treated with low-dose hydroxyurea. However, the MA for Hydrea, which is used off-label in sickle cell disease, contraindicates this drug in combination with live attenuated vaccines. The MA for Siklos advises against the concomitant use of hydroxycarbamide with a live virus vaccine. It states that treatment with Siklos and concomitant immunization with live virus vaccines should be performed only if the benefits clearly outweigh the potential risks.
 type: boolean
 tags:
 - Treatments

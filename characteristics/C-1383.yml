@@ -1,0 +1,12 @@
+---
+id: 1383
+label: Sorafenib
+description: "Check this box if you are taking this medication.\r\nTrade name: Nexavar®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 12 months after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Protein kinase inhibitors
+codes:
+- nomenclature: SYADEM
+  code: f8067104-5f6d-4905-8e52-e202d6f6b2e2

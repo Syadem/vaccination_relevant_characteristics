@@ -1,6 +1,7 @@
 ---
 id: 53
 label: Pregnant woman in the entourage
+description: 'The people who should check this box are in particular: the spouse and children of the pregnant woman; any person likely to be in close and lasting contact with the future infant during its first 6 months (this can concern grandparents, babysitters...). But only if the pregnant woman is not vaccinated against pertussis.'
 type: boolean
 tags:
 - Entourage

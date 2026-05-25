@@ -1,6 +1,7 @@
 ---
 id: 1274
 label: Valproic acid treatment
+description: 'There are many medications containing valproic acid or its derivatives (sodium valproate, valpromide). The main ones are: Depakine, Micropakine, Zentiva sodium valproate, or Depamide.'
 type: boolean
 tags:
 - Treatments

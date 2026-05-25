@@ -1,6 +1,7 @@
 ---
 id: 705
 label: Military mission in Central or West Africa (Burkina Faso, Ivory Coast, Mali, Mauritania, Niger, CAR, Senegal, Chad...)
+description: Information for yellow fever vaccine recommendations.
 type: boolean
 tags:
 - Profession

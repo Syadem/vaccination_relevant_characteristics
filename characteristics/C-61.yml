@@ -1,6 +1,7 @@
 ---
 id: 61
 label: Dental surgeon
+description: The dental surgeon takes care of the mouth, teeth, gums and jawbone. He relieves, repairs and also looks after the aesthetics of the smile. He treats cavities and more serious infections of the oral cavity. He places prostheses. The dental surgeon may be exposed to blood or other biological fluids.
 type: boolean
 tags:
 - Profession

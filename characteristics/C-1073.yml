@@ -1,6 +1,7 @@
 ---
 id: 1073
 label: Stay in an area where flood irrigation is practised (rice paddies)
+description: Whatever the length of your stay.
 type: boolean
 tags:
 - TRAVEL

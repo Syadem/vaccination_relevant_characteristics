@@ -1,6 +1,10 @@
 ---
 id: 1002
 label: Date of last contact with a person at risk of monkeypox
+description: |-
+  There are two risk situations:
+  - Any person who has had unprotected direct physical contact with the injured skin or biological fluids of a symptomatic probable or confirmed case, under any circumstances including sexual intercourse, medical or paramedical care, or sharing of toiletries, or contact with textiles (clothing, linens, bedding) or dirty dishes used by the symptomatic probable or confirmed case.
+  - Any person who has had unprotected contact within 2 meters for 3 hours (accumulated over 24 hours) with a probable or confirmed symptomatic case (e.g. close or intimate friend, usual sexual partner even in the absence of sexual intercourse, persons sharing the same living space without intimate relationship, neighbor for long term transportation, persons sharing the same office, health care or hygiene act, same school class, university TD room, sports club for contact sports, sports halls...).
 type: date
 tags:
 - Entourage

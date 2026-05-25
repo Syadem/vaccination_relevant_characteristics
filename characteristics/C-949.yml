@@ -1,6 +1,7 @@
 ---
 id: 949
 label: Severe extrapulmonary restrictive pathology
+description: With or without ventilatory assistance.
 type: boolean
 tags:
 - Chronic condition

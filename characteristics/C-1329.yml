@@ -1,0 +1,12 @@
+---
+id: 1329
+label: Ustekinumab
+description: "Check this box if you are taking this medication.\r\nTrade name: Stelara®, Wezlana®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine should be delayed for 15 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Interleukin-12/23 inhibitors
+codes:
+- nomenclature: SYADEM
+  code: d39795ad-f349-4fac-8e72-43054d1884f1

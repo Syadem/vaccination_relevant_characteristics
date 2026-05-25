@@ -1,6 +1,7 @@
 ---
 id: 152
 label: Employee in an animal pound
+description: Place where abandoned or stray animals found on the public highway are confined.
 type: boolean
 tags:
 - Profession

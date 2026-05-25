@@ -1,6 +1,7 @@
 ---
 id: 109
 label: Professional fisherman
+description: Specific freshwater activities
 type: boolean
 tags:
 - Profession

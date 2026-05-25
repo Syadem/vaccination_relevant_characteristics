@@ -1,6 +1,7 @@
 ---
 id: 42
 label: History of pulmonary or invasive pneumococcal infection
+description: It is a history of pulmonary or invasive (meningitis, septicemia) pneumococcal infection. If in doubt, ask your doctor for advice.
 type: boolean
 tags:
 - Medical history

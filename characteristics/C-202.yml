@@ -1,6 +1,7 @@
 ---
 id: 202
 label: Egg allergy
+description: Egg allergy. Egg allergy is one of the most common food allergies in children (1-3% of children under 3 years of age). Since it usually disappears with age, this allergy is much less common in adults. Most often, allergic reactions occur shortly after eating eggs or foods containing eggs, especially raw or undercooked eggs (homemade chocolate mousse, soft-boiled eggs, etc.). The most common signs are redness and itching around the mouth, swelling of the mouth or throat, hives, vomiting, discomfort, difficulty breathing or low blood pressure. Chicken allergy. Chicken allergy refers to allergy to chicken flesh, as opposed to feathers. If you think you may be allergic to egg or chicken, see your doctor if you haven't already. Allergy to egg or chicken may result in contraindication or precautions for use of certain vaccines that may contain traces of egg or chicken.
 type: boolean
 tags:
 - Medical history

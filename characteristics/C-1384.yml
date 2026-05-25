@@ -1,0 +1,12 @@
+---
+id: 1384
+label: Sunitinib
+description: "Check this box if you are taking this medication.\r\nTrade name: Sutent®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 12 months after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Protein kinase inhibitors
+codes:
+- nomenclature: SYADEM
+  code: d6312be4-ed58-4c1f-a54c-23ef8fbb7aad

@@ -1,6 +1,7 @@
 ---
 id: 864
 label: Dementia or psychiatric disorder
+description: Includes Alzheimer's disease.
 type: boolean
 tags:
 - Chronic condition

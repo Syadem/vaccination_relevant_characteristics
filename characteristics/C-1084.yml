@@ -1,6 +1,7 @@
 ---
 id: 1084
 label: Date of the last shingles episode
+description: If the history of shingles occurred less than a year ago, it is preferable to give a precise date. On the other hand, for an older history, an approximate date is sufficient.
 type: date
 tags:
 - Medical history

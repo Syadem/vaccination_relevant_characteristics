@@ -1,6 +1,7 @@
 ---
 id: 93
 label: Rescuer
+description: " If the person is stationed in a civil security training and intervention unit (UIISC): complete the section Profession or activity: Military."
 type: boolean
 tags:
 - Profession

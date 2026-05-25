@@ -1,0 +1,12 @@
+---
+id: 1333
+label: Brodalumab
+description: "Check this box if you are taking this medication.\r\nTrade name: Kyntheum®, Siliq®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 12 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Interleukin-17A inhibitors
+codes:
+- nomenclature: SYADEM
+  code: d3af0ebf-0619-4d92-8175-c19bcceb2b38

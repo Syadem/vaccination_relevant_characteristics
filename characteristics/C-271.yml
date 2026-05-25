@@ -1,6 +1,7 @@
 ---
 id: 271
 label: Infant under 6 months of age, premature or chronically ill living in the person's environment
+description: That is, if the infant is less than 6 months old and has one of the following risk factors for severe influenzapremature, especially if he or she has respiratory sequelae such as bronchodysplasia treated during the previous six months by mechanical ventilation or prolonged oxygen therapy or continuous drug treatment (corticosteroids, bronchodilators or diuretics),with heart disease,with congenital immune deficiency (i.e., acquired at birth),with pulmonary, neurological or neuromuscular disease,treated for a long-term condition.If in doubt, ask your doctor for advice. The notion of entourage includes the family environment (people living under the same roof), the nanny and all the people having regular contact with the infant.
 type: boolean
 tags:
 - Entourage

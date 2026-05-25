@@ -1,6 +1,7 @@
 ---
 id: 1039
 label: Regular practice of canoeing, rafting, triathlon or other nature sports
+description: Especially those involving frequent contact with a humid environment
 type: boolean
 tags:
 - Living or housing conditions
