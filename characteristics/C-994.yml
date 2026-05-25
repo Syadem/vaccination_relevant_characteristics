@@ -1,6 +1,7 @@
 ---
 id: 994
 label: Personnel in repeated contact with tuberculosis patients
+description: ''
 type: boolean
 tags:
 - Profession

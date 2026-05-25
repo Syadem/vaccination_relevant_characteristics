@@ -1,6 +1,7 @@
 ---
 id: 6
 label: Nephrotic syndrome
+description: ''
 type: boolean
 tags:
 - Chronic condition

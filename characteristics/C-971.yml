@@ -1,6 +1,7 @@
 ---
 id: 971
 label: Optician
+description: ''
 type: boolean
 tags:
 - Profession

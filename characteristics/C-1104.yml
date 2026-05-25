@@ -1,6 +1,7 @@
 ---
 id: 1104
 label: People having close family contact with the elderly
+description: ''
 type: boolean
 tags:
 - Living or housing conditions

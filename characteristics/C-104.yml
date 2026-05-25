@@ -1,6 +1,7 @@
 ---
 id: 104
 label: Works in a correctional facility or probation department
+description: Includes prison guards (you can check both this box and the Prison Guard box) if this applies to you.
 type: boolean
 tags:
 - Profession

@@ -1,6 +1,7 @@
 ---
 id: 128
 label: Bronchopulmonary dysplasia
+description: Dysplasia is at particular risk of severe influenza or pneumococcal infection if it has been treated in the previous six months with mechanical ventilation or prolonged oxygen therapy or continuous drug treatment with corticosteroids, bronchodilators or diuretics.Bronchopulmonary dysplasia is one of the most common complications of prematurity. It is manifested by respiratory distress. Newborns affected by this disease have a greater susceptibility to respiratory infections, which can sometimes be very serious.
 type: boolean
 tags:
 - Chronic condition

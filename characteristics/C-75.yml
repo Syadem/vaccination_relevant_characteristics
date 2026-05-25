@@ -1,6 +1,7 @@
 ---
 id: 75
 label: Medical Electroradiology Manipulator
+description: The medical electroradiology manipulator is a health professional, both a caregiver and a technician. In medical imaging, he/she participates in medical examinations (radiology, scanner, MRI, nuclear medicine, electrophysiology) whose aim is to establish a diagnosis.
 type: boolean
 tags:
 - Profession

@@ -1,6 +1,7 @@
 ---
 id: 963
 label: Height (cm)
+description: ''
 type: integer
 tags:
 - General information

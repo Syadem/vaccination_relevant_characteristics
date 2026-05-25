@@ -1,6 +1,7 @@
 ---
 id: 1099
 label: Health professional in contact with patients
+description: Medical practitioner or medical support person who is in close contact with patients in the course of their work.
 type: boolean
 tags:
 - Profession

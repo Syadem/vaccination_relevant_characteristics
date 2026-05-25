@@ -1,0 +1,12 @@
+---
+id: 1310
+label: Chlorambucil
+description: "Check this box if you are taking this medication.\r\nTrade name: Leukeran®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine should be delayed for 6 months after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Alkylating agents
+codes:
+- nomenclature: SYADEM
+  code: 2361cf4e-5822-49d9-827f-0e678c6767a7

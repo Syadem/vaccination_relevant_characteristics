@@ -1,6 +1,7 @@
 ---
 id: 1082
 label: Free
+description: Free
 type: boolean
 tags:
 - Chronic condition

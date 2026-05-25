@@ -1,6 +1,7 @@
 ---
 id: 103
 label: Prison Supervisor
+description: Only in case of exposure to biological agents (evaluation by the occupational physician).
 type: boolean
 tags:
 - Profession

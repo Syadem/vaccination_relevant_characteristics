@@ -1,0 +1,12 @@
+---
+id: 1392
+label: Cetuximab
+description: "Check this box if you are taking this medication.\r\nTrade name: Erbitux®.\r\nThis product is likely to have a mild immunosuppressive effect.\r\nAdministration of a live attenuated vaccine should be delayed for 4 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Anti-EGFR
+codes:
+- nomenclature: SYADEM
+  code: eab16b29-91f1-43cb-b7f6-db8945c6f9b9

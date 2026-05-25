@@ -1,6 +1,7 @@
 ---
 id: 1182
 label: 2nd Officer Safety
+description: ''
 type: boolean
 tags:
 - Profession

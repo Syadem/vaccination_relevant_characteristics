@@ -1,6 +1,7 @@
 ---
 id: 1096
 label: Immunodeficiency, whatever the cause (disease or treatment).
+description: People who are immunocompromised or receiving immunosuppressive treatment.
 type: boolean
 tags:
 - Chronic condition

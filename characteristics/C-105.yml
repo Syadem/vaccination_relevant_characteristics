@@ -1,6 +1,7 @@
 ---
 id: 105
 label: Veterinarian or employee in a veterinary service
+description: ''
 type: boolean
 tags:
 - Profession

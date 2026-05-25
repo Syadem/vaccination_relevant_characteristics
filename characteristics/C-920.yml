@@ -1,6 +1,7 @@
 ---
 id: 920
 label: Positive covid 19 serology after vaccination
+description: ''
 type: boolean
 tags:
 - Laboratory tests

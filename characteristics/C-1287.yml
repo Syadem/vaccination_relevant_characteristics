@@ -1,6 +1,7 @@
 ---
 id: 1287
 label: Equivocal anti-HCV antibodies
+description: Hepatitis C serology (screening)
 type: boolean
 tags:
 - Laboratory tests

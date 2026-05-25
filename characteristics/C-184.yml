@@ -1,6 +1,7 @@
 ---
 id: 184
 label: Social and family economy advisor
+description: ''
 type: boolean
 tags:
 - Profession

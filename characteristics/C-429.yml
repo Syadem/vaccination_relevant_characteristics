@@ -1,6 +1,7 @@
 ---
 id: 429
 label: Works in a hospital pharmacy
+description: ''
 type: boolean
 tags:
 - Profession

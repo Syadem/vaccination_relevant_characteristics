@@ -1,6 +1,7 @@
 ---
 id: 1189
 label: Asst.Carpenter
+description: ''
 type: boolean
 tags:
 - Profession

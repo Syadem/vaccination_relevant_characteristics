@@ -1,6 +1,7 @@
 ---
 id: 739
 label: Military mission with low risk of projection from Djibouti to a yellow fever endemic area
+description: Information for yellow fever vaccine recommendations.
 type: boolean
 tags:
 - Profession

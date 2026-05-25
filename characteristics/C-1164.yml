@@ -1,6 +1,7 @@
 ---
 id: 1164
 label: Hodgkin's disease
+description: ''
 type: boolean
 tags:
 - Chronic condition

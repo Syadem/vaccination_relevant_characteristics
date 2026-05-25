@@ -1,6 +1,7 @@
 ---
 id: 58
 label: Midwife
+description: The midwife's mission is to accompany pregnant women throughout their pregnancy, from the establishment of the diagnosis to the day of delivery. More broadly, she also provides gynecological follow-up. This difficult job requires both medical and psychological skills. Midwives can also provide vaccinations.
 type: boolean
 tags:
 - Profession

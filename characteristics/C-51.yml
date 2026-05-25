@@ -1,6 +1,7 @@
 ---
 id: 51
 label: Adult likely to become a parent in the coming months or years
+description: These are adults who may become parents in the coming months or years, including through adoption. This question is asked in order to know if it is necessary to apply the strategy of cocooning, consisting in protecting the parents to avoid the contamination of the infants by the bacterium responsible for the whooping cough, a very serious disease in the very small. It is also a question of possibly recommending vaccination against chickenpox to future mothers.
 type: boolean
 tags:
 - General information

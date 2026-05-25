@@ -1,0 +1,12 @@
+---
+id: 1388
+label: Ramucirumab
+description: "Check this box if you are taking this medication.\r\nTrade name: Cyramza®.\r\nThis product is likely to have a low immunosuppressive effect.\r\nAdministration of a live attenuated vaccine should be delayed for 4 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Anti-VEGFR
+codes:
+- nomenclature: SYADEM
+  code: 131221e0-4158-4a0b-a1e0-c3f24a65a451

@@ -1,6 +1,7 @@
 ---
 id: 195
 label: Anti-HBs antibodies >100 IU/L
+description: ''
 type: boolean
 tags:
 - Laboratory tests

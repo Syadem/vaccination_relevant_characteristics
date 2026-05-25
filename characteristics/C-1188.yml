@@ -1,6 +1,7 @@
 ---
 id: 1188
 label: Carpenter
+description: ''
 type: boolean
 tags:
 - Profession

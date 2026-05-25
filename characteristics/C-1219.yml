@@ -1,6 +1,7 @@
 ---
 id: 1219
 label: Fitter
+description: ''
 type: boolean
 tags:
 - Profession

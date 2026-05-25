@@ -1,6 +1,7 @@
 ---
 id: 1254
 label: No history of measles
+description: ''
 type: boolean
 tags:
 - Medical history

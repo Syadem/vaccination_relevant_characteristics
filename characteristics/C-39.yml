@@ -1,6 +1,7 @@
 ---
 id: 39
 label: Chronic respiratory failure
+description: Chronic obstructive or restrictive respiratory failure from any cause, including neuromuscular diseases at risk of respiratory decompensation, upper or lower airway defects, lung defects, or rib cage defects.
 type: boolean
 tags:
 - Chronic condition

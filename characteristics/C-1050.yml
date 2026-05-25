@@ -1,6 +1,7 @@
 ---
 id: 1050
 label: Pelvic fracture
+description: ''
 type: boolean
 tags:
 - Medical history

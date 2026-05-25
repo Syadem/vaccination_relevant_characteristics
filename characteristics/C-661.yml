@@ -1,6 +1,7 @@
 ---
 id: 661
 label: Volunteer trainee of the adapted military service (SMA)
+description: The SMA is a military socio-professional integration program for young people aged 18 to 25 from overseas who are far from employment. For one year, these volunteers will live in a boarding school, under military status. The military supervision will help them acquire life skills that will then facilitate the acquisition of professional know-how. Ultimately, the goal is to promote their employability in a job in demand and in their region.
 type: boolean
 tags:
 - Profession

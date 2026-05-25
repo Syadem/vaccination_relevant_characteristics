@@ -1,6 +1,7 @@
 ---
 id: 108
 label: Employed in activities related to freshwater fish farming
+description: ''
 type: boolean
 tags:
 - Profession

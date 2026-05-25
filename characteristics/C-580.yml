@@ -1,6 +1,7 @@
 ---
 id: 580
 label: Phagocytic cell deficiency (septic granulomatosis)
+description: It is a non-specific immune deficiency of sex-linked recessive transmission. It manifests itself in the first months of life, in boys, by infections with various germs, bacteria or fungi, reaching the skin, the lymphatic system, the bronchopulmonary tree, the liver and the spleen.
 type: boolean
 tags:
 - Chronic condition

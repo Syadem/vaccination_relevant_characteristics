@@ -1,0 +1,12 @@
+---
+id: 1346
+label: Eculizumab
+description: "Check this box if you are taking this medication.\r\nTrade name: Soliris®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 8 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Monoclonal antibodies – Anti-C5 / complement inhibitors
+codes:
+- nomenclature: SYADEM
+  code: b4c8e188-12ba-47bc-9716-3b3b0d632e18

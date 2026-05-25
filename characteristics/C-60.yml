@@ -1,6 +1,7 @@
 ---
 id: 60
 label: Surgeon
+description: The surgeon is a medical doctor who practices a very technical specialty. He performs physical interventions on body tissues, repairs serious trauma, corrects deformities, treats infections, removes diseased organs... The surgeon is therefore particularly exposed to blood contamination. There are many surgical specialties.
 type: boolean
 tags:
 - Profession

@@ -1,6 +1,7 @@
 ---
 id: 486
 label: Dead animal
+description: ''
 type: boolean
 tags:
 - Emergency situation

@@ -1,6 +1,7 @@
 ---
 id: 1211
 label: Assistant Engine Storekeeper
+description: ''
 type: boolean
 tags:
 - Profession

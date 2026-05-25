@@ -1,6 +1,7 @@
 ---
 id: 1097
 label: Long-term treatment with acetylsalicylic acid
+description: ''
 type: boolean
 tags:
 - Treatments

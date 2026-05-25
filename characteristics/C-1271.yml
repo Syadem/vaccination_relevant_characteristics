@@ -1,6 +1,7 @@
 ---
 id: 1271
 label: Use of systemic retinoids
+description: These are vitamin A derivatives used systemically (orally and not cutaneously).
 type: boolean
 tags:
 - Treatments

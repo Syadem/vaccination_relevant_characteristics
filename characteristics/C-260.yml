@@ -1,6 +1,7 @@
 ---
 id: 260
 label: Works in a school preventive medicine center or service
+description: ''
 type: boolean
 tags:
 - Profession

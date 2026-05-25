@@ -1,6 +1,7 @@
 ---
 id: 46
 label: Negative chickenpox serology
+description: ''
 type: boolean
 tags:
 - Laboratory tests

@@ -1,6 +1,7 @@
 ---
 id: 575
 label: None of the occupations listed in the questionnaire
+description: ''
 type: boolean
 tags:
 - Profession

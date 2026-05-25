@@ -1,6 +1,7 @@
 ---
 id: 179
 label: Orthoptist
+description: This professional is responsible for the rehabilitation of vision disorders (eye physiotherapist). The orthoptist can measure the visual field or detect a strabismus on prescription from an ophthalmologist.
 type: boolean
 tags:
 - Profession

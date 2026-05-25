@@ -1,0 +1,12 @@
+---
+id: 1330
+label: Bimekizumab
+description: "Check this box if you are taking this medication.\r\nTrade name: Bimzelx®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 12 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Interleukin-17A inhibitors
+codes:
+- nomenclature: SYADEM
+  code: 652f9fca-0d3d-4374-b986-41026ff6f332

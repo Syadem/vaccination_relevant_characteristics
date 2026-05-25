@@ -1,6 +1,7 @@
 ---
 id: 57
 label: Physiotherapist
+description: The physiotherapist ensures the rehabilitation of people suffering from paralysis, neurological disorders and accidents. They help children and adults suffering from respiratory, circulatory or rheumatic diseases to regain normal motor function.
 type: boolean
 tags:
 - Profession

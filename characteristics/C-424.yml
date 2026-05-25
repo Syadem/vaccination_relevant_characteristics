@@ -1,6 +1,7 @@
 ---
 id: 424
 label: Systemic lupus erythematosus
+description: Definition. Systemic lupus erythematosus (SLE) is a disease of autoimmune origin, characterized by the presence of autoantibodies (i.e. directed against our own body). Clinical signs. It is a disease that affects different organs, which explains the great variety of signs of the disease. The most frequent signs are fatigue, fever, skin and joint signs. The most severe manifestations are related to kidney damage, neurological disorders, anemia or low platelet count. Treatment. The goals of treatment are to treat acute episodes, reduce the risk of relapse, and improve the quality of daily life. Hydroxychloroquine and non-steroidal anti-inflammatory drugs are indicated for moderate forms of LEAD; corticosteroids and immunosuppressants are reserved for more severe disease. LEAD is a long-term disease (ALD 21).
 type: boolean
 tags:
 - Chronic condition

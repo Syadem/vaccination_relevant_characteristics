@@ -1,6 +1,7 @@
 ---
 id: 1214
 label: Chief Electrician
+description: ''
 type: boolean
 tags:
 - Profession

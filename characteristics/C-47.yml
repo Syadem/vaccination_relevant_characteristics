@@ -1,6 +1,7 @@
 ---
 id: 47
 label: Immunocompromised person in the entourage
+description: The environment of immunocompromised persons is a potential source of transmission of infectious agents by air or skin. Because of the uncertainties about the efficacy of vaccination in immunocompromised persons and the contraindication of live vaccines in these patients, it is strongly recommended that, in order to create a "circle of protection", the vaccination status of their immediate circle be checked and updated as necessary in accordance with the current vaccination schedule. The immediate environment is defined as any person living in the same household or likely to provide care (childminder, family, caretaker, etc.) and the health personnel likely to take care of them.
 type: boolean
 tags:
 - Entourage

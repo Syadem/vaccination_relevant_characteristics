@@ -1,6 +1,7 @@
 ---
 id: 1041
 label: Date of anti-HAV serology (IgG or total Ig)
+description: The date of anti-HAV serology (hepatitis A serology detecting IgG or total Ig) may be useful for its interpretation, depending on whether it is performed before or after vaccination.
 type: date
 tags:
 - Laboratory tests

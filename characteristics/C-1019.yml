@@ -1,6 +1,7 @@
 ---
 id: 1019
 label: Contraindication to chickenpox vaccination
+description: ''
 type: boolean
 tags:
 - Contra-indications

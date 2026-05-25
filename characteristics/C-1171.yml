@@ -1,6 +1,7 @@
 ---
 id: 1171
 label: FREE
+description: ''
 type: boolean
 tags:
 - Laboratory tests

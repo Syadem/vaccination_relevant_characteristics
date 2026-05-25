@@ -1,6 +1,7 @@
 ---
 id: 970
 label: Medical Physicist
+description: ''
 type: boolean
 tags:
 - Profession

@@ -1,6 +1,7 @@
 ---
 id: 1241
 label: Other acquired immunodeficiency
+description: ''
 type: boolean
 tags:
 - Chronic condition

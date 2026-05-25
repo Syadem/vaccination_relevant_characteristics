@@ -1,6 +1,7 @@
 ---
 id: 887
 label: AIRE, NFBK2 and interferon deficiency
+description: ''
 type: boolean
 tags:
 - Chronic condition

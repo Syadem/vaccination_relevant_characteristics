@@ -1,0 +1,12 @@
+---
+id: 1318
+label: Ciclosporine
+description: "Check this box if you are currently taking this medication.\r\nTrade names: Sandimmun®, Neoral®, Optoral®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine should be delayed for 12 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Anticalcineurines
+codes:
+- nomenclature: SYADEM
+  code: c40ab0c7-8e66-4fdf-a9a9-63d70448d8f0

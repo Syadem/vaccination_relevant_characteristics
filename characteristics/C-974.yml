@@ -1,6 +1,7 @@
 ---
 id: 974
 label: Chiropractor
+description: ''
 type: boolean
 tags:
 - Profession

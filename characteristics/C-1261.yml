@@ -1,6 +1,7 @@
 ---
 id: 1261
 label: Accommodation in a dormitory
+description: ''
 type: boolean
 tags:
 - Living or housing conditions

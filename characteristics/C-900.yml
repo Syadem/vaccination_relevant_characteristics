@@ -1,6 +1,7 @@
 ---
 id: 900
 label: Constitutional bone pathology with complications
+description: With respiratory failure, restrictive syndrome/chest deformity, renal failure, multiorgan involvement or immune deficiency.
 type: boolean
 tags:
 - Chronic condition

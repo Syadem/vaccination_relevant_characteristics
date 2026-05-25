@@ -1,6 +1,7 @@
 ---
 id: 533
 label: Staying in a home for the dependent elderly
+description: ''
 type: boolean
 tags:
 - Living or housing conditions

@@ -1,0 +1,12 @@
+---
+id: 1350
+label: Natalizumab
+description: "Check this box if you are currently receiving treatment with this molecule.\r\nTrade name: Tysabri®, Tyruko®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 8 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Monoclonal antibodies – Anti-α4β1 integrin
+codes:
+- nomenclature: SYADEM
+  code: 3bda0528-0851-4e60-af9c-3cba8f609b2a

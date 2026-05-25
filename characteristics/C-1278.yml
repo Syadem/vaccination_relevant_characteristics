@@ -1,6 +1,7 @@
 ---
 id: 1278
 label: Percentage of CD4 lymphocytes
+description: The result of the CD4 lymphocyte dosage is expressed as a percentage for children under 5 years old.
 type: integer
 tags:
 - Laboratory tests

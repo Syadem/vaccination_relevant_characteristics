@@ -1,0 +1,12 @@
+---
+id: 1309
+label: Ifosfamide
+description: "Check this box if you are taking this medication.\r\nTrade name: Holoxan®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine should be delayed for 6 months after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Alkylating agents
+codes:
+- nomenclature: SYADEM
+  code: 56326890-9d13-4d1e-9b27-6bee99b75a3b

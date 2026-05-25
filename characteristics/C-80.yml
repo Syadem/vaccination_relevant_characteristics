@@ -1,6 +1,7 @@
 ---
 id: 80
 label: Works in a private practice setting, outside of a prevention or care facility or organization
+description: ''
 type: boolean
 tags:
 - Profession

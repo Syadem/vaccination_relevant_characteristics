@@ -1,6 +1,7 @@
 ---
 id: 884
 label: Amyotrophic lateral sclerosis (ALS)
+description: ''
 type: boolean
 tags:
 - Chronic condition

@@ -1,6 +1,7 @@
 ---
 id: 1225
 label: Wiper
+description: ''
 type: boolean
 tags:
 - Profession

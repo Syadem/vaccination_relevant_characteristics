@@ -1,6 +1,7 @@
 ---
 id: 838
 label: Person with prolonged symptoms of covid 19 (long covid)
+description: The definition of the group of patients with prolonged symptoms (sometimes called "covid long") is not consensual. The frequency of these prolonged symptoms varies from study to study but sometimes exceeds 50%. The most frequently reported prolonged symptoms are fatigue, joint pain, chest pain, palpitations, breathing difficulties, deterioration of cognitive status, and decreased quality of life.
 type: boolean
 tags:
 - Medical history

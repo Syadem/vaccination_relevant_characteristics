@@ -1,6 +1,7 @@
 ---
 id: 491
 label: Direct contact in a rabies enzootic area with a small rodent (excluding rats and squirrels) or a lagomorph.
+description: ''
 type: boolean
 tags:
 - Emergency situation

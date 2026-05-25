@@ -1,0 +1,12 @@
+---
+id: 1340
+label: Tofacitinib
+description: "Check this box if you are taking this medication.\r\nTrade name: Xeljanz®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 16 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Janus kinase inhibitors
+codes:
+- nomenclature: SYADEM
+  code: e5a98ae0-4262-4268-8096-bdad4e786cd1

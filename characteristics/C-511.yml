@@ -1,6 +1,7 @@
 ---
 id: 511
 label: Biological diagnosis of rabies impossible
+description: ''
 type: boolean
 tags:
 - Emergency situation

@@ -1,6 +1,7 @@
 ---
 id: 677
 label: Refusal of mumps vaccination
+description: ''
 type: boolean
 tags:
 - Vaccinations not desired

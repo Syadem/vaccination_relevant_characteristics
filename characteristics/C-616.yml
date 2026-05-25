@@ -1,6 +1,7 @@
 ---
 id: 616
 label: Refusal of pneumococcal vaccination
+description: ''
 type: boolean
 tags:
 - Vaccinations not desired

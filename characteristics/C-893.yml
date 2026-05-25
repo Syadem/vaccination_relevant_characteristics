@@ -1,6 +1,7 @@
 ---
 id: 893
 label: Active SNI (SNLGM or HSF) or active GEM and/or immunosuppressive therapy
+description: 'Immunosuppressive treatment that puts the person at increased risk of a severe form in case of covid 19: prolonged corticosteroid therapy, anti CD20, mycophenolate mofetil, azathioprine, cyclophosphamide, anticalcineurins (Ciclopsorine, Prograf).'
 type: boolean
 tags:
 - Chronic condition

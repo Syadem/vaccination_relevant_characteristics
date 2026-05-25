@@ -1,6 +1,7 @@
 ---
 id: 428
 label: Works in a retail pharmacy
+description: ''
 type: boolean
 tags:
 - Profession

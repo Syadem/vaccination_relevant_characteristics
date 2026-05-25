@@ -1,6 +1,7 @@
 ---
 id: 1264
 label: Close contact with a case of invasive meningococcal infection
+description: ''
 type: boolean
 tags:
 - Emergency situation

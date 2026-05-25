@@ -1,6 +1,7 @@
 ---
 id: 102
 label: Police officer
+description: ''
 type: boolean
 tags:
 - Profession

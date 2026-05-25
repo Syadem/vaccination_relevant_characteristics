@@ -1,6 +1,7 @@
 ---
 id: 958
 label: Diabetes
+description: Regardless of the type of diabetes
 type: boolean
 tags:
 - Chronic condition

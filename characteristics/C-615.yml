@@ -1,6 +1,7 @@
 ---
 id: 615
 label: Refusal to vaccinate against hepatitis A
+description: ''
 type: boolean
 tags:
 - Vaccinations not desired

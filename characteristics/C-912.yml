@@ -1,6 +1,7 @@
 ---
 id: 912
 label: Sleep apnea
+description: ''
 type: boolean
 tags:
 - Chronic condition

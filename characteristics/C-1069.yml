@@ -1,6 +1,7 @@
 ---
 id: 1069
 label: Outdoor exposure (running, camping, hiking, working outdoors)
+description: This also concerns mushroom foragers, hunters, trail enthusiasts, and all sports practiced in nature, especially in the forest.
 type: boolean
 tags:
 - TRAVEL

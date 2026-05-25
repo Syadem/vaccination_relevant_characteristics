@@ -1,6 +1,7 @@
 ---
 id: 743
 label: Complicated hypertension
+description: ''
 type: boolean
 tags:
 - Chronic condition

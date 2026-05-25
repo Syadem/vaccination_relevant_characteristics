@@ -1,6 +1,7 @@
 ---
 id: 745
 label: Recent contact with a case of covid 19
+description: 'Recent contact: last contact within the last 10 days. A contact at risk is a person who, in the absence of effective protective measures for the duration of the contact, has shared the same living space as the confirmed or probable case; has had direct face-to-face contact with a case, within one meter, for any length of time (e.g. conversation, eating, flirting, hugging, kissing). However, people who are encountered in a public space for a short period of time are not considered to be at-risk contacts;has provided or received hygiene or health care services;has shared a confined space (office or meeting room, personal vehicle, etc.) for at least 15 consecutive or cumulative minutes over a 24-hour period with a case, or has been face-to-face with a case during several episodes of coughing or sneezing;is a student or teacher in the same school class (kindergarten, elementary, high school, or a university tutorial group)A confined space is a space that does not allow the social distancing criterion to be met, i.e. a minimum distance of 2 meters around a person. Finally, the following are not considered effective protective measures: a plexiglass plate placed on a counter, "home-made" fabric masks and transparent plastic visors worn alone.'
 type: boolean
 tags:
 - Medical history

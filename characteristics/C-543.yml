@@ -1,6 +1,7 @@
 ---
 id: 543
 label: Paroxysmal nocturnal hemoglobinuria
+description: ''
 type: boolean
 tags:
 - Chronic condition

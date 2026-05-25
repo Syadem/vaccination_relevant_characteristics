@@ -1,6 +1,7 @@
 ---
 id: 234
 label: Student social work assistant
+description: ''
 type: boolean
 tags:
 - Profession

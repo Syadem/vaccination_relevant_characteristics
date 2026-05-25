@@ -1,6 +1,7 @@
 ---
 id: 366
 label: Works in a health personnel training facility
+description: ''
 type: boolean
 tags:
 - Profession

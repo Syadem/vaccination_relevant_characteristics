@@ -1,0 +1,12 @@
+---
+id: 1361
+label: Siponimod
+description: "Check this box if you are taking this medication.\r\nTrade name: Mayzent®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 12 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- S1PR agonists (sphingosine-1-phosphate receptor modulators)
+codes:
+- nomenclature: SYADEM
+  code: 4b0da321-510d-4d7a-b8e9-ce1c26ce3d64

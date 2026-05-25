@@ -1,6 +1,7 @@
 ---
 id: 1044
 label: Anti-aromatase
+description: ''
 type: boolean
 tags:
 - Medical history

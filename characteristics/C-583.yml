@@ -1,6 +1,7 @@
 ---
 id: 583
 label: Bruton's disease (X-linked agammaglobulinemia)
+description: 'X-linked agammaglobulinemia manifests itself by recurrent bacterial infections of the respiratory and digestive tracts and predisposes to the risk of chronic enterovirus infections. Its incidence is of the order of 1/200 000 births. It is related to the absence of immunoglobulin production. It is an X-linked recessive inherited disease. This disease is caused by mutations in the gene coding for Btk tyrosine kinase. It is characterized by a defect in the maturation of B lymphocytes. Treatment is based mainly on the regular administration of immunoglobulins by the venous or subcutaneous route (source: Orphanet).'
 type: boolean
 tags:
 - Chronic condition

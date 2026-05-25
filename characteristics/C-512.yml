@@ -1,6 +1,7 @@
 ---
 id: 512
 label: Positive biological diagnosis of rabies
+description: ''
 type: boolean
 tags:
 - Emergency situation

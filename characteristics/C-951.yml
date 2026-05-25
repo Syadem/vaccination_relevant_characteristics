@@ -1,6 +1,7 @@
 ---
 id: 951
 label: Severe chronic obstructive pulmonary disease (COPD)
+description: GOLD stage (Global Initiative for Chronic Obstructive Lung Disease version 2020) 3 and 4, group D.
 type: boolean
 tags:
 - Chronic condition

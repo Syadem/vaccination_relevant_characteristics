@@ -1,6 +1,7 @@
 ---
 id: 1224
 label: Staff Chief Engineer
+description: ''
 type: boolean
 tags:
 - Profession

@@ -1,6 +1,7 @@
 ---
 id: 730
 label: 'Military mission in a European country other than: Austria, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Germany, Hungary, Latvia, Lithuania, Poland, Slovakia, Slovenia, Sweden or Finland'
+description: Information for tick-borne encephalitis vaccine recommendations.
 type: boolean
 tags:
 - Profession

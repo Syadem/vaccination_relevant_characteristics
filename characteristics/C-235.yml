@@ -1,6 +1,7 @@
 ---
 id: 235
 label: Student counselor in social and family economics
+description: ''
 type: boolean
 tags:
 - Profession

@@ -1,0 +1,12 @@
+---
+id: 1314
+label: Temozolomide
+description: "Check this box if you are taking this medication.\r\nTrade name: Temodal®, Temozolomide Teva®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine should be delayed for 6 months after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Alkylating agents
+codes:
+- nomenclature: SYADEM
+  code: 4ef1f80e-faa0-4a7c-8e61-e7858e7bed4c

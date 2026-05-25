@@ -1,6 +1,7 @@
 ---
 id: 1223
 label: Reefer Engineer
+description: ''
 type: boolean
 tags:
 - Profession

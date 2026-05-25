@@ -1,6 +1,7 @@
 ---
 id: 1030
 label: Adventurous living conditions
+description: ''
 type: boolean
 tags:
 - TRAVEL

@@ -1,6 +1,7 @@
 ---
 id: 82
 label: Works in a medical transport company
+description: ''
 type: boolean
 tags:
 - Profession

@@ -1,6 +1,7 @@
 ---
 id: 1065
 label: Pilgrimage to Mecca (Hajj or Umrah)
+description: Whether it is the major annual pilgrimage (Hajj) or the minor pilgrimage (Umrah).
 type: boolean
 tags:
 - TRAVEL

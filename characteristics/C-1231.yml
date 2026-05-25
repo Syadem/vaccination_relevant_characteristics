@@ -1,6 +1,7 @@
 ---
 id: 1231
 label: Immunocompromised person
+description: ''
 type: boolean
 tags:
 - Chronic condition

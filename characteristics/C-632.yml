@@ -1,6 +1,7 @@
 ---
 id: 632
 label: Date of last history of pertussis
+description: You must be sure that it is pertussis (proven by a biological test, check with your doctor). It is estimated that a person who has had pertussis is protected from getting a new pertussis infection for about 10 years. If this box is checked, vaccination is not considered necessary. If the disease occurred before the age of two, the vaccination program is continued as usual.
 type: date
 tags:
 - Medical history

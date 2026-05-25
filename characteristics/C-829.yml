@@ -1,6 +1,7 @@
 ---
 id: 829
 label: RT-PCR covid test (SARS-CoV-2) positive
+description: Direct detection of SARS-CoV-2 coronavirus, which causes covid 19, in a throat or nasopharyngeal swab specimen. It may also be another respiratory specimen.
 type: boolean
 tags:
 - Laboratory tests

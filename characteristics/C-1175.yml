@@ -1,6 +1,7 @@
 ---
 id: 1175
 label: Staff Captain
+description: ''
 type: boolean
 tags:
 - Profession

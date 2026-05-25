@@ -1,6 +1,7 @@
 ---
 id: 225
 label: Student masseur-physiotherapist
+description: ''
 type: boolean
 tags:
 - Profession

@@ -1,6 +1,7 @@
 ---
 id: 499
 label: Negative biological diagnosis result
+description: ''
 type: boolean
 tags:
 - Emergency situation

@@ -1,6 +1,7 @@
 ---
 id: 392
 label: Close contacts of a person with hepatitis A
+description: This includes the family circle of a person with hepatitis A, or anyone living in the same household as the person with hepatitis A, in order to avoid intrafamilial dissemination.
 type: boolean
 tags:
 - Emergency situation

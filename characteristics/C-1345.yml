@@ -1,0 +1,12 @@
+---
+id: 1345
+label: Belimumab
+description: "Check this box if you are taking this medication.\r\nTrade name: Benlysta®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 16 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Monoclonal antibodies – Anti-cytokines
+codes:
+- nomenclature: SYADEM
+  code: 52c2f260-1d09-4f8e-b33d-5e58b22f7300

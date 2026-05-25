@@ -1,6 +1,7 @@
 ---
 id: 1179
 label: 2nd Officer
+description: ''
 type: boolean
 tags:
 - Profession

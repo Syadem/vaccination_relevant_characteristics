@@ -1,6 +1,7 @@
 ---
 id: 66
 label: Student or trainee in the health or medical-social field
+description: ''
 type: boolean
 tags:
 - Profession

@@ -1,6 +1,7 @@
 ---
 id: 1267
 label: Vulnerable passenger
+description: Passenger with risk factors, immunocompromised, etc.
 type: boolean
 tags:
 - TRAVEL

@@ -1,6 +1,7 @@
 ---
 id: 180
 label: Psychomotrician
+description: On medical prescription, the psychomotrician helps people suffering from various psychomotor disorders. By means of relaxation techniques, gesture education, body and plastic expression and through activities of play, rhythm and coordination, the psychomotrician seeks to correct these difficulties of psychological origin that adults or children may encounter. They work mainly in hospitals, but can also work in private practice.
 type: boolean
 tags:
 - Profession

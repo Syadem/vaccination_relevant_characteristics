@@ -1,6 +1,7 @@
 ---
 id: 981
 label: Student psychotherapist
+description: ''
 type: boolean
 tags:
 - Profession

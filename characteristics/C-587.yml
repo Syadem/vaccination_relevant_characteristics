@@ -1,6 +1,7 @@
 ---
 id: 587
 label: Partial combined immunodeficiency
+description: Partial combined immunodeficiency is associated with several rare diseases. These are Job-Buckley, Wiskott-Aldrich, Di George (or 22q11 microdeletion syndrome) and Louis Bar (or ataxia telangiectasia) syndromes.
 type: boolean
 tags:
 - Chronic condition

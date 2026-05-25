@@ -1,6 +1,7 @@
 ---
 id: 1242
 label: Contact with a person with chickenpox within the last 5 days
+description: ''
 type: boolean
 tags:
 - Living or housing conditions

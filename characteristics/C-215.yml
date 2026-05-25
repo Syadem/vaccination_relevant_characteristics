@@ -1,6 +1,7 @@
 ---
 id: 215
 label: Pharmacy studies
+description: ''
 type: boolean
 tags:
 - Profession

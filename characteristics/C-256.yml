@@ -1,6 +1,7 @@
 ---
 id: 256
 label: Works in a blood transfusion center or station
+description: ''
 type: boolean
 tags:
 - Profession

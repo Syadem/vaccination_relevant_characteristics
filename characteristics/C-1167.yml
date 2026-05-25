@@ -1,6 +1,7 @@
 ---
 id: 1167
 label: Lymphoma
+description: ''
 type: boolean
 tags:
 - Chronic condition

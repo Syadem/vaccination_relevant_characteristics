@@ -1,6 +1,7 @@
 ---
 id: 489
 label: Biological diagnosis impossible
+description: ''
 type: boolean
 tags:
 - Emergency situation

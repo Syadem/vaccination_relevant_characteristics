@@ -1,6 +1,7 @@
 ---
 id: 923
 label: Person not at risk of exposure to rabies
+description: This includes a person who has begun pre-exposure vaccination before traveling to a rabies-endemic area and is no longer exposed to rabies upon return.
 type: boolean
 tags:
 - General information

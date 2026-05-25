@@ -1,6 +1,7 @@
 ---
 id: 686
 label: Current or recent sexually transmitted infection (STI)
+description: ''
 type: boolean
 tags:
 - Living or housing conditions

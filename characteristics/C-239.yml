@@ -1,6 +1,7 @@
 ---
 id: 239
 label: Student monitor-educator
+description: ''
 type: boolean
 tags:
 - Profession

@@ -1,6 +1,7 @@
 ---
 id: 164
 label: Positive rubella serology (IgG)
+description: Only tick this box if IgG serology is positive, indicating immunity (do not tick this box in grey areas, depending on the laboratory's interpretation).
 type: boolean
 tags:
 - Laboratory tests

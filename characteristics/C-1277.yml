@@ -1,6 +1,7 @@
 ---
 id: 1277
 label: Date of last CD4 test
+description: ''
 type: date
 tags:
 - Laboratory tests

@@ -1,6 +1,7 @@
 ---
 id: 96
 label: Works in a laundry
+description: Decree of 15 March 1991 establishing the list of public or private prevention or care establishments or organizations in which exposed personnel must be vaccinated. Laundries are assimilated to the public or private prevention or care establishments and organizations mentioned in article 1 of this decree, insofar as they participate in the activity of the latter.
 type: boolean
 tags:
 - Profession

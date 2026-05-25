@@ -1,6 +1,7 @@
 ---
 id: 1118
 label: Military
+description: ''
 type: boolean
 tags:
 - Profession

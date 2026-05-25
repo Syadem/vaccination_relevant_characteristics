@@ -1,0 +1,12 @@
+---
+id: 1395
+label: Pembrolizumab
+description: "Check this box if you are taking this medication.\r\nTrade name: Keytruda®.\r\nThis product is likely to have a low immunosuppressive effect.\r\nAdministration of a live attenuated vaccine should be delayed for 4 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Anti-PD-1
+codes:
+- nomenclature: SYADEM
+  code: 0772edea-e4a3-4f99-96c5-a807952a4ee7

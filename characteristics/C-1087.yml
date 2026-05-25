@@ -1,6 +1,7 @@
 ---
 id: 1087
 label: Pregnancy at risk
+description: Multiple pregnancy, with foetopathy or risk of premature delivery (e.g. previous premature delivery, threat of premature delivery).
 type: boolean
 tags:
 - General information

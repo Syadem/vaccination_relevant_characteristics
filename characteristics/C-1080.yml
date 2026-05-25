@@ -1,6 +1,7 @@
 ---
 id: 1080
 label: QUANTIFERON (result in IU/L)
+description: 0 to 10 IU/L
 type: float
 tags:
 - Laboratory tests

@@ -1,6 +1,7 @@
 ---
 id: 1092
 label: Scar from a smallpox vaccination
+description: Scar from an old smallpox vaccination by scarification.
 type: boolean
 tags:
 - Miscellaneous

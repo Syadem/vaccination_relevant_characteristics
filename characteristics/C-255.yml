@@ -1,6 +1,7 @@
 ---
 id: 255
 label: Works in a prison health facility
+description: ''
 type: boolean
 tags:
 - Profession

@@ -1,6 +1,7 @@
 ---
 id: 226
 label: Student Speech-Language Pathologist
+description: ''
 type: boolean
 tags:
 - Profession

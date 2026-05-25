@@ -1,6 +1,7 @@
 ---
 id: 181
 label: Medical-psychological assistant
+description: ''
 type: boolean
 tags:
 - Profession

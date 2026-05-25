@@ -1,6 +1,7 @@
 ---
 id: 1117
 label: Trade employees
+description: ''
 type: boolean
 tags:
 - Profession

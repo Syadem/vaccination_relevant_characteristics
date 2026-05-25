@@ -1,6 +1,7 @@
 ---
 id: 541
 label: 'Anti-C5 treatment: Soliris® (Eculizumab) or Ultomiris® (ravulizumab)'
+description: 'Soliris® (eculizumab) is an anti-C5A treatment that inhibits the action of complement. Complement is a group of proteins (C5A being one of them) with anti-bacterial properties, which play an important role in inflammation and immunity. Soliris® is indicated for the treatment of patients (children or adults) with: paroxysmal nocturnal hemoglobinuria (PNH) (evidence of clinical benefit of Soliris® in the treatment of patients with this condition is limited to those with a history of transfusions); atypical hemolytic uremic syndrome (atypical HUS).Ultomiris® (ravulizumab), approved by the European Medicines Agency in 2019, is indicated for use in the treatment of adult patients with HPN in patients who present with hemolysis with clinical symptom(s) indicating high disease activity and in patients who are clinically stable after treatment with eculizumab for at least the last 6 months.'
 type: boolean
 tags:
 - Treatments

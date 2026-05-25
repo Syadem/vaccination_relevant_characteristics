@@ -1,6 +1,7 @@
 ---
 id: 831
 label: Refusal of dengue vaccination
+description: ''
 type: boolean
 tags:
 - Vaccinations not desired

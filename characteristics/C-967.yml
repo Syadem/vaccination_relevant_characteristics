@@ -1,6 +1,7 @@
 ---
 id: 967
 label: Diphtheria-Tetanus-Polio (DTPolio) vaccination history unknown or incomplete
+description: Lost notebook.
 type: boolean
 tags:
 - Miscellaneous

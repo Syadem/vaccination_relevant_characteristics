@@ -1,6 +1,7 @@
 ---
 id: 141
 label: Prolonged or high-dose corticosteroid therapy
+description: With regard to corticosteroid therapy, the dose and duration beyond which the administration of a live vaccine is contraindicated (immunosuppressive corticosteroid therapy) are as follows:In adults10 mg prednisone equivalent/day for more than two weeks.In children;lt;= 10 kg:2 mg/kg prednisone equivalent/day for more than 2 weeks > 10 kg & > 20 mg/day for more than 2 weeks.bolus" corticosteroids contraindicate the administration of a live vaccine during the following three months. Bolus = large doses of cortisone administered into a vein (intravenous).After the cessation of immunosuppressive corticosteroid therapy, the period of time to be respected for the administration of a live vaccine is variable. Ask your doctor for advice on whether your treatment should be considered prolonged steroid therapy.
 type: boolean
 tags:
 - Treatments

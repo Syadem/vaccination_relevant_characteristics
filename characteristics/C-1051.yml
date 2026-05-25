@@ -1,6 +1,7 @@
 ---
 id: 1051
 label: Spinal fracture
+description: ''
 type: boolean
 tags:
 - Medical history

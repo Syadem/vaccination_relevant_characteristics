@@ -1,6 +1,7 @@
 ---
 id: 628
 label: Refusal of vaccination against Japanese encephalitis
+description: ''
 type: boolean
 tags:
 - Vaccinations not desired

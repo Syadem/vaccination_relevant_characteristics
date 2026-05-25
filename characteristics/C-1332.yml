@@ -1,0 +1,12 @@
+---
+id: 1332
+label: Secukinumab
+description: "Check this box if you are taking this medication.\r\nTrade name: Cosentyx®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 12 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Interleukin-17A inhibitors
+codes:
+- nomenclature: SYADEM
+  code: 8713faf5-4856-4c10-b0ee-ba4f592b9a00

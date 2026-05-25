@@ -1,6 +1,7 @@
 ---
 id: 1053
 label: Fracture of the humerus
+description: ''
 type: boolean
 tags:
 - Medical history

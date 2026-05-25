@@ -1,6 +1,7 @@
 ---
 id: 151
 label: Employee in a veterinary laboratory handling material contaminated or likely to be contaminated with rabies virus
+description: ''
 type: boolean
 tags:
 - Profession

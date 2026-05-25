@@ -1,0 +1,12 @@
+---
+id: 1308
+label: Cyclophosphamide
+description: "Check this box if you are taking this medication.\r\nTrade name: Endoxan®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine should be delayed for 6 months after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Alkylating agents
+codes:
+- nomenclature: SYADEM
+  code: 2a356755-4c8f-41cc-85b3-e30629430d28

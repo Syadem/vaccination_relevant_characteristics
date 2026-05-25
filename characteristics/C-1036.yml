@@ -1,6 +1,7 @@
 ---
 id: 1036
 label: No risk of exposure to biological agents
+description: ''
 type: boolean
 tags:
 - Profession

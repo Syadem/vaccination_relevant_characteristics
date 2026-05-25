@@ -1,6 +1,7 @@
 ---
 id: 990
 label: Tetanus antibody test (IU/L)
+description: This test should be carried out between 4 and 8 weeks after administration of a dose of vaccine containing the tetanus valency combined with other valencies. A high value indicates the existence of a booster effect and means that the person has already been vaccinated.
 type: float
 tags:
 - Laboratory tests

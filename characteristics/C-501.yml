@@ -1,6 +1,7 @@
 ---
 id: 501
 label: Direct contact in a rabies-free country with any type of rodents or lagomorphs
+description: ''
 type: boolean
 tags:
 - Emergency situation

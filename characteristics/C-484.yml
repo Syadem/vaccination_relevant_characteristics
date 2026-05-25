@@ -1,6 +1,7 @@
 ---
 id: 484
 label: Autoimmune hemolytic anemia
+description: ''
 type: boolean
 tags:
 - Chronic condition

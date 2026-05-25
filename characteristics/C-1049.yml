@@ -1,6 +1,7 @@
 ---
 id: 1049
 label: Other fracture (wrist, metacarpal, metatarsal, etc.)
+description: ''
 type: boolean
 tags:
 - Medical history

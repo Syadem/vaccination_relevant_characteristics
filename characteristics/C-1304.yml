@@ -1,6 +1,7 @@
 ---
 id: 1304
 label: Azathioprine
+description: "Check this box if you are currently taking this medication.\r\nTrade names: Imuran®, Imurel®, Azathioprine EG®, Azathioprine Mylan®.\r\nThis product is potentially immunosuppressive. Administration of a live attenuated vaccine should be delayed for 12 weeks after stopping treatment."
 type: boolean
 tags:
 - Treatments

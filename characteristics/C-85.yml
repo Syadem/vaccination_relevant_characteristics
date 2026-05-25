@@ -1,6 +1,7 @@
 ---
 id: 85
 label: Works in an institution or service for adults with disabilities
+description: ''
 type: boolean
 tags:
 - Profession

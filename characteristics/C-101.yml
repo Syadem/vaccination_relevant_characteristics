@@ -1,6 +1,7 @@
 ---
 id: 101
 label: Garbage collector
+description: ''
 type: boolean
 tags:
 - Profession

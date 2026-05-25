@@ -1,6 +1,7 @@
 ---
 id: 855
 label: Psychologist
+description: ''
 type: boolean
 tags:
 - Profession

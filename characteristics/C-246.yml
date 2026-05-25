@@ -1,6 +1,7 @@
 ---
 id: 246
 label: Pupil assistant or family assistant
+description: ''
 type: boolean
 tags:
 - Profession

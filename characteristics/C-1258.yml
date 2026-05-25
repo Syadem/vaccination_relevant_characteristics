@@ -1,6 +1,7 @@
 ---
 id: 1258
 label: " History of immunosuppressive treatment."
+description: ''
 type: boolean
 tags:
 - Treatments

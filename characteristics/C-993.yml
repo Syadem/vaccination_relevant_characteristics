@@ -1,6 +1,7 @@
 ---
 id: 993
 label: Date of tetanus antibody test
+description: This test should be carried out between 4 and 8 weeks after administration of a dose of vaccine containing the tetanus valency combined with other valencies.
 type: date
 tags:
 - Laboratory tests

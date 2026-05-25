@@ -1,6 +1,7 @@
 ---
 id: 657
 label: Dental assistant student
+description: The mission of the dental assistant is to carry out cleaning and sterilization operations. He/she may also act as a surgical assistant. Dental assistants are exposed to the hepatitis B virus because they handle sharps after they have been used on a patient. In a study conducted between 1995 and 2001 in the United States, 75% of blood exposure accidents occurred in dental offices.
 type: boolean
 tags:
 - Profession

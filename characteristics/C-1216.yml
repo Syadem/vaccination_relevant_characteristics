@@ -1,6 +1,7 @@
 ---
 id: 1216
 label: Electrician
+description: ''
 type: boolean
 tags:
 - Profession

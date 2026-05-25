@@ -1,6 +1,7 @@
 ---
 id: 937
 label: Employee in a medical-social housing structure
+description: ''
 type: boolean
 tags:
 - Profession

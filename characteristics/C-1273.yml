@@ -1,6 +1,7 @@
 ---
 id: 1273
 label: Severe liver failure
+description: ''
 type: boolean
 tags:
 - Chronic condition

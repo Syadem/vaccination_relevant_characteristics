@@ -1,6 +1,7 @@
 ---
 id: 1020
 label: Contraindication to vaccination against meningococcal C
+description: ''
 type: boolean
 tags:
 - Contra-indications

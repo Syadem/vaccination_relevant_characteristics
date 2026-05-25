@@ -1,0 +1,12 @@
+---
+id: 1360
+label: Ponesimod
+description: "Check this box if you are taking this medication.\r\nTrade name: Ponvory®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 12 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- S1PR agonists (sphingosine-1-phosphate receptor modulators)
+codes:
+- nomenclature: SYADEM
+  code: e1634720-7302-41ed-b5ed-93d4dc3e474c

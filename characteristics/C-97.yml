@@ -1,6 +1,7 @@
 ---
 id: 97
 label: Personnel involved in food preparation in collective catering
+description: ''
 type: boolean
 tags:
 - Profession

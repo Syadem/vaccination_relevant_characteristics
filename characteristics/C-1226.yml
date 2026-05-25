@@ -1,6 +1,7 @@
 ---
 id: 1226
 label: Hotel Fitter
+description: ''
 type: boolean
 tags:
 - Profession

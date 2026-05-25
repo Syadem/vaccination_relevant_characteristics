@@ -1,6 +1,7 @@
 ---
 id: 281
 label: Chronic obstructive pulmonary disease (COPD)
+description: Often described as smoker's bronchitis. A disease characterized by a persistent blockage of the flow of inspired gases through the lungs. Three million five hundred thousand people (i.e. 6 to 8% of the adult population) are affected by this disease; 100,000 patients have severe forms requiring oxygen therapy or home ventilation. In 2020, chronic obstructive pulmonary disease will be the 3rd leading cause of death in the world and the 5th leading disease in terms of disability. It is most often caused by smoking. The most common symptoms of this disease are shortness of breath (or feeling like you need air), abnormal sputum (a mixture of saliva and mucus in the airways) and a chronic cough. Everyday activities, such as climbing a few stairs or carrying a suitcase, can become very difficult as the disease progressively worsens.
 type: boolean
 tags:
 - Chronic condition

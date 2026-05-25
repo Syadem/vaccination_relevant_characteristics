@@ -1,6 +1,7 @@
 ---
 id: 1009
 label: Lives in a home for the elderly
+description: ''
 type: boolean
 tags:
 - Living or housing conditions

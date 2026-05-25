@@ -1,6 +1,7 @@
 ---
 id: 427
 label: Multiple sclerosis
+description: Multiple sclerosis (MS) is a chronic inflammatory neurological disease that most often progresses in attacks that are difficult to predict and vary in intensity. It begins on average at the age of 30 (between 20 and 40) and affects women more frequently.
 type: boolean
 tags:
 - Chronic condition

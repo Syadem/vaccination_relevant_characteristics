@@ -1,6 +1,7 @@
 ---
 id: 577
 label: anti-HBc negative
+description: ''
 type: boolean
 tags:
 - Laboratory tests

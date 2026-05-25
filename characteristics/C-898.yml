@@ -1,6 +1,7 @@
 ---
 id: 898
 label: Glomerulonephritis with C3 deposits under immunosuppressive treatment
+description: Immunosuppressive therapy that puts the individual at increased risk for severe covid 19.
 type: boolean
 tags:
 - Chronic condition

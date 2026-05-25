@@ -1,6 +1,7 @@
 ---
 id: 932
 label: Date of a solid organ transplant (kidney, heart, liver or lungs)
+description: ''
 type: date
 tags:
 - Chronic condition

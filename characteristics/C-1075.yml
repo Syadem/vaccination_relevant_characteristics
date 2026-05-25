@@ -1,6 +1,7 @@
 ---
 id: 1075
 label: Stay during the rainy season
+description: ''
 type: boolean
 tags:
 - TRAVEL

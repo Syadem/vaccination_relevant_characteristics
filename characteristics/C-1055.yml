@@ -1,6 +1,7 @@
 ---
 id: 1055
 label: Height on identity card (in cm)
+description: ''
 type: integer
 tags:
 - General information

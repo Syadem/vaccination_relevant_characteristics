@@ -1,6 +1,7 @@
 ---
 id: 426
 label: Progressive generalized scleroderma
+description: Generalities. Systemic scleroderma is a disease that primarily affects the small vessels (arterioles and capillaries) of the whole body and is accompanied by generalized fibrosis. Immune dysfunctions, in particular inflammation and autoimmunity, seem to play an important role in this disease. The tissues and organs concerned are the skin, the lungs, the digestive tract, the kidneys and the heart.
 type: boolean
 tags:
 - Chronic condition

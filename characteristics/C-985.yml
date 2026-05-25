@@ -1,6 +1,7 @@
 ---
 id: 985
 label: Student Genetic Counselor
+description: ''
 type: boolean
 tags:
 - Profession

@@ -1,6 +1,7 @@
 ---
 id: 1201
 label: Shipping department staff
+description: ''
 type: boolean
 tags:
 - Profession

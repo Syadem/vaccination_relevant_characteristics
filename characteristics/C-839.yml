@@ -1,6 +1,7 @@
 ---
 id: 839
 label: Positive covid 19 serology before vaccination
+description: ''
 type: boolean
 tags:
 - Laboratory tests

@@ -1,6 +1,7 @@
 ---
 id: 662
 label: Thanatopractor
+description: The thanatopractor intervenes on the body of the deceased, at the request of the family, for the realization of care that makes the dead person look presentable. In France, approximately one death out of four would result in the intervention of one of these technicians.
 type: boolean
 tags:
 - Profession

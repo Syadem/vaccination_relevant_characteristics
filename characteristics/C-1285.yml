@@ -1,6 +1,7 @@
 ---
 id: 1285
 label: Positive anti-HCV antibodies
+description: Hepatitis C serology (screening).
 type: boolean
 tags:
 - Laboratory tests

@@ -1,6 +1,7 @@
 ---
 id: 21
 label: Complement deficit
+description: Deficiency of the terminal fraction of complement or properdine.
 type: boolean
 tags:
 - Chronic condition

@@ -1,6 +1,7 @@
 ---
 id: 1004
 label: Date of anti-HBs serology
+description: ''
 type: date
 tags:
 - Laboratory tests

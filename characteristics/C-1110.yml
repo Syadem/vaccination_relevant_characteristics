@@ -1,6 +1,7 @@
 ---
 id: 1110
 label: Relapsing nephrotic syndrome
+description: ''
 type: boolean
 tags:
 - Chronic condition

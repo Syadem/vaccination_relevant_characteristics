@@ -1,6 +1,7 @@
 ---
 id: 1263
 label: Housed in barracks
+description: ''
 type: boolean
 tags:
 - Living or housing conditions

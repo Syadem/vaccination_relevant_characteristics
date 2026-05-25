@@ -1,6 +1,7 @@
 ---
 id: 114
 label: Parenteral drug abuse
+description: If you are an addict and inject drugs intravenously.
 type: boolean
 tags:
 - Living or housing conditions

@@ -1,6 +1,7 @@
 ---
 id: 1247
 label: Resides in a family foster home
+description: ''
 type: boolean
 tags:
 - Living or housing conditions

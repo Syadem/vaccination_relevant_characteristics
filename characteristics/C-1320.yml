@@ -1,0 +1,12 @@
+---
+id: 1320
+label: Certolizumab
+description: "Check this box if you are taking this medication.\r\nTrade name: Cimzia®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 12 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- anti-TNF therapy
+codes:
+- nomenclature: SYADEM
+  code: 9bfa276b-7a0e-4815-a63a-caf8919ee1b6

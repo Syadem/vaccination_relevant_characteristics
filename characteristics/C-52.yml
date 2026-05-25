@@ -1,6 +1,7 @@
 ---
 id: 52
 label: Pregnancy - Date of last period
+description: A current pregnancy may result in specific vaccine recommendations or contraindications, depending on the disease to be prevented and the individual. To obtain the date of the beginning of the pregnancy, add 14 days to the date of the last menstrual period.
 type: date
 tags:
 - General information

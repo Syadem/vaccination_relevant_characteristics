@@ -1,6 +1,7 @@
 ---
 id: 146
 label: History of measles
+description: Certainty of diagnosis of measles is based on direct detection of the virus (e.g., by PCR) or positive IgM serology at the time of the rash. This box should only be checked if the diagnosis is certain.
 type: boolean
 tags:
 - Medical history

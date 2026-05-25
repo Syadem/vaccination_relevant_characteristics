@@ -1,6 +1,7 @@
 ---
 id: 393
 label: Sharing precarious hygiene conditions with a patient with confirmed hepatitis A
+description: The exposed population is defined by the epidemiological investigation conducted by the Ddass.
 type: boolean
 tags:
 - Emergency situation

@@ -1,6 +1,7 @@
 ---
 id: 1024
 label: Contraindication to HPV vaccination
+description: ''
 type: boolean
 tags:
 - Contra-indications

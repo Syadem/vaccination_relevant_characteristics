@@ -1,6 +1,7 @@
 ---
 id: 107
 label: Employed in the cleaning or maintenance of canals, ponds, lakes, rivers, waterways, banks
+description: ''
 type: boolean
 tags:
 - Profession

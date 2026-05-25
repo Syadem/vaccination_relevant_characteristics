@@ -1,6 +1,7 @@
 ---
 id: 1256
 label: Poultry and fur farm employees
+description: Poultry and fur farm workers are employed on farms that specialize in raising birds for meat and eggs, as well as animals such as minks or foxes for their fur.
 type: boolean
 tags:
 - Profession

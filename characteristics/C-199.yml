@@ -1,6 +1,7 @@
 ---
 id: 199
 label: Other serious neurological condition
+description: Motor neuron disease (amyotrophic lateral sclerosis), myasthenia gravis, Parkinson's disease, cerebral palsy, primary malignant brain tumor, progressive cerebellar disease.
 type: boolean
 tags:
 - Chronic condition

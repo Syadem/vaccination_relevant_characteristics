@@ -1,6 +1,7 @@
 ---
 id: 1220
 label: Fitter Reefer
+description: ''
 type: boolean
 tags:
 - Profession

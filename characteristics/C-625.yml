@@ -1,6 +1,7 @@
 ---
 id: 625
 label: Refusal of rabies vaccination
+description: ''
 type: boolean
 tags:
 - Vaccinations not desired

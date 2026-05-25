@@ -1,6 +1,7 @@
 ---
 id: 480
 label: Marrow transplant, with transplant-induced autoimmune pathology
+description: Transplant-induced autoimmune disease (e.g. lupus, thrombocytopenic purpura).
 type: boolean
 tags:
 - Chronic condition

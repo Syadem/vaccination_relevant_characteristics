@@ -1,6 +1,7 @@
 ---
 id: 1283
 label: Nursery Staff
+description: ''
 type: boolean
 tags:
 - Profession

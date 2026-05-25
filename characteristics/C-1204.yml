@@ -1,6 +1,7 @@
 ---
 id: 1204
 label: Staff working in SPAs
+description: ''
 type: boolean
 tags:
 - Profession

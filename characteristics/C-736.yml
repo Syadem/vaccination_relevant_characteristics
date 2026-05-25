@@ -1,6 +1,7 @@
 ---
 id: 736
 label: Positive post-vaccination hepatitis A serology
+description: This serology consists of measuring total HAV antibodies after a complete hepatitis A vaccination regimen. If in doubt, do not check this box.
 type: boolean
 tags:
 - Laboratory tests

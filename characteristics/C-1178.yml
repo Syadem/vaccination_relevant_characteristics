@@ -1,6 +1,7 @@
 ---
 id: 1178
 label: Security Guard
+description: ''
 type: boolean
 tags:
 - Profession

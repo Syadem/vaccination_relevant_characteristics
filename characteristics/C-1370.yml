@@ -1,0 +1,12 @@
+---
+id: 1370
+label: Crizotinib
+description: "Check this box if you are taking this medication.\r\nTrade name: Xalkori®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 12 months after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Protein kinase inhibitors
+codes:
+- nomenclature: SYADEM
+  code: b14015b5-afd5-40b6-9e5a-5375c262e660

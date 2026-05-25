@@ -1,6 +1,7 @@
 ---
 id: 878
 label: Cerebral arteriovenous malformation
+description: ''
 type: boolean
 tags:
 - Chronic condition

@@ -1,6 +1,7 @@
 ---
 id: 1236
 label: Resides or studies in the Rennes metropolitan area
+description: ''
 type: boolean
 tags:
 - Living or housing conditions

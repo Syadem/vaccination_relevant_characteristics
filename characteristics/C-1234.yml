@@ -1,6 +1,7 @@
 ---
 id: 1234
 label: History of chikungunya
+description: The definitive diagnosis of chikungunya is based on PCR at the time of infection. The diagnosis of a past infection is based on serology.
 type: boolean
 tags:
 - Medical history

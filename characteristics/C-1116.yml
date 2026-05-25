@@ -1,6 +1,7 @@
 ---
 id: 1116
 label: People having close professional contact with chronic ill people
+description: ''
 type: boolean
 tags:
 - Profession

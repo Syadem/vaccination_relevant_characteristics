@@ -1,6 +1,7 @@
 ---
 id: 1154
 label: Travel limited to Taipei and major cities
+description: ''
 type: boolean
 tags:
 - TRAVEL

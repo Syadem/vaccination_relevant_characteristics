@@ -1,6 +1,7 @@
 ---
 id: 197
 label: Stay in a long-term care unit (USLD)
+description: ''
 type: boolean
 tags:
 - Living or housing conditions

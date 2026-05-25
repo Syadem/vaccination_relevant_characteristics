@@ -1,6 +1,7 @@
 ---
 id: 1062
 label: Congenital tuberculosis
+description: ''
 type: boolean
 tags:
 - Medical history

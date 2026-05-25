@@ -1,6 +1,7 @@
 ---
 id: 1046
 label: Acute spinal pain
+description: ''
 type: boolean
 tags:
 - Medical history

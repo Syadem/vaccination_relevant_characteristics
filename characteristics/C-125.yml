@@ -1,6 +1,7 @@
 ---
 id: 125
 label: Chronic hepatitis C virus infection
+description: ''
 type: boolean
 tags:
 - Chronic condition

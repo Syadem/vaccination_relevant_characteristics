@@ -1,6 +1,7 @@
 ---
 id: 488
 label: Veterinary surveillance not possible
+description: ''
 type: boolean
 tags:
 - Emergency situation

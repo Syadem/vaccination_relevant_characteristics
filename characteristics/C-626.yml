@@ -1,6 +1,7 @@
 ---
 id: 626
 label: Refusal of HPV vaccination
+description: ''
 type: boolean
 tags:
 - Vaccinations not desired

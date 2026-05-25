@@ -1,6 +1,7 @@
 ---
 id: 1200
 label: Medical staff on board
+description: ''
 type: boolean
 tags:
 - Profession

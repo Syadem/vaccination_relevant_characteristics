@@ -1,6 +1,7 @@
 ---
 id: 1233
 label: Person regularly receiving normal human immunoglobulins
+description: ''
 type: boolean
 tags:
 - Treatments

@@ -1,6 +1,7 @@
 ---
 id: 852
 label: Works for a service provider and distributor of medical equipment
+description: ''
 type: boolean
 tags:
 - Profession

@@ -1,6 +1,7 @@
 ---
 id: 87
 label: Professional employed in a home care service
+description: ''
 type: boolean
 tags:
 - Profession

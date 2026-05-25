@@ -1,6 +1,7 @@
 ---
 id: 56
 label: Physician
+description: As a central professional in the world of health, the physician examines, diagnoses, orders tests and prescribes pharmaceutical or hospital treatment as required. He follows his patients and manages their health in its entirety. There are general practitioners and specialists in a given pathology.
 type: boolean
 tags:
 - Profession

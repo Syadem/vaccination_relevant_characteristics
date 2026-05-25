@@ -1,6 +1,7 @@
 ---
 id: 1078
 label: Intermediate IGRA
+description: ''
 type: boolean
 tags:
 - Laboratory tests

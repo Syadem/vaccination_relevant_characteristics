@@ -1,6 +1,7 @@
 ---
 id: 1091
 label: 'Normal human immunoglobulin: date of last injection'
+description: ''
 type: date
 tags:
 - Treatments

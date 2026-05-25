@@ -1,6 +1,7 @@
 ---
 id: 5
 label: Severe chronic kidney disease
+description: This includes glomerulonephritis, pyelonephritis, vascular nephropathy, interstitial nephritis, and hereditary or congenital kidney diseases with a chronic course. The severity of the disease is assessed by the physician.
 type: boolean
 tags:
 - Chronic condition

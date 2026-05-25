@@ -1,6 +1,7 @@
 ---
 id: 77
 label: Biomedical Analysis Technician
+description: The medical biology analysis technician is responsible for carrying out medical biology examinations that allow the physician to confirm a diagnosis or detect a disease. The job can be done in a hospital, clinic or in the city.
 type: boolean
 tags:
 - Profession

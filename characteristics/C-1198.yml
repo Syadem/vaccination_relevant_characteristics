@@ -1,6 +1,7 @@
 ---
 id: 1198
 label: Housekeeping staff
+description: ''
 type: boolean
 tags:
 - Profession

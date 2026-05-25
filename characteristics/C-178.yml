@@ -1,6 +1,7 @@
 ---
 id: 178
 label: Speech-Language Pathologist
+description: Speech-language pathologists prevent, identify and treat voice, speech and language disorders in children and adults. One of their main skills is to design and implement rehabilitation programs.
 type: boolean
 tags:
 - Profession

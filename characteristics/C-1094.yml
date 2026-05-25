@@ -1,6 +1,7 @@
 ---
 id: 1094
 label: Other chronic metabolic diseases
+description: ''
 type: boolean
 tags:
 - Chronic condition

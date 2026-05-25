@@ -1,6 +1,7 @@
 ---
 id: 24
 label: HIV infection
+description: HIV stands for human immunodeficiency virus. It is a virus that attacks the body's immune defenses, which can lead to an immunity deficit with an increased risk of viral or bacterial infections. The importance of the deficit depends on the value of the immune cells called CD4.
 type: boolean
 tags:
 - Chronic condition

@@ -1,6 +1,7 @@
 ---
 id: 1123
 label: Waiting for surgery
+description: ''
 type: boolean
 tags:
 - Living or housing conditions

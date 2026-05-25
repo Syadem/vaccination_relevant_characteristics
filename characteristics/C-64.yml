@@ -1,6 +1,7 @@
 ---
 id: 64
 label: Pedicure-Podologue
+description: The chiropodist is a health professional who specializes in the diagnosis and treatment of foot disorders.
 type: boolean
 tags:
 - Profession

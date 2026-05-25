@@ -1,6 +1,7 @@
 ---
 id: 193
 label: Absence of anti-HBs antibodies (<10 IU/L)
+description: ''
 type: boolean
 tags:
 - Laboratory tests

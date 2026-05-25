@@ -1,6 +1,7 @@
 ---
 id: 1190
 label: Upholsterer
+description: ''
 type: boolean
 tags:
 - Profession

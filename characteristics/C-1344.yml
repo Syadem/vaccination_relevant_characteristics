@@ -1,0 +1,12 @@
+---
+id: 1344
+label: Anifrolumab
+description: "Check this box if you are taking this medication.\r\nTrade name: Saphnelo®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 16 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Monoclonal antibodies – Anti-cytokines
+codes:
+- nomenclature: SYADEM
+  code: ba31a1ca-7bc6-45a4-8819-abfb489ad1a5

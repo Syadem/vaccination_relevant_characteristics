@@ -1,6 +1,7 @@
 ---
 id: 156
 label: Employee in a slaughterhouse
+description: ''
 type: boolean
 tags:
 - Profession

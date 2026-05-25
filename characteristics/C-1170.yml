@@ -1,6 +1,7 @@
 ---
 id: 1170
 label: Dormitory accommodation
+description: ''
 type: boolean
 tags:
 - Living or housing conditions

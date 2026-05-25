@@ -1,6 +1,7 @@
 ---
 id: 717
 label: Military mission in East Asia, South-East Asia, the Indian subcontinent, Papua New Guinea or the far north of Australia
+description: " Information for yellow fever and Japanese encephalitis vaccine recommendations."
 type: boolean
 tags:
 - Profession

@@ -1,6 +1,7 @@
 ---
 id: 198
 label: Myopathy or other severe neuromuscular disorder
+description: 'Examples of other serious neuromuscular disorders: poliomyelitis, myasthenia, Charcot disease.'
 type: boolean
 tags:
 - Chronic condition

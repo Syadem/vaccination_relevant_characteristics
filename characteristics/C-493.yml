@@ -1,6 +1,7 @@
 ---
 id: 493
 label: Negative veterinary surveillance result
+description: ''
 type: boolean
 tags:
 - Emergency situation

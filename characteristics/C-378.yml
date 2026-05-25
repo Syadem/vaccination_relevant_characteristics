@@ -1,6 +1,7 @@
 ---
 id: 378
 label: Active health professional
+description: If you are a health care professional but have no chance to come into contact with citizens or patients in the context of a prevention or care activity, do not check this box!
 type: boolean
 tags:
 - Profession

@@ -1,0 +1,12 @@
+---
+id: 1382
+label: Selpercatinib
+description: "Check this box if you are currently taking this medication.\r\nTrade name: Retsevmo®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 12 months after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Protein kinase inhibitors
+codes:
+- nomenclature: SYADEM
+  code: 1becae4f-429f-4d9a-9cb5-104c46b8c5fd

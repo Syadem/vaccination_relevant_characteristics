@@ -1,6 +1,7 @@
 ---
 id: 987
 label: Student dietician
+description: ''
 type: boolean
 tags:
 - Profession

@@ -1,0 +1,12 @@
+---
+id: 1356
+label: Satralizumab
+description: "Check this box if you are taking this medication.\r\nTrade name: Enspryng®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 22 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Monoclonal antibodies – Anti-IL
+codes:
+- nomenclature: SYADEM
+  code: 35f0e1e2-ac83-407f-ad4b-2c7933ce24b8

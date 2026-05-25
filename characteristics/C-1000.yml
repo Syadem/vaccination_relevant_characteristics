@@ -1,6 +1,7 @@
 ---
 id: 1000
 label: Excessive alcohol use
+description: ''
 type: boolean
 tags:
 - General information

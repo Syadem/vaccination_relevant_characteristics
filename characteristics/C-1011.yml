@@ -1,6 +1,7 @@
 ---
 id: 1011
 label: Contraindication to vaccination against pertussis
+description: ''
 type: boolean
 tags:
 - Contra-indications

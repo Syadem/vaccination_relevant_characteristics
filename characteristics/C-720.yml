@@ -1,6 +1,7 @@
 ---
 id: 720
 label: Military mission in the United Arab Emirates, Lebanon, Iraq or Syria
+description: Information for yellow fever vaccine recommendations.
 type: boolean
 tags:
 - Profession

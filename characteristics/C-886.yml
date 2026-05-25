@@ -1,6 +1,7 @@
 ---
 id: 886
 label: Autoimmune pancreatitis (with or without immunosuppressant) type 1 (IgG4 disease)
+description: ''
 type: boolean
 tags:
 - Chronic condition

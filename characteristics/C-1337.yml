@@ -1,0 +1,12 @@
+---
+id: 1337
+label: Abatacept
+description: "Check this box if you are taking this medication.\r\nTrade name: Orencia®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 12 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- T-cell co-stimulation modulators (anti-CD28)
+codes:
+- nomenclature: SYADEM
+  code: ef8e4782-656a-49e2-826d-4747a3e8c9ea

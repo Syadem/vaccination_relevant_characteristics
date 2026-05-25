@@ -1,6 +1,7 @@
 ---
 id: 584
 label: IgG subclass deficiency
+description: Type G immunoglobulins are composed of 4 subgroups called IgG subclasses. Normal serum contains a mixture of the four IgG subclasses with approximately 65% IgG1, 25% IgG2, 5% IgG3 and 2.5% IgG4.They have specific properties, for example IgG2 and IgG4 are responsible for the majority of the immune response against encapsulated bacteria (pneumococcus, Haemophilus influenzae type b).Deficiency in IgG subclasses is responsible for recurrent infections (especially of the upper airways) and autoimmune manifestations (vasculitis).
 type: boolean
 tags:
 - Chronic condition

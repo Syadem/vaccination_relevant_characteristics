@@ -1,6 +1,7 @@
 ---
 id: 1281
 label: High-grade cervical dysplasia
+description: ''
 type: boolean
 tags:
 - Chronic condition

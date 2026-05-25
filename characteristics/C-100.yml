@@ -1,6 +1,7 @@
 ---
 id: 100
 label: Drainer
+description: ''
 type: boolean
 tags:
 - Profession

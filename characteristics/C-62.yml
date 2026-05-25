@@ -1,6 +1,7 @@
 ---
 id: 62
 label: Nurse
+description: Nurses work in private practices, health centers, hospitals and preventive services. Nurses provide care prescribed by physicians and may prescribe certain procedures themselves. The risks of exposure to certain infectious diseases are related to working conditions.
 type: boolean
 tags:
 - Profession

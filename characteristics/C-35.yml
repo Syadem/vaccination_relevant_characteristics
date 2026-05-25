@@ -1,6 +1,7 @@
 ---
 id: 35
 label: Candidate for implantation or holder of a cochlear implant
+description: ''
 type: boolean
 tags:
 - Chronic condition

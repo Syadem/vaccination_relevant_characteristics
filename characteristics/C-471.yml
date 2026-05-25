@@ -1,6 +1,7 @@
 ---
 id: 471
 label: Chronic inflammatory bowel disease
+description: Hemorrhagic rectocolitis (lesions limited to the colon and rectum) and Crohn's disease, which can affect the entire digestive tract.
 type: boolean
 tags:
 - Chronic condition

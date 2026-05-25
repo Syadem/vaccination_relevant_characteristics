@@ -1,6 +1,7 @@
 ---
 id: 1098
 label: Other mental illnesses
+description: ''
 type: boolean
 tags:
 - Chronic condition

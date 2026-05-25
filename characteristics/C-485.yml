@@ -1,6 +1,7 @@
 ---
 id: 485
 label: Living animal
+description: ''
 type: boolean
 tags:
 - Emergency situation

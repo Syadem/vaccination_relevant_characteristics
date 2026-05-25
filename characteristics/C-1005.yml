@@ -1,6 +1,7 @@
 ---
 id: 1005
 label: Care professional
+description: ''
 type: boolean
 tags:
 - Profession

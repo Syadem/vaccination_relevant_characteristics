@@ -1,6 +1,7 @@
 ---
 id: 984
 label: Genetic Counselor
+description: ''
 type: boolean
 tags:
 - Profession

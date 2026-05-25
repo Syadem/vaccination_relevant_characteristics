@@ -1,6 +1,7 @@
 ---
 id: 1037
 label: Other serious cardiovascular disease
+description: Other than a cardiovascular disease displayed in the questionnaire.
 type: boolean
 tags:
 - Chronic condition

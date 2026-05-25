@@ -1,6 +1,7 @@
 ---
 id: 551
 label: Equarisseur
+description: ''
 type: boolean
 tags:
 - Profession

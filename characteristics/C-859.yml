@@ -1,6 +1,7 @@
 ---
 id: 859
 label: Trisomy 21
+description: Trisomy 21 (or Down syndrome) is a congenital chromosomal abnormality caused by the presence of an extra chromosome for the 21st pair.
 type: boolean
 tags:
 - Chronic condition

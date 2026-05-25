@@ -1,6 +1,7 @@
 ---
 id: 1074
 label: Staying near pig farms
+description: Whatever the length of your stay.
 type: boolean
 tags:
 - TRAVEL

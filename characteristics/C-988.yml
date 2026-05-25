@@ -1,6 +1,7 @@
 ---
 id: 988
 label: IDR (mm)
+description: Intradermal tuberculin test
 type: integer
 tags:
 - Laboratory tests

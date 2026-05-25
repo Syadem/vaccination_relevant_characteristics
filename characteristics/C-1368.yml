@@ -1,0 +1,12 @@
+---
+id: 1368
+label: Afatinib
+description: "Check this box if you are currently taking this medication.\r\nTrade name: Giotrif®, Gilotrif®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 12 months after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Protein kinase inhibitors
+codes:
+- nomenclature: SYADEM
+  code: b798c78c-5379-4d36-9d0c-11d3880bdc0b

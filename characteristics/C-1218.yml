@@ -1,6 +1,7 @@
 ---
 id: 1218
 label: Engine Storekeeper
+description: ''
 type: boolean
 tags:
 - Profession

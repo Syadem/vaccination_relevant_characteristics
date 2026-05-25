@@ -1,6 +1,7 @@
 ---
 id: 118
 label: Child or adolescent in a service or institution for disabled children and youth
+description: ''
 type: boolean
 tags:
 - Living or housing conditions

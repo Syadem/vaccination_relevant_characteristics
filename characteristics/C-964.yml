@@ -1,6 +1,7 @@
 ---
 id: 964
 label: Result of the last anti-S quantitative covid serology performed (BAU/mL)
+description: This serology is used to guide vaccination against covid in severely immunocompromised individuals.
 type: integer
 tags:
 - Laboratory tests

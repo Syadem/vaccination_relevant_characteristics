@@ -1,0 +1,12 @@
+---
+id: 1334
+label: Guselkumab
+description: "Check this box if you are currently taking this medication.\r\nTrade name: Tremfya®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine should be delayed for 13 to 21 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Interleukin-23 inhibitors
+codes:
+- nomenclature: SYADEM
+  code: 9c96b1ea-422f-4035-91fb-46e9eaeec2f6

@@ -1,6 +1,15 @@
 ---
 id: 934
 label: Other risk factor for severe pneumococcal disease (child)
+description: |-
+  Groups of children at high risk for invasive pneumococcal infection include:
+  - Human immunodeficiency virus (HIV) infection
+  - Sickle cell disease, functional or anatomic asplenia
+  Cerebral-meningeal barrier defect/fistula
+  - Cochlear implant
+  - Chronic diseases such as cardiovascular, pulmonary (except asthma), hepatic, nephrotic syndrome, diabetes
+  - Constitutional immune deficiencies (including complement and properdin deficiencies) or secondary to immunosuppressive treatments (lymphomas, leukemias, cancers, organ transplants)
+  - Premature infants with a gestational age of less than 32 weeks and infants with a birth weight of less than 1,500 g are at transiently high risk of invasive pneumococcal infection up to 24 months of age.
 type: boolean
 tags:
 - Factors that may promote certain diseases prevented by vaccines

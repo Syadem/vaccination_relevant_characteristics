@@ -1,6 +1,7 @@
 ---
 id: 1159
 label: Rheumatoid arthritis
+description: ''
 type: boolean
 tags:
 - Chronic condition

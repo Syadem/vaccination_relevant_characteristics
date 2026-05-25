@@ -1,6 +1,7 @@
 ---
 id: 1101
 label: Long-term care centre users
+description: ''
 type: boolean
 tags:
 - Living or housing conditions

@@ -1,6 +1,7 @@
 ---
 id: 495
 label: Result of the ongoing veterinary surveillance
+description: ''
 type: boolean
 tags:
 - Emergency situation

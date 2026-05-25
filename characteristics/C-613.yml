@@ -1,6 +1,7 @@
 ---
 id: 613
 label: Refusal of vaccination against diphtheria-tetanus-polio and/or pertussis
+description: ''
 type: boolean
 tags:
 - Vaccinations not desired

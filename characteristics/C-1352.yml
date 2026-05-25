@@ -1,0 +1,12 @@
+---
+id: 1352
+label: Obinutuzumab
+description: "Check this box if you are currently taking this medication.\r\nTrade name: Gazyvaro®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 12 months after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Monoclonal antibodies – Anti-CD20
+codes:
+- nomenclature: SYADEM
+  code: af6b8680-4a8a-4482-a276-6c72f909c38c

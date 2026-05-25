@@ -1,6 +1,7 @@
 ---
 id: 679
 label: Works in a medical or research laboratory handling material contaminated or likely to be contaminated with rabies virus
+description: ''
 type: boolean
 tags:
 - Profession

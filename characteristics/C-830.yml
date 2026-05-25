@@ -1,6 +1,7 @@
 ---
 id: 830
 label: Hyper IgM syndrome
+description: 'This syndrome is characterized by hypogammaglobulinemia of IgG and IgA with a normal or increased level of IgM.) Situations accompanied by a deficiency in cellular immunity: mutation of the gene coding for CD40 ligand, a molecule involved in isotypic switching in the germinal center during antigenic stimulation; mutation of the NEMO gene.2) Hyper IgM syndromes with isolated humoral deficiency linked to an intrinsic abnormality of the B lymphocytes by mutations of the genes coding for AID and UNG preventing isotypic switching and not associated with T cell defects.As in other hypogammaglobulinemias, infections are dominated by respiratory and ENT infections with encapsulated bacteria (S. pneumoniae, Haemophilus), and more rarely with pyogenes. P. aeruginosa is isolated in cases of bronchial dilatation. Digestive infections are frequent with a high prevalence of giardiasis.In case of associated cellular deficiency, other germs are involved: Pneumocystis, cryptosporidia responsible for diarrhea and sclerosing cholangitis.'
 type: boolean
 tags:
 - Chronic condition

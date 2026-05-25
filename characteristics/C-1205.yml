@@ -1,6 +1,7 @@
 ---
 id: 1205
 label: Supply department staff
+description: ''
 type: boolean
 tags:
 - Profession

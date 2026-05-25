@@ -1,6 +1,7 @@
 ---
 id: 966
 label: Date of hematopoietic stem cell transplant (marrow transplant)
+description: ''
 type: date
 tags:
 - Chronic condition

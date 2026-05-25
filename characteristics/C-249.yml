@@ -1,6 +1,7 @@
 ---
 id: 249
 label: Works in a medical biology laboratory
+description: 'Professionals exposed to the risks of contamination: handling contaminated or potentially contaminated material.'
 type: boolean
 tags:
 - Profession

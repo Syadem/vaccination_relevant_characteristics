@@ -1,6 +1,7 @@
 ---
 id: 962
 label: Weight (kg)
+description: ''
 type: integer
 tags:
 - General information

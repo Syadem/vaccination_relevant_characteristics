@@ -1,6 +1,7 @@
 ---
 id: 655
 label: Rubella serology unknown or not done
+description: ''
 type: boolean
 tags:
 - Laboratory tests

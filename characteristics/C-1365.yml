@@ -1,0 +1,12 @@
+---
+id: 1365
+label: Teriflunomide
+description: "Check this box if you are taking this medication.\r\nTrade name: Aubagio®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine should be delayed for 6 months after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Dihydroorotate dehydrogenase inhibitors
+codes:
+- nomenclature: SYADEM
+  code: c7f4966b-af2c-49d4-8d6e-460b9919b0b1

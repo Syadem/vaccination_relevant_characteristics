@@ -1,6 +1,7 @@
 ---
 id: 7
 label: Double heterozygous sickle cell disease
+description: 'Double heterozygous sickle cell disease : Hb S/C, Hb SE or thalasso-sickle cell disease.'
 type: boolean
 tags:
 - Chronic condition

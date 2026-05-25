@@ -1,6 +1,7 @@
 ---
 id: 19
 label: Waiting for an organ transplant (kidney, heart, liver or lung)
+description: 'Concerns patients waiting for a solid organ transplant: kidney, heart, liver or lung.'
 type: boolean
 tags:
 - Chronic condition

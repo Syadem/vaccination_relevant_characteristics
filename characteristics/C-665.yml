@@ -1,6 +1,7 @@
 ---
 id: 665
 label: Refusal of shingles vaccination
+description: ''
 type: boolean
 tags:
 - Vaccinations not desired

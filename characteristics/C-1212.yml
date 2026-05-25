@@ -1,6 +1,7 @@
 ---
 id: 1212
 label: Assistant Reefer Fitter
+description: ''
 type: boolean
 tags:
 - Profession

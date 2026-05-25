@@ -1,6 +1,7 @@
 ---
 id: 1300
 label: No treatment
+description: ''
 type: boolean
 tags:
 - Treatments

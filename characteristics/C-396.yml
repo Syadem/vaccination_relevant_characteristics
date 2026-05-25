@@ -1,6 +1,7 @@
 ---
 id: 396
 label: Positive pre-vaccination hepatitis A serology
+description: This serology consists of detecting the presence of total antibodies (IgG and IgM) against the hepatitis A virus (HAV). A positive serology indicates the previous occurrence of hepatitis A. Hepatitis A can occur in children without clinical signs. If you have already had hepatitis A, you are definitely protected against this disease and vaccination against hepatitis A is not necessary.
 type: boolean
 tags:
 - Laboratory tests

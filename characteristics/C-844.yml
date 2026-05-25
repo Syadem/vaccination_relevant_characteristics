@@ -1,6 +1,7 @@
 ---
 id: 844
 label: Home Help
+description: Home help via the universal service employment check.
 type: boolean
 tags:
 - Profession

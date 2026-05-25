@@ -1,6 +1,7 @@
 ---
 id: 710
 label: Military mission in France OM (DROM, COM, POM)
+description: " Information for yellow fever vaccination recommendations.  DROM: overseas departments and regions COM: overseas communities POM: overseas countries (Polynesia, New Caledonia)"
 type: boolean
 tags:
 - Profession

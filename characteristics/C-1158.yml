@@ -1,6 +1,7 @@
 ---
 id: 1158
 label: Chronic depression disorder
+description: ''
 type: boolean
 tags:
 - Chronic condition

@@ -1,0 +1,12 @@
+---
+id: 1315
+label: Thiotepa
+description: "Check this box if you are taking this medication.\r\nTrade name: Tepadina®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine should be delayed for 6 months after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Alkylating agents
+codes:
+- nomenclature: SYADEM
+  code: 677849d8-6aeb-4031-a1b6-95279152aa0d

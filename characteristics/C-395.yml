@@ -1,6 +1,7 @@
 ---
 id: 395
 label: Previous stay of more than one year in a country with high endemicity for hepatitis A
+description: Most countries with low hygiene levels are concerned (Africa, tropical Asia, South America, Eastern Europe...), even in case of a long stay.
 type: boolean
 tags:
 - General information

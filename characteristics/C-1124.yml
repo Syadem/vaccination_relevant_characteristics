@@ -1,6 +1,7 @@
 ---
 id: 1124
 label: Date of administration of the RSV vaccine to the mother during pregnancy
+description: ''
 type: date
 tags:
 - Entourage

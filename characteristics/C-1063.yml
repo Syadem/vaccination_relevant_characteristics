@@ -1,6 +1,7 @@
 ---
 id: 1063
 label: Date of last rabies serology
+description: ''
 type: date
 tags:
 - Laboratory tests

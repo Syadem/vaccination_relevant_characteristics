@@ -1,6 +1,7 @@
 ---
 id: 1251
 label: Stay in a pre-adoption intervention center
+description: ''
 type: boolean
 tags:
 - Living or housing conditions

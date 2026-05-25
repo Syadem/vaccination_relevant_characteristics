@@ -1,6 +1,7 @@
 ---
 id: 1017
 label: Contraindication to vaccination against pneumococcal disease
+description: ''
 type: boolean
 tags:
 - Contra-indications

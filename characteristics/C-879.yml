@@ -1,6 +1,7 @@
 ---
 id: 879
 label: Hereditary cerebral cavernoma
+description: ''
 type: boolean
 tags:
 - Chronic condition

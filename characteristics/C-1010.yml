@@ -1,6 +1,7 @@
 ---
 id: 1010
 label: Congenital immune deficiency, with strong immunosuppression
+description: ''
 type: boolean
 tags:
 - Chronic condition

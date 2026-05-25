@@ -1,6 +1,7 @@
 ---
 id: 989
 label: Anti-HBs Ac (IU/L)
+description: ''
 type: integer
 tags:
 - Laboratory tests

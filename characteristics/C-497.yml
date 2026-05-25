@@ -1,6 +1,7 @@
 ---
 id: 497
 label: Result of the biological diagnosis in progress
+description: ''
 type: boolean
 tags:
 - Emergency situation

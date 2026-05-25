@@ -1,6 +1,7 @@
 ---
 id: 698
 label: Medical Auxiliary in the French Army
+description: 'Military personnel who have undergone medical specialty training to perform technical and administrative functions in support of medical teams such as casualty care and safe evacuation. Also complete the Military section.  '
 type: boolean
 tags:
 - Profession

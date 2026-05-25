@@ -1,6 +1,7 @@
 ---
 id: 1121
 label: Close professional contact with an infant under 6 months of age
+description: ''
 type: boolean
 tags:
 - Profession

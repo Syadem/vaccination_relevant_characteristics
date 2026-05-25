@@ -1,6 +1,7 @@
 ---
 id: 1221
 label: Incinerator Man
+description: ''
 type: boolean
 tags:
 - Profession

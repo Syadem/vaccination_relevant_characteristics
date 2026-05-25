@@ -1,6 +1,7 @@
 ---
 id: 969
 label: Date of penultimate COVID-19
+description: 'To be completed if you have had two or three separate documented infections of covid 19: biological evidence is required (RT-PCR or antigenic test) for each episode.'
 type: date
 tags:
 - Medical history

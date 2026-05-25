@@ -1,6 +1,7 @@
 ---
 id: 252
 label: Works in a clinic or health center
+description: ''
 type: boolean
 tags:
 - Profession

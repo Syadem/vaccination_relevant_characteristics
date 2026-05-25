@@ -1,6 +1,7 @@
 ---
 id: 688
 label: This baby's mother is considered immune to measles (documented history of measles or 2 doses of a measles vaccine)
+description: 'Immunized Mom: Check this box if mom has a documented history of measles or has received two doses of a measles vaccine. Consult your doctor quickly!'
 type: boolean
 tags:
 - Emergency situation

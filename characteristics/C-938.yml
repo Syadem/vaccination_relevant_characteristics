@@ -1,6 +1,7 @@
 ---
 id: 938
 label: Unused - Treatment with anti-SARS-CoV-2 monoclonal antibodies
+description: ''
 type: boolean
 tags:
 - Treatments

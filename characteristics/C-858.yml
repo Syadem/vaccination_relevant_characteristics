@@ -1,6 +1,7 @@
 ---
 id: 858
 label: Dietitian
+description: ''
 type: boolean
 tags:
 - Profession

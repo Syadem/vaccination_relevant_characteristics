@@ -1,6 +1,7 @@
 ---
 id: 1174
 label: Master
+description: ''
 type: boolean
 tags:
 - Profession

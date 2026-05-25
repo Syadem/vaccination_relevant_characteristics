@@ -1,6 +1,7 @@
 ---
 id: 581
 label: Severe chronic neutropenia
+description: Patients with chronic neutropenia have a permanent or recurrent drop in neutrophils below 1,500 per mm3, resulting in susceptibility to bacterial infections (staphylococcus, streptococcus, gram-negative bacilli) and mycotic infections (candidiasis, systemic aspergillosis). They also have gingivostomatitis. Severe neutropenia is defined as a neutrophil count of less than 500 mm3.
 type: boolean
 tags:
 - Chronic condition

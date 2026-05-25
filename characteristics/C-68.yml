@@ -1,6 +1,7 @@
 ---
 id: 68
 label: Medical studies
+description: ''
 type: boolean
 tags:
 - Profession

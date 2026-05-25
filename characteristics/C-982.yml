@@ -1,6 +1,7 @@
 ---
 id: 982
 label: Osteopathic student
+description: ''
 type: boolean
 tags:
 - Profession

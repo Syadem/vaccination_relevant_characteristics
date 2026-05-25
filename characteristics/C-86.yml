@@ -1,6 +1,7 @@
 ---
 id: 86
 label: Works in an establishment for dependent elderly people (EHPAD)
+description: Retirement home.
 type: boolean
 tags:
 - Profession

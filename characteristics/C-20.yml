@@ -1,6 +1,7 @@
 ---
 id: 20
 label: Person likely to receive massive or iterative transfusions
+description: ''
 type: boolean
 tags:
 - Chronic condition

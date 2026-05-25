@@ -1,6 +1,7 @@
 ---
 id: 940
 label: Unused - Myocarditis or pericarditis of etiology not related to SARS-CoV-2 infection, occurring prior to vaccination and still evolving.
+description: ''
 type: boolean
 tags:
 - Medical history

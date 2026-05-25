@@ -1,6 +1,7 @@
 ---
 id: 853
 label: Hospital Service Officer (ASH)
+description: ''
 type: boolean
 tags:
 - Profession

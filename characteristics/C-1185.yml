@@ -1,6 +1,7 @@
 ---
 id: 1185
 label: Able Seaman
+description: ''
 type: boolean
 tags:
 - Profession

@@ -1,6 +1,7 @@
 ---
 id: 1195
 label: Kitchen staff
+description: ''
 type: boolean
 tags:
 - Profession

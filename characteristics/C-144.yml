@@ -1,6 +1,7 @@
 ---
 id: 144
 label: Family receiving CMU, CMUc or AME
+description: The Universal Health Coverage (CMU) is a compulsory health protection for people living in France who are not already covered by another compulsory health insurance scheme. The complementary C.M.U. (CMUc) is a complementary protection (comparable to a mutual insurance company) granted on a means test. The Aide Médicale de l'Etat (AME) allows access to health care for foreigners living in France.
 type: boolean
 tags:
 - Entourage

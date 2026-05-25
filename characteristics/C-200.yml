@@ -1,6 +1,7 @@
 ---
 id: 200
 label: History of stroke
+description: ''
 type: boolean
 tags:
 - Chronic condition

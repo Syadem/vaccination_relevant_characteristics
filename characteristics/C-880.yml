@@ -1,6 +1,7 @@
 ---
 id: 880
 label: Rare systemic autoimmune disease with immunosuppressive therapy
+description: Immunosuppressive therapy:Patients who will receive corticosteroids (;gt;15 mg for more than 3 weeks)Patients who will receive immunosuppressive drugs and RITUXIMAB
 type: boolean
 tags:
 - Chronic condition

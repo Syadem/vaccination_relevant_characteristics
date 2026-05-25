@@ -1,6 +1,7 @@
 ---
 id: 446
 label: Other profession in the medico-social field
+description: ''
 type: boolean
 tags:
 - Profession

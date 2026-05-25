@@ -1,6 +1,7 @@
 ---
 id: 472
 label: Other autoimmune disease
+description: 'Autoimmune diseases are a group of diseases related to the immune system. They are characterized by an aggression of the body by its own immune cells. Treatments for this type of disease are therefore aimed at suppressing the over-reactive immune system and are called "immunosuppressants". Examples: Gougerot-Sjögren syndrome Dermatomyositis Polymyositis'
 type: boolean
 tags:
 - Chronic condition

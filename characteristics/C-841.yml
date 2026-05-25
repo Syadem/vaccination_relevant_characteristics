@@ -1,6 +1,7 @@
 ---
 id: 841
 label: Student stretcher bearer
+description: ''
 type: boolean
 tags:
 - Profession

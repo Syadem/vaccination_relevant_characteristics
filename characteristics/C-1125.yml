@@ -1,6 +1,7 @@
 ---
 id: 1125
 label: Exclusive stay in a mountainous area
+description: ''
 type: boolean
 tags:
 - TRAVEL

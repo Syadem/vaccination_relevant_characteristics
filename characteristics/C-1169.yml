@@ -1,6 +1,7 @@
 ---
 id: 1169
 label: Metastatic cancer
+description: ''
 type: boolean
 tags:
 - Chronic condition

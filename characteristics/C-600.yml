@@ -1,6 +1,7 @@
 ---
 id: 600
 label: HBV DNA positive
+description: ''
 type: boolean
 tags:
 - Laboratory tests

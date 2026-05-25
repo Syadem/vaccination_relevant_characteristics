@@ -1,6 +1,7 @@
 ---
 id: 534
 label: Resides in a residential facility for disabled adults
+description: Includes people with vulnerable disabilities living in a specialized home (MAS) or a medicalized home (FAM).
 type: boolean
 tags:
 - Living or housing conditions

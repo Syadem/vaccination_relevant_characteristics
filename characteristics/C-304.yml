@@ -1,6 +1,7 @@
 ---
 id: 304
 label: Severe asthma under continuous treatment
+description: Level 5 according to GINA, Global Initiative for Asthma, version 2020, cortico-dependent (on oral corticosteroids)
 type: boolean
 tags:
 - Chronic condition

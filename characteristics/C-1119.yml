@@ -1,6 +1,7 @@
 ---
 id: 1119
 label: Border guard
+description: ''
 type: boolean
 tags:
 - Profession

@@ -1,6 +1,7 @@
 ---
 id: 997
 label: Trans person
+description: This risk factor has been identified by the health authorities. There is nothing shocking about it! The goal is to inform and prevent.
 type: boolean
 tags:
 - Living or housing conditions

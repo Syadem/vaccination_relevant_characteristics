@@ -1,0 +1,12 @@
+---
+id: 1372
+label: Dasatinib
+description: "Check this box if you are taking this medication.\r\nTrade name: Sprycel®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 12 months after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Protein kinase inhibitors
+codes:
+- nomenclature: SYADEM
+  code: '004693f5-e2d4-4fe0-95bc-2033a3f438f8'

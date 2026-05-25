@@ -1,6 +1,7 @@
 ---
 id: 1191
 label: Cadet
+description: ''
 type: boolean
 tags:
 - Profession

@@ -1,0 +1,12 @@
+---
+id: 1389
+label: Bevacizumab
+description: "Check this box if you are currently receiving treatment with this molecule.\r\nTrade names: Avastin®, Mvasi®, Zirabev®, Alymsys®.\r\nThis product is likely to have a low immunosuppressive effect.\r\nAdministration of a live attenuated vaccine should be delayed for 4 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Anti-VEGF
+codes:
+- nomenclature: SYADEM
+  code: c8baec13-ac95-4b67-8c1d-723924c5d538

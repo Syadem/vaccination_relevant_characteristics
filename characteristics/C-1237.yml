@@ -1,6 +1,7 @@
 ---
 id: 1237
 label: Resides in a medico-social care facility
+description: Applies to individuals residing in medical and residential care facilities, foster families, homes for mothers with young children and pregnant women, childcare facilities, pre-adoption intervention centers, or children’s leisure centers.
 type: boolean
 tags:
 - Living or housing conditions

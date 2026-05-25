@@ -1,6 +1,7 @@
 ---
 id: 1114
 label: Administrative staff working in healthcare segment
+description: ''
 type: boolean
 tags:
 - Profession

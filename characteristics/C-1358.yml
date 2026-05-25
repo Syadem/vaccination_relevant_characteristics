@@ -1,0 +1,12 @@
+---
+id: 1358
+label: Apremilast
+description: "Check this box if you are taking this medication.\r\nTrade name: Otezla®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine should be delayed for 4 weeks after stopping treatment."
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Phosphodiesterase inhibitors
+codes:
+- nomenclature: SYADEM
+  code: 3f101ea7-920a-4522-bc26-3830aef0ee2b
