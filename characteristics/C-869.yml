@@ -1,7 +1,7 @@
 ---
 id: 869
 label: Consent to be vaccinated against covid 19 collected by the health professional
-description: ''
+description:
 type: boolean
 tags:
 - Vaccination consent

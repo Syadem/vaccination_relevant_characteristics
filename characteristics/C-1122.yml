@@ -1,7 +1,7 @@
 ---
 id: 1122
 label: Woman considering pregnancy
-description: ''
+description:
 type: boolean
 tags:
 - General information

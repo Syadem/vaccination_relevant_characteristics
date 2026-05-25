@@ -1,7 +1,7 @@
 ---
 id: 213
 label: Midwifery studies
-description: ''
+description:
 type: boolean
 tags:
 - Profession

@@ -1,7 +1,7 @@
 ---
 id: 860
 label: Profession in the food industry
-description: ''
+description:
 type: boolean
 tags:
 - Profession

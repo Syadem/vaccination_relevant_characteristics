@@ -1,7 +1,7 @@
 ---
 id: 1155
 label: Stay in an urban area only
-description: ''
+description:
 type: boolean
 tags:
 - TRAVEL

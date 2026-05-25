@@ -1,7 +1,7 @@
 ---
 id: 935
 label: Health professional
-description: ''
+description:
 type: boolean
 tags:
 - Profession

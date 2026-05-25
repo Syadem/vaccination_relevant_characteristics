@@ -1,7 +1,7 @@
 ---
 id: 229
 label: Psychomotrician student
-description: ''
+description:
 type: boolean
 tags:
 - Profession

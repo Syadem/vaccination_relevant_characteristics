@@ -1,7 +1,7 @@
 ---
 id: 742
 label: Mission of a military member in a country endemic for yellow fever other than a country in Central or West Africa and Guyana
-description: ''
+description:
 type: boolean
 tags:
 - Profession

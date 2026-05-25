@@ -1,7 +1,7 @@
 ---
 id: 18
 label: Chronic renal failure NOT on dialysis
-description: ''
+description:
 type: boolean
 tags:
 - Chronic condition

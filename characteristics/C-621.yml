@@ -1,7 +1,7 @@
 ---
 id: 621
 label: Refusal of yellow fever vaccination
-description: ''
+description:
 type: boolean
 tags:
 - Vaccinations not desired

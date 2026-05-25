@@ -1,7 +1,7 @@
 ---
 id: 487
 label: Missing animal
-description: ''
+description:
 type: boolean
 tags:
 - Emergency situation

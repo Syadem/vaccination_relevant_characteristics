@@ -1,7 +1,7 @@
 ---
 id: 1015
 label: Contraindication to hepatitis A vaccination
-description: ''
+description:
 type: boolean
 tags:
 - Contra-indications

@@ -1,7 +1,7 @@
 ---
 id: 620
 label: Refusal to vaccinate against typhoid
-description: ''
+description:
 type: boolean
 tags:
 - Vaccinations not desired

@@ -1,7 +1,7 @@
 ---
 id: 980
 label: Student optician
-description: ''
+description:
 type: boolean
 tags:
 - Profession

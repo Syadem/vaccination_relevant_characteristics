@@ -1,7 +1,7 @@
 ---
 id: 1012
 label: Contraindication to vaccination against diphtheria, tetanus and poliomyelitis (DTP)
-description: ''
+description:
 type: boolean
 tags:
 - Contra-indications

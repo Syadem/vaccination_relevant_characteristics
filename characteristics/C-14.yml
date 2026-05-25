@@ -1,7 +1,7 @@
 ---
 id: 14
 label: Chronic hepatitis B virus infection
-description: ''
+description:
 type: boolean
 tags:
 - Chronic condition

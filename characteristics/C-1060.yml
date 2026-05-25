@@ -1,7 +1,7 @@
 ---
 id: 1060
 label: Biological tests targeting abnormal osteoporosis
-description: ''
+description:
 type: boolean
 tags:
 - Laboratory tests

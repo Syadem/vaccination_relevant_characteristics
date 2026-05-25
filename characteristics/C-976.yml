@@ -1,7 +1,7 @@
 ---
 id: 976
 label: Fireman sailor
-description: ''
+description:
 type: boolean
 tags:
 - Profession

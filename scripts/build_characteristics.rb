@@ -15,7 +15,7 @@ def handle_groups(groups, groups_by_parent_id, conditions_by_id, additional_medc
       condition_data = {
         "id" => condition.code.to_i,
         "label" => condition.label,
-        "description" => condition.help,
+        "description" => condition.help.length > 0 ? condition.help : nil,
         "type" => condition.type.to_s.downcase,
         "tags" => [*parents, group.label],
         "codes" => [{ "nomenclature" => "SYADEM", "code" => condition.id }]
@@ -28,7 +28,7 @@ def handle_groups(groups, groups_by_parent_id, conditions_by_id, additional_medc
 
         translation_data = {
           "label" => translated_condition.label,
-          "description" => translated_condition.help
+          "description" => translated_condition.help.length > 0 ? translated_condition.help : nil
         }
 
         File.write("#{TRANSLATIONS_BASE_PATH}/#{lang}/C-#{condition.code}.yml", translation_data.to_yaml(line_width: -1))

@@ -1,7 +1,7 @@
 ---
 id: 1192
 label: Staff working at the ship's bar
-description: ''
+description:
 type: boolean
 tags:
 - Profession

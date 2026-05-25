@@ -1,7 +1,7 @@
 ---
 id: 498
 label: Result of the positive biological diagnosis
-description: ''
+description:
 type: boolean
 tags:
 - Emergency situation

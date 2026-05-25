@@ -1,7 +1,7 @@
 ---
 id: 1105
 label: People having close family contact with chronic ill people
-description: ''
+description:
 type: boolean
 tags:
 - Living or housing conditions

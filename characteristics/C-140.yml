@@ -1,7 +1,7 @@
 ---
 id: 140
 label: Active military
-description: ''
+description:
 type: boolean
 tags:
 - Profession

@@ -1,7 +1,7 @@
 ---
 id: 1262
 label: Accommodation in a university residence.
-description: ''
+description:
 type: boolean
 tags:
 - Living or housing conditions

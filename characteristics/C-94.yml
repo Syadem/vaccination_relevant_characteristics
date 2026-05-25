@@ -1,7 +1,7 @@
 ---
 id: 94
 label: Employee in an undertaker's business, not linked to a prevention or care establishment
-description: ''
+description:
 type: boolean
 tags:
 - Profession

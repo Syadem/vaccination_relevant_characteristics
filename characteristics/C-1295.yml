@@ -1,7 +1,7 @@
 ---
 id: 1295
 label: Contact with a dead animal, regardless of its origin or vaccination status
-description: ''
+description:
 type: boolean
 tags:
 - Emergency situation

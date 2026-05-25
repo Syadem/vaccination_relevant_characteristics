@@ -1,7 +1,7 @@
 ---
 id: 1014
 label: Contraindication to vaccination against Haemophilus influenzae type b
-description: ''
+description:
 type: boolean
 tags:
 - Contra-indications

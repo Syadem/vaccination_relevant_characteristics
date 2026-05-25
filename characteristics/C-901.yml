@@ -1,7 +1,7 @@
 ---
 id: 901
 label: Pulmonary Arterial Hypertension (PAH)
-description: ''
+description:
 type: boolean
 tags:
 - Chronic condition

@@ -1,7 +1,7 @@
 ---
 id: 1194
 label: In-flight entertainment staff
-description: ''
+description:
 type: boolean
 tags:
 - Profession

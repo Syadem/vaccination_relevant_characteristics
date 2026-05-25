@@ -1,7 +1,7 @@
 ---
 id: 622
 label: Refusal of flu vaccination
-description: ''
+description:
 type: boolean
 tags:
 - Vaccinations not desired

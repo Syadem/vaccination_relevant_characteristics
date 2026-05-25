@@ -1,7 +1,7 @@
 ---
 id: 163
 label: Negative rubella serology
-description: ''
+description:
 type: boolean
 tags:
 - Laboratory tests

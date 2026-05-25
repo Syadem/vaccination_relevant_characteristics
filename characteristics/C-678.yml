@@ -1,7 +1,7 @@
 ---
 id: 678
 label: History of allergy during a previous influenza vaccination
-description: ''
+description:
 type: boolean
 tags:
 - Medical history

@@ -1,7 +1,7 @@
 ---
 id: 1025
 label: Refusal of rotavirus vaccination
-description: ''
+description:
 type: boolean
 tags:
 - Vaccinations not desired

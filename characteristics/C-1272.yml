@@ -1,7 +1,7 @@
 ---
 id: 1272
 label: History of seizures
-description: ''
+description:
 type: boolean
 tags:
 - Chronic condition

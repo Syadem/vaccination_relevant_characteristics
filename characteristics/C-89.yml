@@ -1,7 +1,7 @@
 ---
 id: 89
 label: Maternal assistant
-description: ''
+description:
 type: boolean
 tags:
 - Profession

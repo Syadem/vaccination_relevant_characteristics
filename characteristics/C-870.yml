@@ -1,7 +1,7 @@
 ---
 id: 870
 label: Refusal to vaccinate against covid 19 collected by the health professional
-description: ''
+description:
 type: boolean
 tags:
 - Vaccination consent

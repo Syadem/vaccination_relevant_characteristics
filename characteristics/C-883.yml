@@ -1,7 +1,7 @@
 ---
 id: 883
 label: Myopathy with forced vital capacities lower than 70
-description: ''
+description:
 type: boolean
 tags:
 - Chronic condition

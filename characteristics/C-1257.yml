@@ -1,7 +1,7 @@
 ---
 id: 1257
 label: Haemolytic uraemic syndrome (HUS)
-description: ''
+description:
 type: boolean
 tags:
 - Chronic condition

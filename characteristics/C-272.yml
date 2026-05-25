@@ -1,7 +1,7 @@
 ---
 id: 272
 label: Works in an immunocompromised ward
-description: ''
+description:
 type: boolean
 tags:
 - Profession

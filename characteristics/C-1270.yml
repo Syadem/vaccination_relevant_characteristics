@@ -1,7 +1,7 @@
 ---
 id: 1270
 label: Cardiopulmonary bypass
-description: ''
+description:
 type: boolean
 tags:
 - Chronic condition

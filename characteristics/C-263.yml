@@ -1,7 +1,7 @@
 ---
 id: 263
 label: Works in an institution or service of the judicial protection of youth
-description: ''
+description:
 type: boolean
 tags:
 - Profession

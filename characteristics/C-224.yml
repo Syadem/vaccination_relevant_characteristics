@@ -1,7 +1,7 @@
 ---
 id: 224
 label: Student medical electroradiology manipulator
-description: ''
+description:
 type: boolean
 tags:
 - Profession

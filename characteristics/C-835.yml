@@ -1,7 +1,7 @@
 ---
 id: 835
 label: Pending initiation of therapy that affects immunity
-description: ''
+description:
 type: boolean
 tags:
 - Treatments

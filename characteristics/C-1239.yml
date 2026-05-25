@@ -1,7 +1,7 @@
 ---
 id: 1239
 label: Congenital spherocytosis
-description: ''
+description:
 type: boolean
 tags:
 - Chronic condition

@@ -1,7 +1,7 @@
 ---
 id: 1057
 label: Spine T-score
-description: ''
+description:
 type: float
 tags:
 - Additional examinations

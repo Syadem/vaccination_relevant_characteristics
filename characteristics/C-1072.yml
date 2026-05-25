@@ -1,7 +1,7 @@
 ---
 id: 1072
 label: Professionals working with patients suffering from cholera
-description: ''
+description:
 type: boolean
 tags:
 - TRAVEL

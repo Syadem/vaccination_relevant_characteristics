@@ -1,7 +1,7 @@
 ---
 id: 687
 label: Intranasal drug abuse
-description: ''
+description:
 type: boolean
 tags:
 - Living or housing conditions

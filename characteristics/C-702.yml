@@ -1,7 +1,7 @@
 ---
 id: 702
 label: Measles immunization status of mother not specified
-description: ''
+description:
 type: boolean
 tags:
 - Emergency situation

@@ -1,7 +1,7 @@
 ---
 id: 996
 label: Congenital immune deficiency, without strong immunosuppression
-description: ''
+description:
 type: boolean
 tags:
 - Chronic condition

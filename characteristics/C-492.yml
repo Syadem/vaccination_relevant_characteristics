@@ -1,7 +1,7 @@
 ---
 id: 492
 label: Direct contact with another mammal (dog, cat, ferret, rat, squirrel, deer, bovine, ovine, caprine, equine, chiropteran, wildlife) in a rabies enzootic area.
-description: ''
+description:
 type: boolean
 tags:
 - Emergency situation

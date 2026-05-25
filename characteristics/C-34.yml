@@ -1,7 +1,7 @@
 ---
 id: 34
 label: Osteo-meningeal breach
-description: ''
+description:
 type: boolean
 tags:
 - Chronic condition

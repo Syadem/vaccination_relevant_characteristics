@@ -1,7 +1,7 @@
 ---
 id: 1298
 label: No infectious disease
-description: ''
+description:
 type: boolean
 tags:
 - Medical history

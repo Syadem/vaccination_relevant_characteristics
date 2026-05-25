@@ -1,7 +1,7 @@
 ---
 id: 986
 label: Student pharmacy assistant, receiving patients
-description: ''
+description:
 type: boolean
 tags:
 - Profession

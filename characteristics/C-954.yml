@@ -1,7 +1,7 @@
 ---
 id: 954
 label: Cardiomyopathy
-description: ''
+description:
 type: boolean
 tags:
 - Chronic condition

@@ -1,7 +1,7 @@
 ---
 id: 402
 label: Paraplegia or tetraplegia
-description: ''
+description:
 type: boolean
 tags:
 - Chronic condition

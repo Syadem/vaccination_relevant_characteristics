@@ -1,7 +1,7 @@
 ---
 id: 1172
 label: Close family contact with a diphtheria patient
-description: ''
+description:
 type: boolean
 tags:
 - Living or housing conditions

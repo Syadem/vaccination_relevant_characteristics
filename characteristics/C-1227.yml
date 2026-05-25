@@ -1,7 +1,7 @@
 ---
 id: 1227
 label: Ship Crew
-description: ''
+description:
 type: boolean
 tags:
 - Profession

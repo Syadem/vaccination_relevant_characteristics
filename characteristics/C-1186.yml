@@ -1,7 +1,7 @@
 ---
 id: 1186
 label: Ordinary Seaman
-description: ''
+description:
 type: boolean
 tags:
 - Profession

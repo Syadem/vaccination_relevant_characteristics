@@ -1,7 +1,7 @@
 ---
 id: 1031
 label: End date of chemotherapy for hematological malignancy (leukemia)
-description: ''
+description:
 type: date
 tags:
 - Treatments

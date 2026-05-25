@@ -1,7 +1,7 @@
 ---
 id: 216
 label: Student audio-prosthetist
-description: ''
+description:
 type: boolean
 tags:
 - Profession

@@ -1,7 +1,7 @@
 ---
 id: 98
 label: Tattoo artist
-description: ''
+description:
 type: boolean
 tags:
 - Profession

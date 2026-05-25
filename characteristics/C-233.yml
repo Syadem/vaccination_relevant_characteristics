@@ -1,7 +1,7 @@
 ---
 id: 233
 label: Student socio-educational animator
-description: ''
+description:
 type: boolean
 tags:
 - Profession

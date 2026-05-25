@@ -1,7 +1,7 @@
 ---
 id: 854
 label: Rehabilitator
-description: ''
+description:
 type: boolean
 tags:
 - Profession

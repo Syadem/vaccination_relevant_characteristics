@@ -27,7 +27,7 @@ describe 'The characteristics folder' do
         expect(data['label']).not_to eq('')
 
         expect(data).to have_key('description')
-        expect(data['description']).to be_a(String)
+        expect(data['description']).to(be_a(String).or be_nil)
 
         expect(data).to have_key('type')
         expect(%w[boolean integer date float]).to include(data['type'])
@@ -84,7 +84,7 @@ describe 'The characteristics folder' do
           expect(data['label']).not_to eq('')
 
           expect(data).to have_key('description')
-          expect(data['description']).to be_a(String)
+          expect(data['description']).to(be_a(String).or be_nil)
         end
       end
     end

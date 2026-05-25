@@ -1,7 +1,7 @@
 ---
 id: 1079
 label: Date of last IGRA test performed
-description: ''
+description:
 type: date
 tags:
 - Laboratory tests

@@ -1,7 +1,7 @@
 ---
 id: 1203
 label: Staff in the organization of excursions
-description: ''
+description:
 type: boolean
 tags:
 - Profession

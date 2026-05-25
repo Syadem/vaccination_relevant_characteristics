@@ -1,7 +1,7 @@
 ---
 id: 1299
 label: No chronic condition
-description: ''
+description:
 type: boolean
 tags:
 - Chronic condition

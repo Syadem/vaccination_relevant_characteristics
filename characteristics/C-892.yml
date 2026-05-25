@@ -1,7 +1,7 @@
 ---
 id: 892
 label: Constitutional bleeding disease with identified comorbidity (hepatitis C, hypertension, diabetes, etc.)
-description: ''
+description:
 type: boolean
 tags:
 - Chronic condition

@@ -1,7 +1,7 @@
 ---
 id: 863
 label: Other profession in the field of education
-description: ''
+description:
 type: boolean
 tags:
 - Profession

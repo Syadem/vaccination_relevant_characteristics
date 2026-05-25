@@ -1,7 +1,7 @@
 ---
 id: 1232
 label: Other bleeding disorder
-description: ''
+description:
 type: boolean
 tags:
 - Chronic condition

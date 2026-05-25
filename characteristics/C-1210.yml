@@ -1,7 +1,7 @@
 ---
 id: 1210
 label: Assistant Electrician
-description: ''
+description:
 type: boolean
 tags:
 - Profession

@@ -1,7 +1,7 @@
 ---
 id: 973
 label: Osteopath
-description: ''
+description:
 type: boolean
 tags:
 - Profession

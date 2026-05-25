@@ -1,7 +1,7 @@
 ---
 id: 227
 label: Orthoptic student
-description: ''
+description:
 type: boolean
 tags:
 - Profession

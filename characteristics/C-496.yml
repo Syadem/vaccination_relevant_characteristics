@@ -1,7 +1,7 @@
 ---
 id: 496
 label: No direct contact with the animal's saliva (untorn clothing, licking on healthy skin)
-description: ''
+description:
 type: boolean
 tags:
 - Emergency situation

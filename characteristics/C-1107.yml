@@ -1,7 +1,7 @@
 ---
 id: 1107
 label: " Stay in an addiction treatment center"
-description: ''
+description:
 type: boolean
 tags:
 - Living or housing conditions

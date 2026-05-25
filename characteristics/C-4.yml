@@ -1,7 +1,7 @@
 ---
 id: 4
 label: Severe Valvulopathy
-description: ''
+description:
 type: boolean
 tags:
 - Chronic condition

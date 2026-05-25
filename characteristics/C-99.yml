@@ -1,7 +1,7 @@
 ---
 id: 99
 label: Wastewater treatment staff (including wastewater treatment plants)
-description: ''
+description:
 type: boolean
 tags:
 - Profession

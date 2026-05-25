@@ -1,7 +1,7 @@
 ---
 id: 112
 label: Cruise ship or airplane crew
-description: ''
+description:
 type: boolean
 tags:
 - Profession

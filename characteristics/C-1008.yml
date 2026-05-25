@@ -1,7 +1,7 @@
 ---
 id: 1008
 label: Lives in a residence for the disabled
-description: ''
+description:
 type: boolean
 tags:
 - Living or housing conditions

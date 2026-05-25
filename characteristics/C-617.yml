@@ -1,7 +1,7 @@
 ---
 id: 617
 label: Refusal of Meningococcal C Vaccination
-description: ''
+description:
 type: boolean
 tags:
 - Vaccinations not desired

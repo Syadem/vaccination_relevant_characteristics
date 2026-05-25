@@ -1,7 +1,7 @@
 ---
 id: 1294
 label: Contact with a bat, regardless of its origin, even in the absence of visible lesions
-description: ''
+description:
 type: boolean
 tags:
 - Emergency situation

@@ -1,7 +1,7 @@
 ---
 id: 1160
 label: Psoriasis
-description: ''
+description:
 type: boolean
 tags:
 - Chronic condition

@@ -1,7 +1,7 @@
 ---
 id: 384
 label: 'Does not work in any of the following departments: maternity, pediatrics, neonatology, infectious diseases, immunocompromised or nephrology'
-description: ''
+description:
 type: boolean
 tags:
 - Profession

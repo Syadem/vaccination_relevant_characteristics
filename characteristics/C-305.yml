@@ -1,7 +1,7 @@
 ---
 id: 305
 label: Diabetes controlled by diet
-description: ''
+description:
 type: boolean
 tags:
 - Chronic condition

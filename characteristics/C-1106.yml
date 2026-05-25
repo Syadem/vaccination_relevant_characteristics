@@ -1,7 +1,7 @@
 ---
 id: 1106
 label: Facilities providing round-the-clock care to the disabled people, chronically ill or the elderly
-description: ''
+description:
 type: boolean
 tags:
 - Living or housing conditions

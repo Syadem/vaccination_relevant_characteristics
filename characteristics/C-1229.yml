@@ -1,7 +1,7 @@
 ---
 id: 1229
 label: On long-term aspirin therapy
-description: ''
+description:
 type: boolean
 tags:
 - Treatments

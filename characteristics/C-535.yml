@@ -1,7 +1,7 @@
 ---
 id: 535
 label: Stay in a follow-up care and rehabilitation unit
-description: ''
+description:
 type: boolean
 tags:
 - Living or housing conditions

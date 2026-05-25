@@ -1,7 +1,7 @@
 ---
 id: 999
 label: Person working in a sexual consumption place
-description: ''
+description:
 type: boolean
 tags:
 - Profession

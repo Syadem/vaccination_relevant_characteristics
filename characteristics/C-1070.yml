@@ -1,7 +1,7 @@
 ---
 id: 1070
 label: A stay in a rural setting or in the forest
-description: ''
+description:
 type: boolean
 tags:
 - TRAVEL

@@ -1,7 +1,7 @@
 ---
 id: 1109
 label: Cardiovascular insufficiency
-description: ''
+description:
 type: boolean
 tags:
 - Chronic condition

@@ -1,7 +1,7 @@
 ---
 id: 713
 label: 'Mission during the risk period for tick-borne encephalitis: March 21 (spring) to November 30'
-description: ''
+description:
 type: boolean
 tags:
 - Profession

@@ -1,7 +1,7 @@
 ---
 id: 1058
 label: T-score col
-description: ''
+description:
 type: float
 tags:
 - Additional examinations

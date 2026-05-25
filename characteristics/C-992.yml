@@ -1,7 +1,7 @@
 ---
 id: 992
 label: End date of chemotherapy for solid tumor (cancer)
-description: ''
+description:
 type: date
 tags:
 - Treatments

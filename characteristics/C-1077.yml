@@ -1,7 +1,7 @@
 ---
 id: 1077
 label: IGRA negative
-description: ''
+description:
 type: boolean
 tags:
 - Laboratory tests

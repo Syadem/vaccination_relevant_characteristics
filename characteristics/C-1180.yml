@@ -1,7 +1,7 @@
 ---
 id: 1180
 label: Close and prolonged contact with an infant under 12 months of age
-description: ''
+description:
 type: boolean
 tags:
 - Entourage

@@ -1,7 +1,7 @@
 ---
 id: 1206
 label: Chief Engineer
-description: ''
+description:
 type: boolean
 tags:
 - Profession

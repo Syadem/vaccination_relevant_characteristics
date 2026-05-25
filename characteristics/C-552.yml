@@ -1,7 +1,7 @@
 ---
 id: 552
 label: Breastfeeding
-description: ''
+description:
 type: boolean
 tags:
 - General information

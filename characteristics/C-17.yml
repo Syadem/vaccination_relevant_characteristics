@@ -1,7 +1,7 @@
 ---
 id: 17
 label: Chronic renal failure on dialysis
-description: ''
+description:
 type: boolean
 tags:
 - Chronic condition

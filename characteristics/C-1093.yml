@@ -1,7 +1,7 @@
 ---
 id: 1093
 label: School child
-description: ''
+description:
 type: boolean
 tags:
 - Living or housing conditions

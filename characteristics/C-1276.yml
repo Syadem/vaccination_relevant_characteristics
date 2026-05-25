@@ -1,7 +1,7 @@
 ---
 id: 1276
 label: Chronic arthralgias
-description: ''
+description:
 type: boolean
 tags:
 - Chronic condition

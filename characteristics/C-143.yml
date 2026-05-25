@@ -1,7 +1,7 @@
 ---
 id: 143
 label: Low level of resources
-description: ''
+description:
 type: boolean
 tags:
 - Living or housing conditions

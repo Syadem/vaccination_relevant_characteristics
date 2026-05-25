@@ -1,7 +1,7 @@
 ---
 id: 857
 label: Administrative, medico-technical or technical staff
-description: ''
+description:
 type: boolean
 tags:
 - Profession

@@ -1,7 +1,7 @@
 ---
 id: 1248
 label: Resides in a home for mothers with minor children and pregnant women
-description: ''
+description:
 type: boolean
 tags:
 - Living or housing conditions

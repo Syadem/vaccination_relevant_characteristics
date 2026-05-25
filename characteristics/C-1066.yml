@@ -1,7 +1,7 @@
 ---
 id: 1066
 label: Expatriation
-description: ''
+description:
 type: boolean
 tags:
 - TRAVEL

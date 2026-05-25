@@ -1,7 +1,7 @@
 ---
 id: 978
 label: Student medical physicist
-description: ''
+description:
 type: boolean
 tags:
 - Profession

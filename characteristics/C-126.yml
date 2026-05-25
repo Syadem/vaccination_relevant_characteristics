@@ -1,7 +1,7 @@
 ---
 id: 126
 label: Asthma (other than severe and under continuous treatment)
-description: ''
+description:
 type: boolean
 tags:
 - Chronic condition

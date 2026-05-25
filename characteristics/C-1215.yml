@@ -1,7 +1,7 @@
 ---
 id: 1215
 label: 1st. Electrician
-description: ''
+description:
 type: boolean
 tags:
 - Profession

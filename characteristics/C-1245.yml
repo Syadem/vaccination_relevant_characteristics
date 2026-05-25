@@ -1,7 +1,7 @@
 ---
 id: 1245
 label: Stay in a nursing and care facility
-description: ''
+description:
 type: boolean
 tags:
 - Living or housing conditions

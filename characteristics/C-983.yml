@@ -1,7 +1,7 @@
 ---
 id: 983
 label: Student prosthetist and orthotist for the fitting of disabled persons
-description: ''
+description:
 type: boolean
 tags:
 - Profession

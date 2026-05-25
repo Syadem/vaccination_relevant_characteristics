@@ -1,7 +1,7 @@
 ---
 id: 261
 label: Employee in a fire and rescue service (SDIS)
-description: ''
+description:
 type: boolean
 tags:
 - Profession

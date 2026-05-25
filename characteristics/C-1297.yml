@@ -1,7 +1,7 @@
 ---
 id: 1297
 label: No allergies
-description: ''
+description:
 type: boolean
 tags:
 - Medical history

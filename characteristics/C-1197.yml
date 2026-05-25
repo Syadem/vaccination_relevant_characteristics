@@ -1,7 +1,7 @@
 ---
 id: 1197
 label: Public health officer
-description: ''
+description:
 type: boolean
 tags:
 - Profession

@@ -1,7 +1,7 @@
 ---
 id: 232
 label: Student medical-psychological assistant
-description: ''
+description:
 type: boolean
 tags:
 - Profession

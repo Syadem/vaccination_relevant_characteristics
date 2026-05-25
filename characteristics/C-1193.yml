@@ -1,7 +1,7 @@
 ---
 id: 1193
 label: Staff working in the ship's shops
-description: ''
+description:
 type: boolean
 tags:
 - Profession

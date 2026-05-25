@@ -1,7 +1,7 @@
 ---
 id: 1013
 label: Contraindication to yellow fever vaccination
-description: ''
+description:
 type: boolean
 tags:
 - Contra-indications

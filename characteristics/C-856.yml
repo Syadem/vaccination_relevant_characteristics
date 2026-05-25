@@ -1,7 +1,7 @@
 ---
 id: 856
 label: Supervisory staff for health care personnel
-description: ''
+description:
 type: boolean
 tags:
 - Profession
