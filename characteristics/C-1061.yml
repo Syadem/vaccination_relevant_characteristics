@@ -1,7 +1,7 @@
 ---
 id: 1061
 label: Additional tests available
-description: 'Tick this box if the results of additional tests are available: X-ray, biology, etc.'
+description: "Tick this box if the results of additional tests are available: X-ray, biology, etc."
 type: boolean
 tags:
 - General information

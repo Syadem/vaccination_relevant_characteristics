@@ -1,7 +1,7 @@
 ---
 id: 618
 label: Refusal of Meningococcal ACWY Vaccination
-description: 'Often called meningitis vaccine, it prevents serious infections (meningitis or septicemia) due to meningococcal serogroups A, C, W or Y. There are two such vaccines marketed in France: the Menveo vaccine and the Nimenrix vaccine.'
+description: "Often called meningitis vaccine, it prevents serious infections (meningitis or septicemia) due to meningococcal serogroups A, C, W or Y. There are two such vaccines marketed in France: the Menveo vaccine and the Nimenrix vaccine."
 type: boolean
 tags:
 - Vaccinations not desired

@@ -1,7 +1,7 @@
 ---
 id: 153
 label: Naturalist or taxidermist
-description: 'Other name : stuffer.'
+description: "Other name : stuffer."
 type: boolean
 tags:
 - Profession

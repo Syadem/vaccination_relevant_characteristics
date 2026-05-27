@@ -1,7 +1,13 @@
 ---
 id: 1362
 label: Fingolimod
-description: "Check this box if you are taking this medication.\r\nTrade name: Gilenya®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 12 weeks after stopping treatment."
+description: "Check this box if you are taking this medication.\r
+
+  Trade name: Gilenya®.\r
+
+  This product is potentially immunosuppressive.\r
+
+  Administration of a live attenuated vaccine must be delayed for 12 weeks after stopping treatment."
 type: boolean
 tags:
 - Treatments

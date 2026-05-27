@@ -1,7 +1,7 @@
 ---
 id: 588
 label: Military at incorporation with departure on OM-OPEX mission - Possible embarkation between 1 and 5 months of service
-description: 'OM: overseas OPEX: external operation'
+description: "OM: overseas OPEX: external operation"
 type: boolean
 tags:
 - Profession

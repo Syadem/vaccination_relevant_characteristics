@@ -1,7 +1,7 @@
 ---
 id: 1064
 label: Last rabies serology result (IU/mL)
-description: 'The threshold for positive rabies serology using the ELISA technique is set at 0.5 IU/mL. '
+description: "The threshold for positive rabies serology using the ELISA technique is set at 0.5 IU/mL. "
 type: float
 tags:
 - Laboratory tests

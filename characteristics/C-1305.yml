@@ -1,7 +1,11 @@
 ---
 id: 1305
 label: Mycophenolate mofetil
-description: "Check this box if you are taking this medication.\r\nTrade names: CellCept®, Myfenax®, Mycophenolate Mofetil Accord®, Mycophenolate Mofetil Viatris®.\r\nThis product is potentially immunosuppressive. Administration of a live attenuated vaccine should be delayed for 12 weeks after stopping treatment."
+description: "Check this box if you are taking this medication.\r
+
+  Trade names: CellCept®, Myfenax®, Mycophenolate Mofetil Accord®, Mycophenolate Mofetil Viatris®.\r
+
+  This product is potentially immunosuppressive. Administration of a live attenuated vaccine should be delayed for 12 weeks after stopping treatment."
 type: boolean
 tags:
 - Treatments

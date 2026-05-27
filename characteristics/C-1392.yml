@@ -1,7 +1,13 @@
 ---
 id: 1392
 label: Cetuximab
-description: "Check this box if you are taking this medication.\r\nTrade name: Erbitux®.\r\nThis product is likely to have a mild immunosuppressive effect.\r\nAdministration of a live attenuated vaccine should be delayed for 4 weeks after stopping treatment."
+description: "Check this box if you are taking this medication.\r
+
+  Trade name: Erbitux®.\r
+
+  This product is likely to have a mild immunosuppressive effect.\r
+
+  Administration of a live attenuated vaccine should be delayed for 4 weeks after stopping treatment."
 type: boolean
 tags:
 - Treatments

@@ -1,6 +1,6 @@
 ---
 id: 728
-label: 'Military mission in a country other than: yellow fever endemic country, Middle East or Djibouti, Europe, Asia or Oceania'
+label: "Military mission in a country other than: yellow fever endemic country, Middle East or Djibouti, Europe, Asia or Oceania"
 description:
 type: boolean
 tags:

@@ -1,7 +1,7 @@
 ---
 id: 917
 label: Strong immunosuppressive treatment (covid)
-description: 'Information used for anti-covid 19 vaccination only. These are:lymphopenic chemotherapy;antimetabolites (cellcept, myfortic, mycophenolate mofetil, imurel, azathioprine);anti-CD20 (rituximab: Mabthera, Rixathon, Truxima).'
+description: "Information used for anti-covid 19 vaccination only. These are:lymphopenic chemotherapy;antimetabolites (cellcept, myfortic, mycophenolate mofetil, imurel, azathioprine);anti-CD20 (rituximab: Mabthera, Rixathon, Truxima)."
 type: boolean
 tags:
 - Treatments

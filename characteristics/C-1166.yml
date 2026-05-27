@@ -1,6 +1,6 @@
 ---
 id: 1166
-label: 'Leukemia '
+label: "Leukemia "
 description:
 type: boolean
 tags:

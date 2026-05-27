@@ -1,7 +1,7 @@
 ---
 id: 172
 label: Born in a country where tuberculosis is common
-description: 'the entire African continent;the entire Asian continent, including the countries of the Near and Middle East;the countries of Central and South America;the countries of Central and Eastern Europe, including the countries of the former USSR;in the European Union: Bulgaria, Estonia, Hungary, Latvia, Lithuania, Poland, Portugal, Romania.'
+description: "the entire African continent;the entire Asian continent, including the countries of the Near and Middle East;the countries of Central and South America;the countries of Central and Eastern Europe, including the countries of the former USSR;in the European Union: Bulgaria, Estonia, Hungary, Latvia, Lithuania, Poland, Portugal, Romania."
 type: boolean
 tags:
 - Living or housing conditions

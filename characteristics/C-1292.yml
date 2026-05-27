@@ -1,7 +1,7 @@
 ---
 id: 1292
 label: Contact with a wild terrestrial mammal living in an endemic area, regardless of the animal's behavior, or living in a non-endemic area, with suspicious signs
-description: 'For example: fox, wolf, monkey, raccoon...'
+description: "For example: fox, wolf, monkey, raccoon..."
 type: boolean
 tags:
 - Emergency situation

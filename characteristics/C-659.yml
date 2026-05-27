@@ -1,7 +1,7 @@
 ---
 id: 659
 label: Incorporation into the operational reserve in France or overseas
-description: 'A person who has made a commitment to serve in the Operational Reserve (OR). In the event of an OM-OPEX-Embarkation mission, the vaccination schedule for military personnel on OM-OPEX-Embarkation projects applies to reservist personnel. DROM: overseas departments and regions. COM: overseas communities. POM: overseas countries.'
+description: "A person who has made a commitment to serve in the Operational Reserve (OR). In the event of an OM-OPEX-Embarkation mission, the vaccination schedule for military personnel on OM-OPEX-Embarkation projects applies to reservist personnel. DROM: overseas departments and regions. COM: overseas communities. POM: overseas countries."
 type: boolean
 tags:
 - Profession

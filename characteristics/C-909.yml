@@ -1,7 +1,7 @@
 ---
 id: 909
 label: Chronic poly-pathology
-description: 'Two or more of the following conditions: chronic obstructive pulmonary disease, cancer (oncologic or hematologic) active or with recent chemotherapy, diabetes, severe chronic kidney disease (including those requiring dialysis), complicated hypertension, obesity (;#8805; 30 kg/m2), heart failure, chronic respiratory failure, organ or marrow transplantation, and trisomy 21, a rare disease (see list in the corresponding section)'
+description: "Two or more of the following conditions: chronic obstructive pulmonary disease, cancer (oncologic or hematologic) active or with recent chemotherapy, diabetes, severe chronic kidney disease (including those requiring dialysis), complicated hypertension, obesity (;#8805; 30 kg/m2), heart failure, chronic respiratory failure, organ or marrow transplantation, and trisomy 21, a rare disease (see list in the corresponding section)"
 type: boolean
 tags:
 - Chronic condition

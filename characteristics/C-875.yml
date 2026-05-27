@@ -1,7 +1,7 @@
 ---
 id: 875
 label: CADASIL or related familial vascular leukoencephalopathy
-description: 'CADASIL: Cerebral Autosomal Dominant Arteriopathy with Subcortical Infarcts and Leucoencephalopathy.'
+description: "CADASIL: Cerebral Autosomal Dominant Arteriopathy with Subcortical Infarcts and Leucoencephalopathy."
 type: boolean
 tags:
 - Chronic condition

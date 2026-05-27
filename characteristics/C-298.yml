@@ -1,7 +1,7 @@
 ---
 id: 298
-label: Close and prolonged family contact with an infant under 6 months of age
-description: This includes family members who live in the same household. Grandparents and babysitters (if regular activity) may also be concerned.
+label: Close contact with an infant under 6 months old
+description: Close contact with an infant under 6 months old
 type: boolean
 tags:
 - Entourage

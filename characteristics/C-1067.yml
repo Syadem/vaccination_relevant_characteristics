@@ -1,7 +1,13 @@
 ---
 id: 1067
 label: Close and prolonged contact with local people
-description: "This question is asked because close and prolonged contact with the local population can encourage the transmission of meningococcus. Meningococcus is found in the throats of certain people known as \"meningococcus carriers\". Transmission of meningococcus from one carrier to another via droplets of saliva (which may then trigger meningitis) is facilitated by : \r\n- Close contact, i.e. at a distance of less than 1 metre (saliva droplets are fairly heavy and fall rapidly);\r\n- Frequent or prolonged contact (e.g. over an hour). \r\nExamples of high-risk situations during your stay: staying with a local, going to nightclubs, long or crowded journeys, playing contact sports, work placements in schools, boarding schools, etc."
+description: "This question is asked because close and prolonged contact with the local population can encourage the transmission of meningococcus. Meningococcus is found in the throats of certain people known as \"meningococcus carriers\". Transmission of meningococcus from one carrier to another via droplets of saliva (which may then trigger meningitis) is facilitated by : \r
+
+  - Close contact, i.e. at a distance of less than 1 metre (saliva droplets are fairly heavy and fall rapidly);\r
+
+  - Frequent or prolonged contact (e.g. over an hour). \r
+
+  Examples of high-risk situations during your stay: staying with a local, going to nightclubs, long or crowded journeys, playing contact sports, work placements in schools, boarding schools, etc."
 type: boolean
 tags:
 - TRAVEL

@@ -1,6 +1,6 @@
 ---
 id: 716
-label: 'Military mission in Germany: districts WITHOUT risk of tick-borne encephalitis'
+label: "Military mission in Germany: districts WITHOUT risk of tick-borne encephalitis"
 description: Information for tick-borne encephalitis vaccine recommendations - The risk of tick-borne encephalitis by district can be found on the Robert Koch Institute website.
 type: boolean
 tags:
@@ -12,4 +12,4 @@ tags:
 - Countries with sporadic cases of tick-borne encephalitis or poorly documented data
 codes:
 - nomenclature: SYADEM
-  code: '09283eb4-488b-4275-9373-ced5cf6f5220'
+  code: 09283eb4-488b-4275-9373-ced5cf6f5220

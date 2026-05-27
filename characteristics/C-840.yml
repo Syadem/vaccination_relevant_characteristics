@@ -1,6 +1,6 @@
 ---
 id: 840
-label: 'Allergy to penicillin: no particular contraindication to vaccines used in France'
+label: "Allergy to penicillin: no particular contraindication to vaccines used in France"
 description:
 type: boolean
 tags:
@@ -8,4 +8,4 @@ tags:
 - Allergies
 codes:
 - nomenclature: SYADEM
-  code: '088aa78d-979d-4fe4-b310-61512050f803'
+  code: 088aa78d-979d-4fe4-b310-61512050f803

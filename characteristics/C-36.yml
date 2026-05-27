@@ -1,7 +1,7 @@
 ---
 id: 36
 label: Spleen removal or non-functioning
-description: 'Check this box if your spleen has been surgically removed (e.g., as a result of trauma or a motor vehicle accident), or if its function is impaired due to disease (if in doubt, consult your physician). Synonym: Splenectomy, asplenia.'
+description: "Check this box if your spleen has been surgically removed (e.g., as a result of trauma or a motor vehicle accident), or if its function is impaired due to disease (if in doubt, consult your physician). Synonym: Splenectomy, asplenia."
 type: boolean
 tags:
 - Chronic condition

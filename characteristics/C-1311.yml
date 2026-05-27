@@ -1,7 +1,13 @@
 ---
 id: 1311
 label: Bendamustine
-description: "Check this box if you are currently taking this medication.\r\nTrade names: Levact®, Ribomustin®, Bendamustine Accord®, Treanda®, Bendeka®, Belrapzo®, Vivimusta®, Treakisym®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine should be delayed for 6 months after stopping treatment."
+description: "Check this box if you are currently taking this medication.\r
+
+  Trade names: Levact®, Ribomustin®, Bendamustine Accord®, Treanda®, Bendeka®, Belrapzo®, Vivimusta®, Treakisym®.\r
+
+  This product is potentially immunosuppressive.\r
+
+  Administration of a live attenuated vaccine should be delayed for 6 months after stopping treatment."
 type: boolean
 tags:
 - Treatments

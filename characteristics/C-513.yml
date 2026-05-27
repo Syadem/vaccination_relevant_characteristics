@@ -1,7 +1,7 @@
 ---
 id: 513
 label: Contact with a domestic animal living in a non-endemic area, without suspicious signs, without a vaccination certificate, and the animal is available
-description: 'Example: dog, cat, ferret. Suspicious signs: change in behavior, unusual fatigue, progressive paralysis, extreme excitement or aggression.'
+description: "Example: dog, cat, ferret. Suspicious signs: change in behavior, unusual fatigue, progressive paralysis, extreme excitement or aggression."
 type: boolean
 tags:
 - Emergency situation

@@ -1,7 +1,13 @@
 ---
 id: 1354
 label: Alemtuzumab
-description: "Check this box if you are taking this medication.\r\nTrade name: Lemtrada®, Campath®.\r\nThis product is potentially immunosuppressive.\r\nAdministration of a live attenuated vaccine must be delayed for 12 months after stopping treatment."
+description: "Check this box if you are taking this medication.\r
+
+  Trade name: Lemtrada®, Campath®.\r
+
+  This product is potentially immunosuppressive.\r
+
+  Administration of a live attenuated vaccine must be delayed for 12 months after stopping treatment."
 type: boolean
 tags:
 - Treatments

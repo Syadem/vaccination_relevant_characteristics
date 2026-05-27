@@ -1,7 +1,9 @@
 ---
 id: 1026
 label: Transit of more than 12 hours through the airport of a country at risk of yellow fever transmission
-description: "List of countries with a risk of yellow fever transmission: Africa: Angola, Benin, Burkina Faso, Burundi, Cameroon, Central African Republic, Chad, Congo, Côte d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Liberia, Mali, Mauritania, Niger, Nigeria, Senegal, Sierra Leone, Sudan, South Sudan, Chad, Togo, Uganda.\r\nSouth America: Argentina, Bolivia, Brazil, Colombia, Ecuador, French Guiana, Guyana, Panama, Paraguay, Peru, Suriname, Trinidad and Tobago, Venezuela."
+description: "List of countries with a risk of yellow fever transmission: Africa: Angola, Benin, Burkina Faso, Burundi, Cameroon, Central African Republic, Chad, Congo, Côte d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Liberia, Mali, Mauritania, Niger, Nigeria, Senegal, Sierra Leone, Sudan, South Sudan, Chad, Togo, Uganda.\r
+
+  South America: Argentina, Bolivia, Brazil, Colombia, Ecuador, French Guiana, Guyana, Panama, Paraguay, Peru, Suriname, Trinidad and Tobago, Venezuela."
 type: boolean
 tags:
 - TRAVEL

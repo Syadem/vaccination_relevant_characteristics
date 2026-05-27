@@ -1,7 +1,7 @@
 ---
 id: 545
 label: This baby's mother is considered to be non-immune to measles (no documented history of measles, unvaccinated or vaccinated with only one dose)
-description: 'Non-immune mother: check this box if no documented history of measles, not vaccinated against measles or vaccinated with only one dose.'
+description: "Non-immune mother: check this box if no documented history of measles, not vaccinated against measles or vaccinated with only one dose."
 type: boolean
 tags:
 - Emergency situation

@@ -1,7 +1,7 @@
 ---
 id: 991
 label: Date of antepenultimate COVID-19
-description: 'To be completed if you have had three separate documented infections of covid 19: biological evidence is required (RT-PCR or antigenic test) for each episode.'
+description: "To be completed if you have had three separate documented infections of covid 19: biological evidence is required (RT-PCR or antigenic test) for each episode."
 type: date
 tags:
 - Medical history

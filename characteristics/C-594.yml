@@ -1,7 +1,7 @@
 ---
 id: 594
 label: Ongoing chemotherapy for hematological malignancy (leukemia)
-description: 'Ongoing chemotherapy for leukemia: This is a heavy treatment to destroy tumor cells, but can also weaken the body and cause immunosuppression during treatment and for several months afterwards. If chemotherapy has been completed, please fill in the date of completion of chemotherapy for leukemia.'
+description: "Ongoing chemotherapy for leukemia: This is a heavy treatment to destroy tumor cells, but can also weaken the body and cause immunosuppression during treatment and for several months afterwards. If chemotherapy has been completed, please fill in the date of completion of chemotherapy for leukemia."
 type: boolean
 tags:
 - Treatments
