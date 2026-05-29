@@ -7,6 +7,7 @@ GEM
       google-protobuf (~> 3.25, >= 3.25.3)
       ostruct
     ostruct (0.6.3)
+    rake (13.0.0)
     redcarpet (3.6.0)
     rspec (3.13.0)
       rspec-core (~> 3.13.0)
@@ -30,6 +31,7 @@ PLATFORMS
 DEPENDENCIES
   medcon (= 0.2.1)
   ostruct
+  rake (= 13.0)
   redcarpet
   rspec (~> 3.4)
   siphash (~> 0.0.1)
