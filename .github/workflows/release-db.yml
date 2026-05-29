@@ -44,13 +44,13 @@ jobs:
           SCW_BUCKET: ${{ secrets.SCW_BUCKET }}
           SCW_ENDPOINT: ${{ secrets.SCW_ENDPOINT }}
         run: |
-          aws s3 cp release_assets/ "s3://${SCW_BUCKET}/dumps/" \
+          aws s3 cp release_assets/ "s3://dumps/" \
             --recursive \
             --exclude "*" \
             --include "*.db" \
             --endpoint-url "${SCW_ENDPOINT}"
 
-          aws s3 cp versions/ "s3://${SCW_BUCKET}/versions/" \
+          aws s3 cp versions/ "s3://versions/" \
             --recursive \
             --exclude "*" \
             --include "*.json" \
