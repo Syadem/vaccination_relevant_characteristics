@@ -35,15 +35,12 @@ jobs:
             release_assets/*.db
           fail_on_unmatched_files: true
 
-      - name: Configure AWS CLI credentials for Scaleway
-        uses: aws-actions/configure-aws-credentials@v4
-        with:
-          aws-access-key-id: ${{ secrets.SCW_ACCESS_KEY }}
-          aws-secret-access-key: ${{ secrets.SCW_SECRET_KEY }}
-          aws-region: ${{ secrets.SCW_REGION }}
-
       - name: Upload DB assets to Scaleway Object Storage
         env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.SCW_ACCESS_KEY }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.SCW_SECRET_KEY }}
+          AWS_DEFAULT_REGION: ${{ secrets.SCW_REGION }}
+          AWS_REGION: ${{ secrets.SCW_REGION }}
           SCW_BUCKET: ${{ secrets.SCW_BUCKET }}
           SCW_ENDPOINT: ${{ secrets.SCW_ENDPOINT }}
         run: |
