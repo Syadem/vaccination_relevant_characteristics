@@ -23,8 +23,7 @@ jobs:
 
       - name: Build DB files from tag version
         run: |
-          VERSION="${GITHUB_REF_NAME#v}"
-          bundle exec ruby scripts/publish.rb "$VERSION"
+          bundle exec ruby scripts/publish.rb "${GITHUB_REF_NAME#v}" "${GITHUB_SHA}"
           ls -la release_assets
 
       - name: Create GitHub release and upload DB assets
@@ -35,3 +34,27 @@ jobs:
           files: |
             release_assets/*.db
           fail_on_unmatched_files: true
+
+      - name: Configure AWS CLI credentials for Scaleway
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.SCW_ACCESS_KEY }}
+          aws-secret-access-key: ${{ secrets.SCW_SECRET_KEY }}
+          aws-region: ${{ secrets.SCW_REGION }}
+
+      - name: Upload DB assets to Scaleway Object Storage
+        env:
+          SCW_BUCKET: ${{ secrets.SCW_BUCKET }}
+          SCW_ENDPOINT: ${{ secrets.SCW_ENDPOINT }}
+        run: |
+          aws s3 cp release_assets/ "s3://${SCW_BUCKET}/dumps/" \
+            --recursive \
+            --exclude "*" \
+            --include "*.db" \
+            --endpoint-url "${SCW_ENDPOINT}"
+
+          aws s3 cp versions/ "s3://${SCW_BUCKET}/versions/" \
+            --recursive \
+            --exclude "*" \
+            --include "*.json" \
+            --endpoint-url "${SCW_ENDPOINT}"

@@ -48,13 +48,21 @@ class MedconDumpCreator
 end
 
 version             = ARGV[0]
+sha_commit          = ARGV[1]
 major, minor, patch = version.split('.').map(&:to_i)
 languages           = ['en', *Dir.glob('*', base: 'translations')]
+time                = Time.now
 
 FileUtils.mkdir_p('release_assets')
+FileUtils.mkdir_p('versions')
 
 languages.each do |lang|
-  dump = MedconDumpCreator.new.call({ major:, minor:, patch: }, lang)
+  dump = MedconDumpCreator.new.call({ major:, minor:, patch: }, lang, time)
   
-  File.write("release_assets/#{version}_#{lang}.db", dump)
+  File.write("release_assets/#{sha_commit}_#{lang}.db", dump)
 end
+
+version_data = JSON.pretty_generate({ version:, hash: sha_commit, created_at: time.iso8601 })
+
+File.write("versions/#{time.iso8601}.json", version_data)
+File.write("versions/latest.json", version_data)
