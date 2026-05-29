@@ -1,0 +1,37 @@
+name: Publish DB Release
+
+on:
+  push:
+    tags:
+      - "v*.*.*"
+
+permissions:
+  contents: write
+
+jobs:
+  publish-db-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.4.1
+          bundler-cache: true
+
+      - name: Build DB files from tag version
+        run: |
+          VERSION="${GITHUB_REF_NAME#v}"
+          bundle exec ruby scripts/publish.rb "$VERSION"
+          ls -la release_assets
+
+      - name: Create GitHub release and upload DB assets
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.ref_name }}
+          generate_release_notes: true
+          files: |
+            release_assets/*.db
+          fail_on_unmatched_files: true
