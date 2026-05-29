@@ -1,5 +1,17 @@
 # Changelog
 
+## Version v0.0.11
+**Date :** 2026-05-29
+
+**Author :** Lucas Sotty
+
+### Changes
+- e17ea2b - Fixed bucket publish (Lucas Sotty)
+
+
+### Files
+- .github/workflows/release-db.yml
+
 ## Version v0.0.10
 **Date :** 2026-05-29
 
