@@ -1,5 +1,18 @@
 # Changelog
 
+## Version v0.0.9
+**Date :** 2026-05-29
+
+**Author :** Lucas Sotty
+
+### Changes
+- 2ef2ea1 - Push files to bucket (Lucas Sotty)
+
+
+### Files
+- .github/workflows/release-db.yml
+- scripts/publish.rb
+
 ## Version v0.0.8
 **Date :** 2026-05-29
 
