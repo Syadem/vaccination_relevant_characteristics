@@ -42,6 +42,17 @@ describe 'The characteristics folder' do
         expect(data['tags']).to all(be_a(String))
       end
 
+      it 'should contain exactly one SYADEM code with a UUID value' do
+        data         = YAML.load_file(file)
+        syadem_codes = data['codes'].select { |code| code['nomenclature'] == 'SYADEM' }
+        uuid_regex   = /\A[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}\z/i
+        
+        expect(syadem_codes.size).to eq(1)
+        expect(syadem_codes.first).to have_key('code')
+        expect(syadem_codes.first['code']).to be_a(String)
+        expect(syadem_codes.first['code']).to match(uuid_regex)
+      end
+
       it 'should have a matching embedding json file' do
         expect(File).to exist(embedding_file)
       end
