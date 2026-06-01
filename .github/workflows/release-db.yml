@@ -48,10 +48,12 @@ jobs:
             --recursive \
             --exclude "*" \
             --include "*.db" \
+            --acl public-read \
             --endpoint-url "${SCW_ENDPOINT}"
 
           aws s3 cp versions/ "s3://versions/" \
             --recursive \
             --exclude "*" \
             --include "*.json" \
+            --acl public-read \
             --endpoint-url "${SCW_ENDPOINT}"
