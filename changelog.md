@@ -1,5 +1,20 @@
 # Changelog
 
+## Version v0.0.13
+**Date :** 2026-06-02
+
+**Author :** Lucas Sotty
+
+### Changes
+- d0c06a4 - Update characteristic C-1057 (Lucas Sotty)
+- b0d5907 - Add specs (Lucas Sotty)
+
+
+### Files
+- characteristics/C-1057.yml
+- embeddings/C-1057.json
+- spec/conditions_spec.rb
+
 ## Version v0.0.12
 **Date :** 2026-06-01
 
