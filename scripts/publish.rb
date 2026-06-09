@@ -5,10 +5,10 @@ require 'medcon'
 
 class MedconDumpCreator
   CONDITION_TYPE_MAPPING = {
-    'boolean' => 1,
-    'integer' => 4,
-    'date' => 2,
-    'float' => 3
+    'boolean' => 0,
+    'date' => 1,
+    'float' => 2,
+    'integer' => 3
   }.freeze
 
   def call(version, lang, time = Time.now)
