@@ -1,9 +1,9 @@
 require 'bundler/setup'
 require 'yaml'
 require 'fileutils'
-require 'medcon'
+require 'vaccination_characteristics'
 
-class MedconDumpCreator
+class VaccinationCharacteristicsDumpCreator
   CONDITION_TYPE_MAPPING = {
     'boolean' => 0,
     'date' => 1,
@@ -12,14 +12,14 @@ class MedconDumpCreator
   }.freeze
 
   def call(version, lang, time = Time.now)
-    db = Medcon::VaccinationProfileDatabase.new({
+    db = VaccinationCharacteristics::VaccinationCharacteristicsDatabase.new({
       generated_at: time,
       locale: lang,
       version:,
       conditions: retrieve_characteristics(lang)
     })
 
-    Medcon::VaccinationProfileDatabase.encode(db)
+    VaccinationCharacteristics::VaccinationCharacteristicsDatabase.encode(db)
   end
 
   private
@@ -29,7 +29,7 @@ class MedconDumpCreator
       characteristic = YAML.safe_load(File.read(path))
       translations   = retrieve_translations(characteristic, lang)
 
-      Medcon::Condition.new(
+      VaccinationCharacteristics::Condition.new(
         id: characteristic['id'],
         label: translations['label'],
         description: translations['description'],
@@ -57,8 +57,8 @@ FileUtils.mkdir_p('release_assets')
 FileUtils.mkdir_p('versions')
 
 languages.each do |lang|
-  dump = MedconDumpCreator.new.call({ major:, minor:, patch: }, lang, time)
-  
+  dump = VaccinationCharacteristicsDumpCreator.new.call({ major:, minor:, patch: }, lang, time)
+
   File.write("release_assets/#{sha_commit}_#{lang}.db", dump)
 end
 
