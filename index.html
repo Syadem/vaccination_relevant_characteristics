@@ -4,12 +4,12 @@
 <body><div class="container"><h1>Characteristics dictionary</h1><table>
   <tr>
     <td><b>Version</b></td>
-    <td>v0.0.6-29-g59b4d45
+    <td>v0.0.6-31-g67ac23a
 </td>
   </tr>
   <tr>
     <td><b>Id</td>
-    <td>59b4d45602eb5d89e3c61056eedf7d15887f94e3</b></td>
+    <td>67ac23a59abeca9b4339eccf0615e8f28b06439e</b></td>
   </tr>
   <tr>
     <td><b>Author</b></td>
@@ -17,15 +17,15 @@
   </tr>
   <tr>
     <td><b>Date</b></td>
-    <td>Tue Jun 9 10:57:50 2026 +0200</td>
+    <td>Fri Sep 18 11:59:49 2026 +0200</td>
   </tr>
   <tr>
     <td><b>Message</b></td>
-    <td>Fix condition types</td>
+    <td>Regen</td>
   </tr>
   <tr>
     <td><b>Diff</b></td>
-    <td><a href="https://github.com/Syadem/vaccination_profile/commit/59b4d45602eb5d89e3c61056eedf7d15887f94e3">github</a></td>
+    <td><a href="https://github.com/Syadem/vaccination_profile/commit/67ac23a59abeca9b4339eccf0615e8f28b06439e">github</a></td>
   </tr>
 </table>
 <details id="C-100">
@@ -2415,11 +2415,14 @@ label_en: Waiting for surgery
     <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=a9891d39f102c02d">Weblate translations</a>
 </details>
 <details id="C-1124">
-<summary>C-1124 - Date of administration of the RSV vaccine to the mother during pregnancy</summary>
+<summary>C-1124 - Mothers vaccinated against RSV during pregnancy: date of vaccination</summary>
 <pre><code>---
 id: 1124
-label: Date of administration of the RSV vaccine to the mother during pregnancy
-description:
+label: 'Mothers vaccinated against RSV during pregnancy: date of vaccination'
+description: Vaccinating a pregnant woman with the RSV vaccine (Abrysvo) protects
+  the infant against RSV bronchiolitis through the transplacental transfer of anti-RSV
+  antibodies. If the baby is born within 14 days of vaccination or in the event of
+  a premature birth, catch-up passive immunisation with monoclonal antibodies is recommended.
 type: date
 tags:
 - Entourage
@@ -7841,6 +7844,156 @@ label_en:
 </code></pre>
     <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=d0ffe07537e716af">Weblate translations</a>
 </details>
+<details id="C-1401">
+<summary>C-1401 - Welder regularly exposed to welding fumes</summary>
+<pre><code>---
+id: 1401
+label: Welder regularly exposed to welding fumes
+description:
+type: boolean
+tags:
+- Profession
+- Other professions
+codes:
+- nomenclature: SYADEM
+  code: a099eb61-18b4-418d-ade0-50cc17de092c
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=1a7bdf1e8ea11e1f">Weblate translations</a>
+</details>
+<details id="C-1402">
+<summary>C-1402 - Metallurgical worker</summary>
+<pre><code>---
+id: 1402
+label: Metallurgical worker
+description:
+type: boolean
+tags:
+- Profession
+- Other professions
+codes:
+- nomenclature: SYADEM
+  code: 710380f9-f019-4c0a-b12e-a10b34e268a4
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=7189779668f0ee7a">Weblate translations</a>
+</details>
+<details id="C-1403">
+<summary>C-1403 - Chikungunya is currently circulating, with a risk of an outbreak</summary>
+<pre><code>---
+id: 1403
+label: Chikungunya is currently circulating, with a risk of an outbreak
+description: Active circulation of the chikungunya virus in the area in question,
+  with a risk of an outbreak.
+type: boolean
+tags:
+- Living or housing conditions
+codes:
+- nomenclature: SYADEM
+  code: b5f412c9-ba3d-481c-a828-ba20fece0fdc
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=a9d7c602a150ebfc">Weblate translations</a>
+</details>
+<details id="C-1404">
+<summary>C-1404 - Repeated stays in an area where chikungunya is actively circulating over the last 12 months</summary>
+<pre><code>---
+id: 1404
+label: Repeated stays in an area where chikungunya is actively circulating over the
+  last 12 months
+description:
+type: boolean
+tags:
+- TRAVEL
+codes:
+- nomenclature: SYADEM
+  code: 0525036d-42a7-4543-829e-6093f2a13b2b
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=ad002846a0a7cca1">Weblate translations</a>
+</details>
+<details id="C-1405">
+<summary>C-1405 - Expatriation to an area where chikungunya has been actively circulating in the last 12 months</summary>
+<pre><code>---
+id: 1405
+label: Expatriation to an area where chikungunya has been actively circulating in
+  the last 12 months
+description:
+type: boolean
+tags:
+- TRAVEL
+codes:
+- nomenclature: SYADEM
+  code: fdf630c1-295d-44c5-80a5-8b681942bf58
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=2d4a4c8c7723fc02">Weblate translations</a>
+</details>
+<details id="C-1406">
+<summary>C-1406 - Ongoing chikungunya outbreak</summary>
+<pre><code>---
+id: 1406
+label: Ongoing chikungunya outbreak
+description: Ongoing chikungunya outbreak
+type: boolean
+tags:
+- TRAVEL
+codes:
+- nomenclature: SYADEM
+  code: 23ac5218-0d48-4c2e-aed7-24bf91c06566
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=62679edb1bcda2f4">Weblate translations</a>
+</details>
+<details id="C-1407">
+<summary>C-1407 - Active circulation of chikungunya in the country visited over the last 12 months</summary>
+<pre><code>---
+id: 1407
+label: Active circulation of chikungunya in the country visited over the last 12 months
+description:
+type: boolean
+tags:
+- TRAVEL
+codes:
+- nomenclature: SYADEM
+  code: 32f137bc-70e3-4a82-9fdf-882a1143aecf
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=1bff6aa9593f386c">Weblate translations</a>
+</details>
+<details id="C-1408">
+<summary>C-1408 - NO active circulation of chikungunya in the country visited over the last 12 months</summary>
+<pre><code>---
+id: 1408
+label: NO active circulation of chikungunya in the country visited over the last 12
+  months
+description:
+type: boolean
+tags:
+- TRAVEL
+codes:
+- nomenclature: SYADEM
+  code: '0234219c-6515-4697-ab29-ed7f633dc7a4'
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=c22be407e7f82636">Weblate translations</a>
+</details>
+<details id="C-1409">
+<summary>C-1409 - NO active circulation of chikungunya with a risk of an outbreak</summary>
+<pre><code>---
+id: 1409
+label: NO active circulation of chikungunya with a risk of an outbreak
+description:
+type: boolean
+tags:
+- Living or housing conditions
+codes:
+- nomenclature: SYADEM
+  code: 26bdcd43-eaa5-4c81-b87c-e486a8e234ac
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=80fe9398c186a52">Weblate translations</a>
+</details>
 <details id="C-141">
 <summary>C-141 - Prolonged or high-dose corticosteroid therapy</summary>
 <pre><code>---
@@ -7866,6 +8019,54 @@ codes:
 label_en: Prolonged or high-dose corticosteroid therapy
 </code></pre>
     <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=b82a184d82a89f01">Weblate translations</a>
+</details>
+<details id="C-1410">
+<summary>C-1410 - Ongoing dengue outbreak</summary>
+<pre><code>---
+id: 1410
+label: Ongoing dengue outbreak
+description:
+type: boolean
+tags:
+- TRAVEL
+codes:
+- nomenclature: SYADEM
+  code: 9d6f995b-e8ff-4f08-aece-90a5d5c61f36
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=6dc72e2d0676c2b3">Weblate translations</a>
+</details>
+<details id="C-1411">
+<summary>C-1411 - Dengue incidence rate ≥ 100 per 100,000 person-years in the area visited</summary>
+<pre><code>---
+id: 1411
+label: Dengue incidence rate ≥ 100 per 100,000 person-years in the area visited
+description:
+type: boolean
+tags:
+- TRAVEL
+codes:
+- nomenclature: SYADEM
+  code: 5a56a09c-c273-4764-a482-e36951c607a0
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=6290d597da65c08c">Weblate translations</a>
+</details>
+<details id="C-1412">
+<summary>C-1412 - Dengue incidence rate less than 100 per 100,000 person-years in the area visited</summary>
+<pre><code>---
+id: 1412
+label: Dengue incidence rate less than 100 per 100,000 person-years in the area visited
+description:
+type: boolean
+tags:
+- TRAVEL
+codes:
+- nomenclature: SYADEM
+  code: 4b8b0c6e-8bf0-45ba-bbb4-7aaee06be43d
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=8dec470d9b7a88af">Weblate translations</a>
 </details>
 <details id="C-142">
 <summary>C-142 - Other chronic respiratory disease</summary>
