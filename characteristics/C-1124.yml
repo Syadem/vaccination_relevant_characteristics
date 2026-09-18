@@ -1,7 +1,7 @@
 ---
 id: 1124
-label: Date of administration of the RSV vaccine to the mother during pregnancy
-description:
+label: "Mothers vaccinated against RSV during pregnancy: date of vaccination"
+description: Vaccinating a pregnant woman with the RSV vaccine (Abrysvo) protects the infant against RSV bronchiolitis through the transplacental transfer of anti-RSV antibodies. If the baby is born within 14 days of vaccination or in the event of a premature birth, catch-up passive immunisation with monoclonal antibodies is recommended.
 type: date
 tags:
 - Entourage

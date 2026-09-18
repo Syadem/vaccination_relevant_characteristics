@@ -1,0 +1,10 @@
+---
+id: 1403
+label: Chikungunya is currently circulating, with a risk of an outbreak
+description: Active circulation of the chikungunya virus in the area in question, with a risk of an outbreak.
+type: boolean
+tags:
+- Living or housing conditions
+codes:
+- nomenclature: SYADEM
+  code: b5f412c9-ba3d-481c-a828-ba20fece0fdc

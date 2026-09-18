@@ -1,0 +1,11 @@
+---
+id: 1401
+label: Welder regularly exposed to welding fumes
+description:
+type: boolean
+tags:
+- Profession
+- Other professions
+codes:
+- nomenclature: SYADEM
+  code: a099eb61-18b4-418d-ade0-50cc17de092c

@@ -1,0 +1,11 @@
+---
+id: 1402
+label: Metallurgical worker
+description:
+type: boolean
+tags:
+- Profession
+- Other professions
+codes:
+- nomenclature: SYADEM
+  code: 710380f9-f019-4c0a-b12e-a10b34e268a4

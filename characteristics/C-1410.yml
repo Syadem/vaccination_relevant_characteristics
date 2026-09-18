@@ -1,0 +1,10 @@
+---
+id: 1410
+label: Ongoing dengue outbreak
+description:
+type: boolean
+tags:
+- TRAVEL
+codes:
+- nomenclature: SYADEM
+  code: 9d6f995b-e8ff-4f08-aece-90a5d5c61f36

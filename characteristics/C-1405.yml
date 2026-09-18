@@ -1,0 +1,10 @@
+---
+id: 1405
+label: Expatriation to an area where chikungunya has been actively circulating in the last 12 months
+description:
+type: boolean
+tags:
+- TRAVEL
+codes:
+- nomenclature: SYADEM
+  code: fdf630c1-295d-44c5-80a5-8b681942bf58

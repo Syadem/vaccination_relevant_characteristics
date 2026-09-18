@@ -1,0 +1,10 @@
+---
+id: 1411
+label: Dengue incidence rate ≥ 100 per 100,000 person-years in the area visited
+description:
+type: boolean
+tags:
+- TRAVEL
+codes:
+- nomenclature: SYADEM
+  code: 5a56a09c-c273-4764-a482-e36951c607a0
