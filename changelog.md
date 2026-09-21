@@ -1,5 +1,17 @@
 # Changelog
 
+## Version v0.0.17
+**Date :** 2026-09-21
+
+**Author :** Lucas Sotty
+
+### Changes
+- a7b689c - Readme (Lucas Sotty)
+
+
+### Files
+- README.md
+
 ## Version v0.0.16
 **Date :** 2026-09-18
 
@@ -9678,6 +9690,7 @@
 - .github/workflows/release-db.yml
 - Gemfile
 - Gemfile.lock
+- README.md
 - build.rb
 - builder/builders/change_log_builder.rb
 - builder/builders/html_builder.rb
