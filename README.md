@@ -1,2 +1,2 @@
-# vaccination_profile
+# vaccination_relevant_characteristics
 Conditions
