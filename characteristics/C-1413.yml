@@ -1,0 +1,11 @@
+---
+id: 1413
+label: Date of the last tuberculin skin test (TST)
+description:
+type: date
+tags:
+- Laboratory tests
+- Tuberculosis
+codes:
+- nomenclature: SYADEM
+  code: d75bad22-46c4-4dc7-9f55-b77114e9a057
