@@ -57,3 +57,10 @@ jobs:
             --include "*.json" \
             --acl public-read \
             --endpoint-url "${SCW_ENDPOINT}"
+
+      - name: Purge latest manifest from Scaleway Edge Services
+        timeout-minutes: 5
+        env:
+          SCW_SECRET_KEY: ${{ secrets.SCW_SECRET_KEY }}
+          SCW_EDGE_PIPELINE_ID: ${{ secrets.SCW_EDGE_PIPELINE_ID }}
+        run: bash scripts/purge-cdn-cache.sh
