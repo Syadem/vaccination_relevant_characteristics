@@ -1,5 +1,17 @@
 # Changelog
 
+## Version v0.0.19
+**Date :** 2026-10-01
+
+**Author :** Lucas Sotty
+
+### Changes
+- daaa5a1 - Readme (Lucas Sotty)
+
+
+### Files
+- README.md
+
 ## Version v0.0.18
 **Date :** 2026-09-29
 
