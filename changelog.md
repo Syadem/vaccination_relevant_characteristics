@@ -1,5 +1,18 @@
 # Changelog
 
+## Version v0.0.20
+**Date :** 2026-10-01
+
+**Author :** Lucas Sotty
+
+### Changes
+- a547f9a - Purge cache (Lucas Sotty)
+
+
+### Files
+- .github/workflows/release-db.yml
+- scripts/purge-cdn-cache.sh
+
 ## Version v0.0.19
 **Date :** 2026-10-01
 
@@ -12463,6 +12476,7 @@
 - embeddings/C-999.json
 - i18n/en.yml
 - scripts/publish.rb
+- scripts/purge-cdn-cache.sh
 - spec/conditions_spec.rb
 - translations/de/C-100.yml
 - translations/de/C-1000.yml
