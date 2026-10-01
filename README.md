@@ -1,2 +1,3 @@
 # vaccination_relevant_characteristics
 Conditions
+...
