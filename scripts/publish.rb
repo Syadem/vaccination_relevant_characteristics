@@ -34,6 +34,7 @@ class VaccinationCharacteristicsDumpCreator
         label: translations['label'],
         description: translations['description'],
         type: CONDITION_TYPE_MAPPING[characteristic['type']],
+        deprecated: characteristic['deprecated'],
         tags: characteristic['tags'],
         codes: characteristic['codes']
       )

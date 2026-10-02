@@ -3,6 +3,7 @@ id: 112
 label: Cruise ship or airplane crew
 description:
 type: boolean
+deprecated: false
 tags:
 - Profession
 - Tourism and transport

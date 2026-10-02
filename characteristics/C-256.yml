@@ -3,6 +3,7 @@ id: 256
 label: Works in a blood transfusion center or station
 description:
 type: boolean
+deprecated: false
 tags:
 - Profession
 - Related to health or the medico-social field

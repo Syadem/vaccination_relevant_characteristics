@@ -3,6 +3,7 @@ id: 305
 label: Diabetes controlled by diet
 description:
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Diabetes

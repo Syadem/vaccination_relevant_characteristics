@@ -3,6 +3,7 @@ id: 1163
 label: Ankylosing spondylitis
 description:
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Inflammatory or autoimmune disease

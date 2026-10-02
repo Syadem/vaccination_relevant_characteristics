@@ -3,6 +3,7 @@ id: 961
 label: Hypertension, complicated or not
 description:
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Cardiology-Pulmonology

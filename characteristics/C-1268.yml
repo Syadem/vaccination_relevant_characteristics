@@ -3,6 +3,7 @@ id: 1268
 label: Unprotected sexual contact with a partner of unknown serostatus
 description:
 type: boolean
+deprecated: false
 tags:
 - Living or housing conditions
 - Risk factors concerning sexuality

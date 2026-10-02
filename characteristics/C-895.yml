@@ -3,6 +3,7 @@ id: 895
 label: Rheumatoid purpura nephropathy under immunosuppressive therapy
 description: Immunosuppressive therapy that puts the individual at increased risk for severe covid 19.
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Rare disease

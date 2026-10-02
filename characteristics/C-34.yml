@@ -3,6 +3,7 @@ id: 34
 label: Osteo-meningeal breach
 description:
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - ENT

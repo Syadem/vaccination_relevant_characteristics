@@ -3,6 +3,7 @@ id: 1021
 label: Refusal of Meningococcal C Vaccination
 description:
 type: boolean
+deprecated: false
 tags:
 - Vaccinations not desired
 codes:

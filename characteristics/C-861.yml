@@ -3,6 +3,7 @@ id: 861
 label: Profession in the banking field
 description:
 type: boolean
+deprecated: false
 tags:
 - Profession
 - Other professions

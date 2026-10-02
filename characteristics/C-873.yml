@@ -3,6 +3,7 @@ id: 873
 label: Pulmonary fibrosis
 description: Congenital, acquired or ventilation dependent
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Rare disease

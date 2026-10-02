@@ -3,6 +3,7 @@ id: 511
 label: Biological diagnosis of rabies impossible
 description:
 type: boolean
+deprecated: false
 tags:
 - Emergency situation
 - Suspected exposure to rabies

@@ -3,6 +3,7 @@ id: 1135
 label: Jharkhand
 description:
 type: boolean
+deprecated: false
 tags:
 - TRAVEL
 - States of India

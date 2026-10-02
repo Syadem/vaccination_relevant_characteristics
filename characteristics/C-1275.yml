@@ -3,6 +3,7 @@ id: 1275
 label: Practice scuba diving
 description:
 type: boolean
+deprecated: false
 tags:
 - Living or housing conditions
 - Others

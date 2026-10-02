@@ -3,6 +3,7 @@ id: 1249
 label: Stay in a childcare and educational facility
 description:
 type: boolean
+deprecated: false
 tags:
 - Living or housing conditions
 - Community living, residence, institution...

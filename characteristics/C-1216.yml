@@ -3,6 +3,7 @@ id: 1216
 label: Electrician
 description:
 type: boolean
+deprecated: false
 tags:
 - Profession
 - Staff working on a cruise ship

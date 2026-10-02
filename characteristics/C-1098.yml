@@ -3,6 +3,7 @@ id: 1098
 label: Other mental illnesses
 description:
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Nervous and muscular system

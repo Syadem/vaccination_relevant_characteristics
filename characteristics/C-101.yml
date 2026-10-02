@@ -3,6 +3,7 @@ id: 101
 label: Garbage collector
 description:
 type: boolean
+deprecated: false
 tags:
 - Profession
 - Sanitation - Environment

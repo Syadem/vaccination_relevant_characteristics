@@ -3,6 +3,7 @@ id: 1236
 label: Resides or studies in the Rennes metropolitan area
 description:
 type: boolean
+deprecated: false
 tags:
 - Living or housing conditions
 codes:

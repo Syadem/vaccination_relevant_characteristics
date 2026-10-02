@@ -3,6 +3,7 @@ id: 414
 label: Hematopoietic stem cell transplantation (marrow transplant)
 description: Refers to patients who have already received a hematopoietic stem cell (HSC) transplant, commonly known as a marrow transplant.
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Transplantation

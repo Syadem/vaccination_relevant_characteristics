@@ -3,6 +3,7 @@ id: 1166
 label: "Leukemia "
 description:
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Cancer

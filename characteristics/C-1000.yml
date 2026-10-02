@@ -3,6 +3,7 @@ id: 1000
 label: Excessive alcohol use
 description:
 type: boolean
+deprecated: false
 tags:
 - General information
 - Other information

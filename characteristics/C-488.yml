@@ -3,6 +3,7 @@ id: 488
 label: Veterinary surveillance not possible
 description:
 type: boolean
+deprecated: false
 tags:
 - Emergency situation
 - Suspected exposure to rabies

@@ -3,6 +3,7 @@ id: 92
 label: Fireman
 description:
 type: boolean
+deprecated: false
 tags:
 - Profession
 - Police, emergency services

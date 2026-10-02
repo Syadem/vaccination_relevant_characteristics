@@ -3,6 +3,7 @@ id: 1231
 label: Immunocompromised person
 description:
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Immune deficiency

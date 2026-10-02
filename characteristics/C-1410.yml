@@ -3,6 +3,7 @@ id: 1410
 label: Ongoing dengue outbreak
 description:
 type: boolean
+deprecated: false
 tags:
 - TRAVEL
 codes:

@@ -3,6 +3,7 @@ id: 903
 label: Pulmonary hypertension associated with chronic respiratory diseases (PH-CDR)
 description:
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Rare disease

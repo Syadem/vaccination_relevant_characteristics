@@ -3,6 +3,7 @@ id: 1260
 label: Children in nursery
 description:
 type: boolean
+deprecated: false
 tags:
 - Living or housing conditions
 - Community living, residence, institution...

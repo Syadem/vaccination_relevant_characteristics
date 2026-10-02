@@ -3,6 +3,7 @@ id: 487
 label: Missing animal
 description:
 type: boolean
+deprecated: false
 tags:
 - Emergency situation
 - Suspected exposure to rabies

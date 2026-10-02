@@ -3,6 +3,7 @@ id: 981
 label: Student psychotherapist
 description:
 type: boolean
+deprecated: false
 tags:
 - Profession
 - Related to health or the medico-social field

@@ -3,6 +3,7 @@ id: 1201
 label: Shipping department staff
 description:
 type: boolean
+deprecated: false
 tags:
 - Profession
 - Staff working on a cruise ship

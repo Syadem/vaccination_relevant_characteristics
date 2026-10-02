@@ -3,6 +3,7 @@ id: 872
 label: Idiopathic pulmonary fibrosis
 description:
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Rare disease

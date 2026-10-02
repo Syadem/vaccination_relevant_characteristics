@@ -3,6 +3,7 @@ id: 1168
 label: Multiple Myeloma
 description:
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Cancer

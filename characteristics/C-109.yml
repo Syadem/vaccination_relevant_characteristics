@@ -3,6 +3,7 @@ id: 109
 label: Professional fisherman
 description: Specific freshwater activities
 type: boolean
+deprecated: false
 tags:
 - Profession
 - Working with animals, agriculture, water, forests, and fishing

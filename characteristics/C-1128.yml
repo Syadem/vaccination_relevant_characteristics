@@ -3,6 +3,7 @@ id: 1128
 label: Assam
 description:
 type: boolean
+deprecated: false
 tags:
 - TRAVEL
 - States of India

@@ -3,6 +3,7 @@ id: 1053
 label: Fracture of the humerus
 description:
 type: boolean
+deprecated: false
 tags:
 - Medical history
 - Traumatology

@@ -3,6 +3,7 @@ id: 1265
 label: Working in a care establishment
 description:
 type: boolean
+deprecated: false
 tags:
 - Profession
 - Related to health or the medico-social field

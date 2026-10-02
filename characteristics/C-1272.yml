@@ -3,6 +3,7 @@ id: 1272
 label: History of seizures
 description:
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Nervous and muscular system

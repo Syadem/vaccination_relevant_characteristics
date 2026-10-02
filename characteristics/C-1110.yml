@@ -3,6 +3,7 @@ id: 1110
 label: Relapsing nephrotic syndrome
 description:
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Uro-nephrology

@@ -3,6 +3,7 @@ id: 577
 label: anti-HBc negative
 description:
 type: boolean
+deprecated: false
 tags:
 - Laboratory tests
 - Hepatitis B

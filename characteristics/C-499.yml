@@ -3,6 +3,7 @@ id: 499
 label: Negative biological diagnosis result
 description:
 type: boolean
+deprecated: false
 tags:
 - Emergency situation
 - Suspected exposure to rabies

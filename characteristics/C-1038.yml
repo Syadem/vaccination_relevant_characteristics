@@ -3,6 +3,7 @@ id: 1038
 label: Regular swimming, diving or fishing in fresh water
 description:
 type: boolean
+deprecated: false
 tags:
 - Living or housing conditions
 - Others

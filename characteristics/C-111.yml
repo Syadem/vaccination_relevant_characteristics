@@ -3,6 +3,7 @@ id: 111
 label: Fisheries Warden
 description: Specific freshwater activities
 type: boolean
+deprecated: false
 tags:
 - Profession
 - Working with animals, agriculture, water, forests, and fishing

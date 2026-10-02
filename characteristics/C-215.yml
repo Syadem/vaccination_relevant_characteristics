@@ -3,6 +3,7 @@ id: 215
 label: Pharmacy studies
 description:
 type: boolean
+deprecated: false
 tags:
 - Profession
 - Related to health or the medico-social field

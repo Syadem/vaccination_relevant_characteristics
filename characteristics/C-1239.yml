@@ -3,6 +3,7 @@ id: 1239
 label: Congenital spherocytosis
 description:
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Hematology - Hemostasis

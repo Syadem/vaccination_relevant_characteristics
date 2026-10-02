@@ -3,6 +3,7 @@ id: 937
 label: Employee in a medical-social housing structure
 description:
 type: boolean
+deprecated: false
 tags:
 - Profession
 - Related to health or the medico-social field

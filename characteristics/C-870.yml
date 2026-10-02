@@ -3,6 +3,7 @@ id: 870
 label: Refusal to vaccinate against covid 19 collected by the health professional
 description:
 type: boolean
+deprecated: false
 tags:
 - Vaccination consent
 codes:

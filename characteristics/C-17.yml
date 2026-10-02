@@ -3,6 +3,7 @@ id: 17
 label: Chronic renal failure on dialysis
 description:
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Uro-nephrology

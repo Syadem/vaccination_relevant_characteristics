@@ -3,6 +3,7 @@ id: 685
 label: Exposure to sexually transmitted infections (STIs)
 description:
 type: boolean
+deprecated: false
 tags:
 - Living or housing conditions
 - Risk factors concerning sexuality

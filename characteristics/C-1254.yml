@@ -3,6 +3,7 @@ id: 1254
 label: No history of measles
 description:
 type: boolean
+deprecated: false
 tags:
 - Medical history
 - Infectious diseases

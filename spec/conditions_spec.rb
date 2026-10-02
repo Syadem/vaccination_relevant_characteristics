@@ -25,12 +25,15 @@ describe 'The characteristics folder' do
         expect(data).to have_key('label')
         expect(data['label']).to be_a(String)
         expect(data['label']).not_to eq('')
-
+        
         expect(data).to have_key('description')
         expect(data['description']).to(be_a(String).or be_nil)
-
+        
         expect(data).to have_key('type')
         expect(%w[boolean integer date float]).to include(data['type'])
+
+        expect(data).to have_key('deprecated')
+        expect(data['deprecated']).to(be(true).or be(false))
 
         expect(data).to have_key('codes')
         expect(data['codes']).to be_a(Array)

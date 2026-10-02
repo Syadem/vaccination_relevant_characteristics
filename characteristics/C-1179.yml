@@ -3,6 +3,7 @@ id: 1179
 label: 2nd Officer
 description:
 type: boolean
+deprecated: false
 tags:
 - Profession
 - Staff working on a cruise ship

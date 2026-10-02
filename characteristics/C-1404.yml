@@ -3,6 +3,7 @@ id: 1404
 label: Repeated stays in an area where chikungunya is actively circulating over the last 12 months
 description:
 type: boolean
+deprecated: false
 tags:
 - TRAVEL
 codes:

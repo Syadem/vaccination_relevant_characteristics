@@ -3,6 +3,7 @@ id: 1199
 label: Staff assigned to the laundry service
 description:
 type: boolean
+deprecated: false
 tags:
 - Profession
 - Staff working on a cruise ship

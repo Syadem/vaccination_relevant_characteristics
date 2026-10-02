@@ -3,6 +3,7 @@ id: 1132
 label: Gujarat
 description:
 type: boolean
+deprecated: false
 tags:
 - TRAVEL
 - States of India

@@ -3,6 +3,7 @@ id: 552
 label: Breastfeeding
 description:
 type: boolean
+deprecated: false
 tags:
 - General information
 - Parenthood

@@ -3,6 +3,7 @@ id: 1133
 label: Haryana
 description:
 type: boolean
+deprecated: false
 tags:
 - TRAVEL
 - States of India

@@ -3,6 +3,7 @@ id: 496
 label: No direct contact with the animal's saliva (untorn clothing, licking on healthy skin)
 description:
 type: boolean
+deprecated: false
 tags:
 - Emergency situation
 - Suspected exposure to rabies

@@ -3,6 +3,7 @@ id: 1413
 label: Date of the last tuberculin skin test (TST)
 description:
 type: date
+deprecated: false
 tags:
 - Laboratory tests
 - Tuberculosis

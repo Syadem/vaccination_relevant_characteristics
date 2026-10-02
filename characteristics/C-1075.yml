@@ -3,6 +3,7 @@ id: 1075
 label: Stay during the rainy season
 description:
 type: boolean
+deprecated: false
 tags:
 - TRAVEL
 - Conditions of stay

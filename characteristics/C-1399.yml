@@ -3,6 +3,7 @@ id: 1399
 label: An infant in the household, born to a mother who was NOT VACCINATED against whooping cough during pregnancy
 description:
 type: boolean
+deprecated: false
 tags:
 - Entourage
 codes:

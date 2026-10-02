@@ -3,6 +3,7 @@ id: 1078
 label: Intermediate IGRA
 description:
 type: boolean
+deprecated: false
 tags:
 - Laboratory tests
 - Tuberculosis

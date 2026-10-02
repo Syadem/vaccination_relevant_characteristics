@@ -3,6 +3,7 @@ id: 479
 label: Thrombocytopenia
 description: It is a decrease in platelets as shown by a blood test, exposing the patient to a greater risk of bleeding.
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Hematology - Hemostasis

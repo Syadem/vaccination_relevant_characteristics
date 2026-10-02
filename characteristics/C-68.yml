@@ -3,6 +3,7 @@ id: 68
 label: Medical studies
 description:
 type: boolean
+deprecated: false
 tags:
 - Profession
 - Related to health or the medico-social field

@@ -3,6 +3,7 @@ id: 1090
 label: Sexual behaviour involving a high risk of exposure to a transmissible disease
 description:
 type: boolean
+deprecated: false
 tags:
 - Living or housing conditions
 - Risk factors concerning sexuality

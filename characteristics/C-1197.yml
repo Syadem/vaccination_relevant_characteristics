@@ -3,6 +3,7 @@ id: 1197
 label: Public health officer
 description:
 type: boolean
+deprecated: false
 tags:
 - Profession
 - Staff working on a cruise ship

@@ -3,6 +3,7 @@ id: 1164
 label: Hodgkin's disease
 description:
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Cancer

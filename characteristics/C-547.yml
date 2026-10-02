@@ -3,6 +3,7 @@ id: 547
 label: Coronary artery disease
 description: Select this item if you have angina or a history of myocardial infarction.
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Cardiology-Pulmonology

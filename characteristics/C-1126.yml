@@ -3,6 +3,7 @@ id: 1126
 label: Andhra Pradesh
 description:
 type: boolean
+deprecated: false
 tags:
 - TRAVEL
 - States of India

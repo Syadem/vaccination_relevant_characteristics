@@ -3,6 +3,7 @@ id: 626
 label: Refusal of HPV vaccination
 description:
 type: boolean
+deprecated: false
 tags:
 - Vaccinations not desired
 codes:

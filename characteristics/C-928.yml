@@ -3,6 +3,7 @@ id: 928
 label: Treatment with anti-SARS-CoV-2 monoclonal antibodies
 description:
 type: boolean
+deprecated: false
 tags:
 - Treatments
 - Treatments affecting immunity

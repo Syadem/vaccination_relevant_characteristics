@@ -3,6 +3,7 @@ id: 123
 label: Sexual partner of a person infected with the hepatitis B virus
 description: Or a chronic HBsAg carrier.
 type: boolean
+deprecated: false
 tags:
 - Living or housing conditions
 - Risk factors concerning sexuality

@@ -3,6 +3,7 @@ id: 6
 label: Nephrotic syndrome
 description:
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Uro-nephrology

@@ -3,6 +3,7 @@ id: 1167
 label: Lymphoma
 description:
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Cancer

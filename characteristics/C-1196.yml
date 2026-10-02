@@ -3,6 +3,7 @@ id: 1196
 label: Hotel management staff
 description:
 type: boolean
+deprecated: false
 tags:
 - Profession
 - Staff working on a cruise ship

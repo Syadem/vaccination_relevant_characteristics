@@ -3,6 +3,7 @@ id: 4
 label: Severe Valvulopathy
 description:
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Cardiology-Pulmonology

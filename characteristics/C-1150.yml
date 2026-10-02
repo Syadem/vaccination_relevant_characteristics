@@ -3,6 +3,7 @@ id: 1150
 label: Tripura
 description:
 type: boolean
+deprecated: false
 tags:
 - TRAVEL
 - States of India

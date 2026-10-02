@@ -3,6 +3,7 @@ id: 1036
 label: No risk of exposure to biological agents
 description:
 type: boolean
+deprecated: false
 tags:
 - Profession
 - Related to health or the medico-social field

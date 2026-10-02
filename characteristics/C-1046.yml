@@ -3,6 +3,7 @@ id: 1046
 label: Acute spinal pain
 description:
 type: boolean
+deprecated: false
 tags:
 - Medical history
 - Traumatology

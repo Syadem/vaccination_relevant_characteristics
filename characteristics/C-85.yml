@@ -3,6 +3,7 @@ id: 85
 label: Works in an institution or service for adults with disabilities
 description:
 type: boolean
+deprecated: false
 tags:
 - Profession
 - Related to health or the medico-social field

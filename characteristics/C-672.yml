@@ -3,6 +3,7 @@ id: 672
 label: Migrant recently arrived in France
 description:
 type: boolean
+deprecated: false
 tags:
 - Living or housing conditions
 - Others

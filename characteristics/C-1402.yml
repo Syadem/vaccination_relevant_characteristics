@@ -3,6 +3,7 @@ id: 1402
 label: Metallurgical worker
 description:
 type: boolean
+deprecated: false
 tags:
 - Profession
 - Other professions

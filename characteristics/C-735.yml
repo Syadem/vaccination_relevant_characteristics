@@ -3,6 +3,7 @@ id: 735
 label: History of thymus dysfunction
 description: History of thymus dysfunction (including myasthenia gravis, thymoma, thymectomy, mediastinal or thymic radiotherapy).
 type: boolean
+deprecated: false
 tags:
 - Medical history
 - Other medical histor

@@ -3,6 +3,7 @@ id: 888
 label: Defect in production or response to interferon alpha
 description: Includes IFNAR, UNC and TLR3 defects.
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Rare disease

@@ -3,6 +3,7 @@ id: 1217
 label: Electronic Engineer
 description:
 type: boolean
+deprecated: false
 tags:
 - Profession
 - Staff working on a cruise ship

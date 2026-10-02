@@ -3,6 +3,7 @@ id: 153
 label: Naturalist or taxidermist
 description: "Other name : stuffer."
 type: boolean
+deprecated: false
 tags:
 - Profession
 - Working with animals, agriculture, water, forests, and fishing

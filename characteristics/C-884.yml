@@ -3,6 +3,7 @@ id: 884
 label: Amyotrophic lateral sclerosis (ALS)
 description:
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Rare disease

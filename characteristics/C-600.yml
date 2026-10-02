@@ -3,6 +3,7 @@ id: 600
 label: HBV DNA positive
 description:
 type: boolean
+deprecated: false
 tags:
 - Laboratory tests
 - Hepatitis B

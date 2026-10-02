@@ -9,6 +9,7 @@ description: "Check this box if you are taking this medication.\r
 
   Administration of a live attenuated vaccine must be delayed for 8 weeks after stopping treatment."
 type: boolean
+deprecated: false
 tags:
 - Treatments
 - Treatments affecting immunity

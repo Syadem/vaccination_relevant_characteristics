@@ -3,6 +3,7 @@ id: 963
 label: Height (cm)
 description:
 type: integer
+deprecated: false
 tags:
 - General information
 - BMI

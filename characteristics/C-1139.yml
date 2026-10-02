@@ -3,6 +3,7 @@ id: 1139
 label: Maharashtra
 description:
 type: boolean
+deprecated: false
 tags:
 - TRAVEL
 - States of India

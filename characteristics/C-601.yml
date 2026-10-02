@@ -3,6 +3,7 @@ id: 601
 label: HBV DNA negative
 description:
 type: boolean
+deprecated: false
 tags:
 - Laboratory tests
 - Hepatitis B

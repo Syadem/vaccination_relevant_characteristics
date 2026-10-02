@@ -3,6 +3,7 @@ id: 407
 label: Works in a private practice
 description:
 type: boolean
+deprecated: false
 tags:
 - Profession
 - Related to health or the medico-social field

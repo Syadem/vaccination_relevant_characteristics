@@ -3,6 +3,7 @@ id: 889
 label: "SASH3: exceptional form which sometimes associates neutropenia with a lymphocyte deficit"
 description:
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Rare disease

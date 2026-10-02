@@ -9,6 +9,7 @@ description: "This question is asked because close and prolonged contact with th
 
   Examples of high-risk situations during your stay: staying with a local, going to nightclubs, long or crowded journeys, playing contact sports, work placements in schools, boarding schools, etc."
 type: boolean
+deprecated: false
 tags:
 - TRAVEL
 - Travel details

@@ -3,6 +3,7 @@ id: 1142
 label: Mizoram
 description:
 type: boolean
+deprecated: false
 tags:
 - TRAVEL
 - States of India

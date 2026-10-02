@@ -3,6 +3,7 @@ id: 140
 label: Active military
 description:
 type: boolean
+deprecated: false
 tags:
 - Profession
 - military

@@ -3,6 +3,7 @@ id: 1281
 label: High-grade cervical dysplasia
 description:
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Cancer

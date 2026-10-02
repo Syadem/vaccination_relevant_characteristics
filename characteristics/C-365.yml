@@ -3,6 +3,7 @@ id: 365
 label: Chickenpox serology unknown or not done
 description:
 type: boolean
+deprecated: false
 tags:
 - Laboratory tests
 - Chickenpox

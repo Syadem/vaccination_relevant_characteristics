@@ -3,6 +3,7 @@ id: 229
 label: Psychomotrician student
 description:
 type: boolean
+deprecated: false
 tags:
 - Profession
 - Related to health or the medico-social field

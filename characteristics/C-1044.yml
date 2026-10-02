@@ -3,6 +3,7 @@ id: 1044
 label: Anti-aromatase
 description:
 type: boolean
+deprecated: false
 tags:
 - Medical history
 - Risk factors for osteoporosis

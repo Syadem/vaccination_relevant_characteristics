@@ -3,6 +3,7 @@ id: 1246
 label: Stay in a residential medical care facility
 description:
 type: boolean
+deprecated: false
 tags:
 - Living or housing conditions
 - Community living, residence, institution...

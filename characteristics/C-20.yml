@@ -3,6 +3,7 @@ id: 20
 label: Person likely to receive massive or iterative transfusions
 description:
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Hematology - Hemostasis

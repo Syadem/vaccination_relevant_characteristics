@@ -3,6 +3,7 @@ id: 1085
 label: Mother who received Abrysvo during pregnancy
 description:
 type: boolean
+deprecated: false
 tags:
 - TRAVEL
 - China

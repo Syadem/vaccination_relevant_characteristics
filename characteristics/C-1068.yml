@@ -3,6 +3,7 @@ id: 1068
 label: Staying in a rural area
 description:
 type: boolean
+deprecated: false
 tags:
 - TRAVEL
 - Conditions of stay

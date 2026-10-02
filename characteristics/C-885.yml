@@ -3,6 +3,7 @@ id: 885
 label: Incontinentia pigmenti
 description:
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Rare disease

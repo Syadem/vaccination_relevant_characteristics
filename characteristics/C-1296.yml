@@ -3,6 +3,7 @@ id: 1296
 label: Date of last exposure to rabies (mandatory)
 description:
 type: date
+deprecated: false
 tags:
 - Emergency situation
 - Suspected exposure to rabies

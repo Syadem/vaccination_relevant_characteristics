@@ -3,6 +3,7 @@ id: 142
 label: Other chronic respiratory disease
 description: Other than a respiratory illness displayed in the questionnaire.
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Cardiology-Pulmonology

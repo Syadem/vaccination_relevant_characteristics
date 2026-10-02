@@ -3,6 +3,7 @@ id: 1119
 label: Border guard
 description:
 type: boolean
+deprecated: false
 tags:
 - Profession
 - Police, emergency services

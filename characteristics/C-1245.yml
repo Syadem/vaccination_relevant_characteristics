@@ -3,6 +3,7 @@ id: 1245
 label: Stay in a nursing and care facility
 description:
 type: boolean
+deprecated: false
 tags:
 - Living or housing conditions
 - Community living, residence, institution...

@@ -3,6 +3,7 @@ id: 126
 label: Asthma (other than severe and under continuous treatment)
 description:
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Cardiology-Pulmonology

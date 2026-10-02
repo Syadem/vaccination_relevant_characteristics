@@ -3,6 +3,7 @@ id: 831
 label: Refusal of dengue vaccination
 description:
 type: boolean
+deprecated: false
 tags:
 - Vaccinations not desired
 codes:

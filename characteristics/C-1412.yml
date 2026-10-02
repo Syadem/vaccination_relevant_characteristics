@@ -3,6 +3,7 @@ id: 1412
 label: Dengue incidence rate less than 100 per 100,000 person-years in the area visited
 description:
 type: boolean
+deprecated: false
 tags:
 - TRAVEL
 codes:

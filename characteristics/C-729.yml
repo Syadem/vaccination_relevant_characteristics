@@ -3,6 +3,7 @@ id: 729
 label: Reservist
 description:
 type: boolean
+deprecated: false
 tags:
 - Profession
 - military

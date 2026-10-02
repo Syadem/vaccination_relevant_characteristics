@@ -3,6 +3,7 @@ id: 1258
 label: " History of immunosuppressive treatment."
 description:
 type: boolean
+deprecated: false
 tags:
 - Treatments
 - Treatments affecting immunity

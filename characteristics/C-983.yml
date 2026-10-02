@@ -3,6 +3,7 @@ id: 983
 label: Student prosthetist and orthotist for the fitting of disabled persons
 description:
 type: boolean
+deprecated: false
 tags:
 - Profession
 - Related to health or the medico-social field

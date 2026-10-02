@@ -3,6 +3,7 @@ id: 272
 label: Works in an immunocompromised ward
 description:
 type: boolean
+deprecated: false
 tags:
 - Profession
 - Related to health or the medico-social field

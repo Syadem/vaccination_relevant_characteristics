@@ -3,6 +3,7 @@ id: 606
 label: Works in a laundry linked to a prevention or care establishment
 description:
 type: boolean
+deprecated: false
 tags:
 - Profession
 - Catering - Laundry - Tattooing

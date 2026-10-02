@@ -5,6 +5,7 @@ description: "A history of dengue is defined by the existence of documented evid
 
   If a history of dengue is reported after 6 months, provide an approximate date."
 type: date
+deprecated: false
 tags:
 - Medical history
 - Infectious diseases

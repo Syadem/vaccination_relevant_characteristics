@@ -3,6 +3,7 @@ id: 1082
 label: Free
 description: Free
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Cardiology-Pulmonology

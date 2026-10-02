@@ -3,6 +3,7 @@ id: 503
 label: Direct contact in a rabies-free country with dogs, cats or ferrets.
 description:
 type: boolean
+deprecated: false
 tags:
 - Emergency situation
 - Suspected exposure to rabies

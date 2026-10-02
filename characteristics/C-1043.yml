@@ -3,6 +3,7 @@ id: 1043
 label: LH-RH agonist
 description:
 type: boolean
+deprecated: false
 tags:
 - Medical history
 - Risk factors for osteoporosis

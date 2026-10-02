@@ -3,6 +3,7 @@ id: 484
 label: Autoimmune hemolytic anemia
 description:
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Hematology - Hemostasis

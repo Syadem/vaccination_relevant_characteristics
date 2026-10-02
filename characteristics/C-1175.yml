@@ -3,6 +3,7 @@ id: 1175
 label: Staff Captain
 description:
 type: boolean
+deprecated: false
 tags:
 - Profession
 - Staff working on a cruise ship

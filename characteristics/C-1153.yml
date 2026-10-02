@@ -3,6 +3,7 @@ id: 1153
 label: West Bengal
 description:
 type: boolean
+deprecated: false
 tags:
 - TRAVEL
 - States of India

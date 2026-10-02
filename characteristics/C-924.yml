@@ -3,6 +3,7 @@ id: 924
 label: Chronic lymphocytic leukemia
 description:
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Cancer

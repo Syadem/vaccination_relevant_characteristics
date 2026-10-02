@@ -3,6 +3,7 @@ id: 864
 label: Dementia or psychiatric disorder
 description: Includes Alzheimer's disease.
 type: boolean
+deprecated: false
 tags:
 - Chronic condition
 - Nervous and muscular system

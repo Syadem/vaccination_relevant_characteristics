@@ -3,6 +3,7 @@ id: 97
 label: Personnel involved in food preparation in collective catering
 description:
 type: boolean
+deprecated: false
 tags:
 - Profession
 - Catering - Laundry - Tattooing
