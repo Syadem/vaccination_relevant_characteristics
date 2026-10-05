@@ -3,7 +3,7 @@ id: 1127
 label: Arunachal Pradesh
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - TRAVEL
 - States of India

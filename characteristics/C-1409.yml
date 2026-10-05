@@ -3,7 +3,7 @@ id: 1409
 label: NO active circulation of chikungunya with a risk of an outbreak
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Living or housing conditions
 codes:

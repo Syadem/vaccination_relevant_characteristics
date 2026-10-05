@@ -3,7 +3,7 @@ id: 957
 label: Major neuro-cognitive deficit
 description: MMS (Mini-Mental State) score < 20.
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Chronic condition
 - Nervous and muscular system

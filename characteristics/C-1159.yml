@@ -3,7 +3,7 @@ id: 1159
 label: Rheumatoid arthritis
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Chronic condition
 - Inflammatory or autoimmune disease

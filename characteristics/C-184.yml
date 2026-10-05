@@ -3,7 +3,7 @@ id: 184
 label: Social and family economy advisor
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Profession
 - Related to health or the medico-social field

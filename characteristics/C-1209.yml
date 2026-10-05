@@ -3,7 +3,7 @@ id: 1209
 label: 3rd Engineer
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Profession
 - Staff working on a cruise ship

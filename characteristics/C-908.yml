@@ -3,7 +3,7 @@ id: 908
 label: Resides in a migrant workers' home
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Living or housing conditions
 - Community living, residence, institution...

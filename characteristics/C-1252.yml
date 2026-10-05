@@ -3,7 +3,7 @@ id: 1252
 label: Stay in a children’s club
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Living or housing conditions
 - Community living, residence, institution...

@@ -3,7 +3,7 @@ id: 1056
 label: "Spinal X-ray: no vertebral fracture"
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Additional examinations
 - Medical imaging

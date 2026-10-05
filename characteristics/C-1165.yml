@@ -3,7 +3,7 @@ id: 1165
 label: Other autoimmune disease
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Chronic condition
 - Inflammatory or autoimmune disease

@@ -3,7 +3,7 @@ id: 1277
 label: Date of last CD4 test
 description:
 type: date
-deprecated_on:
+deprecated: false
 tags:
 - Laboratory tests
 - HIV

@@ -3,7 +3,7 @@ id: 158
 label: Positive chickenpox serology
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Laboratory tests
 - Chickenpox

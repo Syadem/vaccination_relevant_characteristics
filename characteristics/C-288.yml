@@ -3,7 +3,7 @@ id: 288
 label: Positive mumps serology
 description: A positive mumps serology alone does not indicate a history of mumps.
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Laboratory tests
 - Mumps

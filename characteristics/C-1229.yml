@@ -3,7 +3,7 @@ id: 1229
 label: On long-term aspirin therapy
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Treatments
 - Other treatments

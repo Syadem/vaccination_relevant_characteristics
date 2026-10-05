@@ -3,7 +3,7 @@ id: 1103
 label: Attend a childcare facility approved by the Office of Birth and Childhood (ONE)
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Living or housing conditions
 - Community living, residence, institution...

@@ -3,7 +3,7 @@ id: 1148
 label: Tamil Nadu
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - TRAVEL
 - States of India

@@ -3,7 +3,7 @@ id: 210
 label: Dental surgery studies
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Profession
 - Related to health or the medico-social field

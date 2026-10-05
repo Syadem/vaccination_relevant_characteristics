@@ -3,7 +3,7 @@ id: 856
 label: Supervisory staff for health care personnel
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Profession
 - Related to health or the medico-social field

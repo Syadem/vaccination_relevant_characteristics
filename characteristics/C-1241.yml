@@ -3,7 +3,7 @@ id: 1241
 label: Other acquired immunodeficiency
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Chronic condition
 - Immune deficiency

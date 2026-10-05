@@ -3,7 +3,7 @@ id: 1244
 label: Person undergoing immunosuppressive treatment or chemotherapy in the entourage
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Entourage
 codes:

@@ -3,7 +3,7 @@ id: 1042
 label: Menopausal woman
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Medical history
 - Risk factors for osteoporosis

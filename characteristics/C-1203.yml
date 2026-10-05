@@ -3,7 +3,7 @@ id: 1203
 label: Staff in the organization of excursions
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Profession
 - Staff working on a cruise ship

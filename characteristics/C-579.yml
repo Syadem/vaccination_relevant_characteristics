@@ -3,7 +3,7 @@ id: 579
 label: Biotherapy leading to immunosuppression
 description: Biotherapies are directed against a specific immune target, the most commonly used being anti-TNF and anti-IL-1. They are indicated for inflammatory rheumatism and autoimmune diseases. Currently, anti-TNF therapies are the reference treatment for severe and active forms of rheumatoid arthritis and spondyloarthropathy.Examples of drugs used are infliximab (Inflectra®, Remicade®, Remsima®), adalimumab (Humira®, Trudexa®), etanercept (Enbrel®), anakinra (Kineret®), rituximab (MabThera®), abatacept (Orencia®), and brodalumab (Kyntheum®). It is at least three months (six months after rituximab treatment).
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Treatments
 - Treatments affecting immunity

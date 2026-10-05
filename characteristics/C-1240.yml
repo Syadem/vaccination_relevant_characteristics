@@ -3,7 +3,7 @@ id: 1240
 label: Other haemoglobinopathy
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Chronic condition
 - Hematology - Hemostasis

@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 require 'json'
 require 'yaml'
-require 'date'
 
 describe 'The characteristics folder' do
   Dir.glob('characteristics/*').each do |file|
@@ -33,15 +32,8 @@ describe 'The characteristics folder' do
         expect(data).to have_key('type')
         expect(%w[boolean integer date float]).to include(data['type'])
 
-        expect(data).to have_key('deprecated_on')
-        
-        if data['deprecated_on']
-          expect(data['deprecated_on']).to be_a(String)
-          expect(data['deprecated_on']).to match(/\A\d{4}-\d{2}-\d{2}\z/)
-          expect { Date.iso8601(data['deprecated_on']) }.not_to raise_error
-        else
-          expect(data['deprecated_on']).to be_nil
-        end
+        expect(data).to have_key('deprecated')
+        expect(data['deprecated']).to(be(true).or be(false))
 
         expect(data).to have_key('codes')
         expect(data['codes']).to be_a(Array)

@@ -3,7 +3,7 @@ id: 1253
 label: Radiotherapy in progress for solid tumor (cancer)
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Treatments
 - Treatments affecting immunity

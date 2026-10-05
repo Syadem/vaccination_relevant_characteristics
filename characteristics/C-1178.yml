@@ -3,7 +3,7 @@ id: 1178
 label: Security Guard
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Profession
 - Staff working on a cruise ship

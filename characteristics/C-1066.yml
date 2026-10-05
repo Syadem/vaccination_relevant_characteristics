@@ -3,7 +3,7 @@ id: 1066
 label: Expatriation
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - TRAVEL
 - Conditions of stay

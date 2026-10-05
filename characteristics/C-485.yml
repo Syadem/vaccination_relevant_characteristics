@@ -3,7 +3,7 @@ id: 485
 label: Living animal
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Emergency situation
 - Suspected exposure to rabies

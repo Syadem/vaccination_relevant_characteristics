@@ -3,7 +3,7 @@ id: 16
 label: Hemophilia
 description: Hemophilia is a bleeding disorder caused by a lack of clotting proteins. This results in more frequent bleeding and hematoma at the slightest trauma. This disease is most often contracted at birth. Forms appearing in adulthood are exceptional.
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Chronic condition
 - Hematology - Hemostasis

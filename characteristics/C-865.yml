@@ -3,7 +3,7 @@ id: 865
 label: Refusal to vaccinate against covid 19
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Vaccinations not desired
 codes:

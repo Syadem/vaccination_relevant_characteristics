@@ -3,7 +3,7 @@ id: 48
 label: Overcrowded housing
 description: Many people housed in a small area.
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Living or housing conditions
 - Others

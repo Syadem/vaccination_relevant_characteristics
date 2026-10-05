@@ -3,7 +3,7 @@ id: 1051
 label: Spinal fracture
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Medical history
 - Traumatology

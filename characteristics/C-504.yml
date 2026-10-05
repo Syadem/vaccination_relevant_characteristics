@@ -3,7 +3,7 @@ id: 504
 label: "Direct contact in a rabies-free country with other mammals: Wildlife, Deer, Cattle, Sheep, Goat, Equine ...."
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Emergency situation
 - Suspected exposure to rabies

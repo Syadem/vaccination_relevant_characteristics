@@ -3,7 +3,7 @@ id: 1129
 label: Bihar
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - TRAVEL
 - States of India

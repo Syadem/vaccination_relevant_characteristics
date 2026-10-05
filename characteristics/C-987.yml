@@ -3,7 +3,7 @@ id: 987
 label: Student dietician
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Profession
 - Related to health or the medico-social field

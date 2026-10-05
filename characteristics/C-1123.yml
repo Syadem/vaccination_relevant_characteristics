@@ -3,7 +3,7 @@ id: 1123
 label: Waiting for surgery
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Living or housing conditions
 - Others

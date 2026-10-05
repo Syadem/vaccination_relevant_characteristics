@@ -3,7 +3,7 @@ id: 913
 label: Positive covid 19 antigenic test
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Laboratory tests
 - COVID-19

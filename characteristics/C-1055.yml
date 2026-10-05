@@ -3,7 +3,7 @@ id: 1055
 label: Height on identity card (in cm)
 description:
 type: integer
-deprecated_on:
+deprecated: false
 tags:
 - General information
 - BMI

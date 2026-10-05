@@ -3,7 +3,7 @@ id: 956
 label: Cirrhosis
 description: Especially in stage B or C of the Child-Pugh classification.
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Chronic condition
 - Liver

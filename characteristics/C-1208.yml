@@ -3,7 +3,7 @@ id: 1208
 label: 2nd Engineer Environmental
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Profession
 - Staff working on a cruise ship

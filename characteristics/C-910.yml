@@ -3,7 +3,7 @@ id: 910
 label: Allergy (other than anaphylaxis) to a previously administered vaccine
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Medical history
 - Allergies

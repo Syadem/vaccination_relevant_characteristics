@@ -3,7 +3,7 @@ id: 1079
 label: Date of last IGRA test performed
 description:
 type: date
-deprecated_on:
+deprecated: false
 tags:
 - Laboratory tests
 - Tuberculosis

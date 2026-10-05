@@ -3,7 +3,7 @@ id: 1101
 label: Long-term care centre users
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Living or housing conditions
 codes:

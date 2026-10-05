@@ -3,7 +3,7 @@ id: 227
 label: Orthoptic student
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Profession
 - Related to health or the medico-social field

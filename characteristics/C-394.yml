@@ -3,7 +3,7 @@ id: 394
 label: Known history of jaundice
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - General information
 - Other information

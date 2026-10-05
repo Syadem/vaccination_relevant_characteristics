@@ -3,7 +3,7 @@ id: 901
 label: Pulmonary Arterial Hypertension (PAH)
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Chronic condition
 - Rare disease

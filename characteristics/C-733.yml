@@ -3,7 +3,7 @@ id: 733
 label: Treated diabetes
 description: Oral anti-diabetic medication or insulin.
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Chronic condition
 - Diabetes

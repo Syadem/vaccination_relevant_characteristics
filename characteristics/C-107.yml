@@ -3,7 +3,7 @@ id: 107
 label: Employed in the cleaning or maintenance of canals, ponds, lakes, rivers, waterways, banks
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Profession
 - Working with animals, agriculture, water, forests, and fishing

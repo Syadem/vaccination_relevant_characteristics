@@ -3,7 +3,7 @@ id: 495
 label: Result of the ongoing veterinary surveillance
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Emergency situation
 - Suspected exposure to rabies

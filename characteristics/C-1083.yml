@@ -3,7 +3,7 @@ id: 1083
 label: History of shingles
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Medical history
 - Infectious diseases

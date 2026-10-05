@@ -11,7 +11,7 @@ description: |-
   - Constitutional immune deficiencies (including complement and properdin deficiencies) or secondary to immunosuppressive treatments (lymphomas, leukemias, cancers, organ transplants)
   - Premature infants with a gestational age of less than 32 weeks and infants with a birth weight of less than 1,500 g are at transiently high risk of invasive pneumococcal infection up to 24 months of age.
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Factors that may promote certain diseases prevented by vaccines
 codes:

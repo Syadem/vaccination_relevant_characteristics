@@ -3,7 +3,7 @@ id: 904
 label: Pulmonary fibrosis associated with connectivitis
 description: "Connectivites: systemic scleroderma, rheumatoid arthritis, other connectivites."
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Chronic condition
 - Rare disease

@@ -3,7 +3,7 @@ id: 50
 label: Moderate heart failure
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Chronic condition
 - Cardiology-Pulmonology

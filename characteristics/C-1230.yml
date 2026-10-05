@@ -3,7 +3,7 @@ id: 1230
 label: Vector control professionals
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Profession
 - Sanitation - Environment

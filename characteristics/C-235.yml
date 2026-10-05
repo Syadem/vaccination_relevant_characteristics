@@ -3,7 +3,7 @@ id: 235
 label: Student counselor in social and family economics
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Profession
 - Related to health or the medico-social field

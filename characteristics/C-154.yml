@@ -3,7 +3,7 @@ id: 154
 label: Gamekeeper
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Profession
 - Working with animals, agriculture, water, forests, and fishing

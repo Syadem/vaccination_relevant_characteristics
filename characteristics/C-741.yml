@@ -3,7 +3,7 @@ id: 741
 label: Military mission in Guyana
 description: Information for yellow fever vaccine recommendations.
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Profession
 - military

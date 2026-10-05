@@ -3,7 +3,7 @@ id: 1022
 label: Contraindication to influenza vaccination
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Contra-indications
 codes:

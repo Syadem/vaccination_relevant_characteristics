@@ -3,7 +3,7 @@ id: 958
 label: Diabetes
 description: Regardless of the type of diabetes
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Chronic condition
 - Diabetes

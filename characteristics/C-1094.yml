@@ -3,7 +3,7 @@ id: 1094
 label: Other chronic metabolic diseases
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Chronic condition
 codes:

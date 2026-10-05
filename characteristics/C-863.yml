@@ -3,7 +3,7 @@ id: 863
 label: Other profession in the field of education
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Profession
 - Education

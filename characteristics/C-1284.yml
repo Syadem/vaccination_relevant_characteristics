@@ -3,7 +3,7 @@ id: 1284
 label: Date of last hepatitis C serology
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Laboratory tests
 - Hepatitis C

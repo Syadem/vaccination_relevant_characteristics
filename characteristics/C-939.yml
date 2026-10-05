@@ -3,7 +3,7 @@ id: 939
 label: Unused - Myocarditis or pericarditis associated with SARS-CoV-2 infection
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Medical history
 - Other medical histor

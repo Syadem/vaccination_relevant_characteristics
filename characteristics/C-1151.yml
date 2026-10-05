@@ -3,7 +3,7 @@ id: 1151
 label: Uttar Pradesh
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - TRAVEL
 - States of India

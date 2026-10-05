@@ -3,7 +3,7 @@ id: 95
 label: National education professional in contact with children
 description: Primary school teacher, teacher, guidance counselor, school psychologist, educational counselor...
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Profession
 - Education

@@ -3,7 +3,7 @@ id: 1048
 label: High-energy trau
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Medical history
 - Traumatology

@@ -3,7 +3,7 @@ id: 614
 label: Refusal to vaccinate against hepatitis B
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Vaccinations not desired
 codes:

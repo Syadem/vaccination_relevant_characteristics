@@ -3,7 +3,7 @@ id: 835
 label: Pending initiation of therapy that affects immunity
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Treatments
 - Waiting for treatment to be initiated that affects immunity

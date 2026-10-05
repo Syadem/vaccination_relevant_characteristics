@@ -3,7 +3,7 @@ id: 1071
 label: Working in the health or relief sector or with refugees in the country visited
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - TRAVEL
 - Travel details

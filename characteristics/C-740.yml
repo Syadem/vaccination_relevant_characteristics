@@ -3,7 +3,7 @@ id: 740
 label: Military mission in Gabon
 description: Information for yellow fever vaccine recommendations.
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Profession
 - military

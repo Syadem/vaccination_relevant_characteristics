@@ -3,7 +3,7 @@ id: 1033
 label: Person at high risk of severe covid in the entourage
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Entourage
 codes:

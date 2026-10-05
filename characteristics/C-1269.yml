@@ -3,7 +3,7 @@ id: 1269
 label: Exchange transfusion
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Treatments
 codes:

@@ -3,7 +3,7 @@ id: 743
 label: Complicated hypertension
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Chronic condition
 - Cardiology-Pulmonology

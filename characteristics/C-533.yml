@@ -3,7 +3,7 @@ id: 533
 label: Staying in a home for the dependent elderly
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Living or housing conditions
 - Community living, residence, institution...

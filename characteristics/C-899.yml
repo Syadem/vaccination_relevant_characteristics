@@ -3,7 +3,7 @@ id: 899
 label: APECED or autoimmune polyendocrinopathy type 1
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Chronic condition
 - Rare disease

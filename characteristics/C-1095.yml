@@ -3,7 +3,7 @@ id: 1095
 label: Other chronic kidney diseases
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Chronic condition
 - Uro-nephrology

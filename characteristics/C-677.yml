@@ -3,7 +3,7 @@ id: 677
 label: Refusal of mumps vaccination
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Vaccinations not desired
 codes:

@@ -3,7 +3,7 @@ id: 116
 label: Preschooler living in a community setting
 description: Living in a community may result in specific vaccination recommendations.
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Living or housing conditions
 - Community living, residence, institution...

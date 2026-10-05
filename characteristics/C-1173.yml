@@ -3,7 +3,7 @@ id: 1173
 label: Skin lesions that may expose you to the risk of tetanus
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Miscellaneous
 codes:

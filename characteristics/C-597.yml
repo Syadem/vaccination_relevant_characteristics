@@ -3,7 +3,7 @@ id: 597
 label: Attendance at gay-friendly or gay-friendly venues
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Living or housing conditions
 - Risk factors concerning sexuality

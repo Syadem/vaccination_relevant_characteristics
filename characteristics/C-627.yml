@@ -3,7 +3,7 @@ id: 627
 label: Refusal of tick-borne encephalitis vaccination
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Vaccinations not desired
 codes:

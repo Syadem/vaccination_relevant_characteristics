@@ -3,7 +3,7 @@ id: 962
 label: Weight (kg)
 description:
 type: integer
-deprecated_on:
+deprecated: false
 tags:
 - General information
 - BMI

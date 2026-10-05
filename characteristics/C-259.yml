@@ -3,7 +3,7 @@ id: 259
 label: Works in an occupational health department
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Profession
 - Related to health or the medico-social field

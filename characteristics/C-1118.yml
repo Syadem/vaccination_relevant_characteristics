@@ -3,7 +3,7 @@ id: 1118
 label: Military
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Profession
 - military

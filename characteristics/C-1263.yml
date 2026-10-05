@@ -3,7 +3,7 @@ id: 1263
 label: Housed in barracks
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Living or housing conditions
 - Community living, residence, institution...

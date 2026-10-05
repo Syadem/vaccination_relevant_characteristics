@@ -3,7 +3,7 @@ id: 1299
 label: No chronic condition
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Chronic condition
 codes:

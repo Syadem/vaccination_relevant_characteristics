@@ -3,7 +3,7 @@ id: 1162
 label: Psoriatic arthritis
 description: Also known as psoriatic arthritis or psoriatic arthritis.
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Chronic condition
 - Inflammatory or autoimmune disease

@@ -3,7 +3,7 @@ id: 953
 label: Unstable coronary artery disease
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Chronic condition
 - Cardiology-Pulmonology

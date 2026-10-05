@@ -3,7 +3,7 @@ id: 156
 label: Employee in a slaughterhouse
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Profession
 - Working with animals, agriculture, water, forests, and fishing

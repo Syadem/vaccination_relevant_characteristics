@@ -3,7 +3,7 @@ id: 737
 label: Negative post-vaccination hepatitis A serology
 description: This serology consists of a determination of total anti-HAV antibodies.
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Laboratory tests
 - Hepatitis A

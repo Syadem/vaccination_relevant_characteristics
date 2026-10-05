@@ -3,7 +3,7 @@ id: 1191
 label: Cadet
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Profession
 - Staff working on a cruise ship

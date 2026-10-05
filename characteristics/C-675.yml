@@ -3,7 +3,7 @@ id: 675
 label: Refusal of Haemophilus influenzae type b vaccination
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Vaccinations not desired
 codes:

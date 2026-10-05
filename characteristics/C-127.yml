@@ -3,7 +3,7 @@ id: 127
 label: Mucoviscidosis
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Chronic condition
 - Cardiology-Pulmonology

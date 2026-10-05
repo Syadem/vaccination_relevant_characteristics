@@ -3,7 +3,7 @@ id: 746
 label: Allergy to aminoglycosides (neomycin, kanamycin...)
 description: Aminoglycosides are antibiotics.
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Medical history
 - Allergies

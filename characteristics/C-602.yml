@@ -3,7 +3,7 @@ id: 602
 label: HBV DNA unknown
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Laboratory tests
 - Hepatitis B

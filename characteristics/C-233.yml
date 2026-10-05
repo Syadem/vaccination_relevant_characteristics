@@ -3,7 +3,7 @@ id: 233
 label: Student socio-educational animator
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Profession
 - Related to health or the medico-social field

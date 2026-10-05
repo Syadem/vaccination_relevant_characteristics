@@ -3,7 +3,7 @@ id: 200
 label: History of stroke
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Chronic condition
 - Cardiology-Pulmonology

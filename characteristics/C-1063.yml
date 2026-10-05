@@ -3,7 +3,7 @@ id: 1063
 label: Date of last rabies serology
 description:
 type: date
-deprecated_on:
+deprecated: false
 tags:
 - Laboratory tests
 - Rabies disease

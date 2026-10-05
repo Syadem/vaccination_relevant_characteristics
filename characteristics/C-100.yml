@@ -3,7 +3,7 @@ id: 100
 label: Drainer
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Profession
 - Sanitation - Environment

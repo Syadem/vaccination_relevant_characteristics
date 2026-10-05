@@ -3,7 +3,7 @@ id: 143
 label: Low level of resources
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Living or housing conditions
 - Others

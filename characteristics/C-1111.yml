@@ -3,7 +3,7 @@ id: 1111
 label: Residential medical care facilities
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Living or housing conditions
 - Community living, residence, institution...

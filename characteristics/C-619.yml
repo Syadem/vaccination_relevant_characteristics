@@ -3,7 +3,7 @@ id: 619
 label: Meningococcal B vaccine refusal
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Vaccinations not desired
 codes:

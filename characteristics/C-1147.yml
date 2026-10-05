@@ -3,7 +3,7 @@ id: 1147
 label: Sikkim
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - TRAVEL
 - States of India

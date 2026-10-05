@@ -3,7 +3,7 @@ id: 1250
 label: Stay in a regional therapeutic care facility
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Living or housing conditions
 - Community living, residence, institution...

@@ -3,7 +3,7 @@ id: 1018
 label: Contraindication to measles, mumps and rubella (MMR) vaccination
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Contra-indications
 codes:

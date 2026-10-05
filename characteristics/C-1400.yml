@@ -3,7 +3,7 @@ id: 1400
 label: Ravulizumab
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Treatments
 - Treatments affecting immunity

@@ -3,7 +3,7 @@ id: 575
 label: None of the occupations listed in the questionnaire
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Profession
 codes:

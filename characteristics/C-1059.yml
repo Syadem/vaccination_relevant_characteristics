@@ -3,7 +3,7 @@ id: 1059
 label: Biological tests targeted at normal osteoporosis
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Laboratory tests
 - Biological assessment of osteoporosis

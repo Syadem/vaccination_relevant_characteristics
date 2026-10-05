@@ -3,7 +3,7 @@ id: 882
 label: "Intracellular trafficking deficiency in children (NBAS: neuroblastoma amplified sequence)"
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Chronic condition
 - Rare disease

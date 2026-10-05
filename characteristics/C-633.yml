@@ -3,7 +3,7 @@ id: 633
 label: Person who regularly babysits
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Living or housing conditions
 - Others

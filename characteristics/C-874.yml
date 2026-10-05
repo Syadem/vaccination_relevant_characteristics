@@ -3,7 +3,7 @@ id: 874
 label: moyamoya angiopathy
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Chronic condition
 - Rare disease

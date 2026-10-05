@@ -3,7 +3,7 @@ id: 1398
 label: An infant in the household, born to a mother who was vaccinated against whooping cough during pregnancy
 description: An infant in the household, born to a mother who was vaccinated against whooping cough during pregnancy
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Entourage
 codes:

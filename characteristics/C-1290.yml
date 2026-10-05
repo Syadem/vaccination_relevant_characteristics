@@ -3,7 +3,7 @@ id: 1290
 label: Contact with a domestic animal living in an endemic area
 description: "Example: dog, cat, ferret."
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Emergency situation
 - Suspected exposure to rabies

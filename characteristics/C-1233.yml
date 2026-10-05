@@ -3,7 +3,7 @@ id: 1233
 label: Person regularly receiving normal human immunoglobulins
 description:
 type: boolean
-deprecated_on:
+deprecated: false
 tags:
 - Treatments
 - Treatments affecting immunity
