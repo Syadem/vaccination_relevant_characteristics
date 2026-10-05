@@ -3,7 +3,7 @@ id: 1405
 label: Expatriation to an area where chikungunya has been actively circulating in the last 12 months
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - TRAVEL
 codes:

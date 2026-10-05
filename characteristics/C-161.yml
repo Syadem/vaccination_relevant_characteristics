@@ -3,7 +3,7 @@ id: 161
 label: Positive measles serology
 description: If in doubt, ask your doctor.
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Laboratory tests
 - Measles

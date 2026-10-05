@@ -3,7 +3,7 @@ id: 1220
 label: Fitter Reefer
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Staff working on a cruise ship

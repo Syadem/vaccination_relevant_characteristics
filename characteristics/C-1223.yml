@@ -3,7 +3,7 @@ id: 1223
 label: Reefer Engineer
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Staff working on a cruise ship

@@ -3,7 +3,7 @@ id: 1276
 label: Chronic arthralgias
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Chronic condition
 - Nervous and muscular system

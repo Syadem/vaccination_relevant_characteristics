@@ -3,7 +3,7 @@ id: 497
 label: Result of the biological diagnosis in progress
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Emergency situation
 - Suspected exposure to rabies

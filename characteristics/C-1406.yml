@@ -3,7 +3,7 @@ id: 1406
 label: Ongoing chikungunya outbreak
 description: Ongoing chikungunya outbreak
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - TRAVEL
 codes:

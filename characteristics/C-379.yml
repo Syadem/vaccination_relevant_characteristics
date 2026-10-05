@@ -3,7 +3,7 @@ id: 379
 label: Medical Biologist
 description: A medical biologist is a doctor of pharmacy or medicine who has completed a 4-year specialization in medical biology in order to work in a medical analysis laboratory, either in town or in a hospital.
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Related to health or the medico-social field

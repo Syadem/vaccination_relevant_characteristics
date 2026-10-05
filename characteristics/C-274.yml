@@ -3,7 +3,7 @@ id: 274
 label: Works in an infectious disease department
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Related to health or the medico-social field

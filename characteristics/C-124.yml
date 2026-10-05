@@ -3,7 +3,7 @@ id: 124
 label: In detention in a penal institution
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Living or housing conditions
 - Community living, residence, institution...

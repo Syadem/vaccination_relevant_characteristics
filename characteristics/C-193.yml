@@ -3,7 +3,7 @@ id: 193
 label: Absence of anti-HBs antibodies (<10 IU/L)
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Laboratory tests
 - Hepatitis B

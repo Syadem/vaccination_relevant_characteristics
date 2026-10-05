@@ -3,7 +3,7 @@ id: 54
 label: Smoker
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Living or housing conditions
 - Alcohol, drugs...

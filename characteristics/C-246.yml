@@ -3,7 +3,7 @@ id: 246
 label: Pupil assistant or family assistant
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Related to health or the medico-social field

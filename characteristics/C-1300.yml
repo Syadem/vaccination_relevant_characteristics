@@ -3,7 +3,7 @@ id: 1300
 label: No treatment
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Treatments
 codes:

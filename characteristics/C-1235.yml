@@ -3,7 +3,7 @@ id: 1235
 label: Work in an infectious diseases, gastroenterology or pediatrics department
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Related to health or the medico-social field

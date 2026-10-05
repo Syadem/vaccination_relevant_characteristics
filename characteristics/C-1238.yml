@@ -3,7 +3,7 @@ id: 1238
 label: Farmer
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Working with animals, agriculture, water, forests, and fishing

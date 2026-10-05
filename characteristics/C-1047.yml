@@ -3,7 +3,7 @@ id: 1047
 label: Low-energy trauma
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Medical history
 - Traumatology

@@ -3,7 +3,7 @@ id: 989
 label: Anti-HBs Ac (IU/L)
 description:
 type: integer
-deprecated: false
+deprecated_on:
 tags:
 - Laboratory tests
 - Hepatitis B

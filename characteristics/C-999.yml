@@ -3,7 +3,7 @@ id: 999
 label: Person working in a sexual consumption place
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Other professions

@@ -3,7 +3,7 @@ id: 1060
 label: Biological tests targeting abnormal osteoporosis
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Laboratory tests
 - Biological assessment of osteoporosis

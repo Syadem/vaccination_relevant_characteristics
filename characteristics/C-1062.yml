@@ -3,7 +3,7 @@ id: 1062
 label: Congenital tuberculosis
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Medical history
 codes:

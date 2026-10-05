@@ -3,7 +3,7 @@ id: 1146
 label: Rajasthan
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - TRAVEL
 - States of India

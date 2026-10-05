@@ -3,7 +3,7 @@ id: 636
 label: Refugee from a country where the polio virus is circulating
 description: For more information, visit medecinedesvoyages.net.
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Living or housing conditions
 - Others

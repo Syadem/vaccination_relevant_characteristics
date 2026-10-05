@@ -3,7 +3,7 @@ id: 843
 label: Works in a long-term care unit (USLD)
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Related to health or the medico-social field

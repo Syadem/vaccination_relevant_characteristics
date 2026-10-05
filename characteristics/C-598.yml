@@ -3,7 +3,7 @@ id: 598
 label: Considered participation in a gay rally
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Living or housing conditions
 - Risk factors concerning sexuality

@@ -3,7 +3,7 @@ id: 1008
 label: Lives in a residence for the disabled
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Living or housing conditions
 - Community living, residence, institution...

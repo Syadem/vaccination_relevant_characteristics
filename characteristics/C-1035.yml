@@ -3,7 +3,7 @@ id: 1035
 label: Congenital malformation of the gastrointestinal tract that may predispose to intussusception
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Medical history
 - Other medical histor

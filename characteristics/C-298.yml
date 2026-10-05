@@ -3,7 +3,7 @@ id: 298
 label: Close contact with an infant under 6 months old
 description: Close contact with an infant under 6 months old
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Entourage
 codes:

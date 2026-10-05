@@ -3,7 +3,7 @@ id: 1202
 label: Catering staff on board
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Staff working on a cruise ship

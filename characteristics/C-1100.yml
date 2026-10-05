@@ -3,7 +3,7 @@ id: 1100
 label: Professionals from long-term social care centres in contact with the public
 description: Employees of long-term social care centres who are in close contact with clients as part of their professional duties.
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Related to health or the medico-social field

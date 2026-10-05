@@ -3,7 +3,7 @@ id: 926
 label: Myocarditis or pericarditis associated with SARS-CoV-2 infection
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Chronic condition
 - Cardiology-Pulmonology

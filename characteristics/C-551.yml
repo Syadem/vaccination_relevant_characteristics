@@ -3,7 +3,7 @@ id: 551
 label: Equarisseur
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Working with animals, agriculture, water, forests, and fishing

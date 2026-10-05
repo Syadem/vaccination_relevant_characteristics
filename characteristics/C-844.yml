@@ -3,7 +3,7 @@ id: 844
 label: Home Help
 description: Home help via the universal service employment check.
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Related to health or the medico-social field

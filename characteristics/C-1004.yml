@@ -3,7 +3,7 @@ id: 1004
 label: Date of anti-HBs serology
 description:
 type: date
-deprecated: false
+deprecated_on:
 tags:
 - Laboratory tests
 - Hepatitis B

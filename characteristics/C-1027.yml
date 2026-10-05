@@ -5,7 +5,7 @@ description: "List of countries with a risk of yellow fever transmission: Africa
 
   South America: Argentina, Bolivia, Brazil, Colombia, Ecuador, French Guiana, Guyana, Panama, Paraguay, Peru, Suriname, Trinidad and Tobago, Venezuela."
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - TRAVEL
 codes:

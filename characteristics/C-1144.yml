@@ -3,7 +3,7 @@ id: 1144
 label: Odisha
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - TRAVEL
 - States of India

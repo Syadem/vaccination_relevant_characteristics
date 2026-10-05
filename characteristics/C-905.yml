@@ -3,7 +3,7 @@ id: 905
 label: Pulmonary fibrosis secondary to pneumoconiosis
 description: "Pneumoconiosis: occupational lung disease."
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Chronic condition
 - Rare disease

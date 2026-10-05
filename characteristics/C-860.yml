@@ -3,7 +3,7 @@ id: 860
 label: Profession in the food industry
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Other professions

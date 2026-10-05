@@ -3,7 +3,7 @@ id: 1149
 label: Telangana
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - TRAVEL
 - States of India

@@ -3,7 +3,7 @@ id: 431
 label: HBsAg negative
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Laboratory tests
 - Hepatitis B

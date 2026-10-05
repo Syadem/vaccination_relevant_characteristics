@@ -3,7 +3,7 @@ id: 925
 label: Pediatric multisystemic inflammatory syndrome (PIMS) post covid 19
 description: This disease most often occurs between the ages of 4 and 11.
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Medical history
 - Other medical histor

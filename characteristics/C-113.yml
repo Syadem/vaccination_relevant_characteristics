@@ -3,7 +3,7 @@ id: 113
 label: Guide accompanying groups of travelers
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Tourism and transport

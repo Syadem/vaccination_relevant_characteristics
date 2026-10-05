@@ -3,7 +3,7 @@ id: 185
 label: Early Childhood Educator
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Related to health or the medico-social field

@@ -3,7 +3,7 @@ id: 591
 label: Refusal to vaccinate against measles, mumps and rubella
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Vaccinations not desired
 codes:

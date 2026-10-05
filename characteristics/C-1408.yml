@@ -3,7 +3,7 @@ id: 1408
 label: NO active circulation of chikungunya in the country visited over the last 12 months
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - TRAVEL
 codes:

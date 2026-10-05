@@ -3,7 +3,7 @@ id: 150
 label: Chiropodist
 description: Bat specialist.
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Working with animals, agriculture, water, forests, and fishing

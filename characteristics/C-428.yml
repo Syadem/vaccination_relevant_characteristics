@@ -3,7 +3,7 @@ id: 428
 label: Works in a retail pharmacy
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Related to health or the medico-social field

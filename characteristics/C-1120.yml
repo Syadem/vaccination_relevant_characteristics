@@ -3,7 +3,7 @@ id: 1120
 label: Other public sector jobs
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Other professions

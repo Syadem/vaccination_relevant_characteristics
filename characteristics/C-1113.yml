@@ -3,7 +3,7 @@ id: 1113
 label: Students of medical schools and universities providing education in medical fields
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Related to health or the medico-social field

@@ -3,7 +3,7 @@ id: 1006
 label: Works in a home for the elderly
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Related to health or the medico-social field

@@ -3,7 +3,7 @@ id: 501
 label: Direct contact in a rabies-free country with any type of rodents or lagomorphs
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Emergency situation
 - Suspected exposure to rabies

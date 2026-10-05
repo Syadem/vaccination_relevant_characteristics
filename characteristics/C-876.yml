@@ -3,7 +3,7 @@ id: 876
 label: Cerebral venous thrombosis
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Chronic condition
 - Rare disease

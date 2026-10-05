@@ -3,7 +3,7 @@ id: 877
 label: Hereditary cervical and cerebral artery dissection
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Chronic condition
 - Rare disease

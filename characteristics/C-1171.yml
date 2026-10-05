@@ -3,7 +3,7 @@ id: 1171
 label: FREE
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Laboratory tests
 - Chikungunya

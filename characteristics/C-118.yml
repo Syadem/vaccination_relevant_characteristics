@@ -3,7 +3,7 @@ id: 118
 label: Child or adolescent in a service or institution for disabled children and youth
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Living or housing conditions
 - Community living, residence, institution...

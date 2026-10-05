@@ -3,7 +3,7 @@ id: 1161
 label: Allergy from a previous vaccine administration
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Medical history
 - Allergies

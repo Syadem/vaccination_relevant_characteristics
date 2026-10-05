@@ -3,7 +3,7 @@ id: 912
 label: Sleep apnea
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Chronic condition
 - Cardiology-Pulmonology

@@ -3,7 +3,7 @@ id: 978
 label: Student medical physicist
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Related to health or the medico-social field

@@ -3,7 +3,7 @@ id: 1117
 label: Trade employees
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Other professions

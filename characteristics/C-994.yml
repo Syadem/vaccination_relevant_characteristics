@@ -3,7 +3,7 @@ id: 994
 label: Personnel in repeated contact with tuberculosis patients
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Related to health or the medico-social field

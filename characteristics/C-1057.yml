@@ -3,7 +3,7 @@ id: 1057
 label: Spine T-score
 description:
 type: float
-deprecated: false
+deprecated_on:
 tags:
 - Additional examinations
 - Medical imaging

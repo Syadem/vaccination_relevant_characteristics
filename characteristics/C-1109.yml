@@ -3,7 +3,7 @@ id: 1109
 label: Cardiovascular insufficiency
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Chronic condition
 - Cardiology-Pulmonology

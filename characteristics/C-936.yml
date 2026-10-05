@@ -3,7 +3,7 @@ id: 936
 label: Employed in a health care facility
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Related to health or the medico-social field

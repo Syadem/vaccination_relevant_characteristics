@@ -3,7 +3,7 @@ id: 972
 label: Prosthetist and orthotist for the fitting of disabled people
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Related to health or the medico-social field

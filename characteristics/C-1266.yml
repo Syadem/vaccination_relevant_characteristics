@@ -3,7 +3,7 @@ id: 1266
 label: Professionals exposed to the risk of contact with blood
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Other professions

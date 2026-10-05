@@ -3,7 +3,7 @@ id: 1125
 label: Exclusive stay in a mountainous area
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - TRAVEL
 codes:

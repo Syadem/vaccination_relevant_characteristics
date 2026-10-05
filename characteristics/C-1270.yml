@@ -3,7 +3,7 @@ id: 1270
 label: Cardiopulmonary bypass
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Chronic condition
 - Cardiology-Pulmonology

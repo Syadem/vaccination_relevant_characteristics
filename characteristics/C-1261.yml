@@ -3,7 +3,7 @@ id: 1261
 label: Accommodation in a dormitory
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Living or housing conditions
 - Community living, residence, institution...

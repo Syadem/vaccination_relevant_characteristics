@@ -3,7 +3,7 @@ id: 998
 label: Person in a prostitution situation
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Living or housing conditions
 - Risk factors concerning sexuality

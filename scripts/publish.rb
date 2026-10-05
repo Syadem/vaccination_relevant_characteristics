@@ -1,5 +1,6 @@
 require 'bundler/setup'
 require 'yaml'
+require 'date'
 require 'fileutils'
 require 'vaccination_characteristics'
 
@@ -29,15 +30,18 @@ class VaccinationCharacteristicsDumpCreator
       characteristic = YAML.safe_load(File.read(path))
       translations   = retrieve_translations(characteristic, lang)
 
-      VaccinationCharacteristics::Condition.new(
+      condition = VaccinationCharacteristics::Condition.new(
         id: characteristic['id'],
         label: translations['label'],
         description: translations['description'],
         type: CONDITION_TYPE_MAPPING[characteristic['type']],
-        deprecated: characteristic['deprecated'],
         tags: characteristic['tags'],
         codes: characteristic['codes']
       )
+
+      condition.deprecated_on = Date.iso8601(characteristic['deprecated_on']) if characteristic['deprecated_on']
+      
+      condition
     end
   end
 

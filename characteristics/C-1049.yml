@@ -3,7 +3,7 @@ id: 1049
 label: Other fracture (wrist, metacarpal, metatarsal, etc.)
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Medical history
 - Traumatology

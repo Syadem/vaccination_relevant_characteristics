@@ -3,7 +3,7 @@ id: 1397
 label: A pregnant woman in your circle of friends and family, who was VACCINATED against whooping cough during her pregnancy
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Entourage
 codes:

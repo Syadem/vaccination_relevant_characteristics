@@ -3,7 +3,7 @@ id: 1076
 label: IGRA positive
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Laboratory tests
 - Tuberculosis

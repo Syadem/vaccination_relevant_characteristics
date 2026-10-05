@@ -3,7 +3,7 @@ id: 1058
 label: T-score col
 description:
 type: float
-deprecated: false
+deprecated_on:
 tags:
 - Additional examinations
 - Medical imaging

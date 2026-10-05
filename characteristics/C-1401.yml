@@ -3,7 +3,7 @@ id: 1401
 label: Welder regularly exposed to welding fumes
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Other professions

@@ -3,7 +3,7 @@ id: 195
 label: Anti-HBs antibodies >100 IU/L
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Laboratory tests
 - Hepatitis B

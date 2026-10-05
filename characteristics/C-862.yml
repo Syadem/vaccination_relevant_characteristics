@@ -3,7 +3,7 @@ id: 862
 label: Other profession in the field of transport
 description: Bus driver, tramway driver...
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Tourism and transport

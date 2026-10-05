@@ -3,7 +3,7 @@ id: 1105
 label: People having close family contact with chronic ill people
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Living or housing conditions
 - Others

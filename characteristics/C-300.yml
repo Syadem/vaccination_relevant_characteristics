@@ -3,7 +3,7 @@ id: 300
 label: Child born prematurely
 description: Child born before 37 weeks of amenorrhea.
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Medical history
 - Other medical histor

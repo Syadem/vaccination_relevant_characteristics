@@ -3,7 +3,7 @@ id: 1155
 label: Stay in an urban area only
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - TRAVEL
 - Australia

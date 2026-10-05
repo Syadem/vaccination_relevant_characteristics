@@ -3,7 +3,7 @@ id: 992
 label: End date of chemotherapy for solid tumor (cancer)
 description:
 type: date
-deprecated: false
+deprecated_on:
 tags:
 - Treatments
 - Treatments affecting immunity

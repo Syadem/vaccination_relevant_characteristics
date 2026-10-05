@@ -3,7 +3,7 @@ id: 968
 label: Contraindication to vaccination against covid 19
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Contra-indications
 codes:

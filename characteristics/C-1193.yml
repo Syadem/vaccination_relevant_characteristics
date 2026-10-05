@@ -3,7 +3,7 @@ id: 1193
 label: Staff working in the ship's shops
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Staff working on a cruise ship

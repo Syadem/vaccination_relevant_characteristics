@@ -3,7 +3,7 @@ id: 1134
 label: Himachal Pradesh
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - TRAVEL
 - States of India

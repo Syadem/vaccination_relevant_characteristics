@@ -3,7 +3,7 @@ id: 853
 label: Hospital Service Officer (ASH)
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Related to health or the medico-social field

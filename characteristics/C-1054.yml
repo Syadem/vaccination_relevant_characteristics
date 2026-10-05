@@ -3,7 +3,7 @@ id: 1054
 label: Loss of more than 2 cm in height compared to a previous fracture
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Medical history
 - Traumatology

@@ -3,7 +3,7 @@ id: 1141
 label: Meghalaya
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - TRAVEL
 - States of India

@@ -3,7 +3,7 @@ id: 486
 label: Dead animal
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Emergency situation
 - Suspected exposure to rabies

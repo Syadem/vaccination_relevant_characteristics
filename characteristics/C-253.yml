@@ -3,7 +3,7 @@ id: 253
 label: Works in a maternal and child protection (P.M.I.) and family planning establishment
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Related to health or the medico-social field

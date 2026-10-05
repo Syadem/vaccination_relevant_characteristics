@@ -3,7 +3,7 @@ id: 929
 label: Professional exposed to swine and avian influenza viruses
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Medical history
 - Other medical histor

@@ -3,7 +3,7 @@ id: 711
 label: Mission of an embarked FAN soldier
 description: " Information for yellow fever vaccine recommendations."
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - military

@@ -3,7 +3,7 @@ id: 102
 label: Police officer
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Police, emergency services

@@ -3,7 +3,7 @@ id: 624
 label: Refusal to vaccinate against chickenpox
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Vaccinations not desired
 codes:

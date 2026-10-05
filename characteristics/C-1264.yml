@@ -3,7 +3,7 @@ id: 1264
 label: Close contact with a case of invasive meningococcal infection
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Emergency situation
 - Contact with a case of invasive meningococcal infection

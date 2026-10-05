@@ -3,7 +3,7 @@ id: 1032
 label: Date of delivery
 description: Indicate the date of the last delivery, if applicable.
 type: date
-deprecated: false
+deprecated_on:
 tags:
 - General information
 - Parenthood

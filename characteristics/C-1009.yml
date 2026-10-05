@@ -3,7 +3,7 @@ id: 1009
 label: Lives in a home for the elderly
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Living or housing conditions
 - Community living, residence, institution...

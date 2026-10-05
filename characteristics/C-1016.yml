@@ -3,7 +3,7 @@ id: 1016
 label: Contraindication to hepatitis B vaccination
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Contra-indications
 codes:

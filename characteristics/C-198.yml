@@ -3,7 +3,7 @@ id: 198
 label: Myopathy or other severe neuromuscular disorder
 description: "Examples of other serious neuromuscular disorders: poliomyelitis, myasthenia, Charcot disease."
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Chronic condition
 - Nervous and muscular system

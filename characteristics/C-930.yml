@@ -3,7 +3,7 @@ id: 930
 label: Severe or serious adverse event attributed to the first dose of covid vaccine
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Medical history
 - Other medical histor

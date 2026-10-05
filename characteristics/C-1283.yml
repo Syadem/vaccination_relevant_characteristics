@@ -3,7 +3,7 @@ id: 1283
 label: Nursery Staff
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Staff working on a cruise ship

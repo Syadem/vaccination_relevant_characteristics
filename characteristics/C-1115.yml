@@ -3,7 +3,7 @@ id: 1115
 label: People having close professional contact with the elderly
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Other professions

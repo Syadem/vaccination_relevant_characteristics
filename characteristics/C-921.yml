@@ -3,7 +3,7 @@ id: 921
 label: Positive covid RT-PCR test (SARS-CoV-2) showing infection within 15 days of vaccination
 description:
 type: date
-deprecated: false
+deprecated_on:
 tags:
 - Laboratory tests
 - COVID-19

@@ -3,7 +3,7 @@ id: 512
 label: Positive biological diagnosis of rabies
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Emergency situation
 - Suspected exposure to rabies

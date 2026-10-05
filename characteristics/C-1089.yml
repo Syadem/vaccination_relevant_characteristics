@@ -3,7 +3,7 @@ id: 1089
 label: Exposure to Mpox virus in endemic area
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - TRAVEL
 codes:

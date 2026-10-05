@@ -3,7 +3,7 @@ id: 1286
 label: Anti-HCV antibodies negative
 description: Hepatitis C serology (screening).
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Laboratory tests
 - Hepatitis C

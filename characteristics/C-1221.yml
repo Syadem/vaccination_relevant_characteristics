@@ -3,7 +3,7 @@ id: 1221
 label: Incinerator Man
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Staff working on a cruise ship

@@ -3,7 +3,7 @@ id: 494
 label: Positive veterinary surveillance result
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Emergency situation
 - Suspected exposure to rabies

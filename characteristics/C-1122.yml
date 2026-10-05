@@ -3,7 +3,7 @@ id: 1122
 label: Woman considering pregnancy
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - General information
 - Parenthood

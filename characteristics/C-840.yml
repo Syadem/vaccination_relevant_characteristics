@@ -3,7 +3,7 @@ id: 840
 label: "Allergy to penicillin: no particular contraindication to vaccines used in France"
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Medical history
 - Allergies

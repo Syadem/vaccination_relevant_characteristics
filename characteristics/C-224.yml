@@ -3,7 +3,7 @@ id: 224
 label: Student medical electroradiology manipulator
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Related to health or the medico-social field

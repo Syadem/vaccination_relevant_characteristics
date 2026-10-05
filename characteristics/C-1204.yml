@@ -3,7 +3,7 @@ id: 1204
 label: Staff working in SPAs
 description:
 type: boolean
-deprecated: false
+deprecated_on:
 tags:
 - Profession
 - Staff working on a cruise ship
