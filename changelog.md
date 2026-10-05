@@ -1,5 +1,28 @@
 # Changelog
 
+## Version v0.0.23
+**Date :** 2026-10-05
+
+**Author :** Lucas Sotty
+
+### Changes
+- 7ce410a - Fixed gh pages build (Lucas Sotty)
+
+
+### Files
+- builder/builders/html_builder.rb
+
+## Version v0.0.22
+**Date :** 2026-10-05
+
+**Author :** Lucas Sotty
+
+### Changes
+- 9d4ec63 - Revert "Replaced deprecated by deprecated_on" (Lucas Sotty)
+- 65ccf49 - Replaced deprecated by deprecated_on (Lucas Sotty)
+
+
+
 ## Version v0.0.21
 **Date :** 2026-10-02
 
