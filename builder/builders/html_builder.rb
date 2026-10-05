@@ -1,4 +1,3 @@
-require 'json'
 require 'yaml'
 require 'siphash'
 
@@ -20,7 +19,10 @@ class HtmlBuilder
   private
 
   def info
-    @info ||= JSON.parse(`git --no-pager log -1 --pretty=format:'{"commit": "%H", "tag": "%D", "author": "%an", "date": "%ad", "message": "%s"}' $(git describe --tags --abbrev=0)`, symbolize_names: true)
+    @info ||= begin
+      fields = `git --no-pager log -1 --pretty=format:'%H%x00%D%x00%an%x00%ad%x00%s' $(git describe --tags --abbrev=0)`.split("\0", -1)
+      %i[commit tag author date message].zip(fields).to_h
+    end
   end
 
   def info_header
