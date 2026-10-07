@@ -1,7 +1,7 @@
 ---
 id: 304
 label: Severe asthma under continuous treatment
-description: Level 5 according to GINA, Global Initiative for Asthma, version 2020, cortico-dependent (on oral corticosteroids)
+description: Asthma that remains uncontrolled despite adherence to maximal maintenance therapy (such as high doses of inhaled corticosteroids combined with a second medication) or that worsens when this treatment is reduced.
 type: boolean
 deprecated: false
 tags:
