@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Other professions
+- Exposure
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: e68c0fbf-d58a-4215-99e2-37da3c72c188

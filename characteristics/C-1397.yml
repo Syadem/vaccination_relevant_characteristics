@@ -5,7 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Entourage
+- Contacts
+- Pertussis
+- Pregnancy
 codes:
 - nomenclature: SYADEM
   code: 2019486a-85ae-4e00-8684-9053071b7ddd

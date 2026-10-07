@@ -5,7 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Treatments
+- Transfusion
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: cd87b2d2-ffe2-4353-8273-cd2e26b52658

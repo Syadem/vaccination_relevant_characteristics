@@ -5,7 +5,8 @@ description: The environment of immunocompromised persons is a potential source 
 type: boolean
 deprecated: false
 tags:
-- Entourage
+- Contacts
+- Immunodeficiency
 codes:
 - nomenclature: SYADEM
   code: 2427485e-907c-4241-83c8-939237010ca2

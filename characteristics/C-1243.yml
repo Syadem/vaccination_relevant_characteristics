@@ -5,8 +5,8 @@ description: "This concerns the following cancers: acute myeloid leukemia (AML),
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
 - Cancer
+- Chronic disease
 codes:
 - nomenclature: SYADEM
   code: b4927b44-2798-406a-a3e4-d870d20a8c78

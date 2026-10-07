@@ -5,9 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Emergency situation
-- Suspected exposure to rabies
-- Status of the animal (alive, dead, missing)
+- Animals
+- Exposure
+- Rabies
 codes:
 - nomenclature: SYADEM
   code: e13fbef7-44e7-4711-b946-ecff8482f72b

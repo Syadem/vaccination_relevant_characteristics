@@ -5,7 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Contra-indications
+- Contraindication
+- Meningococcus
+- Vaccination
 codes:
 - nomenclature: SYADEM
   code: f47a1ed4-cf05-48e0-b9dc-a145623e9d58

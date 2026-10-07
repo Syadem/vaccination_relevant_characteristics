@@ -5,10 +5,8 @@ description: "As part of a care team, the nursing assistant assists the nurse in
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- What profession?
+- Healthcare
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: e0f293c2-9687-4a77-a5de-00ed8efec644

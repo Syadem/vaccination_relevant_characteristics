@@ -5,10 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- In which department?
+- Healthcare
+- Immunodeficiency
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 30d05505-04e1-46f1-a8ae-75a93fa08732

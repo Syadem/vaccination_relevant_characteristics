@@ -5,11 +5,8 @@ description: 1. Establishments or organizations listed in the nomenclature appli
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- Mode of professional practice
-- In private practice
+- Healthcare
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: ac3da39f-b042-444b-8f7c-ebb40233e851

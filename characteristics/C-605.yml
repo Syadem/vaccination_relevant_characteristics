@@ -5,10 +5,8 @@ description: Check this box if you did not find your occupation in the list abov
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- What profession?
+- Healthcare
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: dec23c9f-7949-4278-81d9-34c986255349

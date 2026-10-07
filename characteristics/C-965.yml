@@ -5,8 +5,8 @@ description: Date of last quantitative covid anti-S serology performed
 type: date
 deprecated: false
 tags:
-- Laboratory tests
 - COVID-19
+- Lab
 codes:
 - nomenclature: SYADEM
   code: 13d412c8-4675-4588-a09b-8b79b8cb86d2

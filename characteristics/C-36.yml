@@ -5,8 +5,8 @@ description: "Check this box if your spleen has been surgically removed (e.g., a
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
 - Asplenia
+- Chronic disease
 codes:
 - nomenclature: SYADEM
   code: ccc0ec23-a3ca-45a1-a0cd-8a00dc344b08

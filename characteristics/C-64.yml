@@ -5,10 +5,8 @@ description: The chiropodist is a health professional who specializes in the dia
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- What profession?
+- Healthcare
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: e80d8891-804a-4e49-9149-02e8d6d6898d

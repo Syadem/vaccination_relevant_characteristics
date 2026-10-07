@@ -5,10 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Cardiology-Pulmonology
+- Chronic disease
 - Pulmonology
-- Asthma
 codes:
 - nomenclature: SYADEM
   code: fba6d958-bd86-46e0-9668-47d7d7fc896c

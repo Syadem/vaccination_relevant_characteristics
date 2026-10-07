@@ -5,8 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Funeral services
+- Funeral
+- Occupation
+- Transport
 codes:
 - nomenclature: SYADEM
   code: cfd6b0d3-9974-48f2-803f-6d0f66da83fd

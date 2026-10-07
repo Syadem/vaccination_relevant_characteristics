@@ -5,10 +5,8 @@ description: "Establishments under the hospital law :1100 Hospitals1101 Regional
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- What place of practice?
+- Healthcare
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: b356389f-5371-4444-91fd-df0b41ea7734

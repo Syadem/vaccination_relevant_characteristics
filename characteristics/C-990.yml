@@ -5,8 +5,8 @@ description: This test should be carried out between 4 and 8 weeks after adminis
 type: float
 deprecated: false
 tags:
-- Laboratory tests
-- Tetanus antibodies
+- Lab
+- Tetanus
 codes:
 - nomenclature: SYADEM
   code: a17cf76b-f5cf-4906-a178-0a346a986c2d

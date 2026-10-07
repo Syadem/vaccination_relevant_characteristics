@@ -5,7 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- TRAVEL
+- Dengue
+- Outbreak
+- Travel
 codes:
 - nomenclature: SYADEM
   code: 9d6f995b-e8ff-4f08-aece-90a5d5c61f36

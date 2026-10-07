@@ -5,7 +5,10 @@ description: For the child to be protected, the mother must have received the RS
 type: boolean
 deprecated: false
 tags:
-- Entourage
+- Parenthood
+- Pregnancy
+- RSV
+- Vaccination
 codes:
 - nomenclature: SYADEM
   code: 97a61f8d-27b7-4be3-8e1f-028d8c4658c9

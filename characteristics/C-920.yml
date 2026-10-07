@@ -5,9 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Laboratory tests
 - COVID-19
-- Positive serology
+- Lab
 codes:
 - nomenclature: SYADEM
   code: 5ce341d7-ae8e-4a42-b597-18d43aa25179

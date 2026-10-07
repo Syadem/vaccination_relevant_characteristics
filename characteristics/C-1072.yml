@@ -5,8 +5,10 @@ description:
 type: boolean
 deprecated: false
 tags:
-- TRAVEL
-- Travel details
+- Cholera
+- Exposure
+- Healthcare
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 8eb20cb6-a6ae-4148-8093-f9c7fab98c45

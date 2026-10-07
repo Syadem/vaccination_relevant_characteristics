@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Living or housing conditions
-- Others
+- Childcare
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: ee42aca4-e27f-4cf3-b4ef-8aaa219b0318

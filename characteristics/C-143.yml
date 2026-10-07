@@ -5,8 +5,7 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Living or housing conditions
-- Others
+- Precarity
 codes:
 - nomenclature: SYADEM
   code: 20838ff7-f067-4089-853c-15fd37576026

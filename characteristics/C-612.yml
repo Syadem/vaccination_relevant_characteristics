@@ -5,10 +5,8 @@ description: Emphysema is a chronic lung disease characterized by dilatation of 
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Cardiology-Pulmonology
+- Chronic disease
 - Pulmonology
-- Others
 codes:
 - nomenclature: SYADEM
   code: 7209e7e4-6be7-41b3-a91e-98b9f0f71b86

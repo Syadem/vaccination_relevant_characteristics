@@ -5,12 +5,10 @@ description: Information for tick-borne encephalitis vaccine recommendations - T
 type: boolean
 deprecated: false
 tags:
-- Profession
-- military
-- After enlistment
-- OM-OPEX-Embarkation Mission
-- Europe
-- Countries with sporadic cases of tick-borne encephalitis or poorly documented data
+- Destination
+- Military
+- Tick-borne encephalitis
+- Travel
 codes:
 - nomenclature: SYADEM
   code: 09283eb4-488b-4275-9373-ced5cf6f5220

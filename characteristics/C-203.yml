@@ -5,10 +5,8 @@ description: A medical technician, the audioprosthesist is a specialist in heari
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- What profession?
+- Healthcare
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 851dfad4-bf87-4857-be55-eb14db37ee7c

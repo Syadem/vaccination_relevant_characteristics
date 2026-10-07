@@ -5,9 +5,8 @@ description: Biological evidence is required (RT-PCR or antigenic test). Positiv
 type: date
 deprecated: false
 tags:
-- Medical history
-- Infectious diseases
 - COVID-19
+- History
 codes:
 - nomenclature: SYADEM
   code: d7a621b9-4765-42d4-b5a2-dbf6320cf738

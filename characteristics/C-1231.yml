@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Immune deficiency
+- Chronic disease
+- Immunodeficiency
 codes:
 - nomenclature: SYADEM
   code: 94e74a9b-297d-42d5-9bbc-5648e864d330

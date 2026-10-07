@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Liver
+- Chronic disease
+- Hepatology
 codes:
 - nomenclature: SYADEM
   code: 7f76fe5a-1229-45fb-8e49-7e8bcd673784

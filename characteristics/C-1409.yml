@@ -5,7 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Living or housing conditions
+- Chikungunya
+- Outbreak
 codes:
 - nomenclature: SYADEM
   code: 26bdcd43-eaa5-4c81-b87c-e486a8e234ac

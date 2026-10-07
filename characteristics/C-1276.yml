@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Nervous and muscular system
+- Chronic disease
+- Rheumatology
 codes:
 - nomenclature: SYADEM
   code: 5b962928-b0c4-44c4-8586-cd10cd35c0a0

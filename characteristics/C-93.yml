@@ -5,8 +5,8 @@ description: " If the person is stationed in a civil security training and inter
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Police, emergency services
+- Emergency services
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 4374e7fc-2632-4587-8885-cdf191dce1f3

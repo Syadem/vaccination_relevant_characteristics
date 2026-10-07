@@ -5,9 +5,9 @@ description: Transplant-induced autoimmune disease (e.g. lupus, thrombocytopenic
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Transplantation
-- Bone marrow
+- Autoimmunity
+- Chronic disease
+- Transplant
 codes:
 - nomenclature: SYADEM
   code: 35e76d27-457a-40fa-a19d-94eb0010823c

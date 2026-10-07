@@ -5,8 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- TRAVEL
-- Travel details
+- Healthcare
+- Occupation
+- Travel
 codes:
 - nomenclature: SYADEM
   code: 0eb0577a-45f9-4a33-a709-9cd62883c44d

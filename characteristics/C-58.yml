@@ -5,10 +5,8 @@ description: The midwife's mission is to accompany pregnant women throughout the
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- What profession?
+- Healthcare
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: fa2d85de-0160-48a6-9c39-c041dc35ef94

@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Laboratory tests
-- Chickenpox
+- Lab
+- Varicella
 codes:
 - nomenclature: SYADEM
   code: 6e28688c-06fd-43e1-9bf5-fd28bf11d7f0

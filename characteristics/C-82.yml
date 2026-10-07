@@ -5,10 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- What place of practice?
+- Healthcare
+- Occupation
+- Transport
 codes:
 - nomenclature: SYADEM
   code: 90d91d66-777d-44de-a43e-965e127b1057

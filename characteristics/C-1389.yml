@@ -11,9 +11,8 @@ description: "Check this box if you are currently receiving treatment with this 
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Treatments affecting immunity
-- Anti-VEGF
+- Immunity
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: c8baec13-ac95-4b67-8c1d-723924c5d538

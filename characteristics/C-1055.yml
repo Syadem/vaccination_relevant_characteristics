@@ -5,8 +5,8 @@ description:
 type: integer
 deprecated: false
 tags:
-- General information
-- BMI
+- Bone health
+- Measurements
 codes:
 - nomenclature: SYADEM
   code: a7d23286-475a-441b-bd00-ec8d83db01db

@@ -5,8 +5,9 @@ description: Hemorrhagic rectocolitis (lesions limited to the colon and rectum) 
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Inflammatory or autoimmune disease
+- Autoimmunity
+- Chronic disease
+- Gastroenterology
 codes:
 - nomenclature: SYADEM
   code: c69fe981-3218-4136-9776-8d636605596b

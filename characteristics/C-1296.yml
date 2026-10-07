@@ -5,8 +5,8 @@ description:
 type: date
 deprecated: false
 tags:
-- Emergency situation
-- Suspected exposure to rabies
+- Exposure
+- Rabies
 codes:
 - nomenclature: SYADEM
   code: 182f6469-e36e-4872-a0bf-74cc1e8e3de3

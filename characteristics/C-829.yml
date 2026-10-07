@@ -5,8 +5,8 @@ description: Direct detection of SARS-CoV-2 coronavirus, which causes covid 19, 
 type: boolean
 deprecated: false
 tags:
-- Laboratory tests
 - COVID-19
+- Lab
 codes:
 - nomenclature: SYADEM
   code: eb07f9cd-c0cd-442b-a38d-5d357bf2068e

@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Medical history
-- Infectious diseases
+- History
+- Measles
 codes:
 - nomenclature: SYADEM
   code: 0130ee03-d25f-49e3-bba3-e0c96001dfa9

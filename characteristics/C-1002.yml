@@ -8,7 +8,9 @@ description: |-
 type: date
 deprecated: false
 tags:
-- Entourage
+- Contacts
+- Exposure
+- Mpox
 codes:
 - nomenclature: SYADEM
   code: f235d2d9-3855-44c3-9d3e-25591d7918fb

@@ -5,8 +5,10 @@ description: The exposed population is defined by the epidemiological investigat
 type: boolean
 deprecated: false
 tags:
-- Emergency situation
-- Contact with a case of hepatitis A
+- Contacts
+- Exposure
+- Hepatitis A
+- Precarity
 codes:
 - nomenclature: SYADEM
   code: f70edb02-5125-4851-b25b-4771330251a4

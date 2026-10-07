@@ -5,9 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Additional examinations
-- Medical imaging
-- Radiology
+- Bone health
+- Imaging
 codes:
 - nomenclature: SYADEM
   code: 5fcdd69c-e372-4368-8dc4-0c1a0921badd

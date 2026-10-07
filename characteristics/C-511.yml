@@ -5,10 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Emergency situation
-- Suspected exposure to rabies
-- Contact with a mammal in a rabies-free country
-- Biological diagnosis
+- Exposure
+- Lab
+- Rabies
 codes:
 - nomenclature: SYADEM
   code: 21721419-2fc1-4485-af1b-a230186bef65

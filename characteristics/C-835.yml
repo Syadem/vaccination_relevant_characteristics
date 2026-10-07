@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Waiting for treatment to be initiated that affects immunity
+- Immunity
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: 1f687a2e-128e-4227-8cd0-38aad15c5dc7

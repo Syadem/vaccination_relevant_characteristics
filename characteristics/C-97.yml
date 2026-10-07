@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Catering - Laundry - Tattooing
+- Food
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: d0b03f89-4931-4669-9014-23c2ae7a26fb

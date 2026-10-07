@@ -5,7 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Contra-indications
+- Contraindication
+- Vaccination
+- Yellow fever
 codes:
 - nomenclature: SYADEM
   code: 7f4c8c5b-e2ca-42de-b952-b5234c98b14c

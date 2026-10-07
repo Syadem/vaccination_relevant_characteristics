@@ -5,9 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
+- Chronic disease
+- Hepatology
 - Rare disease
-- FILFOIE
 codes:
 - nomenclature: SYADEM
   code: 47c8593f-8716-4ac8-a391-b798fe80eb3a

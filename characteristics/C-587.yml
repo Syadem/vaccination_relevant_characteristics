@@ -5,8 +5,8 @@ description: Partial combined immunodeficiency is associated with several rare d
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Immune deficiency
+- Chronic disease
+- Immunodeficiency
 codes:
 - nomenclature: SYADEM
   code: 93102ad3-4797-4dea-883a-42695fb6ae72

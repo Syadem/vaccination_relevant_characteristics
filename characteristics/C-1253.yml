@@ -5,8 +5,10 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Treatments affecting immunity
+- Cancer
+- Immunity
+- Radiotherapy
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: d431ca18-cbe3-46de-80a6-866cf1238f69

@@ -5,8 +5,8 @@ description: This also concerns mushroom foragers, hunters, trail enthusiasts, a
 type: boolean
 deprecated: false
 tags:
-- TRAVEL
-- Travel details
+- Outdoor
+- Travel
 codes:
 - nomenclature: SYADEM
   code: b102b40f-a8c3-42ca-bc9e-ef4149d05e6c

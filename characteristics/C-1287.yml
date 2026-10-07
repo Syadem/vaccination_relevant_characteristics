@@ -5,8 +5,8 @@ description: Hepatitis C serology (screening)
 type: boolean
 deprecated: false
 tags:
-- Laboratory tests
 - Hepatitis C
+- Lab
 codes:
 - nomenclature: SYADEM
   code: 7df1dede-42d8-457c-b327-84c5abf01454

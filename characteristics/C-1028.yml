@@ -5,7 +5,8 @@ description: "Regions where tick-borne encephalitis is common: Central Europe, E
 type: boolean
 deprecated: false
 tags:
-- TRAVEL
+- Tick-borne encephalitis
+- Travel
 codes:
 - nomenclature: SYADEM
   code: 7256532a-0d25-4403-a8dd-8a0d5a6f39e2

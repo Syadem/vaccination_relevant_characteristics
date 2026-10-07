@@ -5,10 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- What place of practice?
+- Gastroenterology
+- Healthcare
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 7d56af97-074c-4135-bfa7-49795b7be3b4

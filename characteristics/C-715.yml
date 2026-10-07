@@ -5,12 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Profession
-- military
-- After enlistment
-- OM-OPEX-Embarkation Mission
-- Europe
-- Mission conditions
+- Military
+- Outdoor
+- Travel
 codes:
 - nomenclature: SYADEM
   code: 22a2f528-8b8e-4212-a5e1-7542137e2f16

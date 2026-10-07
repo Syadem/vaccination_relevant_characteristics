@@ -5,8 +5,10 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Working with animals, agriculture, water, forests, and fishing
+- Animals
+- Exposure
+- Occupation
+- Rabies
 codes:
 - nomenclature: SYADEM
   code: d805c67f-3c75-4049-b4d2-1148a0d5aace

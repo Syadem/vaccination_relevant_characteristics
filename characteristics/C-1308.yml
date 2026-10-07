@@ -11,9 +11,8 @@ description: "Check this box if you are taking this medication.\r
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Treatments affecting immunity
-- Alkylating agents
+- Immunity
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: 2a356755-4c8f-41cc-85b3-e30629430d28

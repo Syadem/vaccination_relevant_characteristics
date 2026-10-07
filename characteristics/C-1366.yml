@@ -11,9 +11,8 @@ description: "Check this box if you are currently taking this medication.\r
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Treatments affecting immunity
-- Dihydroorotate dehydrogenase inhibitors
+- Immunity
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: 32ffca90-0833-49bf-b815-c7bf7d371c60

@@ -7,7 +7,8 @@ description: "List of countries with a risk of yellow fever transmission: Africa
 type: boolean
 deprecated: false
 tags:
-- TRAVEL
+- Travel
+- Yellow fever
 codes:
 - nomenclature: SYADEM
   code: c06f40cc-11fe-4381-ac60-d6d550a97f5c

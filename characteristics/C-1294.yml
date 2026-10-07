@@ -5,9 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Emergency situation
-- Suspected exposure to rabies
-- Bat
+- Animals
+- Exposure
+- Rabies
 codes:
 - nomenclature: SYADEM
   code: b61e39b7-67a0-4bcb-a7c5-199049047f21

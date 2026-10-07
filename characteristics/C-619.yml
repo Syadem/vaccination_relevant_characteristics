@@ -5,7 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Vaccinations not desired
+- Meningococcus
+- Refusal
+- Vaccination
 codes:
 - nomenclature: SYADEM
   code: e05843e4-0261-43e4-963f-3a633d6051de

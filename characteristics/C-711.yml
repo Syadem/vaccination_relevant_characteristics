@@ -5,11 +5,8 @@ description: " Information for yellow fever vaccine recommendations."
 type: boolean
 deprecated: false
 tags:
-- Profession
-- military
-- After enlistment
-- OM-OPEX-Embarkation Mission
-- On-board FAN
+- Military
+- Travel
 codes:
 - nomenclature: SYADEM
   code: 67880b9e-54f9-49c0-b419-aa47955b66d8

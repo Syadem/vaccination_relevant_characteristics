@@ -5,10 +5,10 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- In which department?
+- Exposure
+- Healthcare
+- Meningococcus
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: ea817529-033c-4c25-a41f-8d559e02590d

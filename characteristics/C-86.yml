@@ -5,10 +5,9 @@ description: Retirement home.
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- What place of practice?
+- Community
+- Healthcare
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 7bd9096c-cd82-4080-9701-9c3329a43efa

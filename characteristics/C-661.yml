@@ -5,9 +5,8 @@ description: The SMA is a military socio-professional integration program for yo
 type: boolean
 deprecated: false
 tags:
-- Profession
-- military
-- At the incorporation
+- Military
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: f2399b8a-7674-46db-b042-11b754b7f42e

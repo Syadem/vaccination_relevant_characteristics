@@ -5,9 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
+- Chronic disease
+- Neurology
 - Rare disease
-- BRAIN-TEAM
 codes:
 - nomenclature: SYADEM
   code: 19b67f12-13b4-41c7-8c0f-ce1259381945

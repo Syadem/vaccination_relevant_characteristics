@@ -5,9 +5,9 @@ description: "OM: overseas OPEX: external operation"
 type: boolean
 deprecated: false
 tags:
-- Profession
-- military
-- At the incorporation
+- Military
+- Occupation
+- Travel
 codes:
 - nomenclature: SYADEM
   code: 9b821328-5fea-4661-bdc2-9393619eb648

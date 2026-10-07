@@ -5,10 +5,8 @@ description: "Professionals exposed to the risks of contamination: handling cont
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- What place of practice?
+- Healthcare
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: d6214eb2-d432-4383-985b-78f7c26c06f9

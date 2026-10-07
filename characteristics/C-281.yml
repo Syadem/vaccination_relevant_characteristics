@@ -5,10 +5,8 @@ description: Often described as smoker's bronchitis. A disease characterized by 
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Cardiology-Pulmonology
+- Chronic disease
 - Pulmonology
-- Others
 codes:
 - nomenclature: SYADEM
   code: b38cb265-8f67-494a-9678-2dc7130d7b1f

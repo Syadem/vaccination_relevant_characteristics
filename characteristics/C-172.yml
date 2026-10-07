@@ -5,8 +5,8 @@ description: "the entire African continent;the entire Asian continent, including
 type: boolean
 deprecated: false
 tags:
-- Living or housing conditions
-- Others
+- Migration
+- Tuberculosis
 codes:
 - nomenclature: SYADEM
   code: f9b065e7-73e8-4b8c-9f2a-eaec98f1cfbe

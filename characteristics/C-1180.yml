@@ -5,7 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Entourage
+- Contacts
+- Infancy
 codes:
 - nomenclature: SYADEM
   code: eb5eadbf-b6cc-4069-a791-52bef186f934

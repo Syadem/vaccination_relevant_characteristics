@@ -9,9 +9,8 @@ description: "Check this box if you are taking this medication.\r
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Treatments affecting immunity
-- Antimetabolites
+- Immunity
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: b06d08c1-d87c-4895-b2ea-77f89d3bf03e

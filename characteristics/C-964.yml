@@ -5,8 +5,8 @@ description: This serology is used to guide vaccination against covid in severel
 type: integer
 deprecated: false
 tags:
-- Laboratory tests
 - COVID-19
+- Lab
 codes:
 - nomenclature: SYADEM
   code: 43da2299-775e-407c-b997-791b164b937e

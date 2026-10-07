@@ -5,10 +5,8 @@ description: If you are a health care professional but have no chance to come in
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- Latest details
+- Healthcare
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 65835bbe-0bc7-4edb-b9c5-3b825908af1d

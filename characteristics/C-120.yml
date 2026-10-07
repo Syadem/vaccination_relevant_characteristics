@@ -5,8 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Living or housing conditions
-- Community living, residence, institution...
+- Community
+- Housing
+- Psychiatry
 codes:
 - nomenclature: SYADEM
   code: 3c2952cf-79eb-44d6-81ba-de64b0da8180

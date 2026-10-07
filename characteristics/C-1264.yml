@@ -5,8 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Emergency situation
-- Contact with a case of invasive meningococcal infection
+- Contacts
+- Exposure
+- Meningococcus
 codes:
 - nomenclature: SYADEM
   code: 91dc22e4-d8cc-4a7b-ab1d-e866106ada2c

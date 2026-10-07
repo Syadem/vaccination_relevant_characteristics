@@ -5,9 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Student or in training
+- Healthcare
+- Occupation
+- Training
 codes:
 - nomenclature: SYADEM
   code: 14a76a39-1fa5-48ed-a220-9aff55ac5923

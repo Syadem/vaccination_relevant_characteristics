@@ -5,9 +5,9 @@ description: With or without ventilatory assistance.
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
+- Chronic disease
+- Pulmonology
 - Rare disease
-- Respiratory
 codes:
 - nomenclature: SYADEM
   code: 99aeab68-ab64-451b-abac-35d36dd3c267

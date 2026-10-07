@@ -5,9 +5,8 @@ description: Refers to patients who are to receive a hematopoietic stem cell (HS
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Transplantation
-- Bone marrow
+- Chronic disease
+- Transplant
 codes:
 - nomenclature: SYADEM
   code: d8135e67-7180-4806-91e9-c31f26f8d81a

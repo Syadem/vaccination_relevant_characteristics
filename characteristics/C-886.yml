@@ -5,9 +5,11 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
+- Autoimmunity
+- Chronic disease
+- Gastroenterology
+- Immunity
 - Rare disease
-- Rare abdomino-thoracic diseases
 codes:
 - nomenclature: SYADEM
   code: feda5afd-770f-4a9a-a7dd-093e4883e286

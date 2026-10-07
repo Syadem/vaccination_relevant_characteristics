@@ -5,8 +5,7 @@ description: Especially those involving frequent contact with a humid environmen
 type: boolean
 deprecated: false
 tags:
-- Living or housing conditions
-- Others
+- Outdoor
 codes:
 - nomenclature: SYADEM
   code: e4deb558-01b5-4869-a1df-c206806d8c60

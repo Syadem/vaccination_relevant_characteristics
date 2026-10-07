@@ -5,8 +5,8 @@ description: 'Autoimmune diseases are a group of diseases related to the immune 
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Inflammatory or autoimmune disease
+- Autoimmunity
+- Chronic disease
 codes:
 - nomenclature: SYADEM
   code: 5c8ba0ae-3597-4b97-afe1-c4cc97c72fda

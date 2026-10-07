@@ -5,10 +5,8 @@ description: The pharmacist is a drug specialist. He or she is responsible for d
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- What profession?
+- Healthcare
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 15c7031b-37c6-44c1-91ac-e2d7755cc2d2

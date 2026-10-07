@@ -5,7 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Contra-indications
+- Contraindication
+- Influenza
+- Vaccination
 codes:
 - nomenclature: SYADEM
   code: c9eae567-0930-412a-b9ae-208a1e69dd3b

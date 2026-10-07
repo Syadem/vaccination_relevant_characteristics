@@ -5,9 +5,9 @@ description: Includes IFNAR, UNC and TLR3 defects.
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
+- Chronic disease
+- Immunity
 - Rare disease
-- Immuno-hematology
 codes:
 - nomenclature: SYADEM
   code: 9acaab3e-41b3-4b3b-9ca8-a2531228d2c3

@@ -5,10 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- Exposure to biological agents?
+- Exposure
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 9ff71b51-9704-4cb0-9f51-3c3f88e046f6

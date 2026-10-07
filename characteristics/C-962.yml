@@ -5,8 +5,7 @@ description:
 type: integer
 deprecated: false
 tags:
-- General information
-- BMI
+- Measurements
 codes:
 - nomenclature: SYADEM
   code: cd7b37e5-ca83-4d8c-8cef-cae4f3585b51

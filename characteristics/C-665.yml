@@ -5,7 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Vaccinations not desired
+- Refusal
+- Shingles
+- Vaccination
 codes:
 - nomenclature: SYADEM
   code: 4a2bc750-58ce-4e93-aada-414b19295f94

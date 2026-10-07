@@ -5,7 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Medical history
+- Infancy
+- Infection
+- Tuberculosis
 codes:
 - nomenclature: SYADEM
   code: 11ee78b4-2b51-4516-bc53-2b215f59c48b

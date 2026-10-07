@@ -5,7 +5,9 @@ description: An infant in the household, born to a mother who was vaccinated aga
 type: boolean
 deprecated: false
 tags:
-- Entourage
+- Contacts
+- Infancy
+- Pertussis
 codes:
 - nomenclature: SYADEM
   code: 1495e252-7dee-4f49-951a-a889c9998ded

@@ -5,8 +5,8 @@ description: "Selective immunoglobulin A deficiency is a primary (or congenital)
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Immune deficiency
+- Chronic disease
+- Immunodeficiency
 codes:
 - nomenclature: SYADEM
   code: 56a0a778-4b7a-42f4-87df-a796c13c49a6

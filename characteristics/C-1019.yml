@@ -5,7 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Contra-indications
+- Contraindication
+- Vaccination
+- Varicella
 codes:
 - nomenclature: SYADEM
   code: bd773c9a-c784-4601-b235-95ef290c241e

@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Other professions
+- Industry
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 710380f9-f019-4c0a-b12e-a10b34e268a4

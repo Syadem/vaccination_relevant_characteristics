@@ -5,10 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- In which department?
+- Healthcare
+- Nephrology
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 98346072-a261-4c9d-a4ec-4f47856776e3

@@ -5,8 +5,8 @@ description: With regard to corticosteroid therapy, the dose and duration beyond
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Treatments affecting immunity
+- Immunity
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: aa842945-c59e-49e9-bb9d-9a22d18d2430

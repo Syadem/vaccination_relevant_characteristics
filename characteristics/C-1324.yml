@@ -11,9 +11,8 @@ description: "Check this box if you are taking this medication.\r
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Treatments affecting immunity
-- Interleukin-1 inhibitors
+- Immunity
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: e7178f7a-0fbb-495c-ae3f-12aa840f6b6f

@@ -5,8 +5,8 @@ description: This scar is usually located behind the deltoid muscle, the usual s
 type: boolean
 deprecated: false
 tags:
-- General information
-- Other information
+- Tuberculosis
+- Vaccination
 codes:
 - nomenclature: SYADEM
   code: ad7d3400-7c63-4581-ba87-5688fba50fae

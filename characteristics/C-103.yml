@@ -5,8 +5,8 @@ description: Only in case of exposure to biological agents (evaluation by the oc
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Penitentiary Administration
+- Occupation
+- Prison
 codes:
 - nomenclature: SYADEM
   code: 57d01c94-7580-4d97-8e77-cc0330c38422

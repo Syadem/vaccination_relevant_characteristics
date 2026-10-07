@@ -5,9 +5,9 @@ description: Low risk.
 type: boolean
 deprecated: false
 tags:
-- Emergency situation
-- Suspected exposure to rabies
-- Monkey
+- Animals
+- Exposure
+- Rabies
 codes:
 - nomenclature: SYADEM
   code: 2c6c1c16-1aea-4035-a905-d4ec3f34ef8a

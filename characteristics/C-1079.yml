@@ -5,7 +5,7 @@ description:
 type: date
 deprecated: false
 tags:
-- Laboratory tests
+- Lab
 - Tuberculosis
 codes:
 - nomenclature: SYADEM

@@ -5,8 +5,8 @@ description:
 type: date
 deprecated: false
 tags:
-- Laboratory tests
-- Rabies disease
+- Lab
+- Rabies
 codes:
 - nomenclature: SYADEM
   code: 720de9c5-af60-4a8a-961b-4e4d0ded3413

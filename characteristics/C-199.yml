@@ -5,8 +5,8 @@ description: Motor neuron disease (amyotrophic lateral sclerosis), myasthenia gr
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Nervous and muscular system
+- Chronic disease
+- Neurology
 codes:
 - nomenclature: SYADEM
   code: 6de55cc1-8325-4d36-b772-bedcbdb21af4

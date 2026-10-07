@@ -5,10 +5,8 @@ description: The mission of the dental assistant is to carry out cleaning and st
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- What profession?
+- Healthcare
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: af724767-f6bc-462c-8fcc-154af5244fb9

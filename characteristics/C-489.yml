@@ -5,10 +5,10 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Emergency situation
-- Suspected exposure to rabies
-- Veterinary surveillance
-- Biological diagnosis
+- Animals
+- Exposure
+- Lab
+- Rabies
 codes:
 - nomenclature: SYADEM
   code: fa154cf9-f03e-48bc-8c16-1fc460513b32

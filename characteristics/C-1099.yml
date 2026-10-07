@@ -5,8 +5,8 @@ description: Medical practitioner or medical support person who is in close cont
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
+- Healthcare
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 14fed997-6389-4ea3-87b0-de3c605bf4eb

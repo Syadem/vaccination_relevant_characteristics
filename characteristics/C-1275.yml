@@ -5,8 +5,7 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Living or housing conditions
-- Others
+- Outdoor
 codes:
 - nomenclature: SYADEM
   code: 3d925833-d725-4c61-8086-89c524eaf1bf

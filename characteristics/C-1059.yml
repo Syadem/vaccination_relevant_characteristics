@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Laboratory tests
-- Biological assessment of osteoporosis
+- Bone health
+- Lab
 codes:
 - nomenclature: SYADEM
   code: e044d0c9-2f84-484f-abc9-088cfd66a93a

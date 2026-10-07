@@ -5,8 +5,8 @@ description: Applies to individuals residing in medical and residential care fac
 type: boolean
 deprecated: false
 tags:
-- Living or housing conditions
-- Community living, residence, institution...
+- Community
+- Housing
 codes:
 - nomenclature: SYADEM
   code: 3441f8bc-2785-431b-a84d-a2ace53816e7

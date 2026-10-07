@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Nervous and muscular system
+- History
+- Neurology
 codes:
 - nomenclature: SYADEM
   code: fbf74bd7-a3e3-401e-924d-410647772ba9

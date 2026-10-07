@@ -5,8 +5,9 @@ description: Most countries with low hygiene levels are concerned (Africa, tropi
 type: boolean
 deprecated: false
 tags:
-- General information
-- Other information
+- Hepatitis A
+- History
+- Travel
 codes:
 - nomenclature: SYADEM
   code: 3e76320a-0b4d-4cb2-8095-764b19b08017

@@ -5,8 +5,7 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Other treatments
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: 8ce16288-1414-4bbc-9f69-d2904de6b1cf

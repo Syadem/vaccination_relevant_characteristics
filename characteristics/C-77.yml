@@ -5,10 +5,8 @@ description: The medical biology analysis technician is responsible for carrying
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- What profession?
+- Healthcare
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 48fe37d9-f3d9-48d1-ac9a-4915b06d8f1f

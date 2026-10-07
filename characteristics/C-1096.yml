@@ -5,8 +5,8 @@ description: People who are immunocompromised or receiving immunosuppressive tre
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Immune deficiency
+- Chronic disease
+- Immunodeficiency
 codes:
 - nomenclature: SYADEM
   code: 7fd8fe60-115a-421c-a5aa-cb9d8cd90e05

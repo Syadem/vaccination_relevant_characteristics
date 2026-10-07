@@ -11,9 +11,8 @@ description: "Check this box if you are taking this medication.\r
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Treatments affecting immunity
-- anti-TNF therapy
+- Immunity
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: 2885d42e-f34b-4b99-97a5-b00251f29bca

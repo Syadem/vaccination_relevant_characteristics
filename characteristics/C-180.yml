@@ -5,10 +5,8 @@ description: On medical prescription, the psychomotrician helps people suffering
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- What profession?
+- Healthcare
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 4f116865-239a-4e46-a184-158899e08b91

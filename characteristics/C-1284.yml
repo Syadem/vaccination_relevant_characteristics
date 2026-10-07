@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Laboratory tests
 - Hepatitis C
+- Lab
 codes:
 - nomenclature: SYADEM
   code: 51b0f070-e58f-440c-8300-269233f1a867

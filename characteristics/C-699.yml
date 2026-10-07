@@ -5,8 +5,8 @@ description: A history of dengue is defined by the existence of documented evide
 type: boolean
 deprecated: false
 tags:
-- Medical history
-- Infectious diseases
+- Dengue
+- History
 codes:
 - nomenclature: SYADEM
   code: b6a2264e-c150-41ed-94cd-83205259b17b

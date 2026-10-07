@@ -5,7 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Vaccination consent
+- COVID-19
+- Refusal
+- Vaccination
 codes:
 - nomenclature: SYADEM
   code: 5969458e-e5a0-489e-8786-ff6d3b09a075

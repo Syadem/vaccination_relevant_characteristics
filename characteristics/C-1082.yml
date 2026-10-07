@@ -3,10 +3,8 @@ id: 1082
 label: Free
 description: Free
 type: boolean
-deprecated: false
-tags:
-- Chronic condition
-- Cardiology-Pulmonology
+deprecated: true
+tags: []
 codes:
 - nomenclature: SYADEM
   code: 2ea572fd-f018-41dd-bca9-c2f6bfae1180

@@ -5,8 +5,7 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Living or housing conditions
-- Alcohol, drugs...
+- Smoking
 codes:
 - nomenclature: SYADEM
   code: 82ef80df-309e-4be8-8b00-336be2e0ab25

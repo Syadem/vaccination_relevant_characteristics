@@ -5,8 +5,7 @@ description: Anti-platelet therapy may cause bleeding during the injection of th
 type: boolean
 deprecated: false
 tags:
-- General information
-- Other information
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: 3e2203aa-7239-416a-a3c4-11dd5802aad7

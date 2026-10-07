@@ -5,9 +5,10 @@ description: For example, hemophilia with anti-factor VIII or anti-factor IX ant
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
+- Chronic disease
+- Hematology
+- Immunity
 - Rare disease
-- Haemorrhage
 codes:
 - nomenclature: SYADEM
   code: 63132acc-91e6-4b60-a2b4-617e3aac0021

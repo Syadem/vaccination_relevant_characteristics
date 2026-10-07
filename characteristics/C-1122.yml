@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- General information
 - Parenthood
+- Pregnancy
 codes:
 - nomenclature: SYADEM
   code: b7099681-c893-489f-9cde-92d379037a40

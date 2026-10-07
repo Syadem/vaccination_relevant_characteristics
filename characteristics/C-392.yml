@@ -5,8 +5,9 @@ description: This includes the family circle of a person with hepatitis A, or an
 type: boolean
 deprecated: false
 tags:
-- Emergency situation
-- Contact with a case of hepatitis A
+- Contacts
+- Exposure
+- Hepatitis A
 codes:
 - nomenclature: SYADEM
   code: bb659388-bbbd-48e9-968d-768f3dea8f34

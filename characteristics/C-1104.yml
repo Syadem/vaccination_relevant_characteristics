@@ -5,8 +5,7 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Living or housing conditions
-- Others
+- Contacts
 codes:
 - nomenclature: SYADEM
   code: b4c491f2-ba01-4d5e-9e56-6e5562d6c3f2

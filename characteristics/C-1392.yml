@@ -11,9 +11,8 @@ description: "Check this box if you are taking this medication.\r
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Treatments affecting immunity
-- Anti-EGFR
+- Immunity
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: eab16b29-91f1-43cb-b7f6-db8945c6f9b9

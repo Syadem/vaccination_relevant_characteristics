@@ -5,10 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Emergency situation
-- Suspected exposure to rabies
-- Direct contact with a mammal in a country where rabies is endemic
-- Type of animal
+- Animals
+- Exposure
+- Rabies
 codes:
 - nomenclature: SYADEM
   code: c4ceeb37-00b4-4418-89d8-546f8cce6eeb

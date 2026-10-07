@@ -5,8 +5,7 @@ description: The pregnancy start date is tied to the moment of fertilization. Ty
 type: date
 deprecated: false
 tags:
-- General information
-- Parenthood
+- Pregnancy
 codes:
 - nomenclature: SYADEM
   code: a6437c27-0d73-44ad-a7bd-7a34d468c384

@@ -5,8 +5,8 @@ description: Bat specialist.
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Working with animals, agriculture, water, forests, and fishing
+- Animals
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 17ce5a17-bfe1-4da2-b133-1484d7460024

@@ -5,9 +5,10 @@ description: Immunosuppressive therapy:Patients who will receive corticosteroids
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
+- Autoimmunity
+- Chronic disease
+- Immunity
 - Rare disease
-- FAI2R
 codes:
 - nomenclature: SYADEM
   code: efe94a32-58b9-477e-8e87-a5ba68cbd3fe

@@ -5,7 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Vaccinations not desired
+- Hepatitis A
+- Refusal
+- Vaccination
 codes:
 - nomenclature: SYADEM
   code: d86a32a9-f9aa-452d-98f5-f263fdf80b7f

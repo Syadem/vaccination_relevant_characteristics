@@ -5,7 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Entourage
+- COVID-19
+- Contacts
 codes:
 - nomenclature: SYADEM
   code: e22f63bc-a5e0-4803-8f12-5e328417cd9d

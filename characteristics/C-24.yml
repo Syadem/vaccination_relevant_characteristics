@@ -5,8 +5,9 @@ description: HIV stands for human immunodeficiency virus. It is a virus that att
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- HIV infection
+- Chronic disease
+- HIV
+- Infection
 codes:
 - nomenclature: SYADEM
   code: 7edf1340-06e2-4814-bd0c-8ca322d1cd60

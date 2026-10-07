@@ -9,7 +9,9 @@ description: "There are two risk situations:\r
 type: boolean
 deprecated: false
 tags:
-- Entourage
+- Contacts
+- Exposure
+- Mpox
 codes:
 - nomenclature: SYADEM
   code: ae6b4049-c300-4c93-a994-7b46ff47829b

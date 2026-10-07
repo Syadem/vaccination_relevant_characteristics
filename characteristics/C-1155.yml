@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- TRAVEL
-- Australia
+- Destination
+- Travel
 codes:
 - nomenclature: SYADEM
   code: 5c8b2c0b-0ceb-4c55-9e55-9d4c6bd1c300

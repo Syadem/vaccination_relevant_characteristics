@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Living or housing conditions
-- Risk factors concerning sexuality
+- Community
+- Sexuality
 codes:
 - nomenclature: SYADEM
   code: c9867b12-a929-4910-adb7-b71a3abede8b

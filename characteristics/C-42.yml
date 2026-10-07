@@ -5,8 +5,8 @@ description: It is a history of pulmonary or invasive (meningitis, septicemia) p
 type: boolean
 deprecated: false
 tags:
-- Medical history
-- Infectious diseases
+- History
+- Pneumococcus
 codes:
 - nomenclature: SYADEM
   code: af34705f-a8ad-4c00-b3f7-2057807db19b

@@ -5,12 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Profession
-- military
-- After enlistment
-- OM-OPEX-Embarkation Mission
-- Outside Europe
-- Other countries
+- Destination
+- Military
+- Travel
 codes:
 - nomenclature: SYADEM
   code: 7f885e41-b310-466a-94fa-674e1df4633b

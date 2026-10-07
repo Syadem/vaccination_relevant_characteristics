@@ -11,9 +11,8 @@ description: "Check this box if you are taking this medication.\r
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Treatments affecting immunity
-- Monoclonal antibodies – Anti-C5 / complement inhibitors
+- Immunity
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: b4c8e188-12ba-47bc-9716-3b3b0d632e18

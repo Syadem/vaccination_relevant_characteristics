@@ -5,12 +5,9 @@ description: " Information for yellow fever and Japanese encephalitis vaccine re
 type: boolean
 deprecated: false
 tags:
-- Profession
-- military
-- After enlistment
-- OM-OPEX-Embarkation Mission
-- Outside Europe
-- Asia and Oceania
+- Destination
+- Military
+- Travel
 codes:
 - nomenclature: SYADEM
   code: 5b70bcac-6091-4b1d-b1e2-98119670a28e

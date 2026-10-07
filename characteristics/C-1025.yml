@@ -5,7 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Vaccinations not desired
+- Refusal
+- Rotavirus
+- Vaccination
 codes:
 - nomenclature: SYADEM
   code: cbd4cc47-3e6a-4ffb-b1fe-f61bec051a3b

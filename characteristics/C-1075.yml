@@ -5,8 +5,7 @@ description:
 type: boolean
 deprecated: false
 tags:
-- TRAVEL
-- Conditions of stay
+- Travel
 codes:
 - nomenclature: SYADEM
   code: 5f6c93f0-d752-4c0f-a2c9-99620a3c36a3

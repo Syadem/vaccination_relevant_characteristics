@@ -5,7 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Vaccinations not desired
+- COVID-19
+- Refusal
+- Vaccination
 codes:
 - nomenclature: SYADEM
   code: defe9318-92c0-45da-8921-1269c5c32bb2

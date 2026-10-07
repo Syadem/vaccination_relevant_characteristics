@@ -5,8 +5,8 @@ description: Egg allergy. Egg allergy is one of the most common food allergies i
 type: boolean
 deprecated: false
 tags:
-- Medical history
-- Allergies
+- Allergy
+- History
 codes:
 - nomenclature: SYADEM
   code: 443bfcdf-ff9c-4aa7-b032-bf57aaf36fce

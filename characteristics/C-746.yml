@@ -5,8 +5,8 @@ description: Aminoglycosides are antibiotics.
 type: boolean
 deprecated: false
 tags:
-- Medical history
-- Allergies
+- Allergy
+- History
 codes:
 - nomenclature: SYADEM
   code: 6bce50cb-ee35-4fe9-981a-a52911afeeb5

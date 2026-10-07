@@ -5,8 +5,8 @@ description: Biological evidence is required. If in doubt, do not check this box
 type: boolean
 deprecated: false
 tags:
-- Medical history
-- Infectious diseases
+- History
+- Mumps
 codes:
 - nomenclature: SYADEM
   code: d93ea675-4023-4a42-86d1-8f357253d2a1

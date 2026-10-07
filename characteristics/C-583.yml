@@ -5,8 +5,8 @@ description: "X-linked agammaglobulinemia manifests itself by recurrent bacteria
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Immune deficiency
+- Chronic disease
+- Immunodeficiency
 codes:
 - nomenclature: SYADEM
   code: f50979ee-0c89-4b06-a202-b1273675d022

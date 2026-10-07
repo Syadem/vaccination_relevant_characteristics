@@ -5,8 +5,9 @@ description: "Information used for anti-covid 19 vaccination only. These are:lym
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Treatments affecting immunity
+- COVID-19
+- Immunity
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: bd6dc293-addc-417b-90dc-f4b183fe42ee

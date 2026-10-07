@@ -5,10 +5,8 @@ description: GOLD stage (Global Initiative for Chronic Obstructive Lung Disease 
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Cardiology-Pulmonology
+- Chronic disease
 - Pulmonology
-- Others
 codes:
 - nomenclature: SYADEM
   code: bc61cbbc-1912-4ee8-9cdd-b591de7f870c

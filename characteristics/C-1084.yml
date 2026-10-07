@@ -5,8 +5,8 @@ description: If the history of shingles occurred less than a year ago, it is pre
 type: date
 deprecated: false
 tags:
-- Medical history
-- Infectious diseases
+- History
+- Shingles
 codes:
 - nomenclature: SYADEM
   code: 7946f2ee-eaab-4cde-94d8-827eddba8c3e

@@ -5,8 +5,7 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Living or housing conditions
-- Others
+- Migration
 codes:
 - nomenclature: SYADEM
   code: 90dfdcc0-4da8-48cc-b80b-4e3fcfe1d8c0

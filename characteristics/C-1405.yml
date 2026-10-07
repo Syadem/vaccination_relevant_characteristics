@@ -5,7 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- TRAVEL
+- Chikungunya
+- Outbreak
+- Travel
 codes:
 - nomenclature: SYADEM
   code: fdf630c1-295d-44c5-80a5-8b681942bf58

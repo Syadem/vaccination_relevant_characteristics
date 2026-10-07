@@ -5,7 +5,8 @@ description: The Universal Health Coverage (CMU) is a compulsory health protecti
 type: boolean
 deprecated: false
 tags:
-- Entourage
+- Contacts
+- Precarity
 codes:
 - nomenclature: SYADEM
   code: 8ef44332-6e62-4b19-804d-f2e8c1faa935

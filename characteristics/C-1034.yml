@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Medical history
-- Other medical histor
+- Gastroenterology
+- History
 codes:
 - nomenclature: SYADEM
   code: 4c2ec243-e4d5-4c1d-81ac-44d836cece4c

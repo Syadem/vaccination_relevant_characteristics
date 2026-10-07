@@ -5,10 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- What profession?
+- Childcare
+- Occupation
+- Social care
 codes:
 - nomenclature: SYADEM
   code: 40379c92-956b-4e22-a39f-6a457aca852f

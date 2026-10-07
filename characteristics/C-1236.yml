@@ -5,7 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Living or housing conditions
+- Housing
+- School
 codes:
 - nomenclature: SYADEM
   code: 75e93928-886a-4cbb-8b9e-daf717aeb492

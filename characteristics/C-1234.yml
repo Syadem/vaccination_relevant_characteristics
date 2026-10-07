@@ -5,8 +5,8 @@ description: The definitive diagnosis of chikungunya is based on PCR at the time
 type: boolean
 deprecated: false
 tags:
-- Medical history
-- Infectious diseases
+- Chikungunya
+- History
 codes:
 - nomenclature: SYADEM
   code: 1a8e331e-7b1a-4b90-bb0a-b1fb188623ce

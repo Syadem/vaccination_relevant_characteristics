@@ -11,9 +11,8 @@ description: "Check this box if you are currently taking this medication.\r
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Treatments affecting immunity
-- Anti-HER2
+- Immunity
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: 434b194a-ff7e-42cc-a9bc-2e7d4db55caa

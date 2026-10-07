@@ -5,8 +5,7 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Medical history
-- Infectious diseases
+- Infection
 codes:
 - nomenclature: SYADEM
   code: b67cdfb0-a833-4aa4-b64e-7301f6e71894

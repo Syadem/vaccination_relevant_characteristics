@@ -5,9 +5,8 @@ description: Potentially immunosuppressive corticosteroid treatment starting at 
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Treatments affecting immunity
-- Corticosteroids
+- Immunity
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: e2a10e9a-395b-4979-917f-c7dd24123fd4

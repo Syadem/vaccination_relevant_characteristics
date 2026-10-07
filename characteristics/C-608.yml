@@ -5,8 +5,9 @@ description: Article 1 of http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Funeral services
+- Funeral
+- Healthcare
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 01c40c04-125b-4a34-a913-f3daf9de601e
