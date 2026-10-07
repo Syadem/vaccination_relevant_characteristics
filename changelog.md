@@ -1,5 +1,22 @@
 # Changelog
 
+## Version v0.0.24
+**Date :** 2026-10-07
+
+**Author :** jlkoeck
+
+### Changes
+- b82d09c - 20261007 Changement du commentaire. (jlkoeck)
+
+
+### Files
+- characteristics/C-304.yml
+- translations/de/C-304.yml
+- translations/fr/C-304.yml
+- translations/gr/C-304.yml
+- translations/lv/C-304.yml
+- translations/pl/C-304.yml
+
 ## Version v0.0.23
 **Date :** 2026-10-05
 
