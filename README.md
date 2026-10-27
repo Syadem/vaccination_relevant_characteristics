@@ -12,6 +12,8 @@ Vaccination decisions depend on understanding each patient's circumstances. **Va
 
 VRC brings together a collaboratively maintained vocabulary, multilingual content, and structured data designed for integration into software.
 
+The nomenclature is maintained in **YAML**, a popular, easy-to-read format that makes the data straightforward to review and edit.
+
 | | What VRC offers |
 | --- | --- |
 | 🤝 **Collaborative by design** | A shared repository for maintaining and improving patient characteristics relevant to vaccination. |
