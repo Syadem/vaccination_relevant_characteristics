@@ -5,8 +5,10 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Liver
+- Chronic disease
+- Hepatitis B
+- Hepatology
+- Infection
 codes:
 - nomenclature: SYADEM
   code: 87bd0d91-ef17-4e77-bf4c-7b1b301cbd6b

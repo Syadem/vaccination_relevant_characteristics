@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Other professions
+- Contacts
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 060dbb35-475d-48ee-bca7-f285b7e12b19

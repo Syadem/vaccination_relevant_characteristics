@@ -5,9 +5,9 @@ description: 'Recent contact: last contact within the last 10 days. A contact at
 type: boolean
 deprecated: false
 tags:
-- Medical history
-- Infectious diseases
 - COVID-19
+- Contacts
+- Exposure
 codes:
 - nomenclature: SYADEM
   code: 608fa4e5-9b47-418f-a6f3-efb9d37cf6c5

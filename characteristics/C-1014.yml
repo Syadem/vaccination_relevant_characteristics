@@ -5,7 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Contra-indications
+- Contraindication
+- Hib
+- Vaccination
 codes:
 - nomenclature: SYADEM
   code: ba819872-8728-4cde-a566-b0c851b00a91

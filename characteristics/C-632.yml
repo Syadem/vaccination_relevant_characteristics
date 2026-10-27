@@ -5,8 +5,8 @@ description: You must be sure that it is pertussis (proven by a biological test,
 type: date
 deprecated: false
 tags:
-- Medical history
-- Infectious diseases
+- History
+- Pertussis
 codes:
 - nomenclature: SYADEM
   code: 3b779e76-ae66-4e18-bba4-7ed81f1befb3

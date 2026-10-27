@@ -5,8 +5,7 @@ description: A current pregnancy may result in specific vaccine recommendations 
 type: date
 deprecated: false
 tags:
-- General information
-- Parenthood
+- Pregnancy
 codes:
 - nomenclature: SYADEM
   code: f1d0ec22-d65c-4710-8771-4cea6f558dd0

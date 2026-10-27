@@ -11,9 +11,8 @@ description: "Check this box if you are currently taking this medication.\r
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Treatments affecting immunity
-- Anti-GD2
+- Immunity
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: 8a088ead-237f-429e-aa00-c36a8bccf1d1

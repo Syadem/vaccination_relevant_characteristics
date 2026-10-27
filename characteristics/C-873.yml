@@ -5,9 +5,9 @@ description: Congenital, acquired or ventilation dependent
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
+- Chronic disease
+- Pulmonology
 - Rare disease
-- AnDDI-Rares
 codes:
 - nomenclature: SYADEM
   code: 39a46a0e-47e6-4376-a864-2341421f7c54

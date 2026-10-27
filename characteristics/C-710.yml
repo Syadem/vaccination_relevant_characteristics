@@ -5,11 +5,9 @@ description: " Information for yellow fever vaccination recommendations.  DROM: 
 type: boolean
 deprecated: false
 tags:
-- Profession
-- military
-- After enlistment
-- OM-OPEX-Embarkation Mission
-- France OM except French Guyana
+- Destination
+- Military
+- Travel
 codes:
 - nomenclature: SYADEM
   code: ad4326bc-dc15-4dbe-805a-fb6bda81e6f7

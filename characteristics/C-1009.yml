@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Living or housing conditions
-- Community living, residence, institution...
+- Community
+- Housing
 codes:
 - nomenclature: SYADEM
   code: fe5be3fb-96f9-4dd7-a609-c993ef6e25b2

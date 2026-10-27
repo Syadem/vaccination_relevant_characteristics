@@ -5,8 +5,10 @@ description: Also known as psoriatic arthritis or psoriatic arthritis.
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Inflammatory or autoimmune disease
+- Autoimmunity
+- Chronic disease
+- Dermatology
+- Rheumatology
 codes:
 - nomenclature: SYADEM
   code: 25185dbb-2531-43a5-aab7-5beb0a78d4d5

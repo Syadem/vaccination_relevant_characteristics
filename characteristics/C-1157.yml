@@ -5,8 +5,8 @@ description: These are chronic neuromuscular diseases with a risk of false swall
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Nervous and muscular system
+- Chronic disease
+- Neurology
 codes:
 - nomenclature: SYADEM
   code: 9284f3f7-8d9a-4b2d-8c78-63265f12c435

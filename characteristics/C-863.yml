@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Profession
 - Education
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: cfb0e6c1-b070-4406-9847-c70d4756d04f

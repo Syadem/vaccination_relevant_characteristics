@@ -5,7 +5,7 @@ description: If in doubt, ask your doctor.
 type: boolean
 deprecated: false
 tags:
-- Laboratory tests
+- Lab
 - Measles
 codes:
 - nomenclature: SYADEM

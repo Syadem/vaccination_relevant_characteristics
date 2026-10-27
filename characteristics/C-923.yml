@@ -5,8 +5,8 @@ description: This includes a person who has begun pre-exposure vaccination befor
 type: boolean
 deprecated: false
 tags:
-- General information
-- Other information
+- Exposure
+- Rabies
 codes:
 - nomenclature: SYADEM
   code: 4dc3445e-79df-4cc6-9e43-60baddfb0807

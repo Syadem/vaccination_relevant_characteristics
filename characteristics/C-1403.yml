@@ -5,7 +5,8 @@ description: Active circulation of the chikungunya virus in the area in question
 type: boolean
 deprecated: false
 tags:
-- Living or housing conditions
+- Chikungunya
+- Outbreak
 codes:
 - nomenclature: SYADEM
   code: b5f412c9-ba3d-481c-a828-ba20fece0fdc

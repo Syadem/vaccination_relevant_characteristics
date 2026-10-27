@@ -5,7 +5,9 @@ description: "Often called meningitis vaccine, it prevents serious infections (m
 type: boolean
 deprecated: false
 tags:
-- Vaccinations not desired
+- Meningococcus
+- Refusal
+- Vaccination
 codes:
 - nomenclature: SYADEM
   code: 4e4ae930-b14b-4c7e-8aea-8a6938b01643

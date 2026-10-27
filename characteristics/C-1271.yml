@@ -5,8 +5,7 @@ description: These are vitamin A derivatives used systemically (orally and not c
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Other treatments
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: 12d76e0f-ede3-4824-8d21-968a684b2743

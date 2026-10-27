@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Uro-nephrology
+- Chronic disease
+- Nephrology
 codes:
 - nomenclature: SYADEM
   code: 570f3958-b505-4677-bf43-eea81fc1dae9

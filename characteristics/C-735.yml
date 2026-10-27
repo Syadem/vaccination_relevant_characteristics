@@ -5,8 +5,8 @@ description: History of thymus dysfunction (including myasthenia gravis, thymoma
 type: boolean
 deprecated: false
 tags:
-- Medical history
-- Other medical histor
+- History
+- Immunity
 codes:
 - nomenclature: SYADEM
   code: 765211bb-1279-4660-8f71-7e0bc10093f2

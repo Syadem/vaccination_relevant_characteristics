@@ -5,8 +5,8 @@ description: Generalities. Periarteritis nodosa (PAN) is a disease caused by the
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Inflammatory or autoimmune disease
+- Autoimmunity
+- Chronic disease
 codes:
 - nomenclature: SYADEM
   code: 7e4f0624-dcd4-4faa-b4e6-b4f050018d9c

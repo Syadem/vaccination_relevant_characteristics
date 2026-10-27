@@ -5,7 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Entourage
+- Contacts
+- Immunity
 codes:
 - nomenclature: SYADEM
   code: a13de06e-9826-48c8-b7ba-aed101215be2

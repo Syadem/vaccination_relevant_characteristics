@@ -5,8 +5,8 @@ description: Includes people with vulnerable disabilities living in a specialize
 type: boolean
 deprecated: false
 tags:
-- Living or housing conditions
-- Community living, residence, institution...
+- Community
+- Housing
 codes:
 - nomenclature: SYADEM
   code: b3dcf489-300b-4f22-91ce-88c79a465409

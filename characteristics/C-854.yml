@@ -5,10 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- What profession?
+- Healthcare
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: a86039e7-e75a-4f54-abf5-3aa21ebd4d41

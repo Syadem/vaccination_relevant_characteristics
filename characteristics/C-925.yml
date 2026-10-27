@@ -5,8 +5,8 @@ description: This disease most often occurs between the ages of 4 and 11.
 type: boolean
 deprecated: false
 tags:
-- Medical history
-- Other medical histor
+- COVID-19
+- History
 codes:
 - nomenclature: SYADEM
   code: 90139986-d199-44d2-9468-91571af544e4

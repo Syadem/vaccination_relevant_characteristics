@@ -5,7 +5,9 @@ description: Ongoing chikungunya outbreak
 type: boolean
 deprecated: false
 tags:
-- TRAVEL
+- Chikungunya
+- Outbreak
+- Travel
 codes:
 - nomenclature: SYADEM
   code: 23ac5218-0d48-4c2e-aed7-24bf91c06566

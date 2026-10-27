@@ -5,7 +5,8 @@ description: Check this box if a person living or staying in the same household 
 type: boolean
 deprecated: false
 tags:
-- Entourage
+- Contacts
+- Immunity
 codes:
 - nomenclature: SYADEM
   code: 47e445ae-1983-4c69-8487-77cc77c149ae

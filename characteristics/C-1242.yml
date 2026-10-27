@@ -5,8 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Living or housing conditions
-- Others
+- Contacts
+- Exposure
+- Varicella
 codes:
 - nomenclature: SYADEM
   code: 6722191f-3ec5-4821-a1bf-081b1dd20cdb

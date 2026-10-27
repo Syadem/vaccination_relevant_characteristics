@@ -5,7 +5,6 @@ description: These are adults who may become parents in the coming months or yea
 type: boolean
 deprecated: false
 tags:
-- General information
 - Parenthood
 codes:
 - nomenclature: SYADEM

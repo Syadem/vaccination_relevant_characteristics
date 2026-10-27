@@ -5,12 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Profession
-- military
-- After enlistment
-- OM-OPEX-Embarkation Mission
-- Europe
-- Mission period
+- Military
+- Tick-borne encephalitis
+- Travel
 codes:
 - nomenclature: SYADEM
   code: 18b23bb5-28c3-421f-8af8-15b3c6383bbc

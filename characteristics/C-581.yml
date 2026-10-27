@@ -5,8 +5,8 @@ description: Patients with chronic neutropenia have a permanent or recurrent dro
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Immune deficiency
+- Chronic disease
+- Immunodeficiency
 codes:
 - nomenclature: SYADEM
   code: 8c94ab54-3560-43c2-b239-e60d82d23cd4

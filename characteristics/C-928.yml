@@ -5,8 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Treatments affecting immunity
+- COVID-19
+- Immunity
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: d8dea8e6-8625-42d6-9414-9856f02db2e2

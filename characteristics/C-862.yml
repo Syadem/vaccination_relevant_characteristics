@@ -5,8 +5,8 @@ description: Bus driver, tramway driver...
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Tourism and transport
+- Occupation
+- Transport
 codes:
 - nomenclature: SYADEM
   code: bbcdb2c0-f709-4d24-9cd3-3732e0e601ad

@@ -5,7 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Contra-indications
+- Contraindication
+- Pertussis
+- Vaccination
 codes:
 - nomenclature: SYADEM
   code: bb940db5-f598-4d77-a4fc-e238841172d5

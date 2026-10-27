@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- TRAVEL
-- States of India
+- Destination
+- Travel
 codes:
 - nomenclature: SYADEM
   code: 03fa9c3a-63b7-424c-85aa-a85d855a43b4

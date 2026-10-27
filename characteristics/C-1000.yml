@@ -5,8 +5,7 @@ description:
 type: boolean
 deprecated: false
 tags:
-- General information
-- Other information
+- Alcohol
 codes:
 - nomenclature: SYADEM
   code: 9c6e8901-672e-45c0-8059-3d1c98ddc63d

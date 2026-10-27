@@ -11,9 +11,8 @@ description: "Check this box if you are currently taking this medication.\r
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Treatments affecting immunity
-- Anticalcineurines
+- Immunity
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: c40ab0c7-8e66-4fdf-a9a9-63d70448d8f0

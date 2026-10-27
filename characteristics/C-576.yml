@@ -5,9 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Laboratory tests
 - Hepatitis B
-- Anti-HBc
+- Lab
 codes:
 - nomenclature: SYADEM
   code: 0f0ce75b-1cd3-4190-818f-50bcfa12de9e

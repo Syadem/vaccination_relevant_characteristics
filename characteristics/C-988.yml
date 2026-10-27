@@ -1,11 +1,11 @@
 ---
 id: 988
 label: IDR (mm)
-description: Intradermal tuberculin test
+description: Intradermal tuberculin test TUBERTEST
 type: integer
 deprecated: false
 tags:
-- Laboratory tests
+- Lab
 - Tuberculosis
 codes:
 - nomenclature: SYADEM

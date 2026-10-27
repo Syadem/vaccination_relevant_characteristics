@@ -5,9 +5,9 @@ description: "Immunized Mom: Check this box if mom has a documented history of m
 type: boolean
 deprecated: false
 tags:
-- Emergency situation
-- Contact with a measles case
-- Immunization of the mother against measles
+- Infancy
+- Measles
+- Parenthood
 codes:
 - nomenclature: SYADEM
   code: f4aaf882-9c79-40d0-b4aa-e2d60db1391f

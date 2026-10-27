@@ -5,9 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Staff working on a cruise ship
-- Engine
+- Maritime
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 799a1e7a-6239-441d-9bd6-71578f9c88c4

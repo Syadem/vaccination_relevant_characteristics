@@ -5,7 +5,11 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Vaccinations not desired
+- Measles
+- Mumps
+- Refusal
+- Rubella
+- Vaccination
 codes:
 - nomenclature: SYADEM
   code: b716cdea-0a08-451f-b5a9-cb5ce701e4ea

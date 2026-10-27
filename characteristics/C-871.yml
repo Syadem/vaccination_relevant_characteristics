@@ -5,8 +5,8 @@ description: The self-injecting syringe is indicated for the emergency treatment
 type: boolean
 deprecated: false
 tags:
-- Medical history
-- Allergies
+- Allergy
+- History
 codes:
 - nomenclature: SYADEM
   code: 87cfce30-6566-40b6-b578-0082d7ca6929

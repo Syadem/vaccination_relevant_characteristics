@@ -5,7 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
+- Chronic disease
+- Hematology
+- Nephrology
 - Rare disease
 codes:
 - nomenclature: SYADEM

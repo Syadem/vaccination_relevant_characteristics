@@ -5,8 +5,8 @@ description: Place where abandoned or stray animals found on the public highway 
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Working with animals, agriculture, water, forests, and fishing
+- Animals
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: e1105a49-6fd8-4cde-ba58-80970cdf611b

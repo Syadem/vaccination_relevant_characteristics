@@ -5,9 +5,8 @@ description: To be selected if it is a serious rhythm disorder, justifying long-
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Cardiology-Pulmonology
 - Cardiology
+- Chronic disease
 codes:
 - nomenclature: SYADEM
   code: 555f6655-9f38-403e-84ce-eff24b924ba3

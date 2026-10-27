@@ -5,10 +5,8 @@ description: The surgeon is a medical doctor who practices a very technical spec
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- What profession?
+- Healthcare
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 07f05ad5-1356-4e9f-90f6-97d616694574

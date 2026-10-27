@@ -5,8 +5,7 @@ description: Multiple pregnancy, with foetopathy or risk of premature delivery (
 type: boolean
 deprecated: false
 tags:
-- General information
-- Parenthood
+- Pregnancy
 codes:
 - nomenclature: SYADEM
   code: 9b2c457b-d5a6-48b1-9081-f89083b4c7d8

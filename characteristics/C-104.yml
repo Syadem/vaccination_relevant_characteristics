@@ -5,8 +5,8 @@ description: Includes prison guards (you can check both this box and the Prison 
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Penitentiary Administration
+- Occupation
+- Prison
 codes:
 - nomenclature: SYADEM
   code: a11ed8c7-1be7-4cae-9ebf-2935406f7c4c

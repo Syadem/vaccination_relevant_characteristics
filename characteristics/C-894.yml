@@ -5,9 +5,10 @@ description: Immunosuppressive therapy that puts the individual at increased ris
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
+- Chronic disease
+- Immunity
+- Nephrology
 - Rare disease
-- Renal
 codes:
 - nomenclature: SYADEM
   code: 4cd76120-e648-4793-b813-871d46c022dc

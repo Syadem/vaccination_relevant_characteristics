@@ -5,10 +5,10 @@ description: People at increased risk of exposure to MPXV through work involving
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- In which department?
+- Exposure
+- Healthcare
+- Mpox
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 73de117f-22b8-474b-b746-1c53caa9a8ae

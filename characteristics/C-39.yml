@@ -5,10 +5,8 @@ description: Chronic obstructive or restrictive respiratory failure from any cau
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Cardiology-Pulmonology
+- Chronic disease
 - Pulmonology
-- Others
 codes:
 - nomenclature: SYADEM
   code: 28ccde87-db8b-4d63-9783-27a4bbc3e15a

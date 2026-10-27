@@ -5,9 +5,9 @@ description: With respiratory failure, restrictive syndrome/chest deformity, ren
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
+- Bone health
+- Chronic disease
 - Rare disease
-- Bones
 codes:
 - nomenclature: SYADEM
   code: ef725e96-35ec-4c7e-9152-b8b7ba130eaf

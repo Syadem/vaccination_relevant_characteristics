@@ -5,7 +5,12 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Vaccinations not desired
+- Diphtheria
+- Pertussis
+- Polio
+- Refusal
+- Tetanus
+- Vaccination
 codes:
 - nomenclature: SYADEM
   code: dc534b1d-5391-4d69-b755-77013da4e8e8

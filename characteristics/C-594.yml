@@ -5,8 +5,10 @@ description: "Ongoing chemotherapy for leukemia: This is a heavy treatment to de
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Treatments affecting immunity
+- Cancer
+- Chemotherapy
+- Immunity
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: 7a87b404-fe2b-4e34-9ebd-da7f31c4cab0

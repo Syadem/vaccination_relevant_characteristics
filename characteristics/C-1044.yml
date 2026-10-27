@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Medical history
-- Risk factors for osteoporosis
+- Bone health
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: 4c7be84a-a048-4175-9bf3-e7e03f055c10

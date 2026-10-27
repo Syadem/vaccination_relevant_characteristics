@@ -5,9 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Hematology - Hemostasis
-- Coagulation disorder
+- Chronic disease
+- Hematology
 codes:
 - nomenclature: SYADEM
   code: 2370316e-70d7-4bf2-9cbd-cd74d26e908e

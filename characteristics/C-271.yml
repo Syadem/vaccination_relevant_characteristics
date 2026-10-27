@@ -5,7 +5,9 @@ description: That is, if the infant is less than 6 months old and has one of the
 type: boolean
 deprecated: false
 tags:
-- Entourage
+- Contacts
+- Infancy
+- Prematurity
 codes:
 - nomenclature: SYADEM
   code: 6b7c227f-f162-4671-b682-c8644ec6263c

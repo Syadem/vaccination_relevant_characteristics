@@ -5,9 +5,9 @@ description: "For example: fox, wolf, monkey, raccoon..."
 type: boolean
 deprecated: false
 tags:
-- Emergency situation
-- Suspected exposure to rabies
-- Wild land mammals (fox, raccoon...)
+- Animals
+- Exposure
+- Rabies
 codes:
 - nomenclature: SYADEM
   code: dd6eb069-5edd-48be-a426-09282f41a79e

@@ -5,7 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Vaccinations not desired
+- Pneumococcus
+- Refusal
+- Vaccination
 codes:
 - nomenclature: SYADEM
   code: d755bc8d-0b98-4046-90c2-c41a745bd39a

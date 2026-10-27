@@ -5,8 +5,8 @@ description: "These may include treatments administered to patients with autoimm
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Treatments affecting immunity
+- Immunity
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: e4c6a8da-8ca5-4e04-ae4b-02f116302dbc

@@ -11,9 +11,8 @@ description: "Check this box if you are taking this medication.\r
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Treatments affecting immunity
-- S1PR agonists (sphingosine-1-phosphate receptor modulators)
+- Immunity
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: 4b0da321-510d-4d7a-b8e9-ce1c26ce3d64

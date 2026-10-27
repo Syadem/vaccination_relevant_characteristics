@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Police, emergency services
+- Emergency services
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 0d9ef75b-8fbe-4c8e-8927-4d2d1484dd4c

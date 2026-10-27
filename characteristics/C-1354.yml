@@ -11,9 +11,8 @@ description: "Check this box if you are taking this medication.\r
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Treatments affecting immunity
-- Monoclonal antibody – Anti-CD52
+- Immunity
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: 5e3ea83f-2b4d-45f9-8142-35e842b6f703

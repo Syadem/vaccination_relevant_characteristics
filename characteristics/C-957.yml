@@ -5,8 +5,8 @@ description: MMS (Mini-Mental State) score < 20.
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Nervous and muscular system
+- Chronic disease
+- Neurology
 codes:
 - nomenclature: SYADEM
   code: 330dfef5-4742-454e-9261-f46f633eb525

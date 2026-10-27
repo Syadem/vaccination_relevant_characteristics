@@ -5,8 +5,8 @@ description: Employees of long-term social care centres who are in close contact
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
+- Occupation
+- Social care
 codes:
 - nomenclature: SYADEM
   code: 19491169-c117-4d91-a7b5-ebd571cdb17a

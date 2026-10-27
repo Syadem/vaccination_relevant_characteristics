@@ -5,8 +5,9 @@ description: Multiple sclerosis (MS) is a chronic inflammatory neurological dise
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Inflammatory or autoimmune disease
+- Autoimmunity
+- Chronic disease
+- Neurology
 codes:
 - nomenclature: SYADEM
   code: fa067832-af49-47e4-86ff-fe86b6159715

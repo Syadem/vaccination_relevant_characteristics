@@ -5,10 +5,8 @@ description: As a central professional in the world of health, the physician exa
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- What profession?
+- Healthcare
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 1ebb674e-7de2-4510-b319-880b5f7f6d5e

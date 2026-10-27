@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Treatments affecting immunity
+- Immunity
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: 8a48477e-f5ce-4526-a8c8-1fd2509e0c9c

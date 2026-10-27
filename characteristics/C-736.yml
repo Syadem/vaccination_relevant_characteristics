@@ -5,8 +5,8 @@ description: This serology consists of measuring total HAV antibodies after a co
 type: boolean
 deprecated: false
 tags:
-- Laboratory tests
 - Hepatitis A
+- Lab
 codes:
 - nomenclature: SYADEM
   code: a8028370-28c8-44ee-9508-a0a410736fe5

@@ -5,9 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Profession
-- military
-- After enlistment
+- Military
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: e87c5b02-bf0c-435c-90ed-c7c2f098864f

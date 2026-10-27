@@ -5,8 +5,9 @@ description:
 type: date
 deprecated: false
 tags:
-- Treatments
-- Treatments affecting immunity
+- Cancer
+- Chemotherapy
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: 13d19d5d-3f47-4c33-87e9-950f5af53c8d

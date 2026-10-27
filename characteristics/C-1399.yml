@@ -5,7 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Entourage
+- Contacts
+- Infancy
+- Pertussis
 codes:
 - nomenclature: SYADEM
   code: e995ebf6-d2fa-421d-b4b1-e45d31afc754

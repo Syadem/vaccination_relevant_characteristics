@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Laboratory tests
 - Chikungunya
+- Lab
 codes:
 - nomenclature: SYADEM
   code: fafcf64d-48bc-4984-8869-917afcca160f

@@ -5,8 +5,8 @@ description: Especially in stage B or C of the Child-Pugh classification.
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Liver
+- Chronic disease
+- Hepatology
 codes:
 - nomenclature: SYADEM
   code: 1419af98-6fd4-47b8-bc44-1553b04a504e

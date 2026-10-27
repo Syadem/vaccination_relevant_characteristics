@@ -5,12 +5,9 @@ description: Albania, Armenia, Belgium, Belarus, Bosnia, Bulgaria, Croatia, Denm
 type: boolean
 deprecated: false
 tags:
-- Profession
-- military
-- After enlistment
-- OM-OPEX-Embarkation Mission
-- Europe
-- Countries with sporadic cases of tick-borne encephalitis or poorly documented data
+- Destination
+- Military
+- Travel
 codes:
 - nomenclature: SYADEM
   code: a4284267-848b-4e28-9243-f552efd85099

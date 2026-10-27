@@ -5,8 +5,8 @@ description: This serology consists of detecting the presence of total antibodie
 type: boolean
 deprecated: false
 tags:
-- Laboratory tests
 - Hepatitis A
+- Lab
 codes:
 - nomenclature: SYADEM
   code: d6445374-196d-4bce-a26c-cd9c7a07e849

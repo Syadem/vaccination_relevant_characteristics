@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
 - Cancer
+- Chronic disease
 codes:
 - nomenclature: SYADEM
   code: 49ba1833-92a2-46e3-9124-cf9d9015a0a2

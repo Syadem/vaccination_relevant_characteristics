@@ -5,10 +5,8 @@ description: The dental surgeon takes care of the mouth, teeth, gums and jawbone
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- What profession?
+- Healthcare
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 61e3c053-48b9-4a7f-be8f-dbf83c9b7d2e

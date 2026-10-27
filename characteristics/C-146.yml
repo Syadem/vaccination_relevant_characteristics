@@ -5,8 +5,8 @@ description: Certainty of diagnosis of measles is based on direct detection of t
 type: boolean
 deprecated: false
 tags:
-- Medical history
-- Infectious diseases
+- History
+- Measles
 codes:
 - nomenclature: SYADEM
   code: bff8638a-cc5d-4c0d-994e-022eb17c7a25

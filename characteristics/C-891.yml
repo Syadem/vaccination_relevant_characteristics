@@ -5,9 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
+- Chronic disease
+- Hematology
 - Rare disease
-- Haemorrhage
 codes:
 - nomenclature: SYADEM
   code: f69e2e74-4e3c-4b6f-b005-a8efb33be18e

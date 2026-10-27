@@ -5,9 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Emergency situation
-- Contact with a measles case
-- Immunization of the mother against measles
+- Measles
+- Parenthood
 codes:
 - nomenclature: SYADEM
   code: a99fa247-cf01-42f9-a6c3-bbfdbf364557

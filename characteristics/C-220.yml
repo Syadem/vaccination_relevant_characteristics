@@ -5,10 +5,10 @@ description: The childcare assistant carries out awakening activities and care a
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Student or in training
-- Paramedical profession
+- Childcare
+- Healthcare
+- Occupation
+- Training
 codes:
 - nomenclature: SYADEM
   code: c5d727ca-a9ea-43e4-906e-f237eafdf0eb

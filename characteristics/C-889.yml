@@ -5,9 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
+- Chronic disease
+- Immunodeficiency
 - Rare disease
-- Immuno-hematology
 codes:
 - nomenclature: SYADEM
   code: 14a734d6-43dd-4c2f-9479-706687b3bbc4

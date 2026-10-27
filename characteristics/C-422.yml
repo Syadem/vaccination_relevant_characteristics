@@ -5,10 +5,8 @@ description: The medical secretary assists the doctor and is the first point of 
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- What profession?
+- Healthcare
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: f55cfce8-9d70-485d-bfee-02a9a0964ee0

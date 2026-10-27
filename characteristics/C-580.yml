@@ -5,8 +5,8 @@ description: It is a non-specific immune deficiency of sex-linked recessive tran
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Immune deficiency
+- Chronic disease
+- Immunodeficiency
 codes:
 - nomenclature: SYADEM
   code: 4f936fd9-8652-45a0-bc61-192425246c06

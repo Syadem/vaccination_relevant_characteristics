@@ -5,8 +5,8 @@ description: Child born before 37 weeks of amenorrhea.
 type: boolean
 deprecated: false
 tags:
-- Medical history
-- Other medical histor
+- Infancy
+- Prematurity
 codes:
 - nomenclature: SYADEM
   code: f92b49a1-735b-439c-8627-514d4b93f68c

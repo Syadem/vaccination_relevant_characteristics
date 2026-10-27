@@ -5,8 +5,8 @@ description: Chronic alcoholic hepatitis, alcoholic cirrhosis or of another caus
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Liver
+- Chronic disease
+- Hepatology
 codes:
 - nomenclature: SYADEM
   code: 66ce1156-a8ca-4b6e-ad61-adf07f3826f7

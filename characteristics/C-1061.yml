@@ -5,8 +5,8 @@ description: "Tick this box if the results of additional tests are available: X-
 type: boolean
 deprecated: false
 tags:
-- General information
-- Other information
+- Imaging
+- Lab
 codes:
 - nomenclature: SYADEM
   code: 27a7852d-9df1-4b65-b992-34bb36fd655d

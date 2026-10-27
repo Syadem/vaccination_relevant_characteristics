@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Medical history
-- Traumatology
+- Bone health
+- Trauma
 codes:
 - nomenclature: SYADEM
   code: 76071686-5f94-4a4b-b62f-8ee05fd9de5b

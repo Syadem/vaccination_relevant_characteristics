@@ -5,9 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Laboratory tests
 - Hepatitis B
-- HBV DNA
+- Lab
 codes:
 - nomenclature: SYADEM
   code: 85182bea-4295-4cfd-b6c6-aed866ce5041

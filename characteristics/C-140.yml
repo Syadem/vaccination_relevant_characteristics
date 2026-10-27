@@ -5,10 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Profession
-- military
-- After enlistment
-- No OM-OPEX-Embarkation mission planned
+- Military
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 3c62759a-8bb2-4a24-b6eb-0869a299b6e6

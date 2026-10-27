@@ -5,8 +5,7 @@ description: "There are many medications containing valproic acid or its derivat
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Other treatments
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: 089d8ba8-fbe0-4c71-834f-2cf4b47a02c4

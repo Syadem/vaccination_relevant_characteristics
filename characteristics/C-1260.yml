@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Living or housing conditions
-- Community living, residence, institution...
+- Childcare
+- Community
 codes:
 - nomenclature: SYADEM
   code: bf2738e9-579d-4983-9442-91562d79f99b

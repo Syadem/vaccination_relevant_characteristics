@@ -5,8 +5,8 @@ description: The thanatopractor intervenes on the body of the deceased, at the r
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Funeral services
+- Funeral
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 2dfb491c-d3ee-46eb-b5b0-b4f79337305b

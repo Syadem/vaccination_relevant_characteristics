@@ -5,7 +5,7 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Profession
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: c09429b2-0afb-486f-8c85-6430075a5eab

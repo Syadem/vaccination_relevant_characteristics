@@ -5,8 +5,8 @@ description: "This syndrome is characterized by hypogammaglobulinemia of IgG and
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Immune deficiency
+- Chronic disease
+- Immunodeficiency
 codes:
 - nomenclature: SYADEM
   code: d3b56302-c590-4ea0-b884-09f53837f4bc

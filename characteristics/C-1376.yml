@@ -11,9 +11,8 @@ description: "Check this box if you are taking this medication.\r
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Treatments affecting immunity
-- Protein kinase inhibitors
+- Immunity
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: 697a303b-6b94-4748-afc7-9aa6533a1309

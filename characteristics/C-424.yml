@@ -5,8 +5,8 @@ description: Definition. Systemic lupus erythematosus (SLE) is a disease of auto
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Inflammatory or autoimmune disease
+- Autoimmunity
+- Chronic disease
 codes:
 - nomenclature: SYADEM
   code: 0708f3e8-5c3b-4f99-8994-8cb749448077

@@ -5,9 +5,8 @@ description: "Concerns patients waiting for a solid organ transplant: kidney, he
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Transplantation
-- Organ
+- Chronic disease
+- Transplant
 codes:
 - nomenclature: SYADEM
   code: 7f2243ef-d42d-4aab-8156-759d331bcf63

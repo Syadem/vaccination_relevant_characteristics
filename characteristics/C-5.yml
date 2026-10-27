@@ -5,8 +5,8 @@ description: This includes glomerulonephritis, pyelonephritis, vascular nephropa
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Uro-nephrology
+- Chronic disease
+- Nephrology
 codes:
 - nomenclature: SYADEM
   code: 91145070-f6a1-495b-842f-870722aad700

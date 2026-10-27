@@ -5,10 +5,9 @@ description: "The ambulance driver carries out his activity within a private com
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Student or in training
-- Paramedical profession
+- Healthcare
+- Occupation
+- Training
 codes:
 - nomenclature: SYADEM
   code: 27d8b1cb-0d1a-4497-a80d-e51d1e7abedf

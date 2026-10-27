@@ -11,9 +11,8 @@ description: "Check this box if you are taking this medication.\r
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Treatments affecting immunity
-- Anti-VEGFR
+- Immunity
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: 0dafd897-e729-4844-8764-58c30a90d507

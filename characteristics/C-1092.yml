@@ -5,7 +5,7 @@ description: Scar from an old smallpox vaccination by scarification.
 type: boolean
 deprecated: false
 tags:
-- Miscellaneous
+- Vaccination
 codes:
 - nomenclature: SYADEM
   code: eee6ae19-ff89-49a2-b1e0-baecfa18579f

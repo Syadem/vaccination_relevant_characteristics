@@ -5,12 +5,9 @@ description: Information for yellow fever vaccine recommendations.
 type: boolean
 deprecated: false
 tags:
-- Profession
-- military
-- After enlistment
-- OM-OPEX-Embarkation Mission
-- Outside Europe
-- Endemic area for yellow fever
+- Destination
+- Military
+- Travel
 codes:
 - nomenclature: SYADEM
   code: ec737aec-e21e-430e-a43d-02184dc73fbc

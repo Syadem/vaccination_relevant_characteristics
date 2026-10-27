@@ -5,9 +5,8 @@ description: "Double heterozygous sickle cell disease : Hb S/C, Hb SE or thalass
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Hematology - Hemostasis
-- Hemoglobin anomaly
+- Chronic disease
+- Hematology
 codes:
 - nomenclature: SYADEM
   code: d273d614-bf44-4071-a162-f529a474f245

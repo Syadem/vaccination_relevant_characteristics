@@ -5,8 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Living or housing conditions
-- Community living, residence, institution...
+- Community
+- Housing
+- Prison
 codes:
 - nomenclature: SYADEM
   code: c872c8cb-e83a-460c-859b-4404cb4bd76c

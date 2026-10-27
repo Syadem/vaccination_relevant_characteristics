@@ -5,7 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Vaccinations not desired
+- Rabies
+- Refusal
+- Vaccination
 codes:
 - nomenclature: SYADEM
   code: ff30994b-cb4f-4311-b754-1f20a4580f5a

@@ -5,7 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
+- Chronic disease
+- Metabolism
 codes:
 - nomenclature: SYADEM
   code: e02e0b01-6d79-416e-a15f-2b6a70f5a83f

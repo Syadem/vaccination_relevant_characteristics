@@ -5,8 +5,8 @@ description: Living in a community may result in specific vaccination recommenda
 type: boolean
 deprecated: false
 tags:
-- Living or housing conditions
-- Community living, residence, institution...
+- Community
+- School
 codes:
 - nomenclature: SYADEM
   code: dd64754e-fed9-46f9-b3e7-2ca22cb351fd

@@ -5,7 +5,9 @@ description: Collateral or direct ascendants (parent or grandparent, brother or 
 type: boolean
 deprecated: false
 tags:
-- Entourage
+- Contacts
+- History
+- Tuberculosis
 codes:
 - nomenclature: SYADEM
   code: 759bcb41-c1ae-4a18-afb6-cc0494c893bb

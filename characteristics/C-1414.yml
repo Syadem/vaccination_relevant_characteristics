@@ -1,0 +1,12 @@
+---
+id: 1414
+label: TUBERCULIN PPD RT 23 AJV
+description:
+type: integer
+deprecated: false
+tags:
+- Lab
+- Tuberculosis
+codes:
+- nomenclature: SYADEM
+  code: e7621c90-1bc6-42a8-98b8-cf7f11f0d63b

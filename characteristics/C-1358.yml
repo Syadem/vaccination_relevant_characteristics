@@ -11,9 +11,8 @@ description: "Check this box if you are taking this medication.\r
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Treatments affecting immunity
-- Phosphodiesterase inhibitors
+- Immunity
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: 3f101ea7-920a-4522-bc26-3830aef0ee2b

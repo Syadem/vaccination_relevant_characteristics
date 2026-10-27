@@ -11,9 +11,8 @@ description: "Check this box if you are taking this medication.\r
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Treatments affecting immunity
-- Anti-PD-1
+- Immunity
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: db236931-701a-4143-a139-92467682b81b

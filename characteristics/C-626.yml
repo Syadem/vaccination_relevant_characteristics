@@ -5,7 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Vaccinations not desired
+- HPV
+- Refusal
+- Vaccination
 codes:
 - nomenclature: SYADEM
   code: 94a0f398-2f4b-4cb2-8a2c-910e6f94fadb

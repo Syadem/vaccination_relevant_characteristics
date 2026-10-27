@@ -5,8 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Living or housing conditions
-- Others
+- Contacts
+- Diphtheria
+- Exposure
 codes:
 - nomenclature: SYADEM
   code: 771e53e9-de22-43ef-b33f-e1a5351199cd

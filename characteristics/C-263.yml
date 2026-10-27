@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Penitentiary Administration
+- Occupation
+- Prison
 codes:
 - nomenclature: SYADEM
   code: 691e3b01-7e93-419c-bcd8-80d859457974

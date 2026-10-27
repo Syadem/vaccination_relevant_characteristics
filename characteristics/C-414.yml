@@ -5,9 +5,8 @@ description: Refers to patients who have already received a hematopoietic stem c
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Transplantation
-- Bone marrow
+- Chronic disease
+- Transplant
 codes:
 - nomenclature: SYADEM
   code: a59f816f-8ad9-4caf-91b4-a26eff153529

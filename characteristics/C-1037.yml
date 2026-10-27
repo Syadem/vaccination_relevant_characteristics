@@ -5,9 +5,8 @@ description: Other than a cardiovascular disease displayed in the questionnaire.
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Cardiology-Pulmonology
 - Cardiology
+- Chronic disease
 codes:
 - nomenclature: SYADEM
   code: 8ce8b2c0-4e64-4231-9108-49f6d92a26ac

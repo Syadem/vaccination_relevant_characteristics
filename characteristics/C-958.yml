@@ -5,8 +5,8 @@ description: Regardless of the type of diabetes
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Diabetes
+- Chronic disease
+- Metabolism
 codes:
 - nomenclature: SYADEM
   code: 2934c287-e36b-4adf-a5f6-e2f30dc8ed4a

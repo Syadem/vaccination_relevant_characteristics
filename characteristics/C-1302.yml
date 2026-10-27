@@ -9,9 +9,8 @@ description: "Check this box if you are taking this medication.\r
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Treatments affecting immunity
-- Anthracycline
+- Immunity
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: a78ba9d8-c80e-4430-90c1-9519d0047c33

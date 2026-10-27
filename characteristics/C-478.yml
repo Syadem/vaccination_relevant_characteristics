@@ -5,8 +5,7 @@ description: Anticoagulant treatment is used to thin the blood in certain venous
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Other treatments
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: 14090046-ae82-473d-8469-fb53dae19f49

@@ -5,8 +5,8 @@ description: Biotherapies are directed against a specific immune target, the mos
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Treatments affecting immunity
+- Immunity
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: 73a0f806-48ac-47df-9a56-8c8db9eeb947

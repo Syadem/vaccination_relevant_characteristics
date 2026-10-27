@@ -5,9 +5,10 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
+- Autoimmunity
+- Chronic disease
+- Metabolism
 - Rare disease
-- Bones
 codes:
 - nomenclature: SYADEM
   code: 5fa32831-10ec-4c58-afbb-670bb6903471

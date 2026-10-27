@@ -5,8 +5,10 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Medical history
-- Allergies
+- Allergy
+- History
+- Influenza
+- Vaccination
 codes:
 - nomenclature: SYADEM
   code: 59256c1c-b859-4f08-bc6a-459e6c092527

@@ -5,10 +5,9 @@ description: Personnel likely to be highly exposed, such as professionals in rep
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- Exposure to biological agents?
+- Exposure
+- Occupation
+- Tuberculosis
 codes:
 - nomenclature: SYADEM
   code: e6a66145-965f-4553-8538-db7b2045b4bd

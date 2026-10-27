@@ -5,8 +5,8 @@ description: Vasculitides are inflammatory diseases of the vascular wall.
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Inflammatory or autoimmune disease
+- Autoimmunity
+- Chronic disease
 codes:
 - nomenclature: SYADEM
   code: 6be00a2d-7e19-4b9a-bfb8-9962aed091b9

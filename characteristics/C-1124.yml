@@ -5,7 +5,10 @@ description: Vaccinating a pregnant woman with the RSV vaccine (Abrysvo) protect
 type: date
 deprecated: false
 tags:
-- Entourage
+- Parenthood
+- Pregnancy
+- RSV
+- Vaccination
 codes:
 - nomenclature: SYADEM
   code: 6bc246f2-9863-4473-aaa1-89dc184315fd

@@ -5,9 +5,9 @@ description: "Covid 19 can manifest itself by the sudden appearance of one or mo
 type: boolean
 deprecated: false
 tags:
-- Medical history
-- Infectious diseases
 - COVID-19
+- Infection
+- Lab
 codes:
 - nomenclature: SYADEM
   code: cf4850a1-baba-4017-96bf-deeba05fc8b6

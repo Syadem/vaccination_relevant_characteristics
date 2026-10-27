@@ -5,9 +5,8 @@ description:
 type: float
 deprecated: false
 tags:
-- Additional examinations
-- Medical imaging
-- Bone densitometry
+- Bone health
+- Imaging
 codes:
 - nomenclature: SYADEM
   code: 8ace3066-334a-4d00-b3ef-2b5fbca4a3a6

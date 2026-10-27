@@ -5,7 +5,10 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Entourage
+- Contacts
+- HIV
+- Infancy
+- Parenthood
 codes:
 - nomenclature: SYADEM
   code: bc3deaa1-8679-40d5-8ca0-ddb060717461

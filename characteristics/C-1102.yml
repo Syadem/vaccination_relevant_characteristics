@@ -5,8 +5,9 @@ description: "To prevent bronchiolitis (RSV infection) in infants, there are two
 type: boolean
 deprecated: false
 tags:
-- General information
-- Parenthood
+- Pregnancy
+- RSV
+- Vaccination
 codes:
 - nomenclature: SYADEM
   code: 548aa0ba-e862-4fb1-bd50-3c1e86dba001

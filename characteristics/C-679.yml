@@ -5,10 +5,10 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- What place of practice?
+- Exposure
+- Healthcare
+- Occupation
+- Rabies
 codes:
 - nomenclature: SYADEM
   code: f9f83b34-adf9-4cdf-a2b8-d2184f2f027d

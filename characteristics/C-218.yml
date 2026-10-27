@@ -5,10 +5,9 @@ description: "As part of a care team, the caregiver assists the nurse in daily c
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Student or in training
-- Paramedical profession
+- Healthcare
+- Occupation
+- Training
 codes:
 - nomenclature: SYADEM
   code: ae2e84fa-3962-4177-be28-dde2fc5f426b

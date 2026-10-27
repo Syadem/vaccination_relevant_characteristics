@@ -5,8 +5,8 @@ description: "Examples of other serious neuromuscular disorders: poliomyelitis, 
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Nervous and muscular system
+- Chronic disease
+- Neurology
 codes:
 - nomenclature: SYADEM
   code: e185b3db-fe0f-4a02-a1b3-5b21d7067e22

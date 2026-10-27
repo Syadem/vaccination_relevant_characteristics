@@ -5,7 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Contra-indications
+- Contraindication
+- HPV
+- Vaccination
 codes:
 - nomenclature: SYADEM
   code: cfd0fdeb-de28-4706-92ea-52efd7909243

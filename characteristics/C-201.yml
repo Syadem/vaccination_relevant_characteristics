@@ -5,10 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- In which department?
+- Healthcare
+- Infancy
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 14e24140-f4ff-4cbb-a41e-65778d518db4

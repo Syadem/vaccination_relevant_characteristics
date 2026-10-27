@@ -5,8 +5,10 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Medical history
-- Other medical histor
+- Animals
+- Exposure
+- Influenza
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: ab297bf7-3d4c-4505-ba9b-a71c5932312f

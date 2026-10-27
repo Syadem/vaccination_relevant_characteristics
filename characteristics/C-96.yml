@@ -5,8 +5,7 @@ description: Decree of 15 March 1991 establishing the list of public or private 
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Catering - Laundry - Tattooing
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 382df12e-0ff0-4100-92de-a99a75d7b69b

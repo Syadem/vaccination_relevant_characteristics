@@ -5,9 +5,8 @@ description: It is the association of two hemoglobin abnormalities in the hetero
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Hematology - Hemostasis
-- Hemoglobin anomaly
+- Chronic disease
+- Hematology
 codes:
 - nomenclature: SYADEM
   code: 8149035f-1a4c-415c-bba0-6e8312251a6e

@@ -5,10 +5,8 @@ description: The occupational therapist maintains, restores and facilitates the 
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- What profession?
+- Healthcare
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 42dc5962-3f3a-4eb5-88f5-ffd465e39df1

@@ -5,8 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Inflammatory or autoimmune disease
+- Autoimmunity
+- Chronic disease
+- Rheumatology
 codes:
 - nomenclature: SYADEM
   code: 5db74f18-3cef-4ce5-b14e-49e2b1b36e12

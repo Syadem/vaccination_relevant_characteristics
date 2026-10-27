@@ -5,10 +5,8 @@ description: This professional is responsible for the rehabilitation of vision d
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- What profession?
+- Healthcare
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 527547bd-1b83-4111-aaff-52dc0c1055d4

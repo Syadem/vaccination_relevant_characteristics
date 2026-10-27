@@ -5,8 +5,7 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Medical history
-- Allergies
+- Allergy
 codes:
 - nomenclature: SYADEM
   code: 3c6eb837-f5c4-4054-9fb1-1bf7860eb648

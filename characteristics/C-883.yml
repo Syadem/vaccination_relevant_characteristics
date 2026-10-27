@@ -5,9 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
+- Chronic disease
+- Neurology
 - Rare disease
-- Neuromuscular
 codes:
 - nomenclature: SYADEM
   code: 11a700bd-b0ce-43a4-ba81-e3b6508968b3

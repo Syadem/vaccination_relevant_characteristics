@@ -5,7 +5,10 @@ description: HBs antigen is a component of the hepatitis B virus. Carrying the H
 type: boolean
 deprecated: false
 tags:
-- Entourage
+- Contacts
+- Hepatitis B
+- Infancy
+- Parenthood
 codes:
 - nomenclature: SYADEM
   code: 7da31a6d-76f0-47f7-a136-ecb50e557abf

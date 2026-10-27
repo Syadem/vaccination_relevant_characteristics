@@ -5,12 +5,10 @@ description: Austria, Croatia, Estonia, Denmark (Bornholm Island), Finland, Hung
 type: boolean
 deprecated: false
 tags:
-- Profession
-- military
-- After enlistment
-- OM-OPEX-Embarkation Mission
-- Europe
-- Countries with endemic tick-borne encephalitis
+- Destination
+- Military
+- Tick-borne encephalitis
+- Travel
 codes:
 - nomenclature: SYADEM
   code: 9c5171d2-bfc4-468b-a6c3-0d17d52c33bc

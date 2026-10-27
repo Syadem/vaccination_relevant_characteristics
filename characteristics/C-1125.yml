@@ -5,7 +5,7 @@ description:
 type: boolean
 deprecated: false
 tags:
-- TRAVEL
+- Travel
 codes:
 - nomenclature: SYADEM
   code: cdae794f-debe-4a58-907b-b5938f42bfbd

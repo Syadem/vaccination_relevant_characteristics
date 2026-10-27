@@ -11,9 +11,8 @@ description: "Check this box if you are taking this medication.\r
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Treatments affecting immunity
-- ther unspecified molecules
+- Immunity
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: 8e6ec13a-1ba7-47d2-a326-8327fc614738

@@ -5,8 +5,10 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Living or housing conditions
-- Community living, residence, institution...
+- Community
+- Housing
+- Parenthood
+- Pregnancy
 codes:
 - nomenclature: SYADEM
   code: 77fb3c22-0b87-413d-989d-5b1e104b729c

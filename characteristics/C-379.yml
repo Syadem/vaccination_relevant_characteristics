@@ -5,10 +5,8 @@ description: A medical biologist is a doctor of pharmacy or medicine who has com
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- What profession?
+- Healthcare
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 7ebc7046-bb89-4895-868f-868c5b0ea539

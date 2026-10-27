@@ -5,7 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Vaccinations not desired
+- Refusal
+- Vaccination
+- Varicella
 codes:
 - nomenclature: SYADEM
   code: c01f2bdc-584c-445f-af70-5542f2e0b989

@@ -5,7 +5,7 @@ description: A positive mumps serology alone does not indicate a history of mump
 type: boolean
 deprecated: false
 tags:
-- Laboratory tests
+- Lab
 - Mumps
 codes:
 - nomenclature: SYADEM

@@ -5,8 +5,8 @@ description: If in doubt, do not check this box.
 type: boolean
 deprecated: false
 tags:
-- Medical history
-- Infectious diseases
+- History
+- Varicella
 codes:
 - nomenclature: SYADEM
   code: 7184452e-4e3d-4514-acc2-34505bb5652d

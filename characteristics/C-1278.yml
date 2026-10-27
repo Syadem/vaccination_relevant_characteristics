@@ -5,8 +5,8 @@ description: The result of the CD4 lymphocyte dosage is expressed as a percentag
 type: integer
 deprecated: false
 tags:
-- Laboratory tests
 - HIV
+- Lab
 codes:
 - nomenclature: SYADEM
   code: c4986bf7-b0b8-4192-b355-b1d7c5a59357

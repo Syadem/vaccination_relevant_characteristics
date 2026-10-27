@@ -5,8 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Tourism and transport
+- Maritime
+- Occupation
+- Transport
 codes:
 - nomenclature: SYADEM
   code: 4202c66c-7899-492e-86e6-02689cf5726a

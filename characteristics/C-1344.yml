@@ -11,9 +11,8 @@ description: "Check this box if you are taking this medication.\r
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Treatments affecting immunity
-- Monoclonal antibodies – Anti-cytokines
+- Immunity
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: ba31a1ca-7bc6-45a4-8819-abfb489ad1a5

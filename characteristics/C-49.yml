@@ -5,7 +5,8 @@ description: "the entire African continent;the entire Asian continent, including
 type: boolean
 deprecated: false
 tags:
-- Entourage
+- Contacts
+- Tuberculosis
 codes:
 - nomenclature: SYADEM
   code: a6f14fec-8caf-4b9b-bd81-f9558232f978

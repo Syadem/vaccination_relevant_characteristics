@@ -5,8 +5,8 @@ description: The date of anti-HAV serology (hepatitis A serology detecting IgG o
 type: date
 deprecated: false
 tags:
-- Laboratory tests
 - Hepatitis A
+- Lab
 codes:
 - nomenclature: SYADEM
   code: b0a599fb-31af-447c-a29b-d1a077286a15

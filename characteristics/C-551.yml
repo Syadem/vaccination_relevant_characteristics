@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Working with animals, agriculture, water, forests, and fishing
+- Animals
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: defc0b94-1f85-4e7a-82b2-d3eaf0a94ac2

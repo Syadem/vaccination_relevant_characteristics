@@ -5,8 +5,10 @@ description: Specific freshwater activities
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Working with animals, agriculture, water, forests, and fishing
+- Animals
+- Environment
+- Maritime
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 5ee3353c-68ee-4729-87b9-10786b4c3163

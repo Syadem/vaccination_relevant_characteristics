@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Sanitation - Environment
+- Environment
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 639a94f3-1175-457a-a78e-459f543b4827

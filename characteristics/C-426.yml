@@ -5,8 +5,8 @@ description: Generalities. Systemic scleroderma is a disease that primarily affe
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Inflammatory or autoimmune disease
+- Autoimmunity
+- Chronic disease
 codes:
 - nomenclature: SYADEM
   code: a5321b97-4e27-4135-a275-45039766af78

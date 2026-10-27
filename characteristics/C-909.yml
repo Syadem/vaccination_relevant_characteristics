@@ -5,7 +5,7 @@ description: "Two or more of the following conditions: chronic obstructive pulmo
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
+- Chronic disease
 codes:
 - nomenclature: SYADEM
   code: a9b7b153-53ce-4400-bbf1-b0dfef8de885

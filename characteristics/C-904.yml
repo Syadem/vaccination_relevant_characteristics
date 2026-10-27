@@ -5,9 +5,9 @@ description: "Connectivites: systemic scleroderma, rheumatoid arthritis, other c
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
+- Chronic disease
+- Pulmonology
 - Rare disease
-- Respiratory
 codes:
 - nomenclature: SYADEM
   code: 3f1efabf-4383-48c7-bf94-d5f0ad9b7d2c

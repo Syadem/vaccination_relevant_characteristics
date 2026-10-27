@@ -5,9 +5,8 @@ description: Thrombocytopenic purpura corresponds to a decrease in platelets lea
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Hematology - Hemostasis
-- Coagulation disorder
+- Chronic disease
+- Hematology
 codes:
 - nomenclature: SYADEM
   code: 6b256daf-ae4d-4a93-860b-0a1926692d17

@@ -5,8 +5,8 @@ description: Oral anti-diabetic medication or insulin.
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Diabetes
+- Chronic disease
+- Metabolism
 codes:
 - nomenclature: SYADEM
   code: f8cedc4a-283b-43f0-ae53-196bbcb5d19a

@@ -5,9 +5,9 @@ description: "Pneumoconiosis: occupational lung disease."
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
+- Chronic disease
+- Pulmonology
 - Rare disease
-- Respiratory
 codes:
 - nomenclature: SYADEM
   code: fe29b570-281f-4a49-9582-9b863cea8bf2

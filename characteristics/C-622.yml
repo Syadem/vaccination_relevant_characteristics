@@ -5,7 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Vaccinations not desired
+- Influenza
+- Refusal
+- Vaccination
 codes:
 - nomenclature: SYADEM
   code: da13b421-7904-4852-b3e7-79ba9c9989a6

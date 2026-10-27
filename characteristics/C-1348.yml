@@ -11,9 +11,8 @@ description: "Check this box if you are currently taking this medication.\r
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Treatments affecting immunity
-- Monoclonal antibodies – Anti-CD20
+- Immunity
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: ed07273b-6a47-468c-a01e-e99fb40467dd

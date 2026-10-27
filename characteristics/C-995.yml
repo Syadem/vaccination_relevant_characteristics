@@ -5,8 +5,9 @@ description: The duration of a normal pregnancy is 40 weeks. Most premature babi
 type: integer
 deprecated: false
 tags:
-- Medical history
-- Other medical histor
+- Infancy
+- Measurements
+- Prematurity
 codes:
 - nomenclature: SYADEM
   code: 45c447bd-0e25-4f1f-a7eb-3c910fe01cbd

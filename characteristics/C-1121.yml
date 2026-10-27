@@ -5,8 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Other professions
+- Contacts
+- Infancy
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 7eaf142c-2dbe-4014-b8df-05c493f3eb72

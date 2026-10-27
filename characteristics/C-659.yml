@@ -5,9 +5,8 @@ description: "A person who has made a commitment to serve in the Operational Res
 type: boolean
 deprecated: false
 tags:
-- Profession
-- military
-- At the incorporation
+- Military
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 34a92eb3-b5c7-4f03-a7c0-bf44e6ea697c

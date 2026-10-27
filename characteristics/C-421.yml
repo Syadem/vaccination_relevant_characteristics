@@ -5,10 +5,8 @@ description: This professional is familiar with drugs and their use. Under the r
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- What profession?
+- Healthcare
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: ee74e629-e12f-4e3b-835f-ce4946fd94b9

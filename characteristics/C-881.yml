@@ -5,9 +5,10 @@ description: Especially autoimmune hepatitis (with or without transplant). You m
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
+- Chronic disease
+- Hepatology
+- Immunity
 - Rare disease
-- FILFOIE
 codes:
 - nomenclature: SYADEM
   code: 56d86fe0-c72c-407f-ad3c-dc12ba927285

@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Laboratory tests
 - COVID-19
+- Lab
 codes:
 - nomenclature: SYADEM
   code: 68d20d1e-9628-4618-9e33-714185a13673

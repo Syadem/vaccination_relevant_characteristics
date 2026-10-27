@@ -5,8 +5,8 @@ description: "The threshold for positive rabies serology using the ELISA techniq
 type: float
 deprecated: false
 tags:
-- Laboratory tests
-- Rabies disease
+- Lab
+- Rabies
 codes:
 - nomenclature: SYADEM
   code: 3a83e641-a928-49a3-ab0c-72679675f727

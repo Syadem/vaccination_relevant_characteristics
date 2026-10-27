@@ -5,8 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Hematology - Hemostasis
+- Autoimmunity
+- Chronic disease
+- Hematology
 codes:
 - nomenclature: SYADEM
   code: a4a2020c-229c-420f-842b-5c31d899a236

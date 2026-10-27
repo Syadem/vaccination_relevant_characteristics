@@ -5,9 +5,8 @@ description: Biological evidence is required (RT-PCR or antigenic test). A posit
 type: boolean
 deprecated: false
 tags:
-- Medical history
-- Infectious diseases
 - COVID-19
+- History
 codes:
 - nomenclature: SYADEM
   code: edf09cbe-078f-4244-b56d-3a4f5c79e01d

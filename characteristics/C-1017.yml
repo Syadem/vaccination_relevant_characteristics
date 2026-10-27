@@ -5,7 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Contra-indications
+- Contraindication
+- Pneumococcus
+- Vaccination
 codes:
 - nomenclature: SYADEM
   code: 406da59d-bde0-4974-abea-8cef2d53e79e

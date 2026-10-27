@@ -11,8 +11,8 @@ description: "This question is asked because close and prolonged contact with th
 type: boolean
 deprecated: false
 tags:
-- TRAVEL
-- Travel details
+- Contacts
+- Travel
 codes:
 - nomenclature: SYADEM
   code: 8b547c52-3552-45dc-a88d-dd9c5d921774

@@ -5,7 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Entourage
+- Contacts
+- Military
+- Travel
 codes:
 - nomenclature: SYADEM
   code: 377a1f68-9c53-40f7-a273-830252df1077

@@ -5,8 +5,9 @@ description: One million people are affected in France. Examples:Rheumatoid arth
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
-- Inflammatory or autoimmune disease
+- Autoimmunity
+- Chronic disease
+- Rheumatology
 codes:
 - nomenclature: SYADEM
   code: 3d40d4a9-e5d2-4332-aede-99961bc74aaf

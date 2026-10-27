@@ -11,9 +11,8 @@ description: "Check this box if you are taking this medication.\r
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Treatments affecting immunity
-- Monoclonal antibodies – Anti-α4β7 integrin
+- Immunity
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: 6db25bf9-06ad-4623-b5d5-f0b660fe62bf

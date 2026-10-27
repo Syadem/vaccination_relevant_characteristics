@@ -5,8 +5,11 @@ description: "Infliximab is marketed under the following names: REMICADE, FLIXAB
 type: boolean
 deprecated: false
 tags:
-- Treatments
-- Other treatments
+- Contacts
+- Immunity
+- Parenthood
+- Pregnancy
+- Treatment
 codes:
 - nomenclature: SYADEM
   code: 7ddacb02-980e-4a77-8c05-a5575b246757

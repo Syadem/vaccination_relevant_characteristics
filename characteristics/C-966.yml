@@ -5,9 +5,8 @@ description:
 type: date
 deprecated: false
 tags:
-- Chronic condition
-- Transplantation
-- Bone marrow
+- Chronic disease
+- Transplant
 codes:
 - nomenclature: SYADEM
   code: c89f2d94-0cdd-4bf2-bfa4-32a1417f7b26

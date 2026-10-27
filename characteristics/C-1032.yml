@@ -5,8 +5,8 @@ description: Indicate the date of the last delivery, if applicable.
 type: date
 deprecated: false
 tags:
-- General information
 - Parenthood
+- Pregnancy
 codes:
 - nomenclature: SYADEM
   code: e98c5e7b-6dfe-439d-9373-5c7dcfc8873d

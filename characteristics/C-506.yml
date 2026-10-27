@@ -5,11 +5,9 @@ description: "Example: dog, cat, ferret. Suspicious signs: change in behavior, u
 type: boolean
 deprecated: false
 tags:
-- Emergency situation
-- Suspected exposure to rabies
-- Domestic animal (dog, cat, ferret)
-- Non-endemic zone
-- Without any suspicious signs
+- Animals
+- Exposure
+- Rabies
 codes:
 - nomenclature: SYADEM
   code: 0ee8edb4-fc5c-4d30-9c39-94775f8b074c

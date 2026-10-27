@@ -5,8 +5,8 @@ description: Any type of cancer or leukemia within the last 3 years and active, 
 type: boolean
 deprecated: false
 tags:
-- Chronic condition
 - Cancer
+- Chronic disease
 codes:
 - nomenclature: SYADEM
   code: 29c5c921-422c-4475-8d60-c47a40c832c3

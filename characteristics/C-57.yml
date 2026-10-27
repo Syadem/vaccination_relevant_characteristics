@@ -5,10 +5,8 @@ description: The physiotherapist ensures the rehabilitation of people suffering 
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Related to health or the medico-social field
-- Active professional
-- What profession?
+- Healthcare
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 93d5aaa2-306c-4fa2-8702-b845d7ab2d3b

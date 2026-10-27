@@ -5,8 +5,8 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Profession
-- Other professions
+- Food
+- Occupation
 codes:
 - nomenclature: SYADEM
   code: 86dd1b81-0871-4bdc-891d-dfff9d0d4c82

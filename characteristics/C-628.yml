@@ -5,7 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Vaccinations not desired
+- Japanese encephalitis
+- Refusal
+- Vaccination
 codes:
 - nomenclature: SYADEM
   code: 803c5ca9-b650-47f3-8048-095366c67ef3

@@ -5,8 +5,9 @@ description:
 type: boolean
 deprecated: false
 tags:
-- Medical history
-- Other medical histor
+- Adverse reaction
+- COVID-19
+- Vaccination
 codes:
 - nomenclature: SYADEM
   code: 30bb4ed0-6611-43ff-afc4-0035d4af4a83

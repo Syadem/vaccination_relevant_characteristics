@@ -5,7 +5,8 @@ description: Close contact with an infant under 6 months old
 type: boolean
 deprecated: false
 tags:
-- Entourage
+- Contacts
+- Infancy
 codes:
 - nomenclature: SYADEM
   code: 4b25309a-4840-4a3b-b4c1-4862b4163f9c

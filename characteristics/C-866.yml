@@ -5,8 +5,8 @@ description: "Anaphylaxis is the most spectacular and dangerous form of allergy:
 type: boolean
 deprecated: false
 tags:
-- Medical history
-- Allergies
+- Allergy
+- History
 codes:
 - nomenclature: SYADEM
   code: 20e7dd2e-4ea2-4bdd-b461-030af023c8cd
