@@ -1,5 +1,39 @@
 # Changelog
 
+## Version v0.0.27
+**Date :** 2026-10-27
+
+**Author :** Lucas Sotty
+
+### Changes
+- 5970b26 - CI fix (Lucas Sotty)
+- 720f54e - Merge branch 'main' of github.com:Syadem/vaccination_relevant_characteristics (Lucas Sotty)
+- d9e7bf7 - Merge branch 'main' of github.com:Syadem/vaccination_relevant_characteristics (Lucas Sotty)
+- 26668f4 - Readme (Lucas Sotty)
+
+
+### Files
+- .github/workflows/build.yml
+- .github/workflows/release-db.yml
+- .github/workflows/rspec.yml
+- README.md
+
+## Version v0.0.26
+**Date :** 2026-10-27
+
+**Author :** jbrunetaud
+
+### Changes
+- c82b3fe - Update characteristic C-1414 (jbrunetaud)
+- af02102 - Update characteristic C-1414 (jbrunetaud)
+- 15ae28b - Update characteristic C-1414 (jbrunetaud)
+
+
+### Files
+- characteristics/C-1414.yml
+- embeddings/C-1414.json
+- translations/fr/C-1414.yml
+
 ## Version v0.0.25
 **Date :** 2026-10-15
 
@@ -11875,6 +11909,7 @@
 - .bundle/config
 - .github/workflows/build.yml
 - .github/workflows/release-db.yml
+- .github/workflows/rspec.yml
 - Gemfile
 - Gemfile.lock
 - README.md
