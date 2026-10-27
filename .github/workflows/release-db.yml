@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   publish-db-release:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -18,7 +18,7 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.4.1
+          ruby-version: '3.4.1'
           bundler-cache: true
 
       - name: Build DB files from tag version

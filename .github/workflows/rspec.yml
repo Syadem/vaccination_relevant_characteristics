@@ -2,13 +2,13 @@ name: Run RSpec tests
 on: [push]
 jobs:
   run-rspec-tests:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v2
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.4.1
+          ruby-version: '3.4.1'
           # runs 'bundle install' and caches installed gems automatically
           bundler-cache: true
       - name: Run tests
