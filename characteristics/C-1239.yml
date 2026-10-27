@@ -10,3 +10,5 @@ tags:
 codes:
 - nomenclature: SYADEM
   code: c81313a4-8b50-4247-990c-a6898359ce8b
+- nomenclature: cim10
+  code: "D58.0"

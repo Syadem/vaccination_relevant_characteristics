@@ -11,3 +11,5 @@ tags:
 codes:
 - nomenclature: SYADEM
   code: e6a66145-965f-4553-8538-db7b2045b4bd
+- nomenclature: cim10
+  code: "Z20.1"

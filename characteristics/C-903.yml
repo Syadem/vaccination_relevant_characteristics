@@ -11,3 +11,5 @@ tags:
 codes:
 - nomenclature: SYADEM
   code: d901b280-82df-47ab-afd5-7badbd8df4c7
+- nomenclature: cim10
+  code: "I27.2"

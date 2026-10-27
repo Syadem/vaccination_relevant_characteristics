@@ -10,3 +10,5 @@ tags:
 codes:
 - nomenclature: SYADEM
   code: ec57e205-93bf-4987-b9ab-53226e1ebf5c
+- nomenclature: cim10
+  code: "S72.0"

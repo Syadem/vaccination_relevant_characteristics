@@ -11,3 +11,5 @@ tags:
 codes:
 - nomenclature: SYADEM
   code: b5be6045-5582-4303-bda0-2c410cbb8add
+- nomenclature: cim10
+  code: "G12.2"

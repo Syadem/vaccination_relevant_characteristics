@@ -10,3 +10,5 @@ tags:
 codes:
 - nomenclature: SYADEM
   code: adf461d0-8858-42b9-bd35-5445e5dabd59
+- nomenclature: cim10
+  code: "S32"

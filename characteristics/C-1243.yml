@@ -10,3 +10,5 @@ tags:
 codes:
 - nomenclature: SYADEM
   code: b4927b44-2798-406a-a3e4-d870d20a8c78
+- nomenclature: cim10
+  code: "C00-C97"
