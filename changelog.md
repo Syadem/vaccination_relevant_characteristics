@@ -1,5 +1,17 @@
 # Changelog
 
+## Version v0.0.29
+**Date :** 2026-11-18
+
+**Author :** Lucas Sotty
+
+### Changes
+- 37811ed - Readme (Lucas Sotty)
+
+
+### Files
+- README.md
+
 ## Version v0.0.28
 **Date :** 2026-10-27
 
