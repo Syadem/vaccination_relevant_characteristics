@@ -1,0 +1,11 @@
+---
+id: 1415
+label: Planned travel to a region with high endemicity for hepatitis B
+description:
+type: integer
+deprecated: false
+tags:
+- Travel
+codes:
+- nomenclature: SYADEM
+  code: 3dd64bcd-7307-4a52-8ef4-df0fbbcb9909
