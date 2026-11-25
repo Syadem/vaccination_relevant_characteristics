@@ -2,7 +2,7 @@
 id: 1415
 label: Planned travel to a region with high endemicity for hepatitis B
 description:
-type: integer
+type: boolean
 deprecated: false
 tags:
 - Travel
