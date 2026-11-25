@@ -1,5 +1,30 @@
 # Changelog
 
+## Version v0.0.30
+**Date :** 2026-11-25
+
+**Author :** jbrunetaud
+
+### Changes
+- a548c85 - Update characteristic C-1415 (jbrunetaud)
+- 20bb2d8 - Create characteristic C-1415 (jbrunetaud)
+- e3b87d7 - Update characteristic C-1113 (jbrunetaud)
+
+
+### Files
+- characteristics/C-1415.yml
+- embeddings/C-1113.json
+- embeddings/C-1415.json
+- translations/de/C-1113.yml
+- translations/de/C-1415.yml
+- translations/fr/C-1113.yml
+- translations/fr/C-1415.yml
+- translations/gr/C-1113.yml
+- translations/gr/C-1415.yml
+- translations/lv/C-1113.yml
+- translations/lv/C-1415.yml
+- translations/pl/C-1415.yml
+
 ## Version v0.0.29
 **Date :** 2026-11-18
 
@@ -12389,6 +12414,7 @@
 - characteristics/C-1412.yml
 - characteristics/C-1413.yml
 - characteristics/C-1414.yml
+- characteristics/C-1415.yml
 - characteristics/C-142.yml
 - characteristics/C-143.yml
 - characteristics/C-144.yml
@@ -13979,6 +14005,7 @@
 - embeddings/C-1412.json
 - embeddings/C-1413.json
 - embeddings/C-1414.json
+- embeddings/C-1415.json
 - embeddings/C-142.json
 - embeddings/C-143.json
 - embeddings/C-144.json
@@ -14901,6 +14928,7 @@
 - translations/de/C-1412.yml
 - translations/de/C-1413.yml
 - translations/de/C-1414.yml
+- translations/de/C-1415.yml
 - translations/de/C-142.yml
 - translations/de/C-143.yml
 - translations/de/C-144.yml
@@ -15819,6 +15847,7 @@
 - translations/fr/C-1412.yml
 - translations/fr/C-1413.yml
 - translations/fr/C-1414.yml
+- translations/fr/C-1415.yml
 - translations/fr/C-142.yml
 - translations/fr/C-143.yml
 - translations/fr/C-144.yml
@@ -16737,6 +16766,7 @@
 - translations/gr/C-1412.yml
 - translations/gr/C-1413.yml
 - translations/gr/C-1414.yml
+- translations/gr/C-1415.yml
 - translations/gr/C-142.yml
 - translations/gr/C-143.yml
 - translations/gr/C-144.yml
@@ -17655,6 +17685,7 @@
 - translations/lv/C-1412.yml
 - translations/lv/C-1413.yml
 - translations/lv/C-1414.yml
+- translations/lv/C-1415.yml
 - translations/lv/C-142.yml
 - translations/lv/C-143.yml
 - translations/lv/C-144.yml
@@ -18573,6 +18604,7 @@
 - translations/pl/C-1412.yml
 - translations/pl/C-1413.yml
 - translations/pl/C-1414.yml
+- translations/pl/C-1415.yml
 - translations/pl/C-142.yml
 - translations/pl/C-143.yml
 - translations/pl/C-144.yml
