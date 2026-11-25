@@ -1,5 +1,18 @@
 # Changelog
 
+## Version v0.0.31
+**Date :** 2026-11-25
+
+**Author :** jbrunetaud
+
+### Changes
+- a09ce68 - Update characteristic C-1415 (jbrunetaud)
+
+
+### Files
+- characteristics/C-1415.yml
+- embeddings/C-1415.json
+
 ## Version v0.0.30
 **Date :** 2026-11-25
 
